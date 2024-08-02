@@ -72,7 +72,7 @@ const config = {
         },
 
         gtag: {
-          trackingID: 'G-4TBE55217V',
+          trackingID: 'G-Q6BH1X6PMH',
           anonymizeIP: true,
         },
 

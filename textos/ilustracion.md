@@ -375,15 +375,40 @@ Ilustrición deshace la injusticia de la vieja desigualdad, la dominación
 directa, pero la eterniza al mismo tiempo en la mediación universal, en
 la relación de todo lo que existe con todo. Ella garantiza lo que [Kierkegaard](https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) elogia de su ética protestante y que aparece en el círculo de leyendas de Heracles como uno de los arquetipos del poder mítico:
 ella elimina lo inconmensurable.
-<div class="fadeout">
+
 
 No sólo quedan disueltas las cualidades en el pensamiento, sino que los hombres son obligados a la conformidad real. El favor de que el mercado no pregunte por el nacimiento lo ha pagado el sujeto del intercambio al precio de dejar modelar sus cualidades, adquiridas desde el nacimiento, por la producción de las mercancías que pueden adquirirse en el mercado. A los
-hombres se les ha dado su *si mismo* como suyo propio, distinto de
+hombres se les ha dado su si mismo como suyo propio, distinto de
 todos los demás, para que con tanta mayor seguridad se convierta en
-igual. Pero dado que ese *si mismo* no fue asimilado nunca del todo, la
+igual.Pero dado que ese si mismo no fue asimilado nunca del todo, la
 Ilustración simpatizó siempre con la coacción social, incluso durante
 el período liberal.
 
+
+
+La unidad del colectivo manipulado consiste en la
+negación de cada individuo singular; es un sarcasmo para la sociedad
+que podría convertirlo realmente en un individuo. La horda, cuyo
+nombre reaparece sin duda en la organización de las juventudes
+hitlerianas, no es una recaída en la antigua barbarie, sino el triunfo de
+la igualdad represiva, la evolución de la igualdad ante el derecho
+hasta la negación del derecho mediante la igualdad.
+
+
+
+El mito de cartón piedra de los fascistas se revela como el mito auténtico de la prehistoria, pues mientras éste desveló la venganza, aquél, el falso, la ejecuta
+ciegamente sobre sus víctimas. Todo intento de quebrar la coacción
+natural quebrando a la naturaleza cae tanto más profundamente en la
+coacción que pretendía quebrar. Así ha transcurrido el curso de la civilización europea.
+
+
+
+
+<div class="fadeout">
+
+La abstracción, el instrumento de la Ilustración, se
+comporta respecto de sus objetos como el destino cuyo concepto elimina: como liquidación. Bajo la niveladora dominación de lo abstracto, que convierte en repetible todo en la naturaleza, y de la industria, para la que aquélla lo prepara, los mismos libertos terminaron
+por convertirse en aquella «tropa» que Hegel '* designó como resultado de la Ilustración. 
 
 </div>
 

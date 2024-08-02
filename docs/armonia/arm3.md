@@ -2005,7 +2005,7 @@ Un caso más sencillo para graficarlo es el próximo ejemplo donde empezando en 
 
 
 &nbsp;<span class="rojo">G</span>: <a class="lnk" href="#prestados">bVII prestado del modo paralelo menor</a> 
-&nbsp;(En la clave de A, <a class="lnk" target="another" href="/category/modulos-técnicos#sen-ton">V</a> en clave de C).
+&nbsp;(En la clave de A, <a class="lnk"  href="/category/modulos-técnicos#sen-ton">V</a> en clave de C).
  </code>
 
  <a class="anchor" id="gonnalose"></a>
@@ -2252,7 +2252,7 @@ En el próximo ejemplo la <a target="_blank" href="https://es.wikipedia.org/wiki
 &nbsp;Intrumental                                 -clave de A
 &nbsp;A    D    A    etc
 
-&nbsp;<span class="magentaDom">E7</span>: <a class="lnk" target="birthday" href="/category/modulos-técnicos#sen-ton" >V</a> de A.
+&nbsp;<span class="magentaDom">E7</span>: <a class="lnk"  href="/category/modulos-técnicos#sen-ton" >V</a> de A.
 </code>
 
 En el mismo album que <a class="lnk"  href="#birthday">Birthday</a> venia <a class="lnk"  href="/armonia/arm2#helter">Helter Skelter</a>, está empieza con una progresión en G pasa subitamente a la clave de E aunque luego volvera a usar la progresión del intro en G.
@@ -2338,11 +2338,11 @@ Está secuencia de Break it all que es descendente y <a target="_blank" href="ht
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi     VII  I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+&nbsp; I       ii  <a class="lnk"  href="#biii" >bIII</a>iii IV      V       vi     VII  I
+&nbsp;/E  /   /F#m/<span class="rojo">G</span>  /G#m/A  /   /B  /   /C#m/   /D#º/E
 
-&nbsp; i       ii  <a class="lnk"  href="#biii" >bIII</a>    iv      v   bVI    bVII     i
-&nbsp;/Em /   /F#º/<span class="rojo">G</span>  /   /Am /   /Bm /C  /   /D  /   /Em   
+&nbsp; i       ii  bIII    iv      v   bVI    bVII     i
+&nbsp;/Em /   /F#º/G  /   /Am /   /Bm /C  /   /D  /   /Em   
 
 &nbsp;             I       ii      iii IV      V       vi  <a class="lnk"  href="#prestados">bVII</a> VII I 
 &nbsp;            /G  /   /Am /   /Bm /C  /   /D  /   /Em /<span class="rojo">F</span>  /F#º/ G 
@@ -2467,7 +2467,7 @@ El puente de <a class="lnk"  href="#breakexp" >Break it all</a> consiste en una 
 &nbsp; i       II  bIII    iv      v   bVI     bVII    i
 &nbsp;/Am /   /Bº /C  /   /Dm /   /Em /F  /   /G  /   /Am
 
-&nbsp;             I       ii     iii IV       V       vi <a class="lnk" target="things" href="#prestados">bVII</a> VII I
+&nbsp;             I       ii     iii IV       V       vi <a class="lnk" href="#prestados">bVII</a> VII I
 &nbsp;            /C  /   /Dm /   /Em /F  /   /G  /   /Am /<span class="rojo">Bb</span> /Bº /C 
 
 
@@ -2556,9 +2556,9 @@ El puente de <a class="lnk"  href="#breakexp" >Break it all</a> consiste en una 
 &nbsp;Things we said today
 
 
-&nbsp;<span class="magentaDom">C7/9</span>: <a class="lnk" target="things" href="/armonia/arm2#domiv" >VdeIV</a> en clave de C
+&nbsp;<span class="magentaDom">C7/9</span>: <a class="lnk" href="/armonia/arm2#domiv" >VdeIV</a> en clave de C
 &nbsp;<span class="magentaDom">C7/9</span>: x32330
-&nbsp;<span class="rojo">Bb</span>: <a class="lnk" target="things" href="#prestados" >bVII prestado del modo paralelo</a> en clave de C.
+&nbsp;<span class="rojo">Bb</span>: <a class="lnk" href="#prestados" >bVII prestado del modo paralelo</a> en clave de C.
 </code>
 
 
@@ -5221,7 +5221,7 @@ También es muy interésante <a class="lnk"  href="#lithium">Lithium</a>, donde 
 
 
 
-La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a> (<a class="lnk"  href="/category/modulos-técnicos#tritono" >disonancia</a> no funcional, también explicada en esta misma clave en el ejemplo de <a class="lnk"  href="#allmyloving" >All my loving</a>) con la variante <a class="lnk"  href="#mayoresabiii">bVII-V</a> (<a class="lnk"  href="/category/modulos-técnicos#tritono" >disonancia</a> funcional) parecen hacer hacer juego con la esquizofrenia a la que hace referencia el titulo de la canción.
+La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a> (<a class="lnk"  href="/category/modulos-técnicos#tritono" >disonancia</a> no funcional, ver <a class="lnk"  href="#nwood" >Norwegian Wood</a> en la misma clave) con la variante <a class="lnk"  href="#mayoresabiii">bVII-V</a> (<a class="lnk"  href="/category/modulos-técnicos#tritono" >disonancia</a> funcional, ver <a class="lnk"  href="#allmyloving" >All my loving</a> en la misma clave) hacer juego con la esquizofrenia a la que hace referencia el titulo de la canción.
 
 <a class="anchor" id="help" ></a>
 

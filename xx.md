@@ -1,1 +1,0 @@
-<p class="md_footnote_size"></p>

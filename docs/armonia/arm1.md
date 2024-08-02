@@ -66,7 +66,7 @@ Naturalmente ustedes se preguntaran de donde se deduce este sistema de una octav
 dividida en 12 semitonos. La respuestá es que es una formalizacion de
 los intervalos que resultan naturalmente más consonantes a nuestro
 oído, de hecho nuestro oído procesa como más consonantes los intervalos
-que corresponden a <a href="https://en.wikipedia.org/wiki/Interval_ratio" target="_blank">razon de frecuencia</a> más simples y como más
+que corresponden a <a href="https://en.wikipedia.org/wiki/Interval_ratio" target="_blank">razón de frecuencia</a> más simples y como más
 disonantes los intervalos que corresponden a una razón de frecuencia
 mas compleja. 
 
@@ -363,8 +363,8 @@ escala resultante que todos conocemos:
 El grado I puede no parecer en si un intervalo pero de hecho es un intervalo de octava y es la nota a partir de la cual se nombran los intervalos según su distancia a la misma.
 
 
-Los intervalos de un acorde son parte de la escala diatónica. ósea teniendo
-el acorde mayor 3 notas (ver <a target="_blank" href="https://es.wikipedia.org/wiki/Tr%C3%ADada_%28m%C3%Basíca%29">tríadas</a>) podemos tomar sus intervalos de la escala
+Los intervalos de un acorde son parte de la escala diatónica. Osea teniendo
+el acorde mayor 3 notas podemos tomar sus intervalos de la escala
 mayor, son la nota I más las notas que corresponden a los intervalos
 III y V respecto a I:
 
@@ -376,7 +376,7 @@ I<span class="trasluz">       II      </span>III<span class="trasluz"> IV      <
 </code>
 
 
-A muchos guitarristas les sonará raro que los acordes tengan solo tres notas, pero cuando tocamos en un acorde más de 3 cuerdas en realidad estamos repitiendo algunas notas, veamos dos típicas posiciones de A mayor para entenderlo, recordemos que el acorde esta formado por A (I), C# (III) y E (V):
+A algunos guitarristas podría sonarle raro que los acordes mayores (y menores) tengan solo tres notas, pero cuando tocamos en las posiciones básicas de un acorde más de 3 cuerdas en realidad estamos repitiendo algunas notas, veamos dos típicas posiciones de A mayor para entenderlo, recordemos que el acorde esta formado por A (I), C# (III) y E (V):
 
 &nbsp;
 ```

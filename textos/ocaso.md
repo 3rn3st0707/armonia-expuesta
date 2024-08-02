@@ -19,7 +19,10 @@ espíritu hace caer en el olvido los problemas con centro en los
 cuales cristalizó, podrá decirse que [Oswald Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) (1880-1936) ha sido
 olvidado con la velocidad de la catástrofe hacia la cual camina
 la historia universal según su propia doctrina. Luego de un
-éxito de público inicial, la opinión pública alemana se ha revuelto rápidamente contra *[La Decadencia de Occidente](https://es.wikipedia.org/wiki/La_decadencia_de_Occidente)* (1918). Los
+éxito de público inicial, la opinión pública alemana se ha revuelto rápidamente contra *[La Decadencia de Occidente](https://es.wikipedia.org/wiki/La_decadencia_de_Occidente)* (1918). 
+
+
+Los
 filósofos oficiales reprocharon superficialidad al libro, las ciencias especializadas oficiales le acusaron de incompetencia y
 charlatanería, y en la agitación del período de inflación y de
 estabilización nadie quería saber nada de la tesis del ocaso.
@@ -31,14 +34,15 @@ suma facilidad.
 
 Cuando en 1922 apareció el segundo volumen de la obra no
 halló ya, ni de lejos, el respeto que había encontrado el primero, aunque sólo en este segundo se desarrollaba concretamente la tesis del ocaso. Los legos, que leyeron a Spengler
-como antes habían leído a <a href="https://es.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank" rel="noopener noreferrer">Nietzsche</a> o a [Schopenhauer](https://es.wikipedia.org/wiki/Arthur_Schopenhauer), se
-habían alejado mientras tanto de la filosofía; los filósofos de
-gremio preferían a Heidegger, que daba expresión más cumplida y excelsa a su melancolía. Heidegger ennobleció la muerte decretada por Spengler sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa. 
+como antes habían leído a <a href="https://es.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank" rel="noopener noreferrer">Nietzsche</a> o a [Schopenhauer](https://es.wikipedia.org/wiki/Arthur_Schopenhauer), se habían alejado mientras tanto de la filosofía; los filósofos de
+gremio preferían a Heidegger, que daba expresión más cumplida y excelsa a su melancolía. 
+
+Heidegger ennobleció la muerte decretada por Spengler sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa. 
 
 
 Spengler perdió el mercado: su ensayo sobre *<a href="/textos/h&t" class="lnk">El hombre y la Técnica</a>* (1931) no pudo sostener ya la competencia de
 las antropologías filosóficas lanzadas simultáneamente. Apenas
-se enteró ya la gente de sus relaciones con los nacionalsocialistas, de su negativa a la invitaciòn de Hitler y, finalmente, de su muerte. En
+se enteró ya la gente del interes que sucitó en los nacionalsocialistas, de su negativa a la invitaciòn de Hitler y, finalmente, de su muerte. En
 Alemania quedó proscrito por pesimista y por reaccionario — en
 el sentido en que usaban esas palabras los señores del momento—, y en el extranjero era ya considerado como uno de los
 cómplices ideológicos de la caída en la barbarie.

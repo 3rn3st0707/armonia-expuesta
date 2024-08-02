@@ -41,7 +41,7 @@ El armazón estandard que historicamente a regulado y guiado la interacción de 
 ## La Tésis
 
 
-La tésis de este estudio es más bien simple, sin embargo una adecuada exposición de la misma requiere un considerable conocimiento técnico previo. Es por eso que la tésis es expuesta aquí al principio, junto a la introdución, mientras que los restantes 3 modulos en los que se divide el resto de la obra, son un manual de de elementos y "trucos" armónicos ilustrados con <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">ejemplos muy conocidos</a> de la música popular que proveén de dichos requerimientos técnicos necesarios.
+La tésis de este estudio es más bien simple, sin embargo una adecuada exposición de la misma requiere un considerable conocimiento técnico previo. Es por eso que la tésis es expuesta aquí al principio, junto a la introdución, mientras que los restantes 3 modulos en los que se divide el resto de la obra, son un manual de de elementos y "trucos" armónicos ilustrados con <a class="lnk"  href="#indice-alfabetico-de-ejemplos">ejemplos muy conocidos</a> de la música popular que proveén de dichos requerimientos técnicos necesarios.
 
 
 
@@ -122,7 +122,7 @@ Dado que la coincidencia de un tipo de acorde con un grado (los cuales identific
 
 Y es aquí donde queda expuesta una de las limitaciones más recurrentes de los músicos intuitivos, que generalmente buscan nuevos sonidos agregando notas raras a los acordes pero jamas miran donde esta ubicado el acorde respecto a la tónica.
 
-Un ejemplo concreto: Un amigo mio se puso a sacar de oido <a class="lnk"  href="/armonia/arm3#allmyloving" >All my loving</a>, al principio parecia muy fácil pero eventualmente le tomó más de una hora dar con el acorde de RE mayor (D) pese a ser un acorde de lo más común.
+Un ejemplo concreto: Un amigo mio se puso a sacar de oido <a class="lnk"  href="/armonia/arm3#allmyloving">All my loving</a>, al principio parecia muy fácil pero eventualmente le tomó más de una hora dar con el acorde de RE mayor (D) pese a ser un acorde de lo más común.
 
 El problema? el acorde RE mayor no es natural de la clave diatónica de MI mayor y por lo tanto resulta menos intuitivo. Veamos lo expuesto en este gráfico:
 
@@ -278,6 +278,55 @@ Màs allà de las disputas sobre la validez estètica de cual o tal tipo de mùs
 
 
 En donde esto resulta mas evidente es en el capìtulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulaciòn se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/modulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+
+
+Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de que los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones tipcamente resolutivas <a class="lnk"  href="/category/modulos-técnicos#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/modulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+
+
+El siguiente ejemplo es una práctica forma de graficar la "estructura profunda" común subyacente a estos dos recursos dado que primero hace uso de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> y luego procede a una <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>:
+
+<code>
+
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
+
+&nbsp; <span class="trasluz">i       II  bIII    iv      v   bVI     bVII    i</span>
+&nbsp;<span class="trasluz">/Am /   /Bº /C  /   /Dm /   /Em /</span><span class="rojo">F</span><span class="trasluz">  /   /</span><span class="rojo">G</span><span class="trasluz">  /   /Am</span>   
+
+&nbsp;             I       ii      iii IV      V       vi      VII I
+&nbsp;            /<span class="naranja2">C</span>  /   /<span class="naranja2">Dm</span> /   /Em /F  /   /<span class="naranja2">G</span>  /   /Am /   /Bº /C
+
+
+&nbsp;<a href="https://tabs.últimate-guitar.com/t/the_beatles/lady_madonna_ver3_crd.htm" target="_blank">Lady Madonna</a> <a href="https://www.youtube.com/watch?v=r9LJp39-lDE" target="_blank" ><i class="fa-solid fa-file-audio"></i></a>
+
+
+&nbsp;A      D      A                D           -clave de A
+&nbsp;Lady Madonna, children at your feet
+&nbsp;A              D         <span class="rojo">F      G</span>    A     -<a class='lnk'  href="/armonia/arm3#bVI-bVII-I">bVI-bVII-I</a>
+&nbsp;Wonder how you manage to make ends meet
+&nbsp;A             D     A                D
+&nbsp;Who finds the money when you pay the rent
+&nbsp;A                  D         <span class="rojo">F   G</span>    A
+&nbsp;Did you think that money was heaven sent?
+&nbsp; <span class="naranja2">Dm</span>                            <span class="naranja2">G</span>           -clave de C
+&nbsp;Friday night arrives without a suitcase
+&nbsp; <span class="naranja2">C</span>               C/B           Am
+&nbsp;Sunday morning creeping like a nun
+&nbsp;Dm                                    G
+&nbsp;Monday's child has learned to tie his bootlace
+&nbsp;C   C/B         E7                     -vuelta a la clave de A
+&nbsp;See how they'll run
+&nbsp;A      D      A            D
+&nbsp;Lady Madonna, baby at your breast.
+&nbsp;A              D         <span class="rojo">F    G</span>    A
+&nbsp;Wonder how you manage to feed the rest
+
+
+&nbsp;<span class="rojo">F</span>: <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado del modo paralelo menor</a>
+&nbsp;<span class="rojo">G</span>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
+&nbsp;C/B: x20010
+&nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/modulos-técnicos#sen-ton">ii-V-I</a> a bIII (C)
+</code>
 
 
 

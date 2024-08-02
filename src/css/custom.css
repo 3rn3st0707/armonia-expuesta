@@ -33,7 +33,7 @@ html {
 }
 
 #__docusaurus > div.main-wrapper.docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-styles-module > div > main > div > div > article > section > article {
-  border: none;
+  border: none; 
 }
 
 ol li {
@@ -636,7 +636,7 @@ html[data-theme='light'] .navbar__title::after {
 
 
 html[data-theme='light'] article {
-  background-color: #e3faf0;
+  background-color: #e4f3f1;
   color: black;    
   border-color: #003422;
   border-width: 4px;
@@ -818,13 +818,13 @@ html[data-theme='light'] .pagination-nav__link  {
 
 
 html[data-theme='light'] aside .menu li {
-  background-color: #004322;
+  background-color: #003422;
   opacity: .8;  
 }
 
 
 html[data-theme='light'] .navbar {
-  background-color: #e6faf1;
+  background-color: #eff8f7;
   opacity: .9;
 }
 
