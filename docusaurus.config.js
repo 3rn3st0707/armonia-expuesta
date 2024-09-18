@@ -115,6 +115,9 @@ const config = {
       navbar: {
         title: 'Armonia Expuesta',
 
+
+          /*
+
         items: [
           {
             type: 'doc',
@@ -122,11 +125,14 @@ const config = {
             position: 'right',
             label: 'Intro Ebooks',
           },
+
           {to: '/textos/guerra', label: 'Más Textos', position: 'right'},
           {to: '/blog/taylorismo', label: 'Blog', position: 'right'},
-
+          
 
         ],
+
+         */
       },
       footer: {
         style: 'dark',

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-slug: /category/modulos-técnicos
+slug: /category/tipos-de-acordes
 ---
 
-# Módulo 1
+# Acordes Diatónicos
 
 
  <hr style={{  marginTop: '2em' }} />
@@ -304,7 +304,7 @@ Debido a la naturaleza compuesta de la unidad musical que es el <a target="_blan
 más aún los números romanos que se utilizan para identificarlos no dan
 una idea cuantitativa de la "distancia" que representan, sino que
 refieren al orden en el que aparecen en la práctica concreta e
-histórica de la música (estás son las <a class="lnk"  href="#fundamentos" >equivalencias</a>).
+histórica de la música.
 
 
 Puesto en términos matemáticos, deberíamos pensar la numeración
@@ -376,7 +376,7 @@ I<span class="trasluz">       II      </span>III<span class="trasluz"> IV      <
 </code>
 
 
-A algunos guitarristas podría sonarle raro que los acordes mayores (y menores) tengan solo tres notas, pero cuando tocamos en las posiciones básicas de un acorde más de 3 cuerdas en realidad estamos repitiendo algunas notas, veamos dos típicas posiciones de A mayor para entenderlo, recordemos que el acorde esta formado por A (I), C# (III) y E (V):
+A algunos guitarristas podría sonarle raro que los acordes mayores y menores (triadas) tengan solo tres notas, pero cuando tocamos en las posiciones básicas de una triada en más de 3 cuerdas en realidad estamos repitiendo algunas notas, veamos dos típicas posiciones de A mayor para entenderlo, recordemos que el acorde esta formado por A (I), C# (III) y E (V):
 
 &nbsp;
 ```
@@ -747,7 +747,7 @@ los acordes.
 ## La Sensación de Tonalidad
 
 
-Esta sección apunta a explicar las progresiones típicamente resolutivas ii-V-I y IV-V-I, así cómo el acorde V7 (<a class="myBtn2"  class="lnk">acorde dominante de séptima</a>). En ambos casos se da una <a class="lnk"  href="#tritono" >disonancia tritónica</a> que al resolver su tensión al llegar al grado I da esa sensación de relajación y quietud que establece dicho acorde cómo <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>.
+Esta sección apunta a explicar las progresiones típicamente resolutivas ii-V-I y IV-V-I, así cómo el acorde V7 (<a href="#aco7"  class="lnk">acorde dominante de séptima</a>). En ambos casos se da una <a class="lnk"  href="#tritono" >disonancia tritónica</a> que al resolver su tensión al llegar al grado I da esa sensación de relajación y quietud que establece dicho acorde cómo <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>.
 
 
 Pero mientras que en el caso de los cambios de acorde ii-V y IV-V el intervalo disonante (<a class="lnk"  href="#tritono" >trítono</a>)
@@ -786,21 +786,17 @@ acorde de E mayor (022<a class="magenta">1</a>00), cuya 3era
 (G# ver nota <span class="magenta">coloreada</span>) resolverá directamente sobre A ósea nota que le da nombre a la
 clave y al acorde mayor en grado I (A mayor: X02<a class="magenta">2</a>20), esto es lo que se conoce cómo <a target="_blank" href="https://en.wikipedia.org/wiki/Leading-tone" >leading-note</a>, ver también en <a class="lnk"  href="#laclave">las principales claves</a>.
 
+<a class="anchor" id="aco7"></a>
 
 Pero aquí entra un truco más: se le suele aplicar a este acorde una
 nota que no es diatónica respecto a la raíz del acorde V (pero si de
 todas formas lo es respecto a la <a class="lnk"  href="#laclave">clave</a>) dado que es
 una séptima menor (10 semitonos) y no la séptima mayor (11 semitonos).
 
-
-
-
 Esto es así porque esa 7ma menor forma con la tercera mayor del
 acorde <a class="lnk"  href="#tritono" >un trítono</a>, que es, por lejos, el intervalo más inestáble y
 tenso de los 12 existentes o lo que también se conoce cómo una
 "disonancia".
-
-
 
 
 La altísima necesidad de resolución del <a class="lnk"  href="#fundamentos" >intervalo</a> de trítono
@@ -844,7 +840,7 @@ D|-----+-----+-----+-----+-----+-----+
  &nbsp;|-----+-----+-----+-----+--D--+-----+
  &nbsp;|-----+-----+--G--+-----+-----+-----+
 
-Ver otros <a class="myBtn2"  class="lnk">acordes dominantes de 7ma</a>.
+Ver otros <a href="#aco7"  class="lnk">acordes dominantes de 7ma</a>.
 </code>
 
 
@@ -923,7 +919,7 @@ tercera (B) un <a class="lnk"  href="#tritono" >intervalo tritonico</a> en el se
 
 
 
-La "verticalización" de esa disonancia en el <a class="myBtn2"  class="lnk">acorde de séptima</a>,
+La "verticalización" de esa disonancia en el <a href="#aco7"  class="lnk">acorde de séptima</a>,
 era bastante esperable dado que la noción de <a class="lnk"  href="#fundamentos" >intervalo</a> interno de un
 acorde (relación vertical) es menos abstracta y compleja, y por tanto
 más manejable que la de "intervalo horizontal", 
@@ -970,7 +966,7 @@ a <a class="lnk"  href="/armonia/arm3#allmyloving" >All my loving</a>
 En este
 caso la disonancia se encuentra tanto horizontal cómo verticalmente ya
 que V es un <a class="myBtn0"  class="lnk">acorde de séptima</a>,
-lo cual nos permite ver que la nota bIII (A) del acorde F#m (ver <a class="myBtn0"  class="lnk">acordes menores</a>) es también la nota bVII del acorde B7 (ver <a class="myBtn2"  class="lnk">acordes de 7ma</a>).
+lo cual nos permite ver que la nota bIII (A) del acorde F#m (ver <a class="myBtn0"  class="lnk">acordes menores</a>) es también la nota bVII del acorde B7 (ver <a href="#aco7"  class="lnk">acordes de 7ma</a>).
 
 
 
@@ -1017,7 +1013,7 @@ Intro: E7 (076750) por varios compases.
  Didn't get to bed last night
 
 
-<span class="rojo">C</span>: <a class="lnk"  href="#biii" >bIII prestado del modo paralelo menor</a>
+<span class="rojo">C</span>: <a class="lnk"  href="/armonia/arm3#biii" >bIII prestado del modo paralelo menor</a>
 </code>
 
 Otro caso en clave de A donde se utiliza insistentemente E7 en el comienzo (con su famoso riff tocado sobre este acorde) es Pretty Woman//.
@@ -1102,7 +1098,7 @@ Por otro lado este truco de "esconder" la <a target="_blank" href="https://es.wi
 
 
 Pero esa es solo la versión "horizontal" del uso de dicha disonancia,
-la versión "vertical" claro está, la representa cierto uso del <a class="myBtn2"  class="lnk">acorde de séptima dominante</a> veámoslo:
+la versión "vertical" claro está, la representa cierto uso del <a href="#aco7"  class="lnk">acorde de séptima dominante</a> veámoslo:
 
 
 
@@ -1117,7 +1113,7 @@ contraste con "la tensión" del dominante...
 
 
 Pero cómo lo hacian? fácil
-conviertiendo todos los acordes mayores de la clave (I, IV y V) en <a class="myBtn2"  class="lnk">acordes de 7ma dominante</a>,
+conviertiendo todos los acordes mayores de la clave (I, IV y V) en <a href="#aco7"  class="lnk">acordes de 7ma dominante</a>,
 con lo cual aún llegando a I la relajación nunca era completa. 
 
 
@@ -1175,8 +1171,7 @@ es donde estra en juego el <a class="myBtn2 lnk">acorde mayor con una séptima d
 El dominante natural (v) de una clave menor es también un acorde menor por lo que su tercera
 menor no forma la nota contigua o <a target="_blank" href="https://en.wikipedia.org/wiki/Leading-tone" >leading-note</a> a I cómo habíamos visto <a class="lnk"  href="#sen-ton" >en la sección sobre V (dominante)</a> por lo que usualmente
 se le agrega artifcialmente una tercera mayor (ver notas de <a class="lnk"  href="#jijiji" >Jijiji</a>), si a esto le sumamos la <a class="lnk"  href="#tritono" >disonancia tritónica</a> tenemos en el V7 un instrumento muy eficaz para combiar el
-centro tonal entre claves relativas. 
-
+centro tonal entre claves relativas.
 
 
 Eso el lo que voy a mostrar con este ejemplo donde el dominante natural de F#m tal cómo lo vemos arriba están modificados para está canción:
@@ -1563,7 +1558,7 @@ You'd love her too
    E 
 I love her
 
-ver <a class="lnk"  href="/armonia/arm2#directa">el truco en el solo</a>
+ver <a class="lnk"  href="/armonia/arm2#modulación-de-semitono-o-tono-completo">el truco en el solo</a>
 ver <a class="lnk"  href="/armonia/arm3#picardy" >el truco de su acorde final</a>
 </code>
 
@@ -1755,8 +1750,9 @@ También se incluye en el gráfico la clave del <a class="lnk"  href="#claves-re
 
 &nbsp; I       II  bIII    IV      V   bVI     bVII    I
 &nbsp;/Am /   /Bº /C  /   /Dm /   /Em /F  /   /G  /   /Am
-&nbsp; I       ii     iii  IV      V       vi      VII  I
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+
+&nbsp;             I       ii     iii  IV      V       vi      VII  I
+&nbsp;            /C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
 
  
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/cake/i-will-survive" >I will survive</a> <a target="_blank" href="https://www.youtube.com/watch?v=ZBR2G-iI3-I"  ><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" fill-rule="evenodd" d="M59 61.922c0-9.768 13.016-15.432 22.352-11.615c10.695 7.017 101.643 58.238 109.869 65.076c8.226 6.838 10.585 17.695-.559 25.77c-11.143 8.074-99.712 60.203-109.31 64.73c-9.6 4.526-21.952-1.632-22.352-13.088c-.4-11.456 0-121.106 0-130.873m13.437 8.48c0 2.494-.076 112.852-.216 115.122c-.23 3.723 3 7.464 7.5 5.245c4.5-2.22 97.522-57.704 101.216-59.141c3.695-1.438 3.45-5.1 0-7.388C177.488 121.952 82.77 67.76 80 65.38c-2.77-2.381-7.563 1.193-7.563 5.023z"/></svg></a> 
@@ -1828,11 +1824,11 @@ Finalmente, vamos por un ejemplo donde se decide continúar con la cadena de <a 
 &nbsp;<span class="rojo">F</span>: <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a>*
 </code>
 
-><p class="md_footnote_size">*Notese que <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> de la clave relativa mayor pasa a ser un <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a> en la clave menor, ver links para mas datos.
+><p class="md_footnote_size">*Notese que <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> de la clave relativa mayor pasa a ser un <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a> en la clave menor.
 </p>
 
 
- El el capìtulo <a class="lnk"  href="/armonia/arm2#dom-sec" >Turnaround de Dominantes Secundarios</a> del Modulo 2 veremos como los acordes de esta misma progresion al ser convertidos (tanto mayores como menores) en acordes de <a class="lnk"  href="#sen-ton" >Septima Dominate</a> se convierten en el tìpico "Turnaround" jazzero de importancia fundacional para la mùsica popular.
+ El el capìtulo <a class="lnk"  href="/armonia/arm2#dom-sec" >Turnaround de Dominantes Secundarios</a> del Modulo 2 veremos como los acordes de este mismo *"circulo de quintas"* al ser convertidos (tanto mayores como menores) en acordes de <a class="lnk"  href="#sen-ton" >Septima Dominate</a> se convierten en el tìpico "Turnaround" jazzero de importancia fundacional para la mùsica popular.
 
 
  <a class="anchor" id="andalusec"></a>
@@ -2099,7 +2095,7 @@ El uso de medio-disminuidos en <a class="lnk"  href="/armonia/arm3#htandevery">H
 
 
 
- 1.  Que el <a class="lnk"  href="#meddim">acorde medio-disminuido</a> puede "derivarse" de un <a class="myBtn2"  class="lnk">acorde dominante de 7ma</a> elevando un semitono cualquiera de sus 4 notas.
+ 1.  Que el <a class="lnk"  href="#meddim">acorde medio-disminuido</a> puede "derivarse" de un <a href="#aco7"  class="lnk">acorde dominante de 7ma</a> elevando un semitono cualquiera de sus 4 notas.
 
 
 
@@ -2419,7 +2415,7 @@ Ahora otra <a target="_blank" href="http://www.teoría.com/es/referencia/i/inver
 &nbsp;Ahhhhhhh   ahhhhhhhhh  ahhhhhh.
 
 &nbsp;D#m7b5= 467644
-&nbsp;A7add13= 575675 (<a class="myBtn2"  class="lnk">dominante 7ma</a> + nota VI del acorde)
+&nbsp;A7add13= 575675 (<a href="#aco7"  class="lnk">dominante 7ma</a> + nota VI del acorde)
 
 &nbsp;<a class="verde">G#º</a>: 
  |-----+-----+-----+--G#-+-----+-----+
@@ -2586,7 +2582,7 @@ E|-----+-----+-----+-----+-----+-----+-(B)-+
 <br />
 
 
-&nbsp;F#7/9 (<a class="myBtn2"  class="lnk">acorde dominante de séptima</a> + nota II del acorde):
+&nbsp;F#7/9 (<a href="#aco7"  class="lnk">acorde dominante de séptima</a> + nota II del acorde):
  |-----+-----+-----+-----+-----+-----+-----+-----+-----+X
  |-----+-----+-----+-----+-----+-----+-----+-----+--G#-+
  |-----+-----+-----+-----+-----+-----+-----+-----+--E--+
@@ -2634,7 +2630,7 @@ Am /   /<span class="verde">Bº</span> /C  /   /Dm /   /Em /F  /   /G  /   /Am
 &nbsp; Gm        C7/9            F<a class="lnk"  href="/armonia/arm2#des-maj" >maj7</a>              -clave de F
 &nbsp;Pra fazer feliz a quem se ama
 
-&nbsp;C7/9: x32330 <a class="myBtn2"  class="lnk">acorde dominante de séptima</a> + nota II del acorde
+&nbsp;C7/9: x32330 <a href="#aco7"  class="lnk">acorde dominante de séptima</a> + nota II del acorde
 
 
 &nbsp;<a class="verde">Bº</a>: 
