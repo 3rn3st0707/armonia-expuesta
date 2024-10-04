@@ -213,6 +213,7 @@ article  {
   border-color: #010f0a;
   border-width: 5px;
   padding: 3.3em;
+  max-width: 800px;
 
 }
 
@@ -371,15 +372,11 @@ flex-direction: column;
 }
 
 
-@media screen and (max-width: 1350px) {
-article  {
-  padding: 2.1em;
-}
-}
+
 
 @media screen and (max-width: 1600px) {
   article  {
-    padding: 2.4em;
+    padding: 2em;
   }
   }
 
@@ -509,8 +506,6 @@ html[data-theme='dark'] nav a {
   color: rgb(226 255 182);
 }
 
-
-
 html[data-theme='dark'] header {
   background-color: #252b31;
   color: white;
@@ -555,11 +550,6 @@ html[data-theme='dark'] nav a {
   color: rgb(203, 255, 125);
 }
 
-html[data-theme='dark'] .fadeout {
-  background: -webkit-linear-gradient(white, #232f1e);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 html[data-theme='dark'] a:hover {
   color: #99fde4;
@@ -569,19 +559,14 @@ html[data-theme='dark'] a {
   color: #6b9286;
 }
 
-
-
 html[data-theme='dark'] .pagination-nav__label {
   color: greenyellow;
 }
-
 
 html[data-theme='dark'] .menu__link {
   color: rgb(203, 255, 125); 
   opacity: .8;
 }
-
-
 
 html[data-theme='dark'] .menu__link--active {
   color: greenyellow;
@@ -595,12 +580,10 @@ html[data-theme='dark'] .lnk:hover {
   color: greenyellow ;
 }
 
-
 html[data-theme='dark'] h1, h2, h4 {
   color: rgb(203, 255, 125);   
   font-family: 'Merriweather', serif;
 }
-
 
 html[data-theme='dark'] h3 {
   color: rgb(203, 255, 125); 
@@ -611,7 +594,6 @@ html[data-theme='dark'] h3 {
   margin-top: 1.5em;
 }
 
-
 html[data-theme='dark'] .breadcrumbs__link {
 color: rgb(194, 255, 102);
 }
@@ -621,7 +603,6 @@ html[data-theme='dark'] .navbar {
   opacity: 0.9;
 
 }
-
 
 html[data-theme='dark']  a.sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
   color: rgb(185, 255, 81)  !important;
@@ -636,15 +617,11 @@ html[data-theme='dark'] code {
 }
 
 
-
-
-
 /* same going for light mode  */
 
 html[data-theme='light'] .navbar__title::after {
   color:  #1a1a1a;
 }
-
 
 
 html[data-theme='light'] article {
@@ -680,7 +657,6 @@ html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > asid
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a:hover {
-
   color:  rgba(25, 151, 151, 0.76) !important;
 }
 
@@ -803,11 +779,7 @@ html[data-theme='light'] footer {
 
 }
 
-html[data-theme='light'] .fadeout {
-  background: -webkit-linear-gradient(#111a00, #f9f9eb);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+
 
 
 html[data-theme='light'] #__docusaurus > nav > div.navbar__inner {
@@ -942,64 +914,61 @@ a.anchor {
 
 .rojo {
   color: #d14 !important;
-      font-weight: 100 !important;
+
 }
 
 a .rojo {
   color: #d14 !important;
-  font-weight: 100 !important;
+
 }
 
 html[data-theme='light'] .rojo {
   color: red !important;
-  font-weight: 100 !important;
+
 }
 
 html[data-theme='light'] a .rojo {
   color: red !important;
-  font-weight: 100 !important;
+
 }
 
 .azul {
   color:blue !important;
-  font-weight: 100 !important;
+
 }
 
 a .azul {
   color:blue !important;
-  font-weight: 100 !important;
+
 }
 
 .verde {
   color:rgb(117, 167, 17) !important;
-  font-weight: 100 !important;
+
 }
 
 a .verde {
   color:rgb(117, 167, 17) !important;
-  font-weight: 100 !important;
 }
 
 
 .magenta {
   color: magenta !important;
-  font-weight: 100 !important;
+
 }
 
 a .magenta {
   color: magenta !important;
-  font-weight: 100 !important;
+
 }
 
 
 .magentaDom{
   color: #cd90f5 !important;
-  font-weight: 100 !important;
 }
 
 a .magentaDom{
   color: #cd90f5 !important;
-  font-weight: 100 !important;
 }
 
 .magentaBold {
@@ -1013,34 +982,24 @@ a .magentaBold {
 }
 
 
-.magentaNoBold {
-  color: rgb(204, 51, 255) !important; 
-  font-weight: 100 !important;
-}
-
-a .magentaNoBold {
-  color: rgb(204, 51, 255) !important; 
-  font-weight: 100 !important;
-}
 
 .naranja {
   color: #f57340 !important;
-  font-weight: 100 !important;
+
 }
 
 a .naranja {
   color: #f57340 !important;
-  font-weight: 100 !important;
 }
 
 .naranja2 {
   color: #f57340 !important;
-  font-weight: 100 !important;
+
 }
 
 a .naranja2 {
   color: #f57340 !important;
-  font-weight: 100 !important;
+
 }
 
 /* --------------------------   */
@@ -1055,3 +1014,4 @@ a .naranja2 {
   z-index: 2 !important;
   text-align: center;
 }
+
