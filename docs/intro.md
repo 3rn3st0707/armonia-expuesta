@@ -126,7 +126,7 @@ Acá podemos demostrar graficamente, al distribuir la escala mayor en todo el di
 <br />
 <center>
 <img  class="imgX"
-  src={require('/opt/lampp/htdocs/armoniaExpuesta/static/img/major16.png').default}
+  src={require('@site/static/img/major16.png').default}
 /> 
 </center>
 <br />
@@ -431,10 +431,11 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm3#itouchmyself" >I touch myself</a><br />
 <a class="lnk"  href="#iwanna" >I wanna be sedated</a><br />
 <a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I want to hold your hand</a><br />
-<a class="lnk"  href="/armonia/arm2#iwanttotellyou" >I want to tell you</a><br />
+<a class="lnk"  href="/armonia/arm1#iwanttotellyou" >I want to tell you</a><br />
 <a class="lnk"  href="/armonia/arm2#joking" >I was only joking</a><br />
 <a class="lnk"  href="/armonia/arm2#survive" >I will survive</a><br />
 <a class="lnk"  href="/armonia/arm2#follow" >I'll follow the sun</a><br />
+<a class="lnk"  href="/armonia/arm3#getyou" >I'll Get You</a><br />
 <a class="lnk"  href="/armonia/arm3#imaloser" >I'm a loser</a><br />
 <a class="lnk"  href="/category/tipos-de-acordes#happyjust" >I'm happy just to dance with you</a><br />
 <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm only sleeping</a><br />
@@ -463,6 +464,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm3#lovehurts" >Love Hurts</a><br />
 <a class="lnk"  href="/armonia/arm3#lovely" >Lovely Rita</a><br />
 <a class="lnk"  href="/armonia/arm2#lovestreet" >Love Street</a><br />
+<a class="lnk"  href="/armonia/arm3#dinosaurios">Los Dinosaurios</a><br />
 <a class="lnk"  href="/armonia/arm3#loser">Loser</a><br />
 <a class="lnk"  href="/category/tipos-de-acordes#losing">Losing</a><br />
 <a class="lnk"  href="/armonia/arm3#lump">Lump</a><br />

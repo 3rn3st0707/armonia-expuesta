@@ -1,0 +1,71 @@
+textarea {
+  background-color: #2c343a;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: .9em;
+  padding: 1em;
+  line-height: 1.4em;
+  border-radius: 3px;
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+  resize: none;
+}
+
+
+  
+  .highlighted-text {
+    font-size: .9em;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    background-color: #252b31;
+    line-height: 1.4em;
+  }
+
+#artHighLocal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 777px;
+  }
+
+  #artHighLocal h3 {
+    text-align: center;
+  }
+
+
+
+  /* General styles */
+
+
+
+
+/* Navbar styles */
+.navbarButtons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.2em ;
+
+}
+
+button {
+  background-color: #2c353a;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-right: 3px;
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover {
+  background-color: #4a9a9c;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #4ce2c9;;
+}

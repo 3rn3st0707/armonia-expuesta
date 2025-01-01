@@ -7,7 +7,7 @@ sidebar_position: 3
  <hr style={{  marginTop: '2em' }} />
 
 <p class="md_footnote_size">
-Este mòdulo se ocupa principalmente de ejemplos con acordes prestados del modo paralelo menor, mientras que el mòdulo 1 se ocupa de aspectos puramente diatonicos y el mòdulo 2 se ocupa principalmente de ejemplos relacionados a los <a class="lnk"  href="/armonia/arm2">dominantes secundarios</a>. Un amplio linkeado le permitira navegar libremente entre mòdulos pero para los principiantes recomiendo una lectura màs lineal de estos.
+Este mòdulo se ocupa principalmente de ejemplos con acordes <a class="lnk"  href="#prestados">prestados del modo paralelo menor</a>, mientras que el mòdulo 1 se ocupa de aspectos puramente diatonicos y el mòdulo 2 se ocupa principalmente de ejemplos relacionados a los <a class="lnk"  href="/armonia/arm2">dominantes secundarios</a>. Un amplio linkeado le permitira navegar libremente entre mòdulos pero para los principiantes recomiendo una lectura màs lineal de estos.
 </p>
 
  <hr style={{  marginBottom: '2em' }} />
@@ -451,11 +451,11 @@ Para ejemplificar los vamos a empezar donde estos acordes resultan más evidente
 <code>
 
 
-&nbsp; I       ii      iii IV      V       vi      VII   I
-&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">     i</span>
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">   i</span>
  
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
-&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   / Cm  </span>    
+&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /C
+&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   /Cm  </span>    
 
 
 &nbsp;<a target="_blank" href="http://www.tusacordes.com/secciónes/ver_tema.php?id=15145" >Rasguña las piedras</a> <a target="_blank" href="https://www.youtube.com/watch?v=wZi-HDLJifI"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -484,11 +484,11 @@ Veamos otro caso en la misma clave para reforzar la idea:
 <code>
 
 
-&nbsp; I       ii      iii IV      V       vi      VII   I
-&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">     i</span>
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">   i</span>
  
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
-&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   / Cm  </span>     
+&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /C
+&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   /Cm  </span>     
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/for_no_one_crd.htm" >For No One</a> <a target="_blank" href="https://www.youtube.com/watch?v=SuvMcoZVYUM"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -515,6 +515,7 @@ en la misma clave (C7-F-Bb sobre "..lonely wishing you
 weren't so far away..."). De todas formas vale aclarar que la clave original de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/for_no_one_crd.htm" >For No One</a> es B y aquí ha sido subido un semitono a la más "guitarristica" clave de C</p>
 
 
+
 He aquí uno los impedimentos teóricos que llevo a la práctica de usar estos acordes: la imposibilidad de hacer dos cambios de acorde a <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalos</a> de IV (5 semitonos también conocido cómo <a class="lnk"  href="/category/tipos-de-acordes#dir-quint" >quinta descendente</a>) sin salirse de la clave, en este ejemplo de I (C) hasta IV (F) está todo bien, pero si quisieramos movernos en esa dirección otros 5 semitonos nos encontrariamos que la clave mayor no preovee ningún acorde propio a 10 semitonos de distancia en esa dirección. La solución está a la vista. 
 
 
@@ -526,7 +527,26 @@ IV es el limite teórico para moverse de a cambios de acorde a intervalos de IV 
 Pero en realidad es solo el último de una larga cadena de cambios de acorde de ese tipo que va iii-vi-ii-V-I-IV (conocida cómo <a class="lnk"  href="/category/tipos-de-acordes#circ-quint" >circulo de quintas</a>) hasta que un cambio de acorde más de ese tipo implicaria salirse de la clave, como podemos ver en <a class="lnk"  href="/category/tipos-de-acordes#tuyo" >Tuyo siempre</a>
 
 
-Como les decia, los acordes prestados son menos intuitivos que los diatónicos por eso debemos tener en cuenta que la clave original de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/for_no_one_crd.htm" >For No One</a> es B y aquí ha sido subido un semitono a la más "guitarristica" clave de C.
+<details open>
+
+  <summary><h2>Otras Denominaciones De Los Prestados</h2></summary>
+
+Seguramente habran oido hablar de lo que aquí denominamos acordes prestado con otras denominaciones.
+
+Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (iv) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
+
+Otra forma de "explicar" el acorde "<a class="lnk"  href="#prestados">bVII no diatonico</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde no-diatónico bVII y no <a class="lnk"  href="#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
+
+Una denominación un poco más abarcativa es la de [acordes cromáticos](https://www.howmusicreallyworks.com/chapter-six-chords-progressions/chromatic-chords-progressions.html) dado que esta se puede explicar a partir de la linea <a href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" target="_blank">cromatica</a> que subyace a la progresión <a class="lnk"  href="#doblep">doble plagal</a> que incluye a bVII, misma linea cromática que se alarga una nota más con la <a class="lnk"  href="#triplep">triple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#biii" >bIII</a> y se alarga una nota más con la <a class="lnk"  href="#cuadp">cuadruple plagal</a> que incluye <a class="lnk"  href="#bvisolo">bVI</a>.
+
+Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este ebook, tal como se expresa en la sección <a class="lnk"  href="/#la-estructura-paralela">La Estructura Paralela</a> utilizaremos de aquí en más la denominación de "acordes prestados" en cualquier de los casos.
+
+
+
+</details>
+
+
+Como les decia, los acordes prestados son menos intuitivos que los diatónicos por eso debemos tener en cuenta que la clave original de <a class="lnk"  href="#fornoone" >For No One</a> es B y aquí ha sido subido un semitono a la más "guitarristica" clave de C.
 
 
 Si la ubiesemos mantenido en la clave original de B el bVII ubiese sido A y sin ningún bemol en el nombre (que todos los acordes prestados del modo paralelo menor necesariamente sean los que tengan bemoles solo ocurre en C) no hubiese sido tan fácil darse cuenta de su función especifica.
@@ -540,8 +560,8 @@ Por eso pasemos a un par de ejemplos que tampóco estan en C y donde nada podrí
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
  
 &nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
 &nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span> 
@@ -579,8 +599,8 @@ Ahora veremos otro ejemplo de esa <a class="lnk"  href="#crybabycry">relación b
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span>
  
 &nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G
 &nbsp;<span class="trasluz">/Gm /   /Aº /Bb /   /Cm /   /Dm /D# /   /</span><a class="rojo">F</a><span class="trasluz">  /   /Gm</span>
@@ -622,8 +642,8 @@ Ahora vamos a subir un tono completo (2 semitonos) con lo cual lógicamente, el 
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>       
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span>       
  
 &nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
 &nbsp;<span class="trasluz">/Am /   /Bº /C  /   /Dm /   /Em /F  /   /</span><a class="rojo">G</a><span class="trasluz">  /   /Am</span>
@@ -697,8 +717,8 @@ Fianlmente en la misma clave de A, 3 canciones cuyas estrofas comienzan con una 
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>       
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span>       
  
 &nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
 &nbsp;<span class="trasluz">/Am /   /Bº /C  /   /Dm /   /Em /F  /   /</span><a class="rojo">G</a><span class="trasluz">  /   /Am</span>
@@ -781,8 +801,8 @@ De todas formas tenga en cuenta que la doble plagal, al repetirse (lo cual es us
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
 
 &nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
 &nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span>     
@@ -823,8 +843,8 @@ El sonido definidamente rockero de la doble plagal puede corroborarse con otra d
 <code>
 
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
  
 &nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
 &nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span>     
@@ -863,8 +883,8 @@ Un exito anterior de los Rolling Stones también en clave de E, utilizaba tambi�
 <code>
 
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
  
 &nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
 &nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span> 
@@ -895,8 +915,8 @@ Un exito anterior de los Rolling Stones también en clave de E, utilizaba tambi�
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
  
 &nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
 &nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span>      
@@ -1017,7 +1037,7 @@ Ahora veremos más "doble plagales" en otras claves:
  
 &nbsp;Show me where to look
 &nbsp;                    <a class="rojo">C</a>                 G
-&nbsp;Tell me what will I find (What will I find?)~
+&nbsp;Tell me what will I find (What will I find?)
 &nbsp;D
 &nbsp;Lay me on the ground
  
@@ -1233,6 +1253,7 @@ Ahora veremos más "doble plagales" en otras claves:
 <a id="fortunateson" class="anchor"></a>
 <br />
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/paradise_city_crd.htm" >Fortunate Son</a>
+
 
 &nbsp;G                            <a class="rojo">F</a>
 &nbsp;Some folks are born made to wave the flag
@@ -2878,7 +2899,7 @@ Esto nos lleva al primer ejemplo de la proxima sección:
 &nbsp;<a class="rojo">C</a>: <a class="lnk"  href="#bvisolo">bVI prestado del modo paralelo menor</a>
 &nbsp;<a class="rojo">D</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
 
-&nbsp;*La progresión C-D-E se repite cómo cómo final de la canción.
+&nbsp;*La progresión C-D-E se repite cómo final de la canción.
 </code>
 
 Tal cómo pueden ver haciendo scroll-up no es casualidad que esta sección este precedida por la sección <a class="lnk"  href="#rel-par">modulación entre claves mayores a un intervalo de bIII</a> dado que la relación subyacente a esa modulación es la misma que subyace a está progresión: Mientras que la relación de una <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> mayor con otra <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> mayor a un <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalo</a> de bIII (3 semitonos) más bajo es la de <a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de su <a class="lnk"  href="#mod-par">paralelo menor</a>, los acordes bVI y bVII a su vez son los IV y V de dicha clave (de ahi su fuerte sentido resolutivo) tomados desde la clave un <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalo</a> de bIII más baja.
@@ -3485,7 +3506,7 @@ Otro ejemplo es las repeticiones de Fm y Bb en <a target="_blank" href="http://A
 <a class="anchor" id="terecuerdoamanda"></a>
 
 
-A fin de compararlo con el próximo ejemplo me gustaria que hagan clink en el siguiente link a <a class="lnk"  href="#fornoone">For No One </a> dado que guarda similitudes con el próximo ejemplo, claramente en el cambio de acorde inicial, pero sobre todo en la resolución bVII-I:
+El siguiente ejemplo en realidad no incluye el "V menor" sino el el <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acorde relativo mayor</a> de este el <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>, en este caso <a class="rojo">C</a> en clave de D, sin embargo lo incluyo a fin de comparar la notable similitud de la resolución bVII-I aquí (<a class="rojo">C</a>-D), con la resolución v-I (<a class="rojo">Am</a>-D) en el ejemplo siguiente:
 
 <code>
 
@@ -3520,7 +3541,8 @@ A fin de compararlo con el próximo ejemplo me gustaria que hagan clink en el si
 </code>
 
 <a class="anchor" id="ladyjane"></a>
-El próximo ejemplo además de la resolución C-D en la misma clave también utiliza el <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acorde relativo menor</a> de <a class="lnk"  href="#prestados">bVII</a> (Am en este caso), es decir un acorde menor en el grado V de una clave mayor, tal como vimos en <a class="lnk"  href="#estranged" >Estranged</a> y <a class="lnk"  href="#yououghtaknow" >You oughta know</a>.
+
+Ahora podemos comparar la notable similitud de la resolución bVII-I aquí (<a class="rojo">C</a>-D), con la resolución v-I (<a class="rojo">Am</a>-D) en el ejemplo siguiente:
 
 
 <code>
@@ -3566,7 +3588,49 @@ Acá cómo vemos <a class="lnk"  href="#prestados">bVII</a> (C) ya hace una apar
 
 Está última resolución por ser Am el <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acorde relativo menor</a> de <a class="lnk"  href="#prestados">bVII</a> retiene la <a class="lnk"  href="/category/tipos-de-acordes#tritono" >disonancia</a> no-funcional asociada a bVII-I y de hecho podemos ver que también suena muy parecida a la resolución C-D en <a class="lnk"  href="#terecuerdoamanda" >Te recuerdo Amanda</a>.
 
-Al igual que <a target="_blank" href="http://www.e-chords.com/chords/the-rolling-stones/lady-jane" >Lady Jane</a> <a target="_blank" href="https://youtu.be/41K5Sqob2SQ"  ><i class="fa-solid fa-file-audio"></i></a> el proximo ejemplo tambièn muestra que acordes <a class="lnk"  href="#prestados">bVII</a> y <a class="lnk"  href="#prestados">v</a> prestados son <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acordes relativos</a>, y de hecho aparecen contiguos (Bb-Gm) dandole al gastado cambio cliche "acorde-mayor/su-relativo-menor" una vuelta de tuerca al no aparecer tipicamente como I-vi o IV-ii, sino con dos acordes prestados de la clave paralela: 
+
+<a class="anchor" id="getyou"></a>
+
+
+Mientras que los ejemplos que vimos hasta aca generalmente la direccción es v-I en el caso siguiente se invierte la dirección I-v (D-<a class="rojo">Am</a>) que es el momento climatico de la canción:
+
+<code>
+
+&nbsp; I       ii      iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i       ii  bIII    iv      </span><a class="rojo">v</a><span class="trasluz">  bVI     bVII     i</span>
+ 
+&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D
+&nbsp;<span class="trasluz">/Dm /   /Eº /F  /   /Gm /   /</span><a class="rojo">Am</a><span class="trasluz"> /Bb /   /C  /   /Dm</span>
+
+
+&nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/ill-get-you-2/" >I'll Get You</a> <a target="_blank" href="https://www.youtube.com/watch?v=1q2_zOfuGcA"  ><i class="fa-solid fa-file-audio"></i></a>
+
+
+&nbsp;  D
+&nbsp;Imagine, I'm in love with you
+&nbsp;     G            A
+&nbsp;it's easy cause I know
+&nbsp;       D                 Bm
+&nbsp;I've imagined, I'm in love with you
+&nbsp;G                        A
+&nbsp;many, many, many times before
+&nbsp;         D             <a class="rojo">Am</a>
+&nbsp;It's not like me to pretend
+&nbsp;         D                            Bm
+&nbsp;but I'll get you, I'll get you in the end
+&nbsp;      G                          A
+&nbsp;Yes I will, I'll get you in the end 
+&nbsp;   D        A
+&nbsp;oh yeah, oh yeah
+
+&nbsp;<a class="rojo">Am</a>: <a class="lnk"  href="#prestados">v prestado del modo paralelo menor</a>
+</code>
+
+
+
+
+
+El proximo ejemplo, amplia con un vamp (repetición) la dirección v-I y tambièn aprovecha que los acordes <a class="lnk"  href="#prestados">bVII</a> y <a class="lnk"  href="#prestados">v</a> prestados son <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acordes relativos</a>, y de hecho aparecen contiguos (Bb-Gm) dandole al gastado cambio cliche "acorde-mayor/su-relativo-menor" una vuelta de tuerca al no aparecer tipicamente como I-vi o IV-ii, sino con dos acordes prestados de la clave paralela: 
 
 <a class="anchor" id="heybulldog"></a>
 
@@ -3591,19 +3655,48 @@ Al igual que <a target="_blank" href="http://www.e-chords.com/chords/the-rolling
 
 
 &nbsp;<a class="rojo">Bb</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
-&nbsp;<a class="rojo">Cm</a>: <a class="lnk"  href="#prestados">v prestado del modo paralelo menor</a>
+&nbsp;<a class="rojo">Gm</a>: <a class="lnk"  href="#prestados">v prestado del modo paralelo menor</a>
 
 &nbsp;<a class="lnk"  href="#prestados">bVII</a> y <a class="lnk"  href="#prestados">v</a> : <a class="lnk"  href="/category/tipos-de-acordes#aco-rel" >acordes relativos</a>
 
 </code>
 
+En el próximo caso en la misma clave de C se da lo contrario: v menor (<a class="rojo">Gm</a>) cambia a <a class="rojo">Bb</a> (<a class="lnk"  href="#prestados">bVII prestado</a>)
+
+
+<a class="anchor" id="dinosaurios"></a>
+
+<code>
+
+&nbsp; I       ii      iii IV      V       vi      VII  I
+&nbsp; <span class="trasluz">i       ii bIII     iv      </span><a class="lnk"  href="#prestados">v</a><span class="trasluz">   bVI    </span> <a class="lnk"  href="#prestados">bVII</a> <span class="trasluz">    i</span>
+ 
+&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /</span><span class="rojo">Gm</span><span class="trasluz"> /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   / Cm</span>
+
+&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/charly-garcia/los-dinosaurios/">Los Dinosaurios</a> <a target="_blank" href=""  ><i class="fa-solid fa-file-audio"></i></a>
+
+&nbsp;    C                  <a class="rojo">Gm</a>
+&nbsp;Los amigos del barrio pueden desaparecer
+&nbsp;    <a class="rojo">Bb</a>                           C
+&nbsp;Los cantores de radio pueden desaparecer
+&nbsp;C                                    <a class="rojo">Gm</a>
+&nbsp;Los que estan en los diarios pueden desaparecer
+&nbsp;   <a class="rojo">Bb</a>                         C
+&nbsp;La persona que amas puede desaparecer
+
+
+&nbsp;<a class="rojo">Bb</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
+&nbsp;<a class="rojo">Cm</a>: <a class="lnk"  href="#prestados">v prestado del modo paralelo menor</a>
+
+&nbsp;<a href="https://www.cifraclub.com.br/gustavo-cerati/puente/">Puente</a> de Gustavo Cerati tambien comienza con la progresión
+&nbsp;I-v-bVII-I pero en clave de F: F-Cm-Eb-F
+</code>
+
+
 <a class="anchor" id="strawberry"></a>
 
-Aca podemos notar algo que no se daba en los ejemplos anteriores:Su uso más estático y en la dirección contraria (ósea I-v). 
-
-Pese a que de hecho es menos frecuente, ya podemos encontrar un ejemplo temprano en los beatles con <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/ill-get-you" >I'll get you</a> <a target="_blank" href="https://youtu.be/m2.1RPoKU_4c" ><i class="fa-solid fa-file-audio"></i></a> (D-Am sobre "..not like me to pretend..")
-
-Pero en el siguiente ejemplo es más notorio con su pomposo intro basado en dicha relación. En este punto debo aclarar que pese a que la canción está en Bb la voy a "bajar" un semitono para que quede en la más guitarristica clave de A:
+Finalmente aqui vemos un cambio de acorde I-v (A-<a class="rojo">Em</a>) como el pomposo comienzo de la estrofa inicial:
 
 <code>
 
@@ -5164,11 +5257,11 @@ El próximo ejemplo agrega toda una novedad respecto a los anteriores: en este c
 
 <code>
 
-&nbsp; <span class="trasluz">I      ii    iii IV    V    vi </span><a class="lnk"  href="#prestados">bVII</a><span class="trasluz">VII I</span>
-&nbsp;<span class="trasluz">/G  /  /Am /  /Bm/C /  /D /  /Em/</span><a class="rojo">F</a><span class="trasluz">  /F#º/G  /</span>
+&nbsp; <span class="trasluz">I       ii      iii IV      V       vi </span><a class="lnk"  href="#prestados">bVII</a><span class="trasluz"> VII I</span>
+&nbsp;<span class="trasluz">/G  /   /Am /   /Bm /C  /   /D  /   /Em /</span><a class="rojo">F</a><span class="trasluz">  /F#º/G  /</span>
  
-&nbsp;                             i   bII  ii bIII    iv      V
-&nbsp;                            /Em /<a class="rojo">F</a>  /F#º/G  /   /Am /   /B7
+&nbsp;                                     i   bII  ii bIII
+&nbsp;                                    /Em /<a class="rojo">F</a>  /F#º/G  /
 
 &nbsp; i       ii  bIII    iv      V   bVI    bVII     i
 &nbsp;/Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am        

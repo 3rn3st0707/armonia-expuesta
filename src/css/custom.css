@@ -577,7 +577,8 @@ html[data-theme='dark'] .lnk {
 }
 
 html[data-theme='dark'] .lnk:hover {
-  color: greenyellow ;
+  color: rgb(203, 255, 125);
+  opacity: .8;
 }
 
 html[data-theme='dark'] h1, h2, h4 {
@@ -625,7 +626,8 @@ html[data-theme='light'] .navbar__title::after {
 
 
 html[data-theme='light'] article {
-  background-color: rgb(235, 235, 235);
+  /* background-color: rgb(235, 235, 235); */
+  background-color: rgb(241, 231, 231);
   color: black;    
   border-color: #003422;
   border-width: 4px;
@@ -647,7 +649,7 @@ html[data-theme='light'] h3 {
 }
 
 html[data-theme='light'] .table-of-contents__link--active {
-  color: #3fa8a3  !important;
+  color:  #5e6643 !important;
 }
 
 
@@ -672,14 +674,19 @@ html[data-theme='light'] b.navbar__title.text--truncate {
 
 
 html[data-theme='light'] code {
-   background-color: rgb(235, 235, 235);
+  background-color: rgb(241, 231, 231);
 }
 
 html[data-theme='light'] details {
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(245, 228, 228);
   color: #00060a;
   border-color: #00060a;
   padding: 2.4em;
+}
+
+html[data-theme='light'] details code {
+  background-color: rgb(245, 228, 228);
+
 }
 
 
@@ -707,14 +714,13 @@ html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main
 }
 
 html[data-theme='light'] .table-of-contents  {
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(241, 231, 231);
   opacity: .9;
 }
 
 html[data-theme='light'] .lnk {
-color:#31412b;
+  color:  #334e3b;
   font-weight: bold  !important;
-  font-style: italic;
 }
 
 html[data-theme='light'] .table-of-contents  a  {
@@ -803,14 +809,13 @@ html[data-theme='light'] .pagination-nav__link  {
 
 html[data-theme='light'] aside .menu li {
   background-color: rgb(233, 228, 228);
-
 }
 
 
 html[data-theme='light'] .navbar {
-  background-color: rgb(233, 228, 228);
-}
+  background-color: rgb(241, 231, 231);
 
+}
 
 
 html[data-theme='light'] .navbar a {
@@ -825,11 +830,7 @@ html[data-theme='light'] .navbar a:hover {
 
 
 
-html[data-theme='light'] aside .menu li {
-  background-color: rgb(233, 228, 228);
-  font-size: 100%;
-  opacity: .9;
-}
+
 
 
 
@@ -842,7 +843,7 @@ html[data-theme='light'] aside .menu  {
 html[data-theme='light'] .pagination-nav__link {
   background-color: rgb(233, 228, 228);
   opacity: .9 ;
-  color:rgb(34, 78, 14);
+  color:  #5e6643 !important;
 }
 
 html[data-theme='light'] div.col.col--3 {
@@ -871,7 +872,7 @@ html[data-theme='light'] .menu__link {
 
 html[data-theme='light'] .menu__link:hover {
   color:rgb(34, 78, 14);
-    opacity: .8;
+    opacity: .9;
 }
 
 html[data-theme='light'] .menu__link--active {
@@ -912,97 +913,198 @@ a.anchor {
 /*       Estilos de "Armonia Expuesta"        */
 
 
-.rojo {
-  color: #d14 !important;
+html[data-theme='dark'] rojo {
+  color: rgb(228, 88, 158) !important;
 
 }
 
-a .rojo {
-  color: #d14 !important;
+html[data-theme='dark'] a .rojo {
+  color: rgb(228, 88, 158) !important;
 
 }
 
-html[data-theme='light'] .rojo {
-  color: red !important;
+html[data-theme='dark'] .rojo {
+  color: rgb(228, 88, 158) !important;
 
 }
 
-html[data-theme='light'] a .rojo {
-  color: red !important;
+html[data-theme='dark']  a .rojo {
+  color: rgb(228, 88, 158) !important;
 
 }
 
-.azul {
-  color:blue !important;
+html[data-theme='dark']  .azul {
+  color:rgb(98, 114, 164) !important;
 
 }
 
-a .azul {
-  color:blue !important;
+html[data-theme='dark'] a .azul {
+  color:rgb(98, 114, 164) !important;
 
 }
 
-.verde {
-  color:rgb(117, 167, 17) !important;
+html[data-theme='dark'] .verde {
+  color:rgb(80, 250, 123) !important;
 
 }
 
-a .verde {
-  color:rgb(117, 167, 17) !important;
+html[data-theme='dark'] a .verde {
+  color: rgb(80, 250, 123) !important;
 }
 
 
-.magenta {
-  color: magenta !important;
+html[data-theme='dark'] .magenta {
+  color: rgb(191, 122, 248) !important;
 
 }
 
-a .magenta {
-  color: magenta !important;
+html[data-theme='dark'] a .magenta {
+  color: rgb(189, 147, 249) !important;
 
 }
 
 
-.magentaDom{
-  color: #cd90f5 !important;
+html[data-theme='dark'] .magentaDom{
+  color: rgb(189, 147, 249) !important;
 }
 
-a .magentaDom{
-  color: #cd90f5 !important;
+html[data-theme='dark'] a .magentaDom{
+  color: rgb(189, 147, 249) !important;
 }
 
-.magentaBold {
-  color: rgb(204, 51, 255) !important; 
+html[data-theme='dark'] .magentaBold {
+  color: rgb(189, 147, 249) !important; 
   font-weight: bold !important;
 }
 
-a .magentaBold {
-  color: rgb(204, 51, 255) !important; 
+html[data-theme='dark'] a .magentaBold {
+  color: rgb(189, 147, 249) !important; 
   font-weight: bold !important;
 }
 
 
 
-.naranja {
-  color: #f57340 !important;
+html[data-theme='dark'] .naranja {
+  color: rgb(250 166 140) !important;
 
 }
 
-a .naranja {
-  color: #f57340 !important;
+html[data-theme='dark'] a .naranja {
+  color: rgb(250 166 140) !important;
 }
 
-.naranja2 {
-  color: #f57340 !important;
+html[data-theme='dark'] .naranja2 {
+  color: rgb(250 166 140) !important;
 
 }
 
-a .naranja2 {
-  color: #f57340 !important;
+html[data-theme='dark'] a .naranja2 {
+  color: rgb(250 166 140)!important;
 
 }
 
 /* --------------------------   */
+
+html[data-theme='light'] rojo {
+  color: rgba(238, 83, 142, 0.89) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .rojo {
+  color: rgba(238, 83, 142, 0.89) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .rojo {
+  color: rgba(238, 83, 142, 0.89) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light']  a .rojo {
+  color: rgba(238, 83, 142, 0.89) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light']  .azul {
+  color:rgb(98, 114, 164) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .azul {
+  color:rgb(98, 114, 164) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .verde {
+  color:rgb(80, 250, 123) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .verde {
+  color: rgb(80, 250, 123) !important;
+  font-weight: bold !important;
+}
+
+
+html[data-theme='light'] .magenta {
+  color: rgb(156, 103, 230) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .magenta {
+  color: rgb(156, 103, 230) !important;
+  font-weight: bold !important;
+}
+
+
+html[data-theme='light'] .magentaDom{
+  color: rgb(156, 103, 230) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .magentaDom{
+  color: rgb(156, 103, 230) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .magentaBold {
+  color: rgb(156, 103, 230) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .magentaBold {
+  color: rgb(156, 103, 230) !important; 
+  font-weight: bold !important;
+}
+
+
+
+html[data-theme='light'] .naranja {
+  color: rgb(250 166 140) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .naranja {
+  color: rgb(250 166 140) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .naranja2 {
+  color: rgb(250 166 140) !important;
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] a .naranja2 {
+  color: rgb(250 166 140)!important;
+  font-weight: bold !important;
+}
+
+
+
+
+
+
+/* ------------------------------------ */
 
 
 
@@ -1013,5 +1115,9 @@ a .naranja2 {
   line-height: 1.2;
   z-index: 2 !important;
   text-align: center;
+}
+
+*  {
+  box-sizing: none;
 }
 

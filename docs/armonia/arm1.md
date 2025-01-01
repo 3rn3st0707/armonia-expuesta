@@ -131,14 +131,7 @@ y la siguiente más simple sumen 12 semitonos se da con todos los
 intervalos de la escala, acá van los pares completos con la
 nomenclatura en números romanos que pueden checkear usando <a class='lnk'  href="#esc-aco" >las escalas mayores y menores</a>:
 
-
-
 </p>
-
-
-
-
-
 
 <pre>
 1/1  unisono (I cero semitonos)<br />
@@ -412,6 +405,8 @@ Pero esta es desde ya la más común, en la práctica de la
 guitarra usualmente se toca primero esa nota y luego las demás, de tal
 forma de diferenciar claramente una <a target="_blank" href="https://es.wikipedia.org/wiki/L%C3%ADnea_de_bajo" >línea de bajo</a>, técnica que por ejemplo, es muy evidente en los patrones rítmicos del <a target="_blank" href="http://www.etc.ch/%7Ejason/tabs.html" >bossanova</a>, pero si escuchan con atención se darán cuenta de que es el estándard también en el pop, el rock y muchos otros géneros. 
 
+<a class="anchor" id="acordemenor"></a>
+
 Prestemos ahora un poco de atención a las diferencias entre la <a class="lnk"  href="#esc-aco" >escala
 mayor</a> y la menor: mientras que los grados continúan iguales en los casos de
 I, II, IV y V, los intervalos que antes ocupaban III, VI y
@@ -584,7 +579,7 @@ Para entenderlo mejor he distribuido en todo el diapasòn una escala mayor (empi
 <center>
 
 <img  class="imgX"
-  src={require('/opt/lampp/htdocs/armoniaExpuesta/static/img/major16.png').default}
+  src={require('@site/static/img/major16.png').default}
 /> 
 
 </center>
@@ -592,11 +587,11 @@ Para entenderlo mejor he distribuido en todo el diapasòn una escala mayor (empi
 
 <div class="divCenter">
 
-<a href="#tritono"  class="lnk">acorde mayor</a> (<span class="azul">azul</span> en el gráfico)
+<a href="#acordes"  class="lnk">acorde mayor</a> (<span class="azul">azul</span> en el gráfico)
 
 <br />
 
- <a href="#tritono"  class="lnk">acorde menor</a> (<span class="rojo">rojo</span> en el gráfico)
+ <a href="#acordemenor"  class="lnk">acorde menor</a> (<span class="rojo">rojo</span> en el gráfico)
  
  
 <br />
@@ -813,7 +808,7 @@ agregaremos su propia <span class="magentaBold">bVII</span> (<span class="magent
 
 
 <code> 
-G mayor (320003) (V de C ver <a class="lnk"  href="#laclave">otras claves</a>)<br />
+G mayor (320003) (V de C)<br />
 
  |-----+-----+--G--+-----+-----+-----+
 B|-----+-----+-----+-----+-----+-----+
@@ -884,7 +879,7 @@ históricamente relacionados a la resolución (ii-V y IV-V):
 <code>  
 
 
- D menor (xx0231, ii de C, ver <a class="lnk"  href="#laclave">otras claves</a>)
+ D menor (xx0231, ii de C)
 
  |--<span class="magentaBold">F</span>--+-----+-----+-----+-----+-----+
  &nbsp;|-----+-----+--D--+-----+-----+-----+
@@ -1016,7 +1011,7 @@ Intro: E7 (076750) por varios compases.
 <span class="rojo">C</span>: <a class="lnk"  href="/armonia/arm3#biii" >bIII prestado del modo paralelo menor</a>
 </code>
 
-Otro caso en clave de A donde se utiliza insistentemente E7 en el comienzo (con su famoso riff tocado sobre este acorde) es Pretty Woman//.
+Otro caso en clave de A donde se utiliza insistentemente E7 en el comienzo (con su famoso riff tocado sobre este acorde) es <a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty woman</a>.
 
 
 <a class="anchor" id="tension"></a>
@@ -1622,7 +1617,7 @@ Esto es muy importante para la composición, al punto de que con solo 3 acordes,
 <center>
 
 <img  class="imgX"
-  src={require('/opt/lampp/htdocs/armoniaExpuesta/static/img/descendente.png').default}
+  src={require('@site/static/img/descendente.png').default}
 /> 
 
 </center>
@@ -1631,7 +1626,7 @@ Esto es muy importante para la composición, al punto de que con solo 3 acordes,
 <center>
 
 <img  class="imgX"
-  src={require('/opt/lampp/htdocs/armoniaExpuesta/static/img/ascendente.png').default}
+  src={require('@site/static/img/ascendente.png').default}
 /> 
 
 </center>
