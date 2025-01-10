@@ -110,15 +110,15 @@ acordes, ambos en la misma clave por supuesto"
 El siguiente gráfico nos muestra cual es dicho "orden" en las principales claves:
 
 <code> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="azul">I</span>       ii      iiiIV       V       <span class="rojo">vi</span>     VII  I
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="azul">I</span>       ii      iii IV      V       <span class="rojo">vi</span>     VII  I
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/B  /   /C#m/   /D#m/E  /   /F# /   /G#m/   /A#º/B
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /C
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /Eº /F
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|B  |   |C#m|   |D#m|E  |   |F# |   |G#m|   |A#º|B
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|F  |   |Gm |   |Am |Bb |   |B  |   |Dm |   |Eº |F
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|G  |   |Am |   |Bm |B  |   |D  |   |Em |   |F#º|G
 </code>
 
 Acá podemos demostrar graficamente, al distribuir la escala mayor en todo el diapason y dibujar los acordes de la clave sobre las notas correspondintes, que si se mantienen en dicho orden, todos los acordes estan conformados por notas ya presentes en la escala mayor que les da origen:
@@ -141,11 +141,11 @@ El problema? el acorde RE mayor no es natural de la clave diatónica de MI mayor
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
  
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
-&nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   /Em</span> 
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;<span class="trasluz">|Em |   |F#º|G  |   |Am |   |Bm |C  |   |</span><a class="rojo">D</a><span class="trasluz">  |   |Em</span> 
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/Allmyloving-tabs-128315.html" >All My Loving</a> <a target="_blank" href="https://www.youtube.com/watch?v=6qeLulygOTk"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -168,21 +168,21 @@ Estos acordes requieren el conocimiento del funcionamiento de la clave para pode
 
 El <a class="lnk"  href="/armonia/arm3">Modulo 3</a> del presente estudio esta dedicado a los <a class="lnk"  href="/armonia/arm3#prestados">Acordes Prestados del Modo Paralelo Menor</a> y es, a mi entender la parte más reveladora de este estudio dado que han sido aún poco tratados por el estudio tradicional de la armonía por lo cual permanecen como un autentico secreto industrial dentro del oficio de músico.
 
-Finalmente la tercera cuestión en la que me enfocaré para fundamentar mi tesis se puede considerar una derivaciòn màs compleja de la primera:
+Finalmente la tercera cuestión en la que me enfocaré para fundamentar mi tesis se puede considerar una derivación más compleja de la primera:
 
-Los mòdulos incluyen muchos trucos "[guestálticos](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt)" es decir, tomandolo de la versiòn visual del concepto, juegos donde la forma del objeto es sugerida casi inconcientemente a partir de partes aisladas de su contorno.
-
-
-En su analogìa musical estos juegos consisten usualmente en sugerir mediante acordes una clave pero sin dejarla tampoco firmemente establecida como en los casos citados en el capìtulo <a class="lnk"  href="/armonia/arm2#ambi">Ambigüedad Tonal</a> 
+Los módulos incluyen muchos trucos "[guestálticos](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt)" es decir, tomandolo de la versión visual del concepto, juegos donde la forma del objeto es sugerida casi inconcientemente a partir de partes aisladas de su contorno.
 
 
-Caso similar el juego de inspiraciòn *estructuralista* donde se juega con el hecho de que un mismo acorde tiene diferentes funciones o <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> (es decir se identifica con diferentes numeros romanos) en el contexto de diferentes claves utilizadas en una misma canciòn como se ve en los casos de los capìtulos <a class="lnk"  href="/armonia/arm3#refunc">bVII Prestado Refuncionalizado como IV</a> y <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>.
+En su analogía musical estos juegos consisten usualmente en sugerir mediante acordes una clave pero sin dejarla tampoco firmemente establecida como en los casos citados en el capítulo <a class="lnk"  href="/armonia/arm2#ambi">Ambigüedad Tonal</a> 
 
 
-Este tipo de trucos formales reafirman la tesis dado que para que dichos juegos en torno a la clave como objeto o forma completa funcionen esta debe tener una correlaciòn con las <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >inclinaciones naturales del oido humano</a> dado que el oyente promedio ingnora por completo que es la clave tal como esta definida formalmente pero estos trucos funcionan perfectamente igual con ellos.
+Caso similar el juego de inspiración *estructuralista* donde se juega con el hecho de que un mismo acorde tiene diferentes funciones o <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> (es decir se identifica con diferentes numeros romanos) en el contexto de diferentes claves utilizadas en una misma canción como se ve en los casos de los capítulos <a class="lnk"  href="/armonia/arm3#refunc">bVII Prestado Refuncionalizado como IV</a> y <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>.
 
 
-En la secciòn <a class="lnk"  href="/category/armonia-expuesta#la-estructura-paralela" >La Estructura Paralela</a> de esta misma introduciòn veremos casos màs complejos de reinterpretaciòn y manipulaciòn tonal, pero antes debemos ocuparnos del formato de este ebook a fin de clarificar algunos puntos.
+Este tipo de trucos formales reafirman la tesis dado que para que dichos juegos en torno a la clave como objeto o forma completa funcionen esta debe tener una correlación con las <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >inclinaciones naturales del oido humano</a> dado que el oyente promedio ingnora por completo que es la clave tal como esta definida formalmente pero estos trucos funcionan perfectamente igual con ellos.
+
+
+En la sección <a class="lnk"  href="/category/armonia-expuesta#la-estructura-paralela" >La Estructura Paralela</a> de esta misma introdución veremos casos más complejos de reinterpretación y manipulación tonal, pero antes debemos ocuparnos del formato de este ebook a fin de clarificar algunos puntos.
 
 
 
@@ -215,11 +215,11 @@ Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatur
 
 <code> 
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">    i</span>
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">   i</span>
  
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
-&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><a class="rojo">Bb</a> <span class="trasluz">/   / Cm</span>
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
+&nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   |Cm</span>
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -244,54 +244,54 @@ Como pueden ver al pie del ejemplo, cada acorde "no diatonico" es asignado a un 
 
 También notarán que aquí no se incluye la canción completa sino un fragmento de la misma. 
 
-Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aùn en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
+Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
 
 
 Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
 
-Para una entender mejor como leer este ebook pasemos a la proxima secciòn...
+Para una entender mejor como leer este ebook pasemos a la proxima sección...
 
 
 ## La Estructura Paralela
 
 
-Este ebook tiene una estructura claramente lineal que se corresponde al orden de los 3 mòdulos y a los indices internos de cada uno de ellos. Y este es el orden que se recomienda seguir a quienes no tengan conocimiento previo de teorìa musical o esten leyendo este ebook por primera vez.
+Este ebook tiene una estructura claramente lineal que se corresponde al orden de los 3 módulos y a los indices internos de cada uno de ellos. Y este es el orden que se recomienda seguir a quienes no tengan conocimiento previo de teoría musical o esten leyendo este ebook por primera vez.
 
 
-Sin embargo la profusiòn de links internos tambièn esta pensada como una analogìa pràctica de los patrones <a href="/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionistas</a> que atraviezan el genero de la mùsica popular.
+Sin embargo la profusión de links internos tambièn esta pensada como una analogía práctica de los patrones <a href="/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionistas</a> que atraviezan el genero de la música popular.
 
 
-Esta idea vino a partir de notar que en las <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Alan Pollack's Notes on the Beatles</a> (de las cuales aprendì la mayor parte de lo que explico en el presente ebook) el Prof. Pollack analiza la relaciòn entre estructura y elementos de cada canciòn como una unidad cerrada, prestando poca atenciòn a los abundantes patrones que se repiten a lo largo del <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Corpus Beatle</a>.
+Esta idea vino a partir de notar que en las <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Alan Pollack's Notes on the Beatles</a> (de las cuales aprendí la mayor parte de lo que explico en el presente ebook) el Prof. Pollack analiza la relación entre estructura y elementos de cada canción como una unidad cerrada, prestando poca atención a los abundantes patrones que se repiten a lo largo del <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Corpus Beatle</a>.
 
 
-Mientras que esta omisiòn es entendible siendo el Prof. Pollack un musicólogo de formaciòn clàsica que por primera vez se aventuraba en el campo de la mùsica popular, este hecho no habìa sido pasado por alto por otro ilustre musicólogo y sociólogo, <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a>:
+Mientras que esta omisión es entendible siendo el Prof. Pollack un musicólogo de formación clásica que por primera vez se aventuraba en el campo de la música popular, este hecho no había sido pasado por alto por otro ilustre musicólogo y sociólogo, <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a>:
 
 
 >"Un juicio claro en lo que concierne a la relación de la música seria con la música popular puede ser conseguido solamente por medio de una atención estricta a la característica fundamental de la música popular: la estándarización, la estructura entera de la música popular está estandarizada... "
 
 >"En la música popular si se sacara algún detalle del contexto no afectaría el sentido musical; el oyente puede suplir el “marco” automáticamente, ya que éste es un mero automatismo musical. El comienzo del coro es reemplazable por el comienzo de otros muchos coros. La interrelación entre los elementos o la relación de los elementos con el todo no se vería afectada"
 
-Aquì entra de lleno el la profusa utilizaciòn de links internos para maximizar las posibilidad de comparar ejemplos entre sì y de esta forma entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aùn en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
+Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de esta forma entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
 
 
-Sin embargo, a este nuevo nivel de abstracciòn se le suman a su vez otros màs profundos aùn: 
+Sin embargo, a este nuevo nivel de abstracción se le suman a su vez otros más profundos aún: 
 
 
-Se ha popularizado en los ùltimos años la nociòn de *[Estructura Superficial/Estructura Profunda](https://es.wikipedia.org/wiki/Estructura_profunda)* como parte de la *[Gramatica Generativa](https://es.wikipedia.org/wiki/Gram%C3%A1tica_generativa)* propuesta por [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) pero el ensayo *[On the Analytic Systems of Noam Chomsky and Heinrich Schenker](https://www.amazon.com/Chomskys-Linguistics-Exposed-Analytic-Scientific/dp/B003IMAC5U)*, ademas de acusar a esta teorìa de reducionista, tambièn sostiene que se trata de un plagio del *<a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Musical Schenkeriano</a>* del cual tambièn era conocedor Theodor W. Adorno como evidencia la exposiciòn y crìtica que de la figura y teorìas de [Heinrich Schenker](https://es.wikipedia.org/wiki/Heinrich_Schenker) hace en *[On the Problem of Musical Analysis](https://music.arts.uci.edu/abauer/4.3/readings/Adorno_Problem_Musical_Analysis.pdf) <span class="pdf">[PDF]</span>*.
-
-
-
+Se ha popularizado en los últimos años la noción de *[Estructura Superficial/Estructura Profunda](https://es.wikipedia.org/wiki/Estructura_profunda)* como parte de la *[Gramatica Generativa](https://es.wikipedia.org/wiki/Gram%C3%A1tica_generativa)* propuesta por [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) pero el ensayo *[On the Analytic Systems of Noam Chomsky and Heinrich Schenker](https://www.amazon.com/Chomskys-Linguistics-Exposed-Analytic-Scientific/dp/B003IMAC5U)*, ademas de acusar a esta teoría de reducionista, tambièn sostiene que se trata de un plagio del *<a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Musical Schenkeriano</a>* del cual tambièn era conocedor Theodor W. Adorno como evidencia la exposición y crítica que de la figura y teorías de [Heinrich Schenker](https://es.wikipedia.org/wiki/Heinrich_Schenker) hace en *[On the Problem of Musical Analysis](https://music.arts.uci.edu/abauer/4.3/readings/Adorno_Problem_Musical_Analysis.pdf) <span class="pdf">[PDF]</span>*.
 
 
 
 
 
-Màs allà de las disputas sobre la validez estètica de cual o tal tipo de mùsica me parecio oportuno aprovechar la misma naturaleza reducionista de dichos patrones y estructuras presentes en la mùsica popular para explicarlas mediante la convinaciòn de links a formas màs simples, recurso <a href="/textosI/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionista</a> si los hay.
+
+
+
+Más allá de las disputas sobre la validez estètica de cual o tal tipo de música me parecio oportuno aprovechar la misma naturaleza reducionista de dichos patrones y estructuras presentes en la música popular para explicarlas mediante la convinación de links a formas más simples, recurso <a href="/textosI/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionista</a> si los hay.
 
 
 
 
-En donde esto resulta mas evidente es en el capìtulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulaciòn se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+En donde esto resulta mas evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulación se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
 Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de que los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones tipcamente resolutivas <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
@@ -302,13 +302,13 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
 
 &nbsp; <span class="trasluz">i       II  bIII    iv      v   bVI     bVII    i</span>
-&nbsp;<span class="trasluz">/Am /   /Bº /C  /   /Dm /   /Em /</span><span class="rojo">F</span><span class="trasluz">  /   /</span><span class="rojo">G</span><span class="trasluz">  /   /Am</span>   
+&nbsp;<span class="trasluz">|Am |   |Bº |C  |   |Dm |   |Em |</span><span class="rojo">F</span><span class="trasluz">  |   |</span><span class="rojo">G</span><span class="trasluz">  |   |Am</span>   
 
 &nbsp;             I       ii      iii IV      V       vi      VII I
-&nbsp;            /<span class="naranja2">C</span>  /   /<span class="naranja2">Dm</span> /   /Em /F  /   /<span class="naranja2">G</span>  /   /Am /   /Bº /C
+&nbsp;            |<span class="naranja2">C</span>  |   |<span class="naranja2">Dm</span> |   |Em |F  |   |<span class="naranja2">G</span>  |   |Am |   |Bº |C
 
 
 &nbsp;<a href="https://tabs.últimate-guitar.com/t/the_beatles/lady_madonna_ver3_crd.htm" target="_blank">Lady Madonna</a> <a href="https://www.youtube.com/watch?v=r9LJp39-lDE" target="_blank" ><i class="fa-solid fa-file-audio"></i></a>
@@ -341,6 +341,28 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 &nbsp;C/B: x20010
 &nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/tipos-de-acordes#sen-ton">ii-V-I</a> a bIII (C)
 </code>
+
+## Reduccionismo Tonal Vs Armonía Modal
+
+como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... 
+
+<details open>
+
+  <summary><h2>Otras Denominaciones De Los Prestados</h2></summary>
+
+Seguramente habran oido hablar de lo que aquí denominamos acordes prestado con otras denominaciones.
+
+Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="/armonia/arm3#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (iv) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
+
+Otra forma de "explicar" el acorde "<a class="lnk"  href="/armonia/arm3#prestados">bVII no diatonico</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde no-diatónico bVII y no <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
+
+Una denominación un poco más abarcativa es la de [acordes cromáticos](https://www.howmusicreallyworks.com/chapter-six-chords-progressions/chromatic-chords-progressions.html) dado que esta se puede explicar a partir de la linea <a href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" target="_blank">cromatica</a> que subyace a la progresión <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> que incluye a bVII, misma linea cromática que se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#triplep">triple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#biii" >bIII</a> y se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a>.
+
+Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este ebook, tal como se expresa en la sección <a class="lnk"  href="#la-estructura-paralela">La Estructura Paralela</a> utilizaremos de aquí en más la denominación de "acordes prestados" en cualquier de los casos.
+
+
+
+</details>
 
 ## Indice Alfabetico de Ejemplos
 <div class="ejemplos">

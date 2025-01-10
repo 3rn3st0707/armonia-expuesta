@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Dominantes Secundarios
 
- <hr style={{  marginTop: '2em' }} />
+ <hr style={{  marginTop: '2em' }}  />
 
 <p class="md_footnote_size">
-Este mòdulo se ocupa principalmente de ejemplos con dominantes secundarios, mientras que el mòdulo 1 se ocupa principalmente de aspectos puramente diatonicos y el mòdulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitira navegar libremente entre mòdulos pero para los principiantes recomiendo una lectura màs lineal de estos.
+Este módulo se ocupa principalmente de ejemplos con dominantes secundarios, mientras que el módulo 1 se ocupa principalmente de aspectos puramente diatonicos y el módulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitira navegar libremente entre módulos pero para los principiantes recomiendo una lectura más lineal de estos.
 </p>
 
- <hr style={{  marginBottom: '2em' }} />
+ <hr style={{  marginBottom: '2em' }}  />
 
 
 <a class="anchor" id="domiv"></a>
@@ -27,7 +27,7 @@ Por tener ese parentesco tan cercano de ser IV de la original, la nueva clave de
 
 
 
-Está claro que <a class="lnk"  href="/category/tipos-de-acordes#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> cómo haciamos en las claves menores en (caso de la modulaciòn entre <a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde que resulte ser <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >el dominante</a> de la nueva clave. 
+Está claro que <a class="lnk"  href="/category/tipos-de-acordes#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> cómo haciamos en las claves menores en (caso de la modulación entre <a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde que resulte ser <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >el dominante</a> de la nueva clave. 
 
 
 
@@ -37,7 +37,7 @@ Ese acorde resulta ser el acorde I (<a target="_blank" href="https://en.wikipedi
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII   I
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/  D  
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|  D  
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/this_boy_crd.htm" >This Boy</a> <a target="_blank" href="https://www.youtube.com/watch?v=OUT7W4mrF_0"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -121,7 +121,7 @@ Pero la sección que sigue continúa con el tipo de puente años 50s que recién
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII   I
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/  D        
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|  D        
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/290339.html" >Anna</a> <a target="_blank" href="https://www.youtube.com/watch?v=f08j5MornwU"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -170,7 +170,7 @@ En este caso el acorde E7 (<a class="lnk"  href="#dom-sec" >VdeV</a>) corta dich
 <code>
 
  I       ii      iii IV      V       vi      VII  I
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A 
+|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º| A 
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/272417.html" >In my life</a> <a target="_blank" href="https://youtu.be/z5CjaqZb5nM" ><i class="fa-solid fa-file-audio"></i></a>
@@ -202,11 +202,11 @@ El próximo ejemplo es una canción que en su puente hace uso de <a class="lnk" 
 
 
 <code>
-&nbsp; I       ii      iii IV      V       vi     VII  I<br />
-&nbsp; <span class="trasluz">i       ii  bIII    </span><a class="rojo">iv</a><span class="trasluz">      v  </span><a class="rojo">bVI</a><span class="trasluz">     </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br /><br />
+&nbsp; I       ii      iii IV      V       vi     VII  I<br  />
+&nbsp; <span class="trasluz">i       ii  bIII    </span><a class="rojo">iv</a><span class="trasluz">      v  </span><a class="rojo">bVI</a><span class="trasluz">     </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br  /><br  />
  
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D<br />
-&nbsp;<span class="trasluz">/Dm /   /Eº /F  /   /</span><a class="rojo">Gm</a><span class="trasluz"> /   /Am /</span><a class="rojo">Bb</a><span class="trasluz"> /   /</span><a class="rojo">C</a><span class="trasluz">  /   /Dm</span><br /><br />    
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D<br  />
+&nbsp;<span class="trasluz">|Dm |   |Eº |F  |   |</span><a class="rojo">Gm</a><span class="trasluz"> |   |Am |</span><a class="rojo">Bb</a><span class="trasluz"> |   |</span><a class="rojo">C</a><span class="trasluz">  |   |Dm</span><br  /><br  />    
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/if-fell/" >If I fell</a> <a target="_blank" href="https://youtu.be/8g8ayY-AVWk"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -300,7 +300,7 @@ En este caso <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a tar
 
 
 
-Esto ya tenìa en los Beatles un antecedente en <a class="lnk"  href="#ivcrom" >Anna</a>, uno de los Covers incluido en su album debùt del año anterior y resulto en su momento muy original, dado que siendo el truco IV mayor - iv menor uno de los clichés más usados de la historia de la música, usualmente iv cae en un tiempo dèbil, como en la mayor parte de estos casos:
+Esto ya tenía en los Beatles un antecedente en <a class="lnk"  href="#ivcrom" >Anna</a>, uno de los Covers incluido en su album debút del año anterior y resulto en su momento muy original, dado que siendo el truco IV mayor - iv menor uno de los clichés más usados de la historia de la música, usualmente iv cae en un tiempo dèbil, como en la mayor parte de estos casos:
 
 
 
@@ -320,8 +320,8 @@ Noten que por estar muchas de estás canciones escritas o inspiradas en el estil
 &nbsp; I      ii       iii IV      V       vi     VII   I
 &nbsp; i      ii  bIII     <a class="lnk"  href="#ivcrom">iv</a>      v   <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a>    <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>      i
  
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/ E
-&nbsp;/Em /   /F#º/G  /   /<a class="rojo">Am</a> /   /Bm /<span class="rojo">C</span>  /   /<span class="rojo">D</span>  /   / Em 
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º| E
+&nbsp;|Em |   |F#º|G  |   |<a class="rojo">Am</a> |   |Bm |<span class="rojo">C</span>  |   |<span class="rojo">D</span>  |   | Em 
       
 
 &nbsp;<a href="https://tabs.últimate-guitar.com/t/the_wonders/that_thing_you_do_crd.htm" target="_blank">That thing you do</a> <a href="https://youtu.be/jk2e6ycwl90"  target="_blank"><i class="fa-solid fa-file-audio"></i></a>
@@ -432,7 +432,7 @@ En el próximo ejemplo también vamos a marcar <span class="naranja">ii-V</span>
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/C  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº / C             
+&nbsp;|C  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº | C             
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/ill-follow-the-sun/" >I'll follow the sun</a> <a target="_blank" href="https://youtu.be/OgCkeYGlNXc" ><i class="fa-solid fa-file-audio"></i></a>
@@ -514,8 +514,8 @@ Pero como en el contexto de una clave mayor el acorde iv menor resulta ser un <a
 &nbsp; I      ii       iii IV      V       vi     VII   I
 &nbsp; <span class="trasluz">i      ii  bIII     iv      v   </span><span class="rojo">bVI</span><span class="trasluz">    bVII      i</span>
  
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
-&nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /</span><span class="rojo">C</span><span class="trasluz">  /   /D  /   /Em</span>     
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;<span class="trasluz">|Em |   |F#º|G  |   |Am |   |Bm |</span><span class="rojo">C</span><span class="trasluz">  |   |D  |   |Em</span>     
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/205976.html" >I saw her standing there</a> <a target="_blank" href="https://youtu.be/LbC0evIHkDo"  ><i class="fa-solid fa-file-audio"></i></a> 
@@ -580,7 +580,7 @@ La progresión <a class="lnk"  href="#domiv">VdeIV</a>-IV-iv-I tampoco escapo a 
 <code>
 
  I       ii      iii IV      V       vi      VII  I
-/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D
+|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/dearprudence-tabs-169857.html" >Dear Prudence</a> <a target="_blank" href="https://www.youtube.com/watch?v=UQmznZFi8Ho"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -613,7 +613,7 @@ Ahora vamos a ver una canción del mismo album, que está tocada con el mismo pa
 <code>
 
  I       ii      iii IV      V       vi      VII  I
-/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D      
+|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D      
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/julia_ver2_tab.htm" >Julia</a> <a target="_blank" href="https://youtu.be/VyX9sf5uJEg" ><i class="fa-solid fa-file-audio"></i></a>
@@ -658,8 +658,8 @@ Finalmente nos queda por ver el caso en el cual a la línea <a target="_blank" h
 
 <code>
 
- I       ii      iii IV      V       vi     VII  I
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/ /G#º/  A  
+ I       ii      iii IV      V       vi     VII I
+|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|  |G#º|A  
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/r/rod_stewart/i_was_only_joking_crd.htm" >I was only joking</a> <a target="_blank" href="https://www.youtube.com/watch?v=7UWSTh2ogZA"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -831,7 +831,7 @@ El caso de <a class="lnk"  href="#ijustcalled" >I Just Called To Say I Love You<
 
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
-<br />
+<br  />
 
 <a class="anchor" id="blackbird"></a>
 
@@ -853,10 +853,10 @@ Pero en este caso no incluire el patron de <a target="_blank" href="http://www.g
 &nbsp; I      ii       iii IV      V       vi     VII   I
 &nbsp;&nbsp;<span class="trasluz">i      ii  </span><a class="rojo">bIII     iv      v   </a>bVI<a class="rojo">    bVII</a><span class="trasluz">      i</span>
  
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/&nbsp;G
-&nbsp;<span class="trasluz">/Gm /   /Aº /</span><span class="rojo">Bb</span><span class="trasluz"> /   /</span><span class="rojo">Cm</span><span class="trasluz"> /   /</span><span class="rojo">Dm</span><span class="trasluz"> /D# /   /</span><span class="rojo">F</span><span class="trasluz">  /   /&nbsp;Gm </span>
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|&nbsp;G
+&nbsp;<span class="trasluz">|Gm |   |Aº |</span><span class="rojo">Bb</span><span class="trasluz"> |   |</span><span class="rojo">Cm</span><span class="trasluz"> |   |</span><span class="rojo">Dm</span><span class="trasluz"> |D# |   |</span><span class="rojo">F</span><span class="trasluz">  |   |&nbsp;Gm </span>
                                                            
-&nbsp;                    /C  /   /Dm /   /Em /F  /   / G /   /Am
+&nbsp;                    |C  |   |Dm |   |Em |F  |   | G |   |Am
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/23937.html" >Blackbird</a> <a target="_blank" href="https://youtu.be/Jn-DcEjUuQw" ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -891,7 +891,7 @@ Pero en este caso no incluire el patron de <a target="_blank" href="http://www.g
 </code>
 
 ><p class="md_footnote_size">Recuerden que acá los acordes están representados cómo <a class="lnk"  href="/category/tipos-de-acordes#esc-aco" >tríadas</a> pero 
-el arreglo original (de guitarra al menos) en realidad son <a class="lnk"  href="/category/tipos-de-acordes#esc-arm" >díadas</a> màs una <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a> (G tercera cuerda al aire)
+el arreglo original (de guitarra al menos) en realidad son <a class="lnk"  href="/category/tipos-de-acordes#esc-arm" >díadas</a> más una <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a> (G tercera cuerda al aire)
 </p>
 
 Acá podemos ver cómo sobre la frase "Take these broken wings and learn to fly" se da una cromática ascendente que coincide con la raíz de cada acorde (C-<span class="verde">C#º</span>-D-<a class="verde">D#º</a>-Em) siendo está cromática C-C#-D-D#-E. 
@@ -912,7 +912,7 @@ Dado que el acorde Am7 incluye en sus notas el acorde C (<a class="lnk"  href="/
 
  <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
-<br />
+<br  />
 
  El estribillo comienza con la progresión F-Em-Dm-C que se puede interpretar cómo IV-iii-ii-I en clave de C, pero en los casos de F y Dm nos muestran cómo la supeposición de una clave mayor (G en este caso) con la clave de su IV (en este caso C) genera acordes que, desde la clave original (G) se consideran <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo</a>. 
 
@@ -933,7 +933,7 @@ En <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a>
 
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
-<br />
+<br  />
 
 En <a class="lnk"  href="/category/tipos-de-acordes#michelledim" >Michelle</a> podemos ver que utiliza <a class="lnk"  href="#des-min" >está progresión</a> sobre Fm cómo intro de guitarra (<a class="lnk"  href="notasadmichell.htm" >ver más</a>) con el truco de que, mediante el V común (C) a ambas <a class="lnk"  href="" >claves paralelas</a>, la estrofa empieza con el acorde de F mayor (ver <a class="lnk"  href="" >claves paralelas</a>). 
 
@@ -947,10 +947,10 @@ En el ejemplo que viene pasa lo contrario: tras un comienzo en F mayor con los a
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/F  /   /Gm /   /Am /Bb /   /<span class="magentaDom">C</span>  /   /Dm /   /E* / F 
+&nbsp;|F  |   |Gm |   |Am |Bb |   |<span class="magentaDom">C</span>  |   |Dm |   |E* | F 
 
 &nbsp; i       II  bIII    iv      V   bVI     bVII     i
-&nbsp;/Fm /   /G* /G# /   /Bbm/   /<span class="magentaDom">C</span>  /Db /   /Eb /   / Fm    
+&nbsp;|Fm |   |G* |G# |   |Bbm|   |<span class="magentaDom">C</span>  |Db |   |Eb |   | Fm    
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/fixing-hole/" >Fixing A Hole</a> <a target="_blank" href="https://youtu.be/Q-EUwlV1bSE" ><i class="fa-solid fa-file-audio"></i></a>
@@ -1025,10 +1025,10 @@ Otro ejemplo de "secuenciación" de la relación <a class="lnk"  href="/category
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº | C
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/<span class="naranja">F</span>  /   /<span class="naranja">Gm</span> /   /Am /Bb /   /<span class="naranja">C</span>  /   /Dm /   /E* / F
+&nbsp;|<span class="naranja">F</span>  |   |<span class="naranja">Gm</span> |   |Am |Bb |   |<span class="naranja">C</span>  |   |Dm |   |E* | F
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/the-beatles/from-me-to-you" >From Me To You</a> <a target="_blank" href="https://youtu.be/oJB7igUaWW0" ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -1118,10 +1118,10 @@ Para entenderlo mejor veamos un caso donde también se modula de G a C pero atra
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G 
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º| G 
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/<span class="naranja">C</span>  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº / C    
+&nbsp;|<span class="naranja">C</span>  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº | C    
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/307785.html" >I want to hold your hand</a> <a target="_blank" href="https://www.youtube.com/watch?v=jenWdylTtzs"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1179,15 +1179,15 @@ En <a class="lnk"  href="#blackbird">Blackbird</a> además de darse esa variante
 
 
 
-Para graficarlo màs claramente aún vamos a ver una canción que también modula de G a C con F y Dm (IV y ii de C) como acordes de "contraste" respecto a G, pero sin que estos resuelvan inmediatamente con lo cual se genera un deliverado efecto de <a class="lnk"  href="#ambi">ambigüedad tonal</a> que hace aún más sentida la llegada a la nueva clave de C:
+Para graficarlo más claramente aún vamos a ver una canción que también modula de G a C con F y Dm (IV y ii de C) como acordes de "contraste" respecto a G, pero sin que estos resuelvan inmediatamente con lo cual se genera un deliverado efecto de <a class="lnk"  href="#ambi">ambigüedad tonal</a> que hace aún más sentida la llegada a la nueva clave de C:
 
 <code>
 
 &nbsp; I       ii      iii IV      V       vi <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /<span class="rojo">F</span>  /F#º/ G 
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |<span class="rojo">F</span>  |F#º| G 
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/<span class="naranja">C</span>  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº / C    
+&nbsp;|<span class="naranja">C</span>  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº | C    
 
 
 &nbsp;<a target="_blank" href="https://www.azchords.com/B/Bangles-tabs-4870/eternalflame-tabs-100743.html" >Eternal Flame</a> <a target="_blank" href="https://youtu.be/PSoOFn3wQV4" ><i class="fa-solid fa-file-audio"></i></a>
@@ -1265,10 +1265,10 @@ El uso de <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >IV-V-I</a> 
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º| A
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/<span class="naranja">D</span>  /   /Em /   /F#m/<span class="naranja">G</span>  /   /<span class="naranja">A</span>  /   /Bm /   /C#º/ D   
+&nbsp;|<span class="naranja">D</span>  |   |Em |   |F#m|<span class="naranja">G</span>  |   |<span class="naranja">A</span>  |   |Bm |   |C#º| D   
 
 
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/Babasonicos/el_loco-4.shtml" >El Loco</a> <a target="_blank" href="https://youtu.be/A2cKv33Gkks" ><i class="fa-solid fa-file-audio"></i></a>
@@ -1312,7 +1312,7 @@ El uso de <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >IV-V-I</a> 
 &nbsp;<span class="naranja">G</span>-<span class="naranja">A</span>-<span class="naranja">D</span>: <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">IV-V-I</a> a D.
 </code>
 
-Dado que el acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> y el acorde ii de una modulaciòn <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >ii-V-I</a> al grado IV son <a class="lnk"  href="/category/tipos-de-acordes#aco-rel">acordes relativos</a> vamos a ver un par de casos donde la presencia de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> "adelanta" una posterior modulación al grado IV mediante la progresión <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >ii-V-I</a>.
+Dado que el acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> y el acorde ii de una modulación <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >ii-V-I</a> al grado IV son <a class="lnk"  href="/category/tipos-de-acordes#aco-rel">acordes relativos</a> vamos a ver un par de casos donde la presencia de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> "adelanta" una posterior modulación al grado IV mediante la progresión <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >ii-V-I</a>.
 
 
 
@@ -1330,7 +1330,7 @@ Pero luego en el puente la canción hace una <a target="_blank" href="https://es
 
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
-<br />
+<br  />
 
 El otro caso donde se da esto es en <a class="lnk"  href="/armonia/arm3#shesaid">She said she said</a> cuya estrofa inicial podemos ver clickeando el link. 
 
@@ -1358,7 +1358,7 @@ Para estudiarlos más sistematicamente vamos a tener que volver una vez más sob
 <code>
 
  I       ii      iii IV      V       vi      VII I
-/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
                                                              
 &nbsp;<a target="_blank" href="http://www.songsterr.com/A/wsa/pink-floyd-if-chords-s50525"  >If</a> <a target="_blank" href="https://www.youtube.com/watch?v=e2G8EWy-plM"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1382,7 +1382,7 @@ Y obiamente la vuelta puede ser más larga:
 <code>
 
  I       ii      iii IV      V       vi      VII I
-/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/the-beatles/Aint-she-sweet" >Ain't She Sweet</a> <a target="_blank" href="https://www.youtube.com/watch?v=ENEL9-kadDE"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1414,7 +1414,7 @@ La versión más corta de este turnaround (VdeV-V-I) suena a country-blues y es 
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G   
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º| G   
 
 
 &nbsp;<a href="https://www.azchords.com/r/rollingstones-tabs-3359/honkytonkwomen-tabs-35665.html" target="_blank">Honky Tonk Woman</a> <a href="https://youtu.be/A6M77oHD110"  target="_blank"><i class="fa-solid fa-file-audio"></i></a>
@@ -1453,7 +1453,7 @@ Debido a una variación que se introduce en la segunda repetición de dicha estr
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
                                                           
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/the-beatles/i-call-your-name" >I Call Your Name</a> <a target="_blank" href="https://www.youtube.com/watch?v=rRaciKyonHQ"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -1500,8 +1500,8 @@ Ahora veamos un caso de <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un con
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /Eº / F 
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |Eº |F 
 
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/the-beatles/yesterday" >Yesterday</a> <a target="_blank" href="https://youtu.be/Ho2e0zvGEWE"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1544,8 +1544,8 @@ Pero volviendo al ii-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I del anterior
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G   
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G   
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/219839.html" >She loves you</a> <a target="_blank" href="https://www.youtube.com/watch?v=BOuu88OwdK8"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1621,11 +1621,11 @@ Pero ya en <a class="lnk"  href="/category/tipos-de-acordes#laclave" >clave</a> 
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
+&nbsp; I      ii       iii IV      V       vi     VII  I
 &nbsp; <span class="trasluz">i      ii</span>  <span class="rojo">bIII</span>     <span class="trasluz">iv      v</span>   <span class="rojo">bVI</span>    <span class="rojo">bVII</span>      <span class="trasluz">i</span>
  
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/ E
-&nbsp;<span class="trasluz">/Em /   /F#º/</span><span class="rojo">G</span><span class="trasluz">  /   /Am /   /Bm /</span><span class="rojo">C</span><span class="trasluz">  /   /</span><span class="rojo">D</span><span class="trasluz">  /   / Em</span>
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;<span class="trasluz">|Em |   |F#º|</span><span class="rojo">G</span><span class="trasluz">  |   |Am |   |Bm |</span><span class="rojo">C</span><span class="trasluz">  |   |</span><span class="rojo">D</span><span class="trasluz">  |   | Em</span>
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/o/oasis/cigarettes_and_alcohol_ver2_tab.htm" >Cigarettes and Alcohol</a> <a target="_blank" href="https://youtu.be/UJDK8X5K9mw"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1688,8 +1688,8 @@ Veamo ahora un caso que tambièn utiliza VdeV-IV-I en la misma clave (F#-A-E) y 
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi     VII   I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/ E
+&nbsp; I       ii      iii IV      V       vi     VII  I
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
 &nbsp;<a target="_blank" href="">Zoom</a> <a target="_blank" href="https://youtu.be/UJDK8X5K9mw"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -1711,7 +1711,7 @@ Veamo ahora un caso que tambièn utiliza VdeV-IV-I en la misma clave (F#-A-E) y 
 
 
 
-La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y estrofas también nos lleva a un recordado hit beatle, de hecho el màs asociado con esta progresion al punto de que algunos la llaman <a target="_blank" href="https://youtu.be/5ANjO8ypYfQ" >la progresiòn "Eight Days A Week"</a>:
+La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y estrofas también nos lleva a un recordado hit beatle, de hecho el más asociado con esta progresion al punto de que algunos la llaman <a target="_blank" href="https://youtu.be/5ANjO8ypYfQ" >la progresión "Eight Days A Week"</a>:
 
 
 
@@ -1721,8 +1721,8 @@ La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/ D     
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D     
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/eightdaysaweek-tabs-100958.html" >Eight Days A Week</a> <a target="_blank" href="https://www.youtube.com/watch?v=MbszkbwhCK0"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -1763,8 +1763,8 @@ Las variaciones que incluian <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I cont
 
 <code>
 
-&nbsp; I       ii     iii  IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G
+&nbsp; I       ii     iii  IV      V       vi      VII I
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rolling_stones/you_cant_always_get_what_you_want_crd.htm" >You can't always get what you want</a> <a target="_blank" href="https://youtu.be/5BykilS816E" ><i class="fa-solid fa-file-audio"></i></a>
@@ -1809,18 +1809,18 @@ Para cerrar esta sección vamos a ver una cancion de los 90s que mezcla la progr
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp;<span class="trasluz"> i      ii  bIII     iv      v   bVI</span>    <a class="rojo">bVII</a><span class="trasluz">     i</span>
 
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/ E
-&nbsp;<span class="trasluz">/Em /   /F#º/G  /   /Am /   /Bm /C  /   /</span><a class="rojo">D</a><span class="trasluz">  /   / Em</span>
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;<span class="trasluz">|Em |   |F#º|G  |   |Am |   |Bm |C  |   |</span><a class="rojo">D</a><span class="trasluz">  |   |Em</span>
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/m/meat-puppets/222400.html" >Backwater</a> <a target="_blank" href="https://youtu.be/DzlGsojuEmU"  ><i class="fa-solid fa-file-audio"></i></a>
 
 
 &nbsp;E                         <a class="magentaDom">F#</a>
-&nbsp;And when I wake up in the morning
+&nbsp;A orning
 &nbsp;<span class="rojo">C</span>                          E
 &nbsp;To feel the daybreak on my face
 &nbsp;E                                          <a class="magentaDom">F#</a>
@@ -1853,10 +1853,10 @@ Si bien la resolución VdeV-IV-I que vimos en la sección anterior es tal vez el
 
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII  I<br />
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/ D
+&nbsp; I       ii      iii IV      V       vi      VII I<br  />
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
 
-<br /><br />
+<br  /><br  />
 
 &nbsp;<a target="_blank" href="https://tabs.ultimate-guitar.com/tab/little-eva/the-locomotion-chords-964232">Locomotion</a>
 
@@ -1880,10 +1880,10 @@ Si bien la resolución VdeV-IV-I que vimos en la sección anterior es tal vez el
 La progresión IV-VdeV-I sería reproducida en la clave de A (D-<a class="magentaDom">B7</a>-A) con un tempo similar en un hit posterior:
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII  I<br />
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
+&nbsp; I       ii      iii IV      V       vi      VII I<br  />
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
 
-<br /><br />
+<br  /><br  />
 
 &nbsp;<a target="_blank" href="https://tabs.ultimate-guitar.com/tab/the-beatles/here-comes-the-sun-chords-1726934">Here Comes The Sun</a>
 
@@ -1906,10 +1906,10 @@ En el próximo ejemplo, en la misma clave, vemos la misma resolución <a class="
 
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII  I<br />
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
+&nbsp; I       ii      iii IV      V       vi      VII I<br  />
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
 
-<br /><br />
+<br  /><br  />
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/byrds/feel-whole-lot-better/">Feel A Whole Lot Better</a>
 
@@ -1956,7 +1956,7 @@ Sin embargo esto es aún más común en los casos de <a class="lnk"  href="#dom-
 <code>
 
 &nbsp; I      ii      iii IV       V       vi      VII I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E   
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |Dº |Eb  
 
                                                           
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/day_tripper_ver2_tab.htm" >Day Tripper</a> <a target="_blank" href="https://youtu.be/NZacSRcdN88"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2027,8 +2027,8 @@ Como pueden ver <a class="lnk"  href="#dom-sec" >VdeV</a> se mantiene por una ca
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/guns-n-roses/patience/" >Patience</a> <a target="_blank" href="https://www.youtube.com/watch?v=ErvgV4P6Fzc"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -2083,7 +2083,7 @@ La banda insistiria con el recurso, pero en este caso empezando desde el lado de
 <code>
 
 i       II  bIII    iv      v   bVI      bVII    i
-Em /   /F#º/G  /   /Am /   /Bm /C   /   /D  /   /Em
+Em |   |F#º|G  |   |Am |   |Bm |C   |   |D  |   |Em
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com/g/gunsnroses-tabs-1732/civilwar-tabs-106897.html" >Civil War</a> <a target="_blank" href="https://youtu.be/c35vNeGHN5Y"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2164,8 +2164,8 @@ Comparemos la progresión Bm-E7 que en Run for your life por estar en clave de D
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/ D
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
 
 
 &nbsp;<a href="https://tabs.últimate-guitar.com/t/the_beatles/run_for_your_life_crd.htm" target="_blank">Run for your life</a> <a href="https://youtu.be/yQQ3LQWsTUc"  target="_blank"><i class="fa-solid fa-file-audio"></i></a>
@@ -2201,7 +2201,7 @@ Veamos otro ejemplo de dicho acorde en un contexto de <a class="lnk"  href="/cat
 <code>
 
 &nbsp; i       ii  bIII    iv      v   bVI     bVII    i
-&nbsp;/Dm /   /Eº /F  /   /Gm /   /Am /Bb /   /C  /   /Dm
+&nbsp;|Dm |   |Eº |F  |   |Gm |   |Am |Bb |   |C  |   |Dm
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/Another_brick_in_the_wall_part_2_ver2_crd.htm" >Another Brick In The Wall, Part 2</a> <a target="_blank" href="https://youtu.be/PDl6iuku_mw"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2242,7 +2242,7 @@ Ahora veamos un par de ejemplos más viejos, alla por los 60s:
 <code>
 
 &nbsp;i       II  bIII    iv      v   bVI      bVII    i
-&nbsp;Em /   /F#º/G  /   /Am /   /Bm /C   /   /D  /   /Em    
+&nbsp;Em |   |F#º|G  |   |Am |   |Bm |C   |   |D  |   |Em    
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/r/rolling-stones/289242.html" >Paint it black</a> <a target="_blank" href="https://www.youtube.com/watch?v=u6d8eKvegLI"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2267,8 +2267,8 @@ Hay un antecedente a esto en <a target="_blank" href="http://www.e-chords.com/ch
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C   
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C   
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/k/kansas/198177.html" >Dust In The Wind</a> <a target="_blank" href="https://youtu.be/tH2w6Oxx0kQ"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -2302,7 +2302,7 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 <code>
 
 &nbsp;i       II  bIII    iv      V   bVI     bVII    i
-&nbsp;Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am  
+&nbsp;Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am  
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com/A/Animals-tabs-237/houseoftherisingsun-tabs-100399.html" >House Of The Rising Sun</a> <a target="_blank" href="https://youtu.be/0sB3Fjw3Uvc"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2335,7 +2335,7 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 <code>
 
 &nbsp;i       II  bIII    iv      V   bVI     bVII    i
-&nbsp;Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am
+&nbsp;Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
   
   
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-doors/love-her-madly/" >Love her madly</a> <a target="_blank" href="https://youtu.be/zrv7Hs7k7w8" ><i class="fa-solid fa-file-audio"></i></a>
@@ -2392,7 +2392,7 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 </code>
 
 
-La progresiòn i-bIII-VdebVII volveria a apareceren los 90s cómo la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><i class="fa-solid fa-file-audio"></i></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/tipos-de-acordes#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><i class="fa-solid fa-file-audio"></i></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_queen_ver3_tab.htm" >Rocket Queen</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><i class="fa-solid fa-file-audio"></i></a> de la misma banda y en la misma clave también incluye dicha progresión pero cómo parte de progresiones más largas, tanto en la estrofa cómo en el estribillo.
+La progresión i-bIII-VdebVII volveria a apareceren los 90s cómo la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><i class="fa-solid fa-file-audio"></i></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/tipos-de-acordes#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><i class="fa-solid fa-file-audio"></i></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_queen_ver3_tab.htm" >Rocket Queen</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><i class="fa-solid fa-file-audio"></i></a> de la misma banda y en la misma clave también incluye dicha progresión pero cómo parte de progresiones más largas, tanto en la estrofa cómo en el estribillo.
 
 <a class="anchor" id="one"></a>
 
@@ -2401,7 +2401,7 @@ Habría más clasícos de los 90s con el VdebVII, que cómo ya vimos es en si el
 <code>
 
 i       II  bIII    iv      V   bVI     bVII    i
-Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am  
+Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am  
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/u/u2/one_ver3_crd.htm" >One</a> <a target="_blank" href="https://www.youtube.com/watch?v=ftjEcrrf7r0"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2439,7 +2439,7 @@ De todas formas el hecho de que hasta en canciones en clave menor predomine cóm
 <code>
 
 i       II  bIII    iv      V   bVI     bVII    i
-Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am        
+Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am        
 
 
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/demásiada_presión-3.shtml" >Demásiada Presión</a> <a target="_blank" href="https://youtu.be/s3SO1j06oSA"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2496,8 +2496,8 @@ Ya habíamos visto el uso de un dominante de séptima para modular entre <a clas
 
 <code>
 
- I       ii      iii IV      V       vi      VII  I
-/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G
+ I       ii      iii IV      V       vi      VII I
+|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G
 
 
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/Andres_calamaro/flacá-2.shtml" >Flacá</a> <a target="_blank" href="https://www.youtube.com/watch?v=UCF9oHXhDMU"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2529,8 +2529,8 @@ Siendo un típico truco del viejo Tin Pan Alley es común que este acompañado p
 <code>
 
 
- I       ii      iii IV      V       vi     VII  I
-/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G   
+ I       ii      iii IV      V       vi      VII I
+|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G   
 
 
 &nbsp;<a href="https://tabs.últimate-guitar.com/t/the_platters/only_you_crd.htm" target="_blank">Only you</a> <a href="https://www.youtube.com/watch?v=L0mWVVSkYHo" target="_blank" ><i class="fa-solid fa-file-audio"></i></a>
@@ -2594,8 +2594,8 @@ Un ejemplo interésante donde Vdevi no resuelve en iv es Creep que estando en cl
 <code>
 
 
- I       ii      iii IV      V       vi      VII  I
-/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G            
+ I       ii      iii IV      V       vi      VII I
+|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G            
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/r/radiohead/creep_crd.htm" >Creep</a> <a target="_blank" href="https://youtu.be/XFkzRNyygfk"><i class="fa-solid fa-file-audio"></i></a>
@@ -2623,8 +2623,8 @@ En el siguiente ejemplo Vdevi también es no-funcional, pero más aún, aparece 
 <code>
 
 
- I       ii      iii IV      V       vi     VII   I
-/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C          
+ I       ii      iii IV      V       vi     VII  I
+|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C          
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/l/lennon-john/10407.html" >Imagine</a> <a target="_blank" href="https://youtu.be/XLgYAHHkPFs"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2655,7 +2655,7 @@ Existe un antecedente a está progresión I-<a class="lnk"  href="#dom-rel-men" 
 
 
  I       ii      iii IV      V7      vi      VII I
-/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/pearl-jam/soldier-of-love/" >Soldier of Love</a> <a target="_blank" href="https://youtu.be/z8iLwwac4i4"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -2701,8 +2701,8 @@ El el próximo ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (E en clav
 
 <code>
 
- I       ii     iii IV      V       vi      VII   I
-/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C         
+ I       ii     iii IV      V       vi      VII  I
+|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C         
 
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/erasure/A-little-respect" >A Little Respect</a> <a target="_blank" href="https://youtu.be/x34icYC8zA0"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2742,11 +2742,11 @@ En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en cla
 
 <code>
 
-&nbsp; I      ii       iii IV      V       vi     VII   I
-&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span>
  
-&nbsp;/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /Eº / F 
-&nbsp;<span class="trasluz">/Fm /   /G* /G# /   /Bbm/   /Cm /C# /   /</span><a class="rojo">Eb</a><span class="trasluz"> /   / Fm</span>
+&nbsp;|F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |Eº |F 
+&nbsp;<span class="trasluz">|Fm |   |G* |G# |   |Bbm|   |Cm |C# |   |</span><a class="rojo">Eb</a><span class="trasluz"> |   |Fm</span>
 
 
 &nbsp;<a target="_blank" href="https://www.azchords.com/o/oconnorsinead-tabs-5429/nothingcomparestoyou-tabs-153102.html" >Nothing compares 2U</a> <a target="_blank" href="https://youtu.be/AuUPqxI1vqg" ><i class="fa-solid fa-file-audio"></i></a>
@@ -2788,11 +2788,11 @@ Cómo es de esperar, la progresión más común que incluye el dominante secunda
 
 
 <code>
-&nbsp;&nbsp;I      ii       iii IV      V       vi     VII  I<br />
-&nbsp;&nbsp;<span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br /><br />
+&nbsp;&nbsp;I      ii       iii IV      V       vi     VII  I<br  />
+&nbsp;&nbsp;<span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br  /><br  />
  
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G<br />
-&nbsp;<span class="trasluz">/Gm /   /A* /Bb /   /Cm /   /Dm /D# /   /</span><a class="rojo">F</a><span class="trasluz">  /   /Gm</span><br /><br />  
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G<br  />
+&nbsp;<span class="trasluz">|Gm |   |A* |Bb |   |Cm |   |Dm |D# |   |</span><a class="rojo">F</a><span class="trasluz">  |   |Gm</span><br  /><br  />  
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beach_boys/i_get_around_crd.htm"  >I Get Around</a> <a target="_blank" href="https://www.youtube.com/watch?v=wREBD2og5iY"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2826,10 +2826,10 @@ Ahora vamos a ver un par de casos donde se modula de Dm a C mediante la progresi
 &nbsp;&nbsp;i       iiº bIII    iv      v   bVI     <span class="rojo">bVII</span>    i
 
  
-&nbsp;/<span class="naranja">C</span>  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº /C
-&nbsp;<span class="trasluz">/Cm /   /D#º/E  /   /Fm /   /Gm /G# /   /</span><span class="rojo">Bb</span><span class="trasluz"> /   /Cm</span>      
+&nbsp;|<span class="naranja">C</span>  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº |C
+&nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><span class="rojo">Bb</span><span class="trasluz"> |   |Cm</span>      
 
-&nbsp;/Dm /   /Eº /F  /   /Gm /   /Am /Bb /   /C  /   /Dm
+&nbsp;|Dm |   |Eº |F  |   |Gm |   |Am |Bb |   |C  |   |Dm
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/for_no_one_crd.htm" >For No One</a> <a target="_blank" href="https://www.youtube.com/watch?v=SuvMcoZVYUM"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2887,10 +2887,10 @@ Veamos un ejemplo similar:
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/<span class="naranja">C</span>  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº / C
+&nbsp;|<span class="naranja">C</span>  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº | C
       
 &nbsp; i       ii  bIII    iv      v  bVI      bVII     i
-&nbsp;/Dm /   /Eº /F  /   /Gm /   /Am /Bb /   /C  /   / Dm
+&nbsp;|Dm |   |Eº |F  |   |Gm |   |Am |Bb |   |C  |   | Dm
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/s/stevie_wonder/i_just_called_to_say_i_love_you_ver4_crd.htm" >I Just Called To Say I Love You</a> <a target="_blank" href="https://youtu.be/QwOU3bnuU0k" ><i class="fa-solid fa-file-audio"></i></a>
@@ -2931,10 +2931,10 @@ Ahora una que nos va a mostrar una vez más lo que vimos en <a class="lnk"  href
 &nbsp; I      ii       iii IV      V       vi     VII   I
 &nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>
  
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
-&nbsp;<span class="trasluz">/Am /   /Bº /C  /   /Dm /   /Em /F  /   /</span><a class="rojo">G</a><span class="trasluz">  /   / Am</span>
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º| A
+&nbsp;<span class="trasluz">|Am |   |Bº |C  |   |Dm |   |Em |F  |   |</span><a class="rojo">G</a><span class="trasluz">  |   | Am</span>
 
-&nbsp;/Bm /   /C#º/D  /   /Em /   /F# /G  /   /A  /   / Bm
+&nbsp;|Bm |   |C#º|D  |   |Em |   |F# |G  |   |A  |   | Bm
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/if_i_needed_someone_ver2_crd.htm" >If I Needed Someone</a> <a target="_blank" href="https://www.youtube.com/watch?v=sTtIByfa_kk"  ><i class="fa-solid fa-file-audio"></i></a>
@@ -2983,10 +2983,10 @@ Y para cerrar la sección otra canción que modula de C a Dm, pero en este caso 
 
 
 &nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;/<span class="naranja">C</span>  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am /   /Bº /C
+&nbsp;|<span class="naranja">C</span>  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am |   |Bº |C
      
 &nbsp; i       ii  bIII    iv      V   bVI     bVII    i
-&nbsp;/Dm /   /Eº /F  /   /Gm /   /A7 /Bb /   /C  /   /Dm
+&nbsp;|Dm |   |Eº |F  |   |Gm |   |A7 |Bb |   |C  |   |Dm
  
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/the-beatles/Being-for-the-benefit-of-mr-kite" >Being for the Benefit of Mr. Kite!</a> <a target="_blank" href="https://youtu.be/8LCclVtFR6o" ><i class="fa-solid fa-file-audio"></i></a>
@@ -3033,7 +3033,7 @@ El que parecio tomarse en serio la analogia de los cambios del camion fue Palito
 
  
 
-&nbsp;<a class="lnk"  href="/category/tipos-de-acordes#andiloveher">And I Love Her</a> lo hace de una forma más disimulada: subiendo medio tono de C#m/E a Dm/F (en ambos casos se da un juego entre <a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >claves relativas</a>) justo en el momento que empieza el solo de guitarra.
+&nbsp;<a class="lnk"  href="/category/tipos-de-acordes#andiloveher">And I Love Her</a> lo hace de una forma más disimulada: subiendo medio tono de C#m|E a Dm|F (en ambos casos se da un juego entre <a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >claves relativas</a>) justo en el momento que empieza el solo de guitarra.
  
  
  <a class="anchor" id="ififellintro"></a>
@@ -3056,10 +3056,10 @@ Clickeando esos links van a poder ver cómo a la progresión <a class="lnk"  hre
 <code>
 
 &nbsp; I       ii      iii IV      V       vi     VII  I
-&nbsp;/Db /   /D#m/   /Fm /F# /   /G# /   /Bbm/   /Cº /Db 
+&nbsp;|Db |   |D#m|   |Fm |F# |   |G# |   |Bbm|   |Cº |Db 
 
 &nbsp; I       ii      iii IV      V       vi     VII  I
-&nbsp;/<span class="naranja">D</span>  /   /<span class="naranja">Em</span> /   /F#m/G  /   /<span class="naranja">A7</span> /   /Bm /   /C#º/D           
+&nbsp;|<span class="naranja">D</span>  |   |<span class="naranja">Em</span> |   |F#m|G  |   |<span class="naranja">A7</span> |   |Bm |   |C#º|D           
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/if-fell/" >If I fell</a> <a target="_blank" href="https://youtu.be/8g8ayY-AVWk"  ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -3133,7 +3133,7 @@ La modulación directa no se limito a la subida de un semitono: también suele h
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_kinks/you_really_got_me_ver2_crd.htm" >You really got me</a> <a target="_blank" href="https://youtu.be/fTTsY-oz6Go"  ><i class="fa-solid fa-file-audio"></i></a> "secuencia" <a class="lnk"  href="/armonia/arm3#crybabycry">bVII-I</a> 
-(F-G) dos semitonos más arriba (G-A) con lo cual G pasa de ser I a <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>, tal cómo lo podemos ver explicado en las notas de <a class="lnk"  href="/armonia/arm3#aregonna">Are You Gonna Go My Way?</a> que hace algo parecido pero de a 3 semitonos, aunque en estos casos donde no hay una modulaciòn màs definida màs bien podrìamos hablar de "secuenciaciòn".
+(F-G) dos semitonos más arriba (G-A) con lo cual G pasa de ser I a <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>, tal cómo lo podemos ver explicado en las notas de <a class="lnk"  href="/armonia/arm3#aregonna">Are You Gonna Go My Way?</a> que hace algo parecido pero de a 3 semitonos, aunque en estos casos donde no hay una modulación más definida más bien podríamos hablar de "secuenciación".
 
 
 Es muy notorio en el caso de <a target="_blank" href="http://www.guitaretab.com/w/whitney-houston/199301.html" >I will always love you</a><a target="_blank" href="https://youtu.be/3JWTaaS7LdU" ><i class="fa-solid fa-file-audio"></i></a> donde la canción prácticamente se detiene antes de que Whitney Houston reanude su recordada performance vocal 2 semitonos más arriba (de G a A). 
@@ -3151,11 +3151,11 @@ Ahora vamos a ver el ejemplo de una canción cuyo estribillo sube 2 semitonos so
  I       ii      iii IV      V       vi     VII  I
  &nbsp;i       ii  bIII    iv      v   bVI     bVII    i
  
-/B  /   /C#m/   /D#m/E  /   /<span class="magentaDom">F#</span> /   /G#m/   /A#º/B
-/Bm /   /C#º/D  /   /Em /   /<span class="magentaDom">F#</span> /G  /   /A  /   /Bm
+|B  |   |C#m|   |D#m|E  |   |<span class="magentaDom">F#</span> |   |G#m|   |A#º|B
+|Bm |   |C#º|D  |   |Em |   |<span class="magentaDom">F#</span> |G  |   |A  |   |Bm
 
  I       ii      iii IV      V       vi     VII  I
-/A  /   /Bm /   /C#m/D  /   /<span class="magentaDom">E</span>  /   /F#m/   /G#º/A
+|A  |   |Bm |   |C#m|D  |   |<span class="magentaDom">E</span>  |   |F#m|   |G#º|A
 
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/363526.html" >Penny Lane</a> <a target="_blank" href="https://youtu.be/S-rB0pHI9fU" ><i class="fa-solid fa-file-audio"></i></a>
@@ -3230,8 +3230,8 @@ Y esto muy a menudo es dificil de conseguir con acordes puramente diatónicos, v
 
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII  I<br />
-&nbsp;/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /E* / F<br /><br />
+&nbsp; I       ii      iii IV      V       vi      VII  I<br  />
+&nbsp;|F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |E* | F<br  /><br  />
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/fixing-hole/" >Fixing A Hole</a> <a target="_blank" href="https://youtu.be/Q-EUwlV1bSE" ><i class="fa-solid fa-file-audio"></i></a>
 
@@ -3260,8 +3260,8 @@ Como vemos aquí la frase melodica original se repite 3 veces (vamp) sobre el ca
 En el próximo ejemplo también se da una secuenciación que resulta de "subir" dos semitonos, cuando la parte que va sobre Dm-G (<a class="lnk" href="/category/tipos-de-acordes#sen-ton">ii-V</a>) es secuenciada sobre Em-<span class="magentaDom">A7</span> (iii-<a class="lnk"  href="#el-grado-ii-y-su-modulaciones" >Vdeii</a>):
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII   I<br />
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /  C<br /><br />
+&nbsp; I       ii      iii IV      V       vi      VII   I<br  />
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |  C<br  /><br  />
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/keane/everybodys-changing/" >Everybody's Changing</a>
@@ -3286,8 +3286,8 @@ En el próximo ejemplo también se da una secuenciación que resulta de "subir" 
 A diferencia de los dos casos anteriores en este ejemplo la seccuenciacón es no es 2 semitonos más arriba sino 2 semitonos más abajo, aunque luego la secuencia completa pasa a ser secuenciada a su vez dos semitonos más arrba en el breve interludio instrumental que separa las estrofas.
 
 <code>
-&nbsp; I       ii      iii IV      V       vi      VII  I<br />
-&nbsp;/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /E* / F<br /><br />
+&nbsp; I       ii      iii IV      V       vi      VII  I<br  />
+&nbsp;|F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |E* | F<br  /><br  />
 
 &nbsp;<a target="_blank" href="" >Love Street</a> 
 
@@ -3318,11 +3318,11 @@ A diferencia de los dos casos anteriores en este ejemplo la seccuenciacón es no
 En los casos que graficamos más arriba la frase melódica original a ser secuenciada va sobre 2 acordes diatónicos. Ahora veremos una frase a ser secuenciada que ya incluye un acorde diatónico y otro no diatonico (G-<a class="magentaDom">E7</a> como I-<a class="lnk"  href="#vdeii" >Vdeii</a>), lo cual fuerza a que los acordes que van sobre la frase que la secuencia (<a class="rojo">F</a>-D como <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-V) también incluya un acorde no-diatonico.
 
 <code>
-&nbsp;&nbsp;I      ii       iii IV      V       vi     VII  I<br />
-&nbsp;&nbsp;<span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br /><br />
+&nbsp;&nbsp;I      ii       iii IV      V       vi     VII  I<br  />
+&nbsp;&nbsp;<span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span><br  /><br  />
  
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G<br />
-&nbsp;<span class="trasluz">/Gm /   /A* /Bb /   /Cm /   /Dm /D# /   /</span><a class="rojo">F</a><span class="trasluz">  /   /Gm</span><br /><br />  
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G<br  />
+&nbsp;<span class="trasluz">|Gm |   |A* |Bb |   |Cm |   |Dm |D# |   |</span><a class="rojo">F</a><span class="trasluz">  |   |Gm</span><br  /><br  />  
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beach_boys/i_get_around_crd.htm"  >I Get Around</a> <a target="_blank" href="https://www.youtube.com/watch?v=wREBD2og5iY"  ><i class="fa-solid fa-file-audio"></i></a>

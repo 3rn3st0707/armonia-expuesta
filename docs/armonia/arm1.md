@@ -9,7 +9,7 @@ slug: /category/tipos-de-acordes
  <hr style={{  marginTop: '2em' }} />
 
 <p class="md_footnote_size">
-Este mòdulo se ocupa principalmente de ejemplos puramente diatonicos, mientras que el mòdulo 2 se ocupa principalmente de ejemplos relacionados a los <a class="lnk"  href="/armonia/arm2">dominantes secundarios</a> y el mòdulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitira navegar libremente entre mòdulos pero para los principiantes se recomiendo una lectura màs lineal de estos.
+Este módulo se ocupa principalmente de ejemplos puramente diatonicos, mientras que el módulo 2 se ocupa principalmente de ejemplos relacionados a los <a class="lnk"  href="/armonia/arm2">dominantes secundarios</a> y el módulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitira navegar libremente entre módulos pero para los principiantes se recomiendo una lectura más lineal de estos.
 </p>
 
  <hr style={{  marginBottom: '2em' }} />
@@ -51,7 +51,7 @@ que aparecen arriba: 2/1, 3/2, 4/3 y la lista sigue.
 
 Como este tutorial tiene un espíritu más bien práctico, no nos
 extenderemos en la explicación de todos los intervalos, pero los pueden
-leer en el siguiente apartado que es opcional, es decir, no es estrictamente necesario para usar estos conocimientos en la pràctica: 
+leer en el siguiente apartado que es opcional, es decir, no es estrictamente necesario para usar estos conocimientos en la práctica: 
 
 <a class="anchor" id="fundamentos"></a>
 
@@ -111,7 +111,7 @@ de los principales acordes de está:
 <pre>
 
  I     II   III IV    V     VI    VII  I<br />
- A /  /  /  /  /D /  /E /  /  /  /  /  A<br />
+ A |   |  |  |D |  |E |  |  |  |  |  A<br />
  0  1  2  3  4  5  6  7  8  9  10 11  12<br />
 
 </pre>
@@ -120,7 +120,7 @@ de los principales acordes de está:
 <p>
 
 Como vemos la razon 2/1 genera una octava (12 semitonos), la razón 3/2
-genera V (7 semitonos) y la razòn 4/3 genera IV (5 semitonos). Se dice
+genera V (7 semitonos) y la razón 4/3 genera IV (5 semitonos). Se dice
 que V y IV son complementarios dado que 7 semitonos + 5 semitonos = 12
 semitonos, lo cual hace que si invertimos la direccion del intervalo
 (es decir llendo de derecha a izquierda) V este a 5 semitonos y IV a 7
@@ -255,7 +255,7 @@ Para dar una idea de la importancia de las terceras para la <a href="https://es.
 
 <p>
 
-Sin embargo la misma polifonía trajo como concecuencia la música tonal, cuyas caracteristicas podemos ver descriptas en la sección <a class="lnk"  href="#sen-ton" >la sensación de tonalidad</a>, y una vez logrado esto surgió lógicamente la necesidad de cambiar de tonalidad como juego formal, tal como lo podemos ver en <a href="https://archive.org/stream/socialpsychology00farn#page/23/mode/1up" target="_blank">The need for modulation</a> (modulación significa cambio de clave).
+Sin embargo la misma polifonía trajo como concecuencia la música tonal, cuyas caracteristicas podemos ver descriptas en la sección <a class="lnk"  href="#sen-ton" >la sensación de tonalidad</a>, y una vez logrado esto surgió lógicamente la necesidad de cambiar de tonalidad como juego formal, tal como lo podemos ver en <a href="https://archive.org/streAm|socialpsychology00farn#page/23/mode/1up" target="_blank">The need for modulation</a> (modulación significa cambio de clave).
 
 </p>
 
@@ -349,8 +349,8 @@ escala resultante que todos conocemos:
 <a class="anchor" id="acordes"></a>
 
 ```
- I       II      III IV      V       VI     VII   I
-/A  /   /B  /   /C# /D  /   /E  /   /F# /   /G# / A
+ I       II      III IV      V       VI     VII  I
+|A  |   |B  |   |C# |D  |   |E  |   |F# |   |G# |A
 ```
 
 El grado I puede no parecer en si un intervalo pero de hecho es un intervalo de octava y es la nota a partir de la cual se nombran los intervalos según su distancia a la misma.
@@ -364,8 +364,8 @@ III y V respecto a I:
 
 <code>
 
-I<span class="trasluz">       II      </span>III<span class="trasluz"> IV      </span>V<span class="trasluz">       VI     VII   I</span>
-   A<span class="trasluz">  /   /B  /   /</span>C#<span class="trasluz"> /D  /   /</span>E<span class="trasluz">  /   /F# /   /G# / A</span>
+I<span class="trasluz">       II      </span>III<span class="trasluz"> IV      </span>V<span class="trasluz">       VI     VII  I</span>
+   A<span class="trasluz">  |   |B  |   |</span>C#<span class="trasluz"> |D  |   |</span>E<span class="trasluz">  |   |F# |   |G# |A</span>
 </code>
 
 
@@ -398,7 +398,7 @@ A|-----+-----+-----+-----+-----+-----+-----+
 <a class="anchor" id="líneadebajo"></a>
 
 
-Noten que en este ejemplo y en los de <a href="#tritono"  class="lnk">otros acordes mayores</a> la nota que da nombre al acorde (conocida cómo <a target="_blank" href="https://es.wikipedia.org/wiki/Fundamental_%28m%C3%Basíca%29" >fundamental o raíz del acorde</a>) siempre resulta ser la más grave y esto es lo que se conoce cómo <a target="_blank" href="http://www.teoría.com/es/referencia/i/inversion.php" >inversión</a> fundamental, para diferenciarla de otras inversiones donde no es así. 
+Noten que en este ejemplo y en los de <a href="#tritono"  class="lnk">otros acordes mayores</a> la nota que da nombre al acorde (conocida cómo <a target="_blank" href="https://es.wikipedia.org/wiki|Fundamental_%28m%C3%Basíca%29" >fundamental o raíz del acorde</a>) siempre resulta ser la más grave y esto es lo que se conoce cómo <a target="_blank" href="http://www.teoría.com/es/referencia/i/inversion.php" >inversión</a> fundamental, para diferenciarla de otras inversiones donde no es así. 
 
 
 Pero esta es desde ya la más común, en la práctica de la
@@ -416,10 +416,10 @@ VII han bajado un semitono:
 <code>
 
 I       II      III IV      V       VI     VII  I
-A  /   /B  /   /C# /D  /   /E  /   /F# /   /G# /A
+A  |   |B  |   |C# |D  |   |E  |   |F# |   |G# |A
 
 I       II  bIII    IV      V   bVI     bVII    I
-A  /   /B  /C  /   /D  /   /E  /F  /   /G  /   /A
+A  |   |B  |B  |   |D  |   |E  |F  |   |G  |   |A
  </code>
 
 Esto lógicamente se translada a la comparativa entre acorde (<a target="_blank" href="https://es.wikipedia.org/wiki/Tr%C3%ADada_%28m%C3%Basíca%29">tríada</a>) de la mayor y la menor:
@@ -428,10 +428,10 @@ Esto lógicamente se translada a la comparativa entre acorde (<a target="_blank"
 <code>
 
 I<span class="trasluz">       II      </span>III<span class="trasluz"> IV      </span>V<span class="trasluz">       VI     VII  I</span>
-   A<span class="trasluz">  /   /B  /   /</span>C#<span class="trasluz"> /D  /   /</span>E<span class="trasluz">  /   /F# /   /G# /A</span>
+   A<span class="trasluz">  |   |B  |   |</span>C#<span class="trasluz"> |D  |   |</span>E<span class="trasluz">  |   |F# |   |G# |A</span>
 
 I       <span class="trasluz">II</span>  bIII    <span class="trasluz">IV</span>      V   <span class="trasluz">bVI     bVII    I</span>
- A<span class="trasluz">  /   /B  /</span>C<span class="trasluz">  /   /D  /   /</span>E<span class="trasluz">  /F  /   /G  /   /A</span>
+ A<span class="trasluz">  |   |B  |</span>C<span class="trasluz">  |   |D  |   |</span>E<span class="trasluz">  |F  |   |G  |   |A</span>
 </code>
 
 Poniendolo graficado en el diapason de la guitarra:
@@ -464,17 +464,17 @@ escalas mayor y menor: que pueden formar pares de escalas <a target="_blank" hre
 
 ```
  I     II   III IV    V     VI    VII I
-/A /  /B /  /C#/D /  /E /  /F#/  /G#/ A
+|A |  |B |  |C#|D |  |E |  |F#|  |G#| A
                              I    II bIII  IV    V  bVI etc...
-                            F#/  /G#/ A/  /B /  /C#/D /
+                            F#|  |G#| A|  |B |  |C#|D |
 
 O bien:
 
 
 I     II bIII  IV    V  bVI   bVII  I
-F#/  /G#/A /  /B /  /C#/D /  /E /  /F#
+F#|  |G#|A |  |B |  |C#|D |  |E |  |F#
          I     II   III IV    V     VI    VII I
-        /A /  /B /  /C#/D /  /E /  /F#/  /G#/ A
+        |A |  |B |  |C#|D |  |E |  |F#|  |G#| A
 ```
 <a class="anchor" id="aco-rel"></a>
 Y así mismo se da que los acordes mayor y menor "relativos" entre si, tienen en común 2 de sus tres notas:
@@ -532,25 +532,26 @@ acordes, ambos en la misma clave por supuesto
 
 Pero cual es ese orden? aquí lo tienen:
 
-```
- I       ii      iii IV      V       vi      VII  I
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
+<code>
 
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
+
+</code>
 
 Estas son entonces las principales claves:
 
 
 <code> 
-&nbsp;<span class="azul">I</span>       ii      iiiIV       V       <span class="rojo">vi</span>     VII  I
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="azul">I</span>       ii      iii IV      V       <span class="rojo">vi</span>     VII  I
 
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A
-/B  /   /C#m/   /D#m/E  /   /F# /   /G#m/   /A#º/B
-/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /C
-/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D
-/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
-/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /Eº /F
-/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/G
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|B  |   |C#m|   |D#m|E  |   |F# |   |G#m|   |A#º|B
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|F  |   |Gm |   |Am |Bb |   |B  |   |Dm |   |Eº |F
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|G  |   |Am |   |Bm |B  |   |D  |   |Em |   |F#º|G
 </code>
 
 
@@ -574,7 +575,7 @@ Pero sacando ese, de 7 acordes que forman la <a class="lnk"  href="#laclave">cla
 
 <a class="anchor" id="dibu-clave"></a>
 
-Para entenderlo mejor he distribuido en todo el diapasòn una escala mayor (empieza y termina en los puntos blancos) y sobre sus notas he dibujado los 3 acordes mayores de azul y los 3 menores de rojo y el disminuido en verde: 
+Para entenderlo mejor he distribuido en todo el diapasón una escala mayor (empieza y termina en los puntos blancos) y sobre sus notas he dibujado los 3 acordes mayores de azul y los 3 menores de rojo y el disminuido en verde: 
 
 <center>
 
@@ -679,7 +680,7 @@ faltan del acorde con el bajo, cómo por ejemplo el intro de <a target="_blank" 
 
 
  Los Beatles con su astucia habitual lo usaron para "disimular"
-progresiones mediante el uso de acordes incompletos cómo podemos ver comparando <a class="lnk"  href="/armonia/arm2#shelovesyou" >She loves you</a> con <a class="lnk"  href="/armonia/arm2#helter">Helter Skelter</a> o <a class="lnk"  href="#michelledim" >Michelle</a> con lo expuesto en las notas que pueden leer al pie de ese ejempo sobre la influencia de obras màs antiguas.
+progresiones mediante el uso de acordes incompletos cómo podemos ver comparando <a class="lnk"  href="/armonia/arm2#shelovesyou" >She loves you</a> con <a class="lnk"  href="/armonia/arm2#helter">Helter Skelter</a> o <a class="lnk"  href="#michelledim" >Michelle</a> con lo expuesto en las notas que pueden leer al pie de ese ejempo sobre la influencia de obras más antiguas.
 
 
 Claramente podran encontrar "partes de posiciones de acordes" conocidas
@@ -694,7 +695,7 @@ Esta técnica fue popularizada en los 50s por la guitarra solista del <a target=
 Panchos</a> <a target="_blank" href="https://www.youtube.com/watch?v=gXDk8n_VFn0" ></a>, pero fue rápidamente adoptada por los beatles que la utilizaron justamente en <a target="_blank" href="https://youtu.be/dg48JepkiRo" >su versión de Besame mucho</a> (ver la <a target="_blank" href="https://www.youtube.com/watch?v=pwRiKDcrjz0" >original de trío Los Panchos</a> y luego en los intros de <a target="_blank" href="https://www.cifraclub.com/the-beatles/devil-in-her-heart/" >Devil in her heart</a> <a target="_blank" href="https://www.youtube.com/watch?v=oMOf6Vm3Ye8" ></a>, <a target="_blank" href="https://www.cifraclub.com/the-beatles/words-of-love/" >Words of love</a> <a target="_blank" href="https://www.youtube.com/watch?v=r5nARZKS-AY" ></a>, <a target="_blank" href="https://www.cifraclub.com/the-beatles/ive-just-seen-face/" >I've just seen a face</a> <a target="_blank" href="https://youtu.be/N0rRK1GIF-w" ></a>, <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1040.html" >Across
 the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k" ></a>, <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1052.html" >And
 your bird can sing</a> <a target="_blank" href="https://youtu.be/4KlI7qwvZM8" ></a>, el riff de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/the_ballad_of_john_and_yoko_tab.htm" >The ballad of John and Yoko</a> <a target="_blank" href="http://www.jukebox.fr/the-beatles/clip,the-ballad-of-john-and-yoko,3lvxr.html" ></a> prácticamente copiado de el de <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/lonesome-tears-in-my-eyes" >Lonesome tears in my eyes</a> <a target="_blank" href="https://youtu.be/Xv6aR9P5BFo" ></a>, también en el
-solo de <a class="lnk"  href="/armonia/arm3#allmyloving" >All My Loving</a> y en el de <a target="_blank" href="https://www.cifraclub.com/the-beatles/girl/" >Girl</a> <a target="_blank" href="https://youtu.be/zZYlN-SXMf0" ></a> (pero alternando
+solo de <a class="lnk"  href="/armonia/arm3#allmyloving" >All My Loving</a> y en el de <a target="_blank" href="https://www.cifraclub.com/the-beatles|Girl/" >Girl</a> <a target="_blank" href="https://youtu.be/zZYlN-SXMf0" ></a> (pero alternando
 primero una cuerda y después otra en vez de simultáneamente), mientras
 que <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a> está tocada
 integramente con esta técnica más la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a> (G) tocada en la tercera cuerda al aire todo el
@@ -926,7 +927,7 @@ De todas formas hay que mencionar que un acorde mayor en el grado V
 generalmente funciona cómo dominante, aún si no contiene una
 séptima menor o no está precedido por IV o ii, dado que esa función se
 basa principalmente en la relación dual que las notas I y III del
-acorde en grado V tiene con la <a target="_blank" href="https://es.wikipedia.org/wiki/Fundamental_%28m%C3%Basíca%29" >raíz</a> del acorde <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>.
+acorde en grado V tiene con la <a target="_blank" href="https://es.wikipedia.org/wiki|Fundamental_%28m%C3%Basíca%29" >raíz</a> del acorde <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>.
 
 
 
@@ -950,8 +951,8 @@ podemos ver que de toda la cadena del circulo de quintas solo ii-V
 posen esa relación "disonante funcional" descripta más arriba.
 
 
-Un ejemplo de ii-V-I cómo comienzo de una canción lo podemos ver en <a target="_blank" href="https://tabs.últimate-guitar.com/n/neil_diamond/girl_youll_be_a_woman_soon_crd.htm" >Girl You'll Be a Woman Soon</a> <a target="_blank" href="https://www.youtube.com/watch?v=1fr1iyhkyVs" ></a>
-(Gm-C-F en clave de F) que justamente hace su famoso riff sobre el
+Un ejemplo de ii-V-I cómo comienzo de una canción lo podemos ver en <a class="lnk"  href="/armonia/arm3#girlyoull">Girl, You'll Be A Woman Soon</a>
+(F#m-B-E en clave de E) que justamente hace su famoso riff sobre el
 cambio de acorde ii-V y también lo podemos ver graficado en este link
 a <a class="lnk"  href="/armonia/arm3#allmyloving" >All My Loving</a>
 (F#m-B7-E en clave de E) donde la disonancia (ii-V) y la posterior resolución de su <a class="lnk"  href="#tension">tensión</a> (V-I) establecen el centro tonal de la <a class="lnk"  href="#laclave">clave</a> (<a target="_blank" href="https://en.wikipedia.org/wiki/Tonic_(music)" >tónica</a>). 
@@ -993,8 +994,8 @@ muy similares a los cuales se producian los cambios de acorde en <a class="lnk" 
 
 <code>  
 
- I       ii      iii IV      V       vi      VII  I
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/ A
+ I       ii      iii IV      V       vi      VII I
+|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A
 
 
 <a target="_blank" href="http://www.guitaretab.com/B/Beatles/24462.html" >Back in the U.S.S.R.</a> <a target="_blank" href="https://youtu.be/XrtnnLor2UM" ></a>
@@ -1028,8 +1029,8 @@ Pero por supuesto este no es el único uso que se le da a dicha tensión: una ve
 
 <code>
 
- I       ii      iii IV      V       vi     VII   I
-/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+ I       ii      iii IV      V       vi     VII  I
+|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
   
 
 
@@ -1137,13 +1138,13 @@ puntos, las <a class="lnk"  href="#laclave">claves</a> mayor y menor son como un
 
 
 ```
-/F#m/   /G#º/A  /   /Bm /   /C#m/D  /   /E  /   /F#m
-            /A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A 
+|F#m|   |G#º|A  |   |Bm |   |C#m|D  |   |E  |   |F#m
+            |A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A 
 
                               o bien:
 
-/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A 
-                                    /F#m/   /G#º/A  /   /Bm  
+|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A 
+                                    |F#m|   |G#º|A  |   |Bm  
 ```
 <p class="md_footnote_size">
 *Las relativas empiezan en el VI de la mayor o en 
@@ -1174,11 +1175,11 @@ Eso el lo que voy a mostrar con este ejemplo donde el dominante natural de F#m t
 
 <code>
 &nbsp;i       II  bIII    iv      V7  bVI     bVII    i<br />
-/C#m/   /D#º/E  /   /F#m/   /<span class="magentaDom">G#7</span>/A  /   /B7 /   /C#m<br /><br />
+|C#m|   |D#º|E  |   |F#m|   |<span class="magentaDom">G#7</span>|A  |   |B7 |   |C#m<br /><br />
 
 &nbsp;            I       ii      iii IV      V7      vi     VII  I
-&nbsp;           /E  /   /F#m/   /G#m/A  /   /<span class="magentaDom">B7</span> /   /C#m/   /D#º/E
-<a target="_blank" href="https://tabs.últimate-guitar.com/f/fastball/the_way_crd.htm" >The Way</a> <a target="_blank" href="https://www.youtube.com/watch?v=b0wfu3tOrtQ"></a>                                <br /><br />
+&nbsp;           |E  |   |F#m|   |G#m|A  |   |<span class="magentaDom">B7</span> |   |C#m|   |D#º|E
+<a target="_blank" href="https://tabs.últimate-guitar.com|F|Fastball/the_way_crd.htm" >The Way</a> <a target="_blank" href="https://www.youtube.com/watch?v=b0wfu3tOrtQ"></a>                                <br /><br />
 
 
 
@@ -1237,7 +1238,7 @@ pasa a C, <a class="lnk"  href="#wecan">We can work it out</a> que empieza en D 
 pasa a Bm, <a target="_blank" href="http://www.azchords.com/l/leonardcohen-tabs-25225/everybodyknows-tabs-226476.html" >Everybody knows</a> <a target="_blank" href="https://youtu.be/8IfmiKnZi3E?list=RD8IfmiKnZi3E" ></a> comienza en Dm y luego pasa a F
 , mientras que <a target="_blank" href="https://tabs.últimate-guitar.com/c/counting_crows/mr_jones_crd.htm" >Mr Jones</a> y <a class="lnk"  href="/armonia/arm3#padrino">Godfather Theme</a> <a target="_blank" href="https://www.youtube.com/watch?v=-oqAU5VxFWs" ></a> empiezan en Am y pasan luego a C, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_stone_roses/made_of_stone_crd.htm" >Made of stone</a> <a target="_blank" href="https://www.youtube.com/watch?v=8GJmkT4IBZE" ></a> empieza en Em y pasa a un
 estribillo en G, lo mismo que <a class="lnk"  href="/armonia/arm3#littlewing" >Little Wing</a>. <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/slide_away_crd.htm" >Slide Away</a> <a target="_blank" href="https://www.youtube.com/watch?v=3GCSUSwcDwg" ></a> pasa de una estrofa en
-Am a un estribillo en C al igual que la canción medioeval <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional/greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0" ></a>, <a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw" ></a> empieza en Cm y luego pasa a D#, <a target="_blank" href="https://tabs.últimate-guitar.com/f/fools_garden/lemon_tree_ver2_crd.htm" >Lemon tree</a> <a target="_blank" href="https://www.youtube.com/watch?v=phEnpdDusss" ></a> comienza en Em y
+Am a un estribillo en C al igual que la canción medioeval <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional|Greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0" ></a>, <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw" ></a> empieza en Cm y luego pasa a D#, <a target="_blank" href="https://tabs.últimate-guitar.com|F|Fools_garden/lemon_tree_ver2_crd.htm" >Lemon tree</a> <a target="_blank" href="https://www.youtube.com/watch?v=phEnpdDusss" ></a> comienza en Em y
 luego pasa a G, <a class="lnk"  href="/armonia/arm3#comf" >Confortably Numb</a> empieza en Bm y
 luego pasa a D mientras que <a target="_blank" href="https://www.cifraclub.com.br/pink-floyd/us-and-them/" >Us and them</a> <a target="_blank" href="https://youtu.be/nDbeqj-1XOo" ></a> empieza en D y pasa a Bm en el estribillo, <a target="_blank" href="http://Acordes.lacuerda.net/nino_bravo/libre-4.shtml" >Libre</a> <a target="_blank" href="https://www.youtube.com/watch?v=tfpqKPsAjAM" ></a> arranca en Bm y
 luego pasa a D, <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a> empieza en Em y luego pasa a G y así muchas más.
@@ -1248,12 +1249,12 @@ El uso del acorde dominante mayor cómo <a class="lnk"  href="#artif-scala-menor
 
 <code>
 &nbsp;i       II  bIII    iv      V7  bVI     bVII    i<br />
-/C#m/   /D#º/E  /   /F#m/   /<span class="magentaDom">G#7</span>/A  /   /B7 /   /C#m<br /><br />
+|C#m|   |D#º|E  |   |F#m|   |<span class="magentaDom">G#7</span>|A  |   |B7 |   |C#m<br /><br />
 
 &nbsp;            I       ii      iii IV      V7      vi     VII  I
-&nbsp;           /E  /   /F#m/   /G#m/A  /   /<span class="magentaDom">B7</span> /   /C#m/   /D#º/E
+&nbsp;           |E  |   |F#m|   |G#m|A  |   |<span class="magentaDom">B7</span> |   |C#m|   |D#º|E
 
-&nbsp; <a target="_blank" href="http://www.e-chords.com/chords/george-harrison/i-got-my-mind-set-on-you" >Got My Mind Set On You</a> <a target="_blank" href="https://youtu.be/XZGYYDvZnpg" ></a>
+&nbsp; <a target="_blank" href="http://www.e-chords.com/chords|George-harrison/i-got-my-mind-set-on-you" >Got My Mind Set On You</a> <a target="_blank" href="https://youtu.be/XZGYYDvZnpg" ></a>
 
 
 
@@ -1305,8 +1306,8 @@ Noten también que en todos esos caso la progresión <a class="lnk"  href="#sen-
 
 <code>
 
- I       ii      iii IV      V       vi      VII  I
-/F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /Eº / F
+ I       ii      iii IV      V       vi      VII I
+|F  |   |Gm |   |Am |Bb |   |B  |   |Dm |   |Eº |F
                                                  
                                                  
  <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/yesterday" >Yesterday</a> <a target="_blank" href="https://youtu.be/Ho2e0zvGEWE" ></a><br /><br />
@@ -1368,7 +1369,7 @@ Y si leemos las notas de la <a class="lnk"  href="/armonia/arm2#yestedayplagal">
 ## La Resolución Decepcionante
 
 
-Hay un truco que en su versión más usual incluye la relación entre <a class="lnk"  href="#claves-relativas" >relativas</a> y del cual, por su importancia cómo recurso de <a target="_blank" href="https://es.wikipedia.org/wiki/Forma_musical" >forma</a>, vamos a ver muchas variaciones en los módulos sucesivos: 
+Hay un truco que en su versión más usual incluye la relación entre <a class="lnk"  href="#claves-relativas" >relativas</a> y del cual, por su importancia cómo recurso de <a target="_blank" href="https://es.wikipedia.org/wiki|Forma_musical" >forma</a>, vamos a ver muchas variaciones en los módulos sucesivos: 
 
 
 Se basa en la <a class="lnk"  href="#sen-ton" >necesidad de resolución de V hacia I</a> y consiste en que V (<a class="lnk"  href="#sen-ton" >dominante</a>) en vez de resolver en I (<a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a>) cambie a vi (<a class="lnk"  href="#aco-rel" >acorde relativo menor</a> de la tónica) esto usualmente, después de que en una estrofa previa y por todo lo demás idéntica, V resolviera de la forma esperada, es decir en la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> (I) con lo cual el movimiento resulta un tanto sorprendente para nuestra expectativa.
@@ -1382,8 +1383,8 @@ Vemos otro caso en la misma clave:
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|G  |   |Am |   |Bm |C  |   |D  |   |Em |   |F#º|G
 
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/extreme/more-than-words" >More than words</a> <a target="_blank" href="https://www.youtube.com/watch?v=UrIiLvg58SY" ></a>
 
@@ -1397,7 +1398,7 @@ I want to hear from you
 It's not that I want you
  Am7
 Not to say, but
-C      D     Em             <-resoluciòn decepcionante
+C      D     Em             <-resolución decepcionante
 If you only knew
     Am7  D7
 How easy it would be...
@@ -1419,7 +1420,7 @@ El caso de Losing My Religion, más especificamente la resolución de su estrofa
 <code>  
 
 &nbsp; i      II  bIII    iv      V   bVI     bVII    i
-&nbsp;Am /   /Bº /C  /   /<span class="naranja">Dm</span> /   /Em /F  /   /<span class="naranja">G</span>  /   /Am
+&nbsp;Am |   |Bº |B  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am
 &nbsp;      En C: I       ii                  V
 
 &nbsp;[Losing My Religion](https://es.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345)
@@ -1443,7 +1444,7 @@ El caso de Losing My Religion, más especificamente la resolución de su estrofa
 
 &nbsp;  G                        F
 &nbsp;I thought that I heard you laughing,
-&nbsp;  <span class="naranja">Dm</span>             <span class="naranja">G</span>         Am   Am/B   Am/C   Am/D
+&nbsp;  <span class="naranja">Dm</span>             <span class="naranja">G</span>         Am   Am|B   Am|C   Am|D
 &nbsp;I thought that I heard you sing.
 &nbsp;Am   F               <span class="naranja">Dm</span>   <span class="naranja">G</span>   Am     G
 &nbsp;I  think I thought I saw  you try.
@@ -1451,7 +1452,7 @@ El caso de Losing My Religion, más especificamente la resolución de su estrofa
 &nbsp;<span class="naranja">Dm</span>-<span class="naranja">G</span>: <a class="lnk"  href="#sen-ton" >ii-V</a> a C (abortado)
 </code>
 
-<p class="md_footnote_size">Ejemplos en los que se modula a C atraves de Dm-G-C (aunque no desde la clave <a href="#claves-relativas" class="lnk">relativa menor</a>) incluyen <a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I want to hold your hand</a>, <a class="lnk"  href="/armonia/arm3#ladymadonna" >Lady Madonna</a> y <a class="lnk"  href="/armonia/arm2#fornoone2" >For No One</a>, esta ùltima tiene un paralelismo con <a target="_blank" href="https://es.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345" >Losing My Religion</a> en que termina con los acordes Dm-G (<a class="lnk"  href="#sen-ton" >ii-V</a>) dando una sensaciòn de suspensiòn.</p>
+<p class="md_footnote_size">Ejemplos en los que se modula a C atraves de Dm-G-C (aunque no desde la clave <a href="#claves-relativas" class="lnk">relativa menor</a>) incluyen <a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I want to hold your hand</a>, <a class="lnk"  href="/armonia/arm3#ladymadonna" >Lady Madonna</a> y <a class="lnk"  href="/armonia/arm2#fornoone2" >For No One</a>, esta última tiene un paralelismo con <a target="_blank" href="https://es.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345" >Losing My Religion</a> en que termina con los acordes Dm-G (<a class="lnk"  href="#sen-ton" >ii-V</a>) dando una sensación de suspensión.</p>
 
 
 
@@ -1472,10 +1473,10 @@ V-i no se produce, pasando de G#7 a la progresión A-B-E que es <a class="lnk"  
 <code>
 
 &nbsp; i       II  bIII    iv      V7  bVI     bVII    i
-&nbsp;/C#m/   /D#º/E  /   /F#m/   /<span class="magentaDom">G#7</span>/A  /   /B7 /   /C#m           
+&nbsp;|C#m|   |D#º|E  |   |F#m|   |<span class="magentaDom">G#7</span>|A  |   |B7 |   |C#m           
 
 &nbsp;             I       ii      iii IV      V7      vi      VII  I
-&nbsp;            /E  /   /F#m/   /G#m/A  /   /<span class="magentaDom">B7</span> /   /C#m/   /D#º/ E
+&nbsp;            |E  |   |F#m|   |G#m|A  |   |<span class="magentaDom">B7</span> |   |C#m|   |D#º| E
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com.br/the-beatles/im-happy-just-to-dance-with-you/" >I'm happy just to dance with you</a> <a target="_blank" href="http://www.goear.com/listen/821ba38/im-happy-just-to-dance-with-you-the-beatles" ></a>
@@ -1513,7 +1514,7 @@ Este gráfico, basado en la recomendable técnica de <a target="_blank" href="ht
 
 ```
      ------------- 3X --------------
-    |C#m            |F#m    G#7    |A     B       |E   
+    |C#m            |F#m    G#7    |A      B      |E   
 C#m: i               iv      V      bVI    bVII          
                                  E: IV     V       I
 ```
@@ -1529,10 +1530,10 @@ Algo similar ocurre en la resolución de la estrofa inicial de otra canción que
 <code>
 
 &nbsp; i       II  bIII    iv      V7  bVI     bVII    i
-&nbsp;/C#m/   /D#º/E  /   /F#m/   /G# /A  /   /B7 /   /C#m           
+&nbsp;|C#m|   |D#º|E  |   |F#m|   |G# |A  |   |B7 |   |C#m           
 
 &nbsp;             I       ii      iii IV      V7      vi      VII  I
-&nbsp;            /E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/ E
+&nbsp;            |E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º| E
 
 &nbsp;<a target="_blank" href="http://www.songsterr.com/A/wsa/Beatles-and-i-love-her-chords-s2692" >And I Love Her</a> <a target="_blank" href="https://youtu.be/vJYWBbDDUl0" ></a>
 
@@ -1564,10 +1565,10 @@ regreso a la clave de D es precedido por el dominante de Bm
 <code>
 
 &nbsp;             I       ii      iii IV      V       vi  <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>VII I
-&nbsp;            /D  /   /Em /   /F#m/G  /   /<span class="magentaDom">A</span>  /   /Bm /<span class="rojo">C</span>  /C#º/D
+&nbsp;            |D  |   |Em |   |F#m|G  |   |<span class="magentaDom">A</span>  |   |Bm |<span class="rojo">C</span>  |C#º|D
 
 &nbsp; i       II  bIII    iv      v   bVI     bVII    i
-&nbsp;/Bm /   /C#º/D  /   /Em /   /<span class="magentaDom">F#</span> /G  /   /A  /   /Bm /   
+&nbsp;|Bm |   |C#º|D  |   |Em |   |<span class="magentaDom">F#</span> |G  |   |A  |   |Bm |   
 
 
 &nbsp;<a href="https://www.cifraclub.com/the-beatles/we-can-work-it-out/" target="_blank">We can work it out</a> <a href="https://youtu.be/Qyclqo_AV2M" target="_blank"></a>
@@ -1584,13 +1585,13 @@ regreso a la clave de D es precedido por el dominante de Bm
 &nbsp;We can work it out
 &nbsp; G              <span class="magentaDom">A</span>
 &nbsp;We can work it out
-&nbsp; Bm                      Bm/A      G     <span class="magentaDom">F#7</span>     -clave de Bm
+&nbsp; Bm                      Bm|A      G     <span class="magentaDom">F#7</span>     -clave de Bm
 &nbsp;Life is very short and there's no time
-&nbsp;     F#            Bm         Bm/A        G   <span class="magentaDom">F#7</span>
+&nbsp;     F#            Bm         Bm|A        G   <span class="magentaDom">F#7</span>
 &nbsp;For fussing and fighting my friend
-&nbsp; Bm                        Bm/A     G     <span class="magentaDom">F#7</span>
+&nbsp; Bm                        Bm|A     G     <span class="magentaDom">F#7</span>
 &nbsp;I have always thought that it's a crime
-&nbsp;    F#     Bm     Bm/A   G    <span class="magentaDom">F#7</span>
+&nbsp;    F#     Bm     Bm|A   G    <span class="magentaDom">F#7</span>
 &nbsp;So I will ask you once again
 &nbsp; D                                                -clave de D 
 &nbsp;Try to see it  my   way
@@ -1636,7 +1637,7 @@ Esto es muy importante para la composición, al punto de que con solo 3 acordes,
 Cómo pueden ver con los mismos tres acordes se pueden hacer 2 progresiones con <a class="lnk"  href="#fundamentos" >intervalos</a>, y por ende sonidos, diferentes. 
 
 
-Un ejemplo muy ùtil es el pròximo donde se empieza con la progresiòn I-V-IV-I cuyos cambios de 5ta son ascendentes y luego cambia a la progresiòn I-IV-V-I cuyos cambios de 5ta son descendentes;
+Un ejemplo muy útil es el próximo donde se empieza con la progresión I-V-IV-I cuyos cambios de 5ta son ascendentes y luego cambia a la progresión I-IV-V-I cuyos cambios de 5ta son descendentes;
 
 <a class="anchor" id="outoftime"></a>
 
@@ -1644,7 +1645,7 @@ Un ejemplo muy ùtil es el pròximo donde se empieza con la progresiòn I-V-IV-I
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/G  /   /Am /   /Bm /C  /   /D  /   /Em /   /F#º/ G
+&nbsp;|G  |   |Am |   |Bm |B  |   |D  |   |Em |   |F#º| G
 
 
 &nbsp;<a target="_blank" href="http://www.songsterr.com/A/wsa/rolling-stones-out-of-time-chords-s16937" >Out of time</a> <a target="_blank" href="https://youtu.be/yFe78Cm0YCE"  ></a>
@@ -1672,7 +1673,7 @@ Un ejemplo muy ùtil es el pròximo donde se empieza con la progresiòn I-V-IV-I
 Con el paso de los 60s a los 70s el sonido del rock mostro una preferencia por los cambios de acorde a <a class="lnk"  href="#fundamentos" >intervalos</a> de quinta ascendente (ver <a class="lnk"  href="#dir-quint" >gráfico de dirección de quintas</a>) que se puede ver en estos ejemplos de I-V-IV-I :
 
 
-La estrofa inicial de <a target="_blank" href="http://www.guitaretab.com/r/rolling-stones/16336.html" >Dead Flowers</a> <a target="_blank" href="https://www.youtube.com/watch?v=8YRdxHHFKvQ"  ></a> (D-A-G-D en clave de D), la estrofa inicial de <a target="_blank" href="http://www.traditionalmusic.co.uk/rock-and-pop-songs-with-chords/Salt_Of_The_Earth.htm" >Salt of the earth</a> <a target="_blank" href="https://www.youtube.com/watch?v=cDN11w1fHNg"  ></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.cifraclub.com.br/guns-n-roses/knocking-on-heavens-door/" >Knockin on Heaven's Door</a> <a target="_blank" href="https://www.youtube.com/watch?v=zv5R_e0jj7I"  ></a> (G-D-C-G en clave de G), la parte de <a class="lnk"  href="/armonia/arm3#estranged" >Estranged</a> que empieza cuando canta "When I find out all the reasons..." es un B-F#-E-B en clave de B que se repite varias veces incluido un solo de guitarra en el medio, <a target="_blank" href="http://Acordes.lacuerda.net/renga/Blues_de_bolivia-2.shtml" >Blues de Bolivia</a> <a target="_blank" href="https://www.youtube.com/watch?v=osj0djbeyJA"  ></a> (A-E-D-A en clave de A), <a target="_blank" href="http://www.guitaretab.com/l/lynyrd-skynyrd/276611.html" >Sweet home Alabama</a> <a target="_blank" href="https://www.youtube.com/watch?v=IwWUOmk7wO0"  ></a> (G-D-C-G en clave de G), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Acdc/you_shook_me_all_night_long_crd.htm" >You shook me all night long</a> <a target="_blank" href="https://youtu.be/Lo2qQmj0_h4"  ></a> (C-G-D en clave de G) o el estribillo de <a target="_blank" href="http://www.e-chords.com/chords/iggy-pop/candy" >Candy</a> <a target="_blank" href="https://www.youtube.com/watch?v=6bLOjmY--TA"  ></a> en la misma clave que la anterior, <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/nowhere-man" >Nowhere man</a> <a target="_blank" href="https://youtu.be/93rSXA8aeG4"  ></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.songsterr.com/A/wsa/specials-youre-wandering-now-chords-s249098" >You're wondering now</a> <a target="_blank" href="https://youtu.be/xEPfSWk0Lsw"  ></a> (A-E-D-A en clave de A), <a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/te_tirare_del_altar.shtml" >Te tirare del altar</a> <a target="_blank" href="https://youtu.be/SxrWWxDhUME"  ></a> (C-G-F-C en clave de C) y <a target="_blank" href="http://www.e-chords.com/chords/coldplay/yellow" >Yellow</a> <a target="_blank" href="https://youtu.be/yKNxeF4KMsY"  ></a> (B-F#-E-B en clave de B).
+La estrofa inicial de <a target="_blank" href="http://www.guitaretab.com/r/rolling-stones/16336.html" >Dead Flowers</a> <a target="_blank" href="https://www.youtube.com/watch?v=8YRdxHHFKvQ"  ></a> (D-A-G-D en clave de D), la estrofa inicial de <a target="_blank" href="http://www.traditionalmusic.co.uk/rock-and-pop-songs-with-chords/Salt_Of_The_Earth.htm" >Salt of the earth</a> <a target="_blank" href="https://www.youtube.com/watch?v=cDN11w1fHNg"  ></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.cifraclub.com.br|Guns-n-roses/knocking-on-heavens-door/" >Knockin on Heaven's Door</a> <a target="_blank" href="https://www.youtube.com/watch?v=zv5R_e0jj7I"  ></a> (G-D-C-G en clave de G), la parte de <a class="lnk"  href="/armonia/arm3#estranged" >Estranged</a> que empieza cuando canta "When I find out all the reasons..." es un B-F#-E-B en clave de B que se repite varias veces incluido un solo de guitarra en el medio, <a target="_blank" href="http://Acordes.lacuerda.net/renga/Blues_de_bolivia-2.shtml" >Blues de Bolivia</a> <a target="_blank" href="https://www.youtube.com/watch?v=osj0djbeyJA"  ></a> (A-E-D-A en clave de A), <a target="_blank" href="http://www.guitaretab.com/l/lynyrd-skynyrd/276611.html" >Sweet home Alabama</a> <a target="_blank" href="https://www.youtube.com/watch?v=IwWUOmk7wO0"  ></a> (G-D-C-G en clave de G), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Acdc/you_shook_me_all_night_long_crd.htm" >You shook me all night long</a> <a target="_blank" href="https://youtu.be/Lo2qQmj0_h4"  ></a> (C-G-D en clave de G) o el estribillo de <a target="_blank" href="http://www.e-chords.com/chords/iggy-pop/candy" >Candy</a> <a target="_blank" href="https://www.youtube.com/watch?v=6bLOjmY--TA"  ></a> en la misma clave que la anterior, <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/nowhere-man" >Nowhere man</a> <a target="_blank" href="https://youtu.be/93rSXA8aeG4"  ></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.songsterr.com/A/wsa/specials-youre-wandering-now-chords-s249098" >You're wondering now</a> <a target="_blank" href="https://youtu.be/xEPfSWk0Lsw"  ></a> (A-E-D-A en clave de A), <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/te_tirare_del_altar.shtml" >Te tirare del altar</a> <a target="_blank" href="https://youtu.be/SxrWWxDhUME"  ></a> (C-G-F-C en clave de C) y <a target="_blank" href="http://www.e-chords.com/chords/coldplay/yellow" >Yellow</a> <a target="_blank" href="https://youtu.be/yKNxeF4KMsY"  ></a> (B-F#-E-B en clave de B).
 
 
 
@@ -1709,10 +1710,10 @@ Esto coincide con la cantidad de cambios de acordes (intervalos) y acordes que s
 <code>
 
 &nbsp; I       ii     iii IV      V       vi      VII  I
-&nbsp;/C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº /C           
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |B           
 
 
-&nbsp;<a target="_blank" href="http://www.azchords.com/g/gunsnroses-tabs-1732/dontcry-tabs-106898.html" >Don't Cry</a> <a target="_blank" href="https://www.youtube.com/watch?v=zRIbf6JqkNc"  ></a> 
+&nbsp;<a target="_blank" href="http://www.azchords.com|G|Gunsnroses-tabs-1732/dontcry-tabs-106898.html" >Don't Cry</a> <a target="_blank" href="https://www.youtube.com/watch?v=zRIbf6JqkNc"  ></a> 
 
 
 &nbsp;Am            Dm
@@ -1739,10 +1740,10 @@ También se incluye en el gráfico la clave del <a class="lnk"  href="#claves-re
 <code>
 
 &nbsp; I       II  bIII    IV      V   bVI     bVII    I
-&nbsp;/Am /   /Bº /C  /   /Dm /   /Em /F  /   /G  /   /Am
+&nbsp;|Am |   |Bº |B  |   |Dm |   |Em |F  |   |G  |   |Am
 
 &nbsp;             I       ii     iii  IV      V       vi      VII  I
-&nbsp;            /C  /   /Dm /   /Em /F  /   /G  /   /Am /   /Bº / C
+&nbsp;            |B  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº | C
 
  
 &nbsp;<a target="_blank" href="http://www.e-chords.com/chords/cake/i-will-survive" >I will survive</a> <a target="_blank" href="https://www.youtube.com/watch?v=ZBR2G-iI3-I"  ></a> 
@@ -1785,11 +1786,11 @@ Finalmente, vamos por un ejemplo donde se decide continúar con la cadena de <a 
   I       ii      iii IV     V       vi      VII I
  &nbsp; <span class="trasluz">i       ii bIII     iv     v   bVI     </span><span class="rojo">bVII</span><span class="trasluz">    i</span>
 
-&nbsp;/G  /   /Am /   /Bm /C  /  /D  /   /Em /   /F#º/G
-&nbsp;<span class="trasluz">/Gm /   /A* /Bb /   /Cm /  /Dm /Eb /   /</span><span class="rojo">F</span><span class="trasluz">  /   /Gm</span>
+&nbsp;|G  |   |Am |   |Bm |B  |  |D  |   |Em |   |F#º|G
+&nbsp;<span class="trasluz">|Gm |   |A* |Bb |   |Cm |  |Dm |Eb |   |</span><span class="rojo">F</span><span class="trasluz">  |   |Gm</span>
     
 &nbsp;                                    i       ii  bIII     iv
-&nbsp;                                   /Em /<span class="rojo">F</span>  /F#º/G  /    /Am/
+&nbsp;                                   |Em |<span class="rojo">F</span>  |F#º|G  |    |Am|
 
                              
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/Andres_calamaro/tuyo_siempre-2.shtml" >Tuyo siempre</a> <a target="_blank" href="https://www.youtube.com/watch?v=BjVXUqy7oGw"  ></a>
@@ -1818,7 +1819,7 @@ Finalmente, vamos por un ejemplo donde se decide continúar con la cadena de <a 
 </p>
 
 
- El el capìtulo <a class="lnk"  href="/armonia/arm2#dom-sec" >Turnaround de Dominantes Secundarios</a> del Modulo 2 veremos como los acordes de este mismo *"circulo de quintas"* al ser convertidos (tanto mayores como menores) en acordes de <a class="lnk"  href="#sen-ton" >Septima Dominate</a> se convierten en el tìpico "Turnaround" jazzero de importancia fundacional para la mùsica popular.
+ El el capítulo <a class="lnk"  href="/armonia/arm2#dom-sec" >Turnaround de Dominantes Secundarios</a> del Modulo 2 veremos como los acordes de este mismo *"circulo de quintas"* al ser convertidos (tanto mayores como menores) en acordes de <a class="lnk"  href="#sen-ton" >Septima Dominate</a> se convierten en el típico "Turnaround" jazzero de importancia fundacional para la música popular.
 
 
  <a class="anchor" id="andalusec"></a>
@@ -1826,12 +1827,12 @@ Finalmente, vamos por un ejemplo donde se decide continúar con la cadena de <a 
 
  ## La Progresión Andaluza
 
- Es la progresión base del flamenco y una de las progresiones más usuales en clave menor, consiste en "recorrer la clave hacia atras" acorde por acorde desde la tònica hasta el dominante (i-bVII-bVI-V7) por ejemplo en clave de Am serìa Am-G-F-E7, veamos un ejemplo:
+ Es la progresión base del flamenco y una de las progresiones más usuales en clave menor, consiste en "recorrer la clave hacia atras" acorde por acorde desde la tónica hasta el dominante (i-bVII-bVI-V7) por ejemplo en clave de Am sería Am-G-F-E7, veamos un ejemplo:
 
  <code>
  
 &nbsp;i       II  bIII    iv      V   bVI     bVII    i<br />
-&nbsp;Am /   /Bº /C  /   /Dm /   /E7 /F  /   /G  /   /Am<br /><br />
+&nbsp;Am |   |Bº |B  |   |Dm |   |E7 |F  |   |G  |   |Am<br /><br />
 
  
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/d/del-shannon/229238.html" >Runaway</a> <a target="_blank" href="https://www.youtube.com/watch?v=ziLagAgoPCE"  ></a>
@@ -1860,7 +1861,7 @@ En este punto está bueno recordar porque se tiende a usar aún para <a class="l
 Más ejemplos:
 
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/d/dire_straits/sultans_of_swing_ver3_crd.htm" >Sultans of Swing</a> <a target="_blank" href="https://www.youtube.com/watch?v=h0ffIJ7ZO4U"  ></a> (Dm-C-Bb-A); <a target="_blank" href="https://tabs.últimate-guitar.com/r/ray_charles/hit_the_road_jack_crd.htm" >Hit the road jack</a> <a target="_blank" href="https://youtu.be/0rEsVp5tiDQ"  ></a> (Am-G-F-E7), el estribillo de <a target="_blank" href="http://Acordes.lacuerda.net/ketchup/Asereje-2.shtml" >Asereje</a> <a target="_blank" href="https://www.youtube.com/watch?v=V0PisGe66mY"  ></a> (Dm-C-Bb-A), <a target="_blank" href="http://Acordes.lacuerda.net/Bersuit/la_del_toro.shtml" >La del toro</a> <a target="_blank" href="https://youtu.be/TPtdnhMExQk"  ></a> (Am-G-F-E7), <a target="_blank" href="http://Acordes.lacuerda.net/moris/de_nada_sirve.shtml" >De nada sirve</a> <a target="_blank" href="https://www.youtube.com/watch?v=4Tk371rh2Gs"  ></a> (Am-G-F-E7), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_stone_roses/made_of_stone_crd.htm"  >Made of stone</a> <a target="_blank" href="https://www.youtube.com/watch?v=8GJmkT4IBZE"  ></a> (Em-D-C-B7), <a target="_blank" href="http://Acordes.lacuerda.net/molotov/gimme_the_power-2.shtml" >Gimme the power</a> <a target="_blank" href="https://youtu.be/hfmY9Wlxx0o"  ></a> (C#m-B-A-G#), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/ill_be_back_ver3_crd.htm" >I'll be back</a> <a target="_blank" href="https://www.youtube.com/watch?v=WHH5tbembZs"  ></a> (Am-G-F-E7), <a target="_blank" href="http://fansoftheventures.createaforum.com/15/chords-for-'walk-don't-run'-thanks-to-bill-kestell/" >Walk don't run</a> <a target="_blank" href="https://www.youtube.com/watch?v=hIuIIqbyEIU"  ></a> (Am-G-F-E7), <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/matilda_mother_ver2_crd.htm" >Mathilda Mother</a> <a target="_blank" href="https://youtu.be/Ahn_fVEF9e8"  > </a> (Bm-A-G-F#), <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional/greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0"  ></a> (Am-G-F-E7), <a target="_blank" href="http://www.azchords.com/t/turtles-tabs-5654/sohappytogether-tabs-260876.html" >Happy together</a> <a target="_blank" href="https://youtu.be/9ZEURntrQOg"  ></a> (Em-D-C-B7), <a target="_blank" href="http://www.guitaretab.com/B/Beach-boys/988.html" >Good vibrations</a> <a target="_blank" href="https://youtu.be/Eab_beh07HU"  ></a> (Am-G-F-E7), en <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/waiting_for_the_sun_crd.htm" >Waiting for the sun</a> <a target="_blank" href="https://www.youtube.com/watch?v=A0kypyGSKsE"  ></a> (Gm-F-Eb-D sobre la parte que canta "this is the strangest life I've ever know..."), mientras que <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/spanish_caravan_tab.htm"  >Spanish caravan</a> <a target="_blank" href="https://youtu.be/pKmkOIlHbok"  ></a> lo utiliza cómo turnaround que cierra algunas de sus estrofas (Em-D-C-B7 en clave de Em sobre "take me spanish caravan, yes I know..") además de en tangos cómo <a target="_blank" href="http://Acordestotales.com/Artistas/mercedes-sosa/los-máreados" >Los Máreados</a> <a target="_blank" href="https://youtu.be/eeMArfh_ZKg"  ></a> o <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/la_cumparsita-4.shtml" >La Cumparsita</a> <a target="_blank" href="https://youtu.be/drZnrRXBNPk"  ></a>.
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/d/dire_straits/sultans_of_swing_ver3_crd.htm" >Sultans of Swing</a> <a target="_blank" href="https://www.youtube.com/watch?v=h0ffIJ7ZO4U"  ></a> (Dm-C-Bb-A); <a target="_blank" href="https://tabs.últimate-guitar.com/r/ray_charles/hit_the_road_jack_crd.htm" >Hit the road jack</a> <a target="_blank" href="https://youtu.be/0rEsVp5tiDQ"  ></a> (Am-G-F-E7), el estribillo de <a target="_blank" href="http://Acordes.lacuerda.net/ketchup/Asereje-2.shtml" >Asereje</a> <a target="_blank" href="https://www.youtube.com/watch?v=V0PisGe66mY"  ></a> (Dm-C-Bb-A), <a target="_blank" href="http://Acordes.lacuerda.net/Bersuit/la_del_toro.shtml" >La del toro</a> <a target="_blank" href="https://youtu.be/TPtdnhMExQk"  ></a> (Am-G-F-E7), <a target="_blank" href="http://Acordes.lacuerda.net/moris/de_nada_sirve.shtml" >De nada sirve</a> <a target="_blank" href="https://www.youtube.com/watch?v=4Tk371rh2Gs"  ></a> (Am-G-F-E7), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_stone_roses/made_of_stone_crd.htm"  >Made of stone</a> <a target="_blank" href="https://www.youtube.com/watch?v=8GJmkT4IBZE"  ></a> (Em-D-C-B7), <a target="_blank" href="http://Acordes.lacuerda.net/molotov|Gimme_the_power-2.shtml" >Gimme the power</a> <a target="_blank" href="https://youtu.be/hfmY9Wlxx0o"  ></a> (C#m-B-A-G#), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/ill_be_back_ver3_crd.htm" >I'll be back</a> <a target="_blank" href="https://www.youtube.com/watch?v=WHH5tbembZs"  ></a> (Am-G-F-E7), <a target="_blank" href="http:/|Fansoftheventures.createaforum.com/15/chords-for-'walk-don't-run'-thanks-to-bill-kestell/" >Walk don't run</a> <a target="_blank" href="https://www.youtube.com/watch?v=hIuIIqbyEIU"  ></a> (Am-G-F-E7), <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/matilda_mother_ver2_crd.htm" >Mathilda Mother</a> <a target="_blank" href="https://youtu.be/Ahn_fVEF9e8"  > </a> (Bm-A-G-F#), <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional|Greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0"  ></a> (Am-G-F-E7), <a target="_blank" href="http://www.azchords.com/t/turtles-tabs-5654/sohappytogether-tabs-260876.html" >Happy together</a> <a target="_blank" href="https://youtu.be/9ZEURntrQOg"  ></a> (Em-D-C-B7), <a target="_blank" href="http://www.guitaretab.com/B/Beach-boys/988.html" >Good vibrations</a> <a target="_blank" href="https://youtu.be/Eab_beh07HU"  ></a> (Am-G-F-E7), en <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/waiting_for_the_sun_crd.htm" >Waiting for the sun</a> <a target="_blank" href="https://www.youtube.com/watch?v=A0kypyGSKsE"  ></a> (Gm-F-Eb-D sobre la parte que canta "this is the strangest life I've ever know..."), mientras que <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/spanish_caravan_tab.htm"  >Spanish caravan</a> <a target="_blank" href="https://youtu.be/pKmkOIlHbok"  ></a> lo utiliza cómo turnaround que cierra algunas de sus estrofas (Em-D-C-B7 en clave de Em sobre "take me spanish caravan, yes I know..") además de en tangos cómo <a target="_blank" href="http://Acordestotales.com/Artistas/mercedes-sosa/los-máreados" >Los Máreados</a> <a target="_blank" href="https://youtu.be/eeMArfh_ZKg"  ></a> o <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/la_cumparsita-4.shtml" >La Cumparsita</a> <a target="_blank" href="https://youtu.be/drZnrRXBNPk"  ></a>.
 
 
 <a class="anchor" id="andalu"></a>
@@ -1886,7 +1887,7 @@ También da lugar a un recurso muy propio del Flamenco: la gran <a class="lnk"  
 
 
 
-Si miran este video de <a target="_blank" href="http://www.e-chords.com/chords/guns-n-roses/double-talkin-jive"  >Double Talkin' jive</a> <a target="_blank" href="https://youtu.be/miauSf0t2Uw"  ></a> en vivo (click en el símbolo de audio) van a poder notar que en la misma clave que el ejemplo anterior, Slash realiza un largo, variado y muy buen solo final que también se basa mucho en el juego entre B y C y que sobre el cierre del mismo Slash también hace ese juego de <a target="_blank" href="https://youtu.be/0fez8fDgTNA" >tapping</a> de un semitono que vimos en Spanish caravan, pero con un sabor más blusero.
+Si miran este video de <a target="_blank" href="http://www.e-chords.com/chords|Guns-n-roses/double-talkin-jive"  >Double Talkin' jive</a> <a target="_blank" href="https://youtu.be/miauSf0t2Uw"  ></a> en vivo (click en el símbolo de audio) van a poder notar que en la misma clave que el ejemplo anterior, Slash realiza un largo, variado y muy buen solo final que también se basa mucho en el juego entre B y C y que sobre el cierre del mismo Slash también hace ese juego de <a target="_blank" href="https://youtu.be/0fez8fDgTNA" >tapping</a> de un semitono que vimos en Spanish caravan, pero con un sabor más blusero.
 
 
 
@@ -1917,7 +1918,7 @@ Tampoco hay que pasar por alto que es muy fácil confundir bVI-V-i con iv-V-i, l
 Ejemplos de iv-V-i son Em-F#-Bm que se utiliza para modular a Bm en <a class="lnk"  href="/armonia/arm2#ifineeded" >If I Needed Someone</a> y F#m-G#7-C#m para modular a C#m en <a class="lnk"  href="#happyjust" >I'm happy just to dance with you</a> y Dm-E7-Am para modular a Am en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm only sleeping</a>.
 
 
-Ahora regresemos a la aldaluza completa (i-bVII-bVI-V-i) y recordemos que es la progresión base del flamenco, por lo que se la usa mucho para caracterizar lo español, y también, por extensión la cultura del sudoeste norteamericano debido a su herencia hispanica, lo cual podemos ver en canciones que presentan variaciones de esta progresión cómo los son <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/nightrain_tab.htm" >Nightrain</a> <a target="_blank" href="https://youtu.be/oGViY1yl1tc"  ></a>, <a target="_blank" href="http://www.e-chords.com/chords/guns-n-roses/double-talkin-jive"  >Double Talkin' jive</a> <a target="_blank" href="https://youtu.be/miauSf0t2Uw"  ></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/spanish_caravan_tab.htm"  >Spanish caravan</a> <a target="_blank" href="https://youtu.be/pKmkOIlHbok"  ></a> o <a target="_blank" href="http://www.e-chords.com/chords/the-mamás-and-papas/california-dreaming" >California dreaming</a> <a target="_blank" href="https://youtu.be/N-aK6JnyFmk"  ></a>
+Ahora regresemos a la aldaluza completa (i-bVII-bVI-V-i) y recordemos que es la progresión base del flamenco, por lo que se la usa mucho para caracterizar lo español, y también, por extensión la cultura del sudoeste norteamericano debido a su herencia hispanica, lo cual podemos ver en canciones que presentan variaciones de esta progresión cómo los son <a target="_blank" href="https://tabs.últimate-guitar.com|G|Guns_n_roses/nightrain_tab.htm" >Nightrain</a> <a target="_blank" href="https://youtu.be/oGViY1yl1tc"  ></a>, <a target="_blank" href="http://www.e-chords.com/chords|Guns-n-roses/double-talkin-jive"  >Double Talkin' jive</a> <a target="_blank" href="https://youtu.be/miauSf0t2Uw"  ></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/spanish_caravan_tab.htm"  >Spanish caravan</a> <a target="_blank" href="https://youtu.be/pKmkOIlHbok"  ></a> o <a target="_blank" href="http://www.e-chords.com/chords/the-mamás-and-papas/california-dreaming" >California dreaming</a> <a target="_blank" href="https://youtu.be/N-aK6JnyFmk"  ></a>
 
 
 <a class="anchor" id="hotelcalifornia"></a>
@@ -1930,7 +1931,7 @@ El próximo ejemplo definitivamente cae en dicha categoría. Tal vez el hecho de
 <code>
 
  i       ii  bIII    iv      V   bVI     bVII    i
-/Bm /   /C#º/D  /   /Em /   /F# /G  /   /A  /   /Bm             
+|Bm |   |C#º|D  |   |Em |   |F# |G  |   |A  |   |Bm             
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/e/eagles/hotel_california_crd.htm" >Hotel California</a> <a target="_blank" href="https://youtu.be/lrfhf1Gv4Tw"  ></a>
@@ -2099,7 +2100,7 @@ Esto ocurre 2 veces en <a class="lnk"  href="/armonia/arm3#htandevery">Here Ther
 
 
 
- 2. Que si "corres" un <a class="lnk"  href="#meddim">acorde medio-disminuido</a> 3 semitonos más arriba obtenes una <a target="_blank" href="https://en.wikipedia.org/wiki/Inversion_(music)" >inversion</a> del ese mismo acorde (un acorde hecho de las mismas notas pero con otra raíz y las notas en otras alturas) y por lògica tambièn si lo moves 6, 9 o 12 semitonos màs arriba:
+ 2. Que si "corres" un <a class="lnk"  href="#meddim">acorde medio-disminuido</a> 3 semitonos más arriba obtenes una <a target="_blank" href="https://en.wikipedia.org/wiki/Inversion_(music)" >inversion</a> del ese mismo acorde (un acorde hecho de las mismas notas pero con otra raíz y las notas en otras alturas) y por lógica tambièn si lo moves 6, 9 o 12 semitonos más arriba:
 
 
 
@@ -2125,7 +2126,7 @@ La segunda ocasión en que dicha "conversión" ocurre en <a class="lnk"  href="/
    |-----+-----+-----+ X           |-----+-----+-----+ X
  ``` 
 
- En estos casos lo hemos visto como "acorde de paso" pero también suele usarse en un rol más central, como en <a target="_blank" href="http://www.xguitar.com/guitar-tabs/doors/waiting_for_the_sun/not_to_touch_the_earth.txt" >Not to touch the earth</a> <a target="_blank" href="https://youtu.be/z7dpe2.2XxWc"  ></a>, en el cual hay dos notas: una está fija y otra que, está a un <a class="lnk"  href="#fundamentos" >intervalo</a> de IV de la primera, alternativamente sube un semitono y vuelve a bajar, y cómo IV (5 semitonos) + 1 semitono = 6 semitonos = <a class="lnk"  href="#tritono" >trítono</a>, esto le da el clima caracteristico del trítono. Pero cómo la nota que se mueve en realidad es la más grave, para tocarlo en la viola es más práctico tocarlo cómo un acorde de quinta en el cual la quinta está fija y la raíz es la que se mueve. 
+ En estos casos lo hemos visto como "acorde de paso" pero también suele usarse en un rol más central, como en <a target="_blank" href="http://www.xguitar.com|Guitar-tabs/doors/waiting_for_the_sun/not_to_touch_the_earth.txt" >Not to touch the earth</a> <a target="_blank" href="https://youtu.be/z7dpe2.2XxWc"  ></a>, en el cual hay dos notas: una está fija y otra que, está a un <a class="lnk"  href="#fundamentos" >intervalo</a> de IV de la primera, alternativamente sube un semitono y vuelve a bajar, y cómo IV (5 semitonos) + 1 semitono = 6 semitonos = <a class="lnk"  href="#tritono" >trítono</a>, esto le da el clima caracteristico del trítono. Pero cómo la nota que se mueve en realidad es la más grave, para tocarlo en la viola es más práctico tocarlo cómo un acorde de quinta en el cual la quinta está fija y la raíz es la que se mueve. 
 
 
 
@@ -2144,7 +2145,7 @@ Acá para ilustrar la polivalencia del acorde <a class="lnk"  href="#meddim" >me
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;/D  /   /Em /   /F#m/G  /   /A  /   /Bm /   /C#º/D    
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D    
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/if-fell/" >If I fell</a> <a target="_blank" href="https://youtu.be/8g8ayY-AVWk"  ></a>
 
@@ -2183,10 +2184,10 @@ En este caso la clave tiene cierta <a class="lnk"  href="/armonia/arm2#ambi" >am
 
 
 &nbsp; i       II  bIII    iv      V   bVI     bVII    i
-&nbsp;/Fm /   /G* /G# /   /Bbm/   /<span class="magentaDom">C</span>  /Db /   /Eb /   /Fm
+&nbsp;|Fm |   |G* |G# |   |Bbm|   |<span class="magentaDom">C</span>  |Db |   |Eb |   |Fm
 
 &nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;/F  /   /Gm /   /Am /Bb /   /<span class="magentaDom">C</span>  /   /Dm /   /Eº /F    
+&nbsp;|F  |   |Gm |   |Am |Bb |   |<span class="magentaDom">C</span>  |   |Dm |   |Eº |F    
 
 
 &nbsp;<a target="_blank" href="https://www.cifraclub.com/the-beatles/michelle/" >Michelle</a> <a target="_blank" href="https://youtu.be/unLJQuizZoo"  ></a>
@@ -2230,8 +2231,8 @@ parcial de <a class="verde">Bº</a> (sin <a class="lnk"  href="#tritono" >tríto
 
 <p>
 
-En <a class='lnk'  href="#michelledim">Michelle</a> habìa advertido que la inclusion del acorde Bbm7 (x13121) en la descripcion del intro responde a que es a lo que más se parece 
-el arreglo, en realidad es una version parcial de <a class='lnk'  href="#dimx" >Bdim</a> (<a class='lnk'  href="#dimx">ver digitación</a>)que aparece en otras partes de la cancion, pero en este caso sin <a class='lnk'  href="#tritono">tritono</a>! Esto es lo que yo transcribì:
+En <a class='lnk'  href="#michelledim">Michelle</a> había advertido que la inclusion del acorde Bbm7 (x13121) en la descripcion del intro responde a que es a lo que más se parece 
+el arreglo, en realidad es una version parcial de <a class='lnk'  href="#dimx" >Bdim</a> (<a class='lnk'  href="#dimx">ver digitación</a>)que aparece en otras partes de la cancion, pero en este caso sin <a class='lnk'  href="#tritono">tritono</a>! Esto es lo que yo transcribí:
 
 </p>
 
@@ -2272,13 +2273,13 @@ Las dos notas marcadas en verde son G# y F que con <a class='lnk'  href="#dimx">
 
 <p>
 
-Seguramente todos conoceran <a href="http://www.yourchords.com/298909/Misc-Traditional/French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a>, el mundialmente famoso himno de Francia, dicho himno modula también entre <a class='lnk'  href="/armonia/arm3#mod-par">claves paralelas</a>.
+Seguramente todos conoceran <a href="http://www.yourchords.com/298909/Misc-Traditional|French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a>, el mundialmente famoso himno de Francia, dicho himno modula también entre <a class='lnk'  href="/armonia/arm3#mod-par">claves paralelas</a>.
 
 </p>
 
 <p>
 
-Supongamos que nuestra version de la <a href="http://www.yourchords.com/298909/Misc-Traditional/French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a> comienza en F mayor, al llegar a la parte de la modulación a Fm, esto es más o menos lo que seria esa seccion, incluyendo el regreso a F mayor:
+Supongamos que nuestra version de la <a href="http://www.yourchords.com/298909/Misc-Traditional|French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a> comienza en F mayor, al llegar a la parte de la modulación a Fm, esto es más o menos lo que seria esa seccion, incluyendo el regreso a F mayor:
 
 </p>
 
@@ -2298,7 +2299,7 @@ Fm-Eb-Db-<a class='lnk'  class="verde">Bdim</a>-C-F*
 
 <p>
 
-Es muy probable que si hubiesen utilizado el acorde <a class="lnk"  href="#meddim" >medio-disminuido</a> completo precediendo a C-F en <a class='lnk'  href="#michelledim">Michelle</a>, por la melodia y el tempo subyacente a esa parte, las comparaciones con <a href="http://www.yourchords.com/298909/Misc-Traditional/French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a> hubiesen sido inevitables. 
+Es muy probable que si hubiesen utilizado el acorde <a class="lnk"  href="#meddim" >medio-disminuido</a> completo precediendo a C-F en <a class='lnk'  href="#michelledim">Michelle</a>, por la melodia y el tempo subyacente a esa parte, las comparaciones con <a href="http://www.yourchords.com/298909/Misc-Traditional|French-National-Anthem-Chords/" target="_blank">La Marsellesa</a> <a href="https://www.youtube.com/watch?v=x6MXQqQXAxI"  target="_blank"><i class="fa-solid fa-file-audio"></i></a> hubiesen sido inevitables. 
 
 </p>
 
@@ -2348,8 +2349,8 @@ El próximo ejemplo está en A mayor y se puede utilizar en el medio-disminuido 
 
 <code>
 
-&nbsp; I       ii      iii IV      V       vi      VII  I
-&nbsp;/A  /   /Bm /   /C#m/D  /   /E  /   /F#m/   /G#º/A    
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A    
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/i_want_to_tell_you_crd.htm" >I want to tell you</a> <a target="_blank" href="https://youtu.be/pKJAJov8_9E" ></a> 
@@ -2390,7 +2391,7 @@ Ahora otra <a target="_blank" href="http://www.teoría.com/es/referencia/i/inver
 <code>
 
 &nbsp; i      ii  bIII    iv      V  bVI     bVII    i
-&nbsp;C#m/   /D#º/E  /   /F#m/   /G#/A  /   /B  /   /C#m  
+&nbsp;C#m|   |D#º|E  |   |F#m|   |G#|A  |   |B  |   |C#m  
 
 &nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/255399.html" >Because</a> <a target="_blank" href="https://youtu.be/kCFai1JigR8"  ></a>
 
@@ -2426,10 +2427,10 @@ En clave de E:
 <code>
 
 &nbsp; I       ii      iii IV      V       vi     VII  I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /   /C#m/   /D#º/E
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
 
-&nbsp;<a target="_blank" href="http://www.e-chords.com/chords/george-harrison/my-sweet-lord" >My sweet Lord</a> <a target="_blank" href="https://youtu.be/0kNGnIKUdMI"  ></a>
+&nbsp;<a target="_blank" href="http://www.e-chords.com/chords|George-harrison/my-sweet-lord" >My sweet Lord</a> <a target="_blank" href="https://youtu.be/0kNGnIKUdMI"  ></a>
 
 &nbsp;F#m    B
 &nbsp;My sweet Lord
@@ -2470,13 +2471,13 @@ Este ejemplo nos permite ver algo que también se ve en <a class="lnk"  href="/a
 <code>
 
 &nbsp; i       II   bIII    iv      V7  bVI    bVII     i
-&nbsp;/Dm /   /<span class="verde">Eº</span>  /F  /   /Gm /   /<span class="verde">A7</span> /Bb /   /C  /   /Dm
+&nbsp;|Dm |   |<span class="verde">Eº</span>  |F  |   |Gm |   |<span class="verde">A7</span> |Bb |   |B  |   |Dm
 
 &nbsp;              I       ii      iii IV      V       vi
-&nbsp;             /F  /   /Gm /   /Am /Bb /   /C  /   /Dm /   /<span class="verde">Eº</span>   
+&nbsp;             |F  |   |Gm |   |Am |Bb |   |B  |   |Dm |   |<span class="verde">Eº</span>   
 
 
-&nbsp;<a target="_blank" href="http://www.guitaretab.com/r/rey-patricio/16111.html" >Jijiji</a> <a target="_blank" href="https://youtu.be/FzN4Ep5Jkgk" ></a>
+&nbsp;<a target="_blank" href="http://www.guitaretab.com/r/rey-patricio/16111.html" >Jijiji</a> <a target="_blank" href="https://youtu.be|FzN4Ep5Jkgk" ></a>
 
 
 &nbsp;   Dm                          <span class="verde">Eº</span>              -clave de Dm
@@ -2535,7 +2536,7 @@ Veamos otro ejemplo de la misma banda, también en clave menor y en que también
 
 
  i       ii  bIII    iv      V   bVI     bVII    i
-/Bm /   /C#º/D  /   /Em /   /F# /G  /   /A  /   /Bm  
+|Bm |   |C#º|D  |   |Em |   |F# |G  |   |A  |   |Bm  
 
 
 &nbsp;<a target="_blank" href="http://www.tusacordes.com/secciones/ver_tema.php?id=12093" >La bestia pop</a> <a target="_blank" href="https://youtu.be/5rERG4QhATI"  ></a>
@@ -2604,10 +2605,10 @@ E|-----+-----+-----+-----+-----+-----+-(B)-+
 
 
  I      ii      iii IV      V       vi      VII I
-  &nbsp;F /   /Gm /   /Am /Bb /   /<span class="magentaDom">C</span>  /   /Dm /   /Eº /F    
+  &nbsp;F |   |Gm |   |Am |Bb |   |<span class="magentaDom">C</span>  |   |Dm |   |Eº |F    
 
  i      II  bIII    iv      v   bVI     bVII    i
-Am /   /<span class="verde">Bº</span> /C  /   /Dm /   /Em /F  /   /G  /   /Am
+Am |   |<span class="verde">Bº</span> |B  |   |Dm |   |Em |F  |   |G  |   |Am
 
 
 &nbsp;<a target="_blank" href="" >Corcovado</a> <a target="_blank" href=""  ></a>
@@ -2646,7 +2647,7 @@ Veamos ahora otro ejemplo más que también utiliza su <a class="lnk"  href="#me
 <code>
 
 &nbsp; I       ii      iii IV      V   <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a> vi      VII I
-&nbsp;/E  /   /F#m/   /G#m/A  /   /B  /<span class="rojo">C</span>  /C#m/   /<span class="verde">D#º</span>/E
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |<span class="rojo">C</span>  |C#m|   |<span class="verde">D#º</span>|E
 
 
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/luis_a_spinetta/Bajan-2.shtml" >Bajan</a> <a target="_blank" href="https://youtu.be/Egj4PSgMAfA"  ></a>
