@@ -20,15 +20,15 @@ const TextHighlighter = () => {
   };
 
   const highlightText = (text) => {
+
     // Define different sets of substrings based on varClave
     const substringsSets = {
       'C': { 'Bb ': 'rgba(238, 83, 142, 0.89)',
              'A# ': 'rgba(238, 83, 142, 0.89)', 
              'G# ': 'rgba(238, 83, 142, 0.89)', 
              'Ab ': 'rgba(238, 83, 142, 0.89)', 
-             'A# ': 'rgba(238, 83, 142, 0.89)', 
-             'Cm ': 'rgba(238, 83, 142, 0.89)',
              'Gm ': 'rgba(238, 83, 142, 0.89)',
+             'Fm ': 'rgba(238, 83, 142, 0.89)',             
              'D# ': 'rgba(238, 83, 142, 0.89)',
              'Eb ': 'rgba(238, 83, 142, 0.89)',          
             
@@ -77,7 +77,6 @@ const TextHighlighter = () => {
         'B7': 'rgb(156, 103, 230)',  
        },
 
-
         'D#': { 
           'C# ': 'rgba(238, 83, 142, 0.89)', 
           'B ': 'rgba(238, 83, 142, 0.89)', 
@@ -85,8 +84,7 @@ const TextHighlighter = () => {
           'G#m ': 'rgba(238, 83, 142, 0.89)',
           'Abm ': 'rgba(238, 83, 142, 0.89)',        
           'A#m ': 'rgba(238, 83, 142, 0.89)',
-          
-        
+                
           'F7': 'rgb(156, 103, 230)',             
           'F ': 'rgb(156, 103, 230)',
           'G7': 'rgb(156, 103, 230)', 
@@ -102,8 +100,7 @@ const TextHighlighter = () => {
         'D ': 'rgba(238, 83, 142, 0.89)', 
         'Am ': 'rgba(238, 83, 142, 0.89)',
         'Bm ': 'rgba(238, 83, 142, 0.89)',        
-        
-      
+              
         'F#7 ': 'rgb(156, 103, 230)',             
         'F# ': 'rgb(156, 103, 230)',
         'G#7 ': 'rgb(156, 103, 230)', 
@@ -123,8 +120,7 @@ const TextHighlighter = () => {
         'A#m ': 'rgba(238, 83, 142, 0.89)',
         'Bbm ': 'rgba(238, 83, 142, 0.89)',
         'Cm ': 'rgba(238, 83, 142, 0.89)',        
-        
-      
+             
         'G7': 'rgb(156, 103, 230)',             
         'G ': 'rgb(156, 103, 230)',
         'A7': 'rgb(156, 103, 230)', 
@@ -139,24 +135,113 @@ const TextHighlighter = () => {
         'D ': 'rgba(238, 83, 142, 0.89)', 
         'E': 'rgba(238, 83, 142, 0.89)',
         'Bm ': 'rgba(238, 83, 142, 0.89)',
-        'C#m ': 'rgba(238, 83, 142, 0.89)',        
-        
-      
+        'C#m ': 'rgba(238, 83, 142, 0.89)',
+              
         'G#7': 'rgb(156, 103, 230)',             
         'G# ': 'rgb(156, 103, 230)',
         'A#7': 'rgb(156, 103, 230)', 
         'A# ': 'rgb(156, 103, 230)',
+        'Bb7': 'rgb(156, 103, 230)', 
+        'Bb ': 'rgb(156, 103, 230)',
+        'Eb7': 'rgb(156, 103, 230)',
+        'Eb ': 'rgb(156, 103, 230)',
         'D#7': 'rgb(156, 103, 230)',
         'D# ': 'rgb(156, 103, 230)',
         'F#7 ': 'rgb(156, 103, 230)',
-        'Bb ': 'rgb(156, 103, 230)',       
       },
 
-      'G': { 'Ember': 'violet', 'Java': 'coral', 'Tailwind': 'khaki' },
-      'G#': { 'Backbone': 'plum', 'Kotlin': 'turquoise', 'Stylus': 'salmon' },
-      'Bb': { 'Meteor': 'peru', 'C#': 'beige', 'Bulma': 'olive' },
-      'B': { 'Laravel': 'blue', 'Swift': 'yellow', 'Foundation': 'red' },
-      'A': {'juego':'magenta', 'de':'yellow', 'seduccion':'pink' },
+      'G': { 
+        'A# ': 'rgba(238, 83, 142, 0.89)',
+        'Bb ': 'rgba(238, 83, 142, 0.89)',
+        'D# ': 'rgba(238, 83, 142, 0.89)', 
+        'Eb ': 'rgba(238, 83, 142, 0.89)',
+        'F ': 'rgba(238, 83, 142, 0.89)',
+        'Cm ': 'rgba(238, 83, 142, 0.89)',
+        'Dm ': 'rgba(238, 83, 142, 0.89)',
+      
+        'A7': 'rgb(156, 103, 230)',
+        'A ': 'rgb(156, 103, 230)',
+        'B7': 'rgb(156, 103, 230)', 
+        'B ': 'rgb(156, 103, 230)',
+        'E7': 'rgb(156, 103, 230)',
+        'E ': 'rgb(156, 103, 230)',
+        'G7 ': 'rgb(156, 103, 230)',      
+      },
+
+      'G#': { 
+        'B ': 'rgba(238, 83, 142, 0.89)',
+        'E ': 'rgba(238, 83, 142, 0.89)',
+        'F# ': 'rgba(238, 83, 142, 0.89)',
+        'C#m ': 'rgba(238, 83, 142, 0.89)',
+        'D#m ': 'rgba(238, 83, 142, 0.89)',        
+        'Ebm ': 'rgba(238, 83, 142, 0.89)',       
+      
+        'A#7': 'rgb(156, 103, 230)',             
+        'A# ': 'rgb(156, 103, 230)',
+        'C7': 'rgb(156, 103, 230)', 
+        'C ': 'rgb(156, 103, 230)',
+        'F7': 'rgb(156, 103, 230)',
+        'F ': 'rgb(156, 103, 230)',
+        'G#7 ': 'rgb(156, 103, 230)',      
+      },
+
+      'A': { 
+        'C ': 'rgba(238, 83, 142, 0.89)',
+        'F ': 'rgba(238, 83, 142, 0.89)',
+        'G ': 'rgba(238, 83, 142, 0.89)',
+        'Dm ': 'rgba(238, 83, 142, 0.89)',
+        'Em ': 'rgba(238, 83, 142, 0.89)',        
+        
+        'A7': 'rgb(156, 103, 230)',             
+        'B ': 'rgb(156, 103, 230)',
+        'B7': 'rgb(156, 103, 230)', 
+        'C# ': 'rgb(156, 103, 230)',
+        'C#7': 'rgb(156, 103, 230)',
+        'F# ': 'rgb(156, 103, 230)',
+        'F#7 ': 'rgb(156, 103, 230)',
+      
+      },
+
+      'Bb': { 
+        'C# ': 'rgba(238, 83, 142, 0.89)',
+        'Db ': 'rgba(238, 83, 142, 0.89)',
+        'F# ': 'rgba(238, 83, 142, 0.89)',
+        'G# ': 'rgba(238, 83, 142, 0.89)',
+        'Ab ': 'rgba(238, 83, 142, 0.89)',
+        'D#m ': 'rgba(238, 83, 142, 0.89)',
+        'Ebm ': 'rgba(238, 83, 142, 0.89)',
+        'Fm ': 'rgba(238, 83, 142, 0.89)',          
+      
+        'A#7': 'rgb(156, 103, 230)',
+        'Bb7': 'rgb(156, 103, 230)',             
+        'C ': 'rgb(156, 103, 230)',
+        'C7': 'rgb(156, 103, 230)', 
+        'D ': 'rgb(156, 103, 230)',
+        'D7': 'rgb(156, 103, 230)',
+        'G ': 'rgb(156, 103, 230)',
+        'G7 ': 'rgb(156, 103, 230)',     
+      },
+
+      'B': { 
+        'D ': 'rgba(238, 83, 142, 0.89)',
+        'G ': 'rgba(238, 83, 142, 0.89)',
+        'A ': 'rgba(238, 83, 142, 0.89)',
+        'Em ': 'rgba(238, 83, 142, 0.89)',
+        'F#m ': 'rgba(238, 83, 142, 0.89)',        
+        
+        'B7': 'rgb(156, 103, 230)',             
+        'C# ': 'rgb(156, 103, 230)',
+        'C#7': 'rgb(156, 103, 230)', 
+        'D# ': 'rgb(156, 103, 230)',
+        'D#7': 'rgb(156, 103, 230)',
+        'Eb ': 'rgb(156, 103, 230)',
+        'Eb7': 'rgb(156, 103, 230)',
+        'Ab ': 'rgb(156, 103, 230)',
+        'Ab7 ': 'rgb(156, 103, 230)',
+        'G# ': 'rgb(156, 103, 230)',
+        'G#7 ': 'rgb(156, 103, 230)',      
+      },
+
     };
 
     // Get the appropriate substrings set based on varClave
@@ -219,7 +304,7 @@ const TextHighlighter = () => {
         <article>
           <h1>Coloreador Sintáctico para Tablaturas</h1>
 
-          <h3>Seleccione una clave, actual: {varClave}</h3>
+          <h3>Seleccione una clave. Clave Actual: {varClave}</h3>
           <div className="navbarButtons">
             {/* Render 12 buttons with different values */}
             <button onClick={() => handleClick('C')}>DO (C)</button>
@@ -243,8 +328,9 @@ const TextHighlighter = () => {
             cols="74"
           />
           <pre className="highlighted-text">
-            {[displayStrings[varClave], <br key="line-break-1" />, <br key="line-break-2" />, ...highlightText(text)]}
+            {[displayStrings[varClave], <br key="line-break-1" />, <br key="line-break-2" />, ...highlightText(text)]}            
           </pre>
+
         </article>
       </div>
     </Layout>

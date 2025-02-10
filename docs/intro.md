@@ -30,7 +30,7 @@ Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba lo
 
 <code>
 
-&nbsp;<a href="https://www.cifraclub.com/ramones/i-wanna-be-sedated/" target="_blank">I Wanna Be Sedated</a> <a href=""  target="_blank"><i class="fa-solid fa-file-audio"></i></a>
+&nbsp;<a href="https://www.cifraclub.com/ramones/i-wanna-be-sedated/" target="_blank">I Wanna Be Sedated</a> <a href=""  target="_blank"><FAIcon icon="fa-solid fa-play"  /></a>
 
 &nbsp;      E                   A                    B
 
@@ -148,7 +148,7 @@ El problema? el acorde RE mayor no es natural de la clave diatónica de MI mayor
 &nbsp;<span class="trasluz">|Em |   |F#º|G  |   |Am |   |Bm |C  |   |</span><a class="rojo">D</a><span class="trasluz">  |   |Em</span> 
 
 
-&nbsp;<a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/Allmyloving-tabs-128315.html" >All My Loving</a> <a target="_blank" href="https://www.youtube.com/watch?v=6qeLulygOTk"  ><i class="fa-solid fa-file-audio"></i></a>
+&nbsp;<a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/Allmyloving-tabs-128315.html" >All My Loving</a> <a target="_blank" href="https://www.youtube.com/watch?v=6qeLulygOTk"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;            F#m           B7 
@@ -221,7 +221,7 @@ Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatur
 &nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
 &nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   |Cm</span>
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><i class="fa-solid fa-file-audio"></i></a>
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;C            <a class="magentaDom">E7</a>
@@ -311,7 +311,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 &nbsp;            |<span class="naranja2">C</span>  |   |<span class="naranja2">Dm</span> |   |Em |F  |   |<span class="naranja2">G</span>  |   |Am |   |Bº |C
 
 
-&nbsp;<a href="https://tabs.últimate-guitar.com/t/the_beatles/lady_madonna_ver3_crd.htm" target="_blank">Lady Madonna</a> <a href="https://www.youtube.com/watch?v=r9LJp39-lDE" target="_blank" ><i class="fa-solid fa-file-audio"></i></a>
+&nbsp;<a href="https://tabs.últimate-guitar.com/t/the_beatles/lady_madonna_ver3_crd.htm" target="_blank">Lady Madonna</a> <a href="https://www.youtube.com/watch?v=r9LJp39-lDE" target="_blank" ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;A      D      A                D           -clave de A
@@ -342,32 +342,10 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 &nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/tipos-de-acordes#sen-ton">ii-V-I</a> a bIII (C)
 </code>
 
-## Reduccionismo Tonal Vs Armonía Modal
 
-como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... 
-
-<details open>
-
-  <summary><h2>Otras Denominaciones De Los Prestados</h2></summary>
-
-Seguramente habran oido hablar de lo que aquí denominamos acordes prestado con otras denominaciones.
-
-Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="/armonia/arm3#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (iv) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
-
-Otra forma de "explicar" el acorde "<a class="lnk"  href="/armonia/arm3#prestados">bVII no diatonico</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde no-diatónico bVII y no <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
-
-Una denominación un poco más abarcativa es la de [acordes cromáticos](https://www.howmusicreallyworks.com/chapter-six-chords-progressions/chromatic-chords-progressions.html) dado que esta se puede explicar a partir de la linea <a href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" target="_blank">cromatica</a> que subyace a la progresión <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> que incluye a bVII, misma linea cromática que se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#triplep">triple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#biii" >bIII</a> y se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a>.
-
-Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este ebook, tal como se expresa en la sección <a class="lnk"  href="#la-estructura-paralela">La Estructura Paralela</a> utilizaremos de aquí en más la denominación de "acordes prestados" en cualquier de los casos.
-
-
-
-</details>
 
 ## Indice Alfabetico de Ejemplos
 <div class="ejemplos">
-
-
 
 <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a><br />
 <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a><br />
@@ -437,6 +415,7 @@ Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este e
 <a class="lnk"  href="/armonia/arm2#helter">Helter Skelter</a><br />
 <a class="lnk"  href="/armonia/arm2#herecomesthesun" >Here Comes The Sun</a><br />
 <a class="lnk"  href="/armonia/arm3#htandevery" >Here There And Everywhere</a><br />
+<a class="lnk"  href="/armonia/arm3#happytogether" >Happy Together</a><br />
 <a class="lnk"  href="/armonia/arm3#heybulldog" >Hey Bulldog</a><br />
 <a class="lnk"  href="/armonia/arm3#cuadp" >Hey Joe</a><br />
 <a class="lnk"  href="/armonia/arm3#heyjude" >Hey Jude</a><br />
