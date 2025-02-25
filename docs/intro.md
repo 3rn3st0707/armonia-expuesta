@@ -48,8 +48,101 @@ Pese a que el solo de guitarra consta de MI (E) como única nota, este igual fun
 El armazón estandard que historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumento que proven acordes (aunque a veces es el mismo instrumento como el caso del piano) es lo que se conoce como *Clave Diatonica* y pueden leer más al respecto en <a class="lnk"  href="/category/tipos-de-acordes#laclave">La Clave: Acordes Sobre los Grados de la Escala</a>.
 
 
+Debe tenerse en cuenta que este mismo sistema tambien genera una necesidad de resolución en ciertos acordes que terminan por definir 
+lo que se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema que vemos en profundida en la sección <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">La Sensación de Tonalidad</a>
 
-## La Tésis
+Esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>, caso que veremos en más detalle en la siguiente sección dado que en la comparación de estos aspectos técnicos se basan algunas de las deciciones en cuanto al formato de este ebook.
+
+
+
+## El Formato
+
+
+El motivo por el que este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las lineas melodicas es un intento deliverado de romper con el prejuicio que tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuando entre sí.
+
+Esto, que lo pueden encontrar en el 90% de los manuales armonicos de los últimos 400 años tiende a dejar de lado los muchos efectos especificos de la armonía que dependen más de los acordes que de la melodía, como por ejemplo la <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">necesidad de resolución</a> a la que apuntabamos más arriba.
+
+Debe tenerse en cuenta que esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>. Aquí una lista de los capítulos especificamente dedicados a tales cambios de clave:
+
+<ul>
+    <li><a href="/category/tipos-de-acordes#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
+    <li><a href="/armonia/arm3#el-modo-paralelo-cómo-cambio-de-clave" class="lnk">Modulación entre Claves Paralelas</a></li>
+    <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV atravez de VdeIV</a></li>
+    <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV atravez de ii-V-I</a></li>
+    <li><a href="/armonia/arm2#el-grado-ii-y-su-modulaciones" class="lnk">Modulación al Grado ii</a></li>
+    <li><a href="/armonia/arm2#modulación-de-semitono-o-tono-completo" class="lnk">Modulación de un Semitono y de un Tono Completo</a></li>
+    <li><a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a></li>
+    <li><a href="/armonia/arm3#bvii-prestado-refuncionalizado-como-iv" class="lnk">bVII Prestado Refuncionalizado como IV</a></li>     
+</ul>
+
+
+Seguramente ya habran notado que los <a class="lnk"  href="/category/armonia-expuesta#la-armonía">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
+esto es así para lograr la mayor interrelación posible entre <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">los casi 200 ejemplos</a>  y de esta forma lograr un aprendizaje más práctico que prescinda de las largas y aburridas explicaciones teóricas que a menudo se usan cuando se explica armonía.
+
+Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir que donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a> no iran marcado con ningún color en particular, pero los "no diatonicos" (los que aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el que los editores de texto aplican sobre los codigos de programación. Por ejemplo:
+
+<code> 
+
+&nbsp; I       ii      iii IV      V       vi      VII I
+&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">   i</span>
+ 
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
+&nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   |Cm</span>
+
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+&nbsp;C            <a class="magentaDom">E7</a>
+&nbsp;Any jobber got the sack,
+&nbsp;Am             <a class="magentaDom">C7</a>
+&nbsp;Monday morning turning back,
+&nbsp;F              G               C
+&nbsp;Yellow lorry slow, nowhere to go.
+&nbsp;    <a class="rojo">Bb</a>                      F            C
+&nbsp;But oh, that magic feeling,   nowhere to go!
+&nbsp;<a class="rojo">Bb</a>                      F            C
+&nbsp;Oh, that magic feeling,   nowhere to go!
+
+&nbsp;<a class="magentaDom">E7</a>: <a class="lnk"  href="/armonia/arm2#dom-rel-men">Vdevi</a>
+&nbsp;<a class="magentaDom">C7</a>: <a class="lnk"  href="/armonia/arm2#domiv">VdeIV</a>
+&nbsp;<a class="rojo">Bb</a>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
+</code>
+
+Como pueden ver al pie del ejemplo, cada acorde "no diatonico" es asignado a un link que explica su función.
+
+También notarán que aquí no se incluye la canción completa sino un fragmento de la misma. 
+
+Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
+
+
+Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
+
+Para una entender mejor como leer este ebook pasemos a la proxima sección...
+
+
+
+
+## Reduccionismo Tonal Vs Armonía Modal
+
+como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... como ya dijimos + arriba blba bla, lo lleno despues asi q sigamos pero antes.... 
+
+<details open>
+
+  <summary><h2>Otras Denominaciones De Los Prestados</h2></summary>
+
+Seguramente habran oido hablar de lo que aquí denominamos acordes prestado con otras denominaciones.
+
+Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="/armonia/arm3#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (iv) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
+
+Otra forma de "explicar" el acorde "<a class="lnk"  href="/armonia/arm3#prestados">bVII no diatonico</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde no-diatónico bVII y no <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
+
+Una denominación un poco más abarcativa es la de [acordes cromáticos](https://www.howmusicreallyworks.com/chapter-six-chords-progressions/chromatic-chords-progressions.html) dado que esta se puede explicar a partir de la linea <a href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" target="_blank">cromatica</a> que subyace a la progresión <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> que incluye a bVII, misma linea cromática que se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#triplep">triple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#biii" >bIII</a> y se alarga una nota más con la <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#bvisolo">bVI</a>.
+
+Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este ebook, tal como se expresa en la sección <a class="lnk"  href="#la-estructura-paralela">La Estructura Paralela</a> utilizaremos de aquí en más la denominación de "acordes prestados" en cualquier de los casos.
+
+
+
+</details>
 
 
 La tésis de este estudio es más bien simple, sin embargo una adecuada exposición de la misma requiere un considerable conocimiento técnico previo. Es por eso que la tésis es expuesta aquí al principio, junto a la introdución, mientras que los restantes 3 modulos en los que se divide el resto del ebook, son un manual de trucos armónicos ilustrados con <a class="lnk"  href="#indice-alfabetico-de-ejemplos">ejemplos muy conocidos</a> de la música popular que proveén de dichos requerimientos técnicos necesarios.
@@ -186,70 +279,6 @@ En la sección <a class="lnk"  href="/category/armonia-expuesta#la-estructura-pa
 
 
 
-## El Formato
-
-
-
-El motivo por el que este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las lineas melodicas es un intento deliverado de romper con el prejuicio que tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuando entre sí.
-
-Esto, que lo pueden encontrar en el 90% de los manuales armonicos de los últimos 400 años tiende a dejar de lado los muchos efectos especificos de la armonía que dependen más de los acordes que de la melodía, como por ejemplo la <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">necesidad de resolución</a> a la que apuntabamos más arriba.
-
-Debe tenerse en cuenta que esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>. Aquí una lista de los capítulos especificamente dedicados a tales cambios de clave:
-
-<ul>
-    <li><a href="/category/tipos-de-acordes#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
-    <li><a href="/armonia/arm3#el-modo-paralelo-cómo-cambio-de-clave" class="lnk">Modulación entre Claves Paralelas</a></li>
-    <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV atravez de VdeIV</a></li>
-    <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV atravez de ii-V-I</a></li>
-    <li><a href="/armonia/arm2#el-grado-ii-y-su-modulaciones" class="lnk">Modulación al Grado ii</a></li>
-    <li><a href="/armonia/arm2#modulación-de-semitono-o-tono-completo" class="lnk">Modulación de un Semitono y de un Tono Completo</a></li>
-    <li><a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a></li>
-    <li><a href="/armonia/arm3#bvii-prestado-refuncionalizado-como-iv" class="lnk">bVII Prestado Refuncionalizado como IV</a></li>     
-</ul>
-
-
-Seguramente ya habran notado que los <a class="lnk"  href="/category/armonia-expuesta#la-armonía">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
-esto es así para lograr la mayor interrelación posible entre <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">los casi 200 ejemplos</a>  y de esta forma lograr un aprendizaje más práctico que prescinda de las largas y aburridas explicaciones teóricas que a menudo se usan cuando se explica armonía.
-
-Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir que donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a> no iran marcado con ningún color en particular, pero los "no diatonicos" (los que aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el que los editores de texto aplican sobre los codigos de programación. Por ejemplo:
-
-<code> 
-
-&nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp; <span class="trasluz">i       ii bIII     iv      v   bVI    </span> <a class="rojo">bVII</a> <span class="trasluz">   i</span>
- 
-&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
-&nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   |Cm</span>
-
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><FAIcon icon="fa-solid fa-play"  /></a>
-
-
-&nbsp;C            <a class="magentaDom">E7</a>
-&nbsp;Any jobber got the sack,
-&nbsp;Am             <a class="magentaDom">C7</a>
-&nbsp;Monday morning turning back,
-&nbsp;F              G               C
-&nbsp;Yellow lorry slow, nowhere to go.
-&nbsp;    <a class="rojo">Bb</a>                      F            C
-&nbsp;But oh, that magic feeling,   nowhere to go!
-&nbsp;<a class="rojo">Bb</a>                      F            C
-&nbsp;Oh, that magic feeling,   nowhere to go!
-
-&nbsp;<a class="magentaDom">E7</a>: <a class="lnk"  href="/armonia/arm2#dom-rel-men">Vdevi</a>
-&nbsp;<a class="magentaDom">C7</a>: <a class="lnk"  href="/armonia/arm2#domiv">VdeIV</a>
-&nbsp;<a class="rojo">Bb</a>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
-</code>
-
-Como pueden ver al pie del ejemplo, cada acorde "no diatonico" es asignado a un link que explica su función.
-
-También notarán que aquí no se incluye la canción completa sino un fragmento de la misma. 
-
-Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
-
-
-Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
-
-Para una entender mejor como leer este ebook pasemos a la proxima sección...
 
 
 ## La Estructura Paralela
