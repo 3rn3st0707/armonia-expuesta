@@ -11,10 +11,12 @@ slug: /
 
 Usualmente se dice que los elementos musicales son melodia, armonia y ritmo. Pero mientras que los conceptos de melodia y ritmo son relativamente intuitivos y fáciles de entender, la armonía, un concepto de por sí más complejo, permanece incomprendido y subestimado no sólo por el público general sino de hecho por una gran mayoría de músicos, si no es que la mayoria de ellos.
 
-La Ley de Pareto indica que a menudo *"un 80% de los efectos esta producido por un 20% de las causas"* y mientras en este caso no podría indicar cual es exactamente la proporción, si puedo afirmar con total seguridad de que la importancia de la armonía es desproporcionada respecto a la poca atención que recibe y a los pocos músicos que realmente entienden y dominan la armonía.
+La [Ley de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto) indica que a menudo *"un 80% de los efectos esta producido por un 20% de las causas"* y mientras en este caso no podría indicar cual es exactamente la proporción, si puedo afirmar con total seguridad de que la importancia de la armonía es desproporcionada respecto a la poca atención que recibe y a los pocos músicos que realmente entienden y dominan la armonía.
 
 
-Mientras que la mención de la pabalabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cual diferentes voces interactuan a diferentes alturas y lineas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/category/tipos-de-acordes#acordes">acordes</a> que se puede decir que son una <a class="lnk"  href="/category/tipos-de-acordes#laclave">formalización de los patrones más comunes</a> de estas voces interactuando y esto desde ya vale tambien para la música instrumental.
+
+
+Mientras que la mención de la pabalabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cual diferentes voces interactuan a diferentes alturas y lineas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> que se puede decir que son una <a class="lnk"  href="/category/módulos-técnicos#laclave">formalización de los patrones más comunes</a> de estas voces interactuando y esto desde ya vale tambien para la música instrumental.
 
 Es por eso que la únidad más importante en el estudio de la armonía es el acorde y sus progresiones y es por eso que los tres modulos de este ebook tratan sobre los 3 principales tipos de acorde en la música popular: <a class="lnk"  href="/category/tipos-de-acordes">Acordes Diatónicos</a>, <a class="lnk"  href="/armonia/arm2">Dominantes Secundarios</a> y <a class="lnk"  href="/armonia/arm3#acordes-prestados-del-modo-paralelo">Acordes Prestados del Modo Paralelo</a>.
 
@@ -22,11 +24,11 @@ Veamos ahora un primer ejemplo de Armonía en acción:
 
 ## ¿Que es la Armonía?
 
-El concepto de armonía permanece elusivo para muchos. La verdad es que es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir que mientras a un nivel superficial tendemos a creer que es la melodia lo que genera la textura músical que estamos escuchando, en realidad se trata de la interacción entre melodia (diferentes <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/category/tipos-de-acordes#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo que generalmente se llama Armonía.
+El concepto de armonía permanece elusivo para muchos. La verdad es que es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir que mientras a un nivel superficial tendemos a creer que es la melodia lo que genera la textura músical que estamos escuchando, en realidad se trata de la interacción entre melodia (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo que generalmente se llama Armonía.
 
 <a id="iwanna" class="anchor"></a>
 
-Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba los <a class="lnk"  href="/category/tipos-de-acordes#acordes">acordes</a> tocados simultaneamente:
+Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> tocados simultaneamente:
 
 <code>
 
@@ -42,14 +44,14 @@ A|---------------------------------------------------
 E|---------------------------------------------------
 </code>
 
-Pese a que el solo de guitarra consta de MI (E) como única nota, este igual funciona dado que los acordes con los que interactua van cambiando. Esto prueba que contra nuestra percepcion superficial de que la melodia es lo que produce el efecto musical, su interación con los <a class="lnk"  href="/category/tipos-de-acordes#acordes">acordes</a> es lo que realmente cuenta. 
+Pese a que el solo de guitarra consta de MI (E) como única nota, este igual funciona dado que los acordes con los que interactua van cambiando. Esto prueba que contra nuestra percepcion superficial de que la melodia es lo que produce el efecto musical, su interación con los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> es lo que realmente cuenta. 
 
 
-El armazón estandard que historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumento que proven acordes (aunque a veces es el mismo instrumento como el caso del piano) es lo que se conoce como *Clave Diatonica* y pueden leer más al respecto en <a class="lnk"  href="/category/tipos-de-acordes#laclave">La Clave: Acordes Sobre los Grados de la Escala</a>.
+El armazón estandard que historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumento que proven acordes (aunque a veces es el mismo instrumento como el caso del piano) es lo que se conoce como *Clave Diatonica* y pueden leer más al respecto en <a class="lnk"  href="/category/módulos-técnicos#laclave">La Clave: Acordes Sobre los Grados de la Escala</a>.
 
 
 Debe tenerse en cuenta que este mismo sistema tambien genera una necesidad de resolución en ciertos acordes que terminan por definir 
-lo que se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema que vemos en profundida en la sección <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">La Sensación de Tonalidad</a>
+lo que se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema que vemos en profundida en la sección <a class="lnk"  href="/category/módulos-técnicos#sen-ton">La Sensación de Tonalidad</a>
 
 Esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>, caso que veremos en más detalle en la siguiente sección dado que en la comparación de estos aspectos técnicos se basan algunas de las deciciones en cuanto al formato de este ebook.
 
@@ -60,12 +62,12 @@ Esta misma necesidad de resolución es también el dispositivo por el que habitu
 
 El motivo por el que este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las lineas melodicas es un intento deliverado de romper con el prejuicio que tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuando entre sí.
 
-Esto, que lo pueden encontrar en el 90% de los manuales armonicos de los últimos 400 años tiende a dejar de lado los muchos efectos especificos de la armonía que dependen más de los acordes que de la melodía, como por ejemplo la <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">necesidad de resolución</a> a la que apuntabamos más arriba.
+Esto, que lo pueden encontrar en el 90% de los manuales armonicos de los últimos 400 años tiende a dejar de lado los muchos efectos especificos de la armonía que dependen más de los acordes que de la melodía, como por ejemplo la <a class="lnk"  href="/category/módulos-técnicos#sen-ton">necesidad de resolución</a> a la que apuntabamos más arriba.
 
 Debe tenerse en cuenta que esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>. Aquí una lista de los capítulos especificamente dedicados a tales cambios de clave:
 
 <ul>
-    <li><a href="/category/tipos-de-acordes#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
+    <li><a href="/category/módulos-técnicos#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
     <li><a href="/armonia/arm3#el-modo-paralelo-cómo-cambio-de-clave" class="lnk">Modulación entre Claves Paralelas</a></li>
     <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV atravez de VdeIV</a></li>
     <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV atravez de ii-V-I</a></li>
@@ -79,7 +81,7 @@ Debe tenerse en cuenta que esta misma necesidad de resolución es también el di
 Seguramente ya habran notado que los <a class="lnk"  href="/category/armonia-expuesta#la-armonía">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
 esto es así para lograr la mayor interrelación posible entre <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">los casi 200 ejemplos</a>  y de esta forma lograr un aprendizaje más práctico que prescinda de las largas y aburridas explicaciones teóricas que a menudo se usan cuando se explica armonía.
 
-Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir que donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a> no iran marcado con ningún color en particular, pero los "no diatonicos" (los que aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el que los editores de texto aplican sobre los codigos de programación. Por ejemplo:
+Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir que donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> no iran marcado con ningún color en particular, pero los "no diatonicos" (los que aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el que los editores de texto aplican sobre los codigos de programación. Por ejemplo:
 
 <code> 
 
@@ -112,7 +114,7 @@ Como pueden ver al pie del ejemplo, cada acorde "no diatonico" es asignado a un 
 
 También notarán que aquí no se incluye la canción completa sino un fragmento de la misma. 
 
-Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
+Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
 Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
@@ -144,40 +146,30 @@ Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este e
 
 </details>
 
-
-La tésis de este estudio es más bien simple, sin embargo una adecuada exposición de la misma requiere un considerable conocimiento técnico previo. Es por eso que la tésis es expuesta aquí al principio, junto a la introdución, mientras que los restantes 3 modulos en los que se divide el resto del ebook, son un manual de trucos armónicos ilustrados con <a class="lnk"  href="#indice-alfabetico-de-ejemplos">ejemplos muy conocidos</a> de la música popular que proveén de dichos requerimientos técnicos necesarios.
-
-
-
-La tésis sostiene que los principales trucos de la composición profesional de música popular presuponen el hecho de que la <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave diatónica</a> es una racionalización de los <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalos que son innatamente más afines al oido humano</a>.
+Por ra
 
 
 
-Dicha concepción, desde luego, dista mucho de ser nueva, pero recientes tendencias academicas que con muchos fundamentos morales y casi ningún <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >fundamento técnico</a> desafian tal presupuesto, yo interpongo la evidencia de que sólo es posible manipular la percepción del oyente (base de técnica compositiva profesional) presuponiendo una serie de tendencias naturales de este último.
-
-
-
-
-Por tanto la <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave diatónica</a> es la interface que estructura dichas tendencias en un set preordenado de acordes.
+Por tanto la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave diatónica</a> basada en la escala jonica y su relativa menor, la clave diatonica basada en la escala Eolica son la interface que estructura dichas tendencias en un set preordenado de acordes.
 
 
 Para probar este hecho me enfocaré puntualmente en tres cuestiones. 
 
 
 
-La primera es que la <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">necesidad de resolución</a> hacia la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a> (grado I de la clave) de la <a class="lnk"  href="/category/tipos-de-acordes#tension">tensión</a> generada por el acorde dominante (grado V de la clave).
+La primera es que la <a class="lnk"  href="/category/módulos-técnicos#sen-ton">necesidad de resolución</a> hacia la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a> (grado I de la clave) de la <a class="lnk"  href="/category/módulos-técnicos#tension">tensión</a> generada por el acorde dominante (grado V de la clave).
 
 
 Conceder o postergar dicha resolución al oido del oyente es una de las herramientas de las que se vale el compositor y la primera prueba de que que tales tendencias son innatas dado que los trucos basados en ello no podrián ser posibles si el oyente no "anticipara" mentalmente tal resolución.
 
-Los capítulos basados en este efecto son <a class="lnk"  href="/category/tipos-de-acordes#tension">Tensión y Relajación</a>, la <a class="lnk"  href="/category/tipos-de-acordes#decep-1" >Resolución Decepcionante</a>, la  <a class="lnk"  href="/armonia/arm2#vdevivi" >Progresión VdeV-IV-I</a>, <a class="lnk"  href="/armonia/arm2#ambi">Ambigüedad Tonal</a> y <a class="lnk"  href="/armonia/arm3#pre-eng">Acordes Prestados y Engaño Tonal</a>.
+Los capítulos basados en este efecto son <a class="lnk"  href="/category/módulos-técnicos#tension">Tensión y Relajación</a>, la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >Resolución Decepcionante</a>, la  <a class="lnk"  href="/armonia/arm2#vdevivi" >Progresión VdeV-IV-I</a>, <a class="lnk"  href="/armonia/arm2#ambi">Ambigüedad Tonal</a> y <a class="lnk"  href="/armonia/arm3#pre-eng">Acordes Prestados y Engaño Tonal</a>.
 
 
 En este punto donde muchos músicos renuentes a la teoría musical suelen objetar que esto se puede lograr igualmente por medios intuitivos.
 
 
 
-Muchos de los aspectos de la clave diatonica pueden parecer poco trascendentes cuando se la explica, debido justamente a que al estar esta estructurada en base a los <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >intervalos</a> que son innatamente más afines al oido humano, los acordes pertenecientes a la clave son los que intiutivamente tienden a tocar los músicos aún sin haberla estudiado.
+Muchos de los aspectos de la clave diatonica pueden parecer poco trascendentes cuando se la explica, debido justamente a que al estar esta estructurada en base a los <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalos</a> que son innatamente más afines al oido humano, los acordes pertenecientes a la clave son los que intiutivamente tienden a tocar los músicos aún sin haberla estudiado.
 
 
 Aca es donde entra la segunda cuestión que utilizaré para fundamentar mi tésis: 
@@ -185,10 +177,10 @@ Aca es donde entra la segunda cuestión que utilizaré para fundamentar mi tési
 
 El conocimiento de la clave no es importante para saber donde estan los acordes mas intuitivos (los diatonicos o naturales de la clave diatonica) sino para saber donde estan los acordes menos intuitivos (los conocidos como no-diatonicos y que usualmente caen en la categoria de <a class="lnk"  href="/armonia/arm3#prestados" >acordes prestados del modo paralelo</a>).
 
-En el capítulo sobre la <a class="lnk"  href="/category/tipos-de-acordes#laclave">La Clave: Acordes sobre los Grados de la Escala</a> podemos leer que...
+En el capítulo sobre la <a class="lnk"  href="/category/módulos-técnicos#laclave">La Clave: Acordes sobre los Grados de la Escala</a> podemos leer que...
 
 >"La clave no es más que la forma en que estos dos elementos familiares
-entre sí (acordes y escalas <a class="lnk"  href="/category/tipos-de-acordes#esc-aco" >constituidos con los mismos intervalos diatónicos</a>) se combinan de una forma musicalmente
+entre sí (acordes y escalas <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >constituidos con los mismos intervalos diatónicos</a>) se combinan de una forma musicalmente
 "armónica" pero que vendría a ser "armónica"? Significa que si ordenamos determinado
 tipo de acorde sobre los grados de la escala, todas las notas de cada
 acorde ya están en la escala sobre la cual la construimos.
@@ -272,7 +264,7 @@ En su analogía musical estos juegos consisten usualmente en sugerir mediante ac
 Caso similar el juego de inspiración *estructuralista* donde se juega con el hecho de que un mismo acorde tiene diferentes funciones o <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> (es decir se identifica con diferentes numeros romanos) en el contexto de diferentes claves utilizadas en una misma canción como se ve en los casos de los capítulos <a class="lnk"  href="/armonia/arm3#refunc">bVII Prestado Refuncionalizado como IV</a> y <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>.
 
 
-Este tipo de trucos formales reafirman la tesis dado que para que dichos juegos en torno a la clave como objeto o forma completa funcionen esta debe tener una correlación con las <a class="lnk"  href="/category/tipos-de-acordes#fundamentos" >inclinaciones naturales del oido humano</a> dado que el oyente promedio ingnora por completo que es la clave tal como esta definida formalmente pero estos trucos funcionan perfectamente igual con ellos.
+Este tipo de trucos formales reafirman la tesis dado que para que dichos juegos en torno a la clave como objeto o forma completa funcionen esta debe tener una correlación con las <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >inclinaciones naturales del oido humano</a> dado que el oyente promedio ingnora por completo que es la clave tal como esta definida formalmente pero estos trucos funcionan perfectamente igual con ellos.
 
 
 En la sección <a class="lnk"  href="/category/armonia-expuesta#la-estructura-paralela" >La Estructura Paralela</a> de esta misma introdución veremos casos más complejos de reinterpretación y manipulación tonal, pero antes debemos ocuparnos del formato de este ebook a fin de clarificar algunos puntos.
@@ -300,7 +292,7 @@ Mientras que esta omisión es entendible siendo el Prof. Pollack un musicólogo 
 
 >"En la música popular si se sacara algún detalle del contexto no afectaría el sentido musical; el oyente puede suplir el “marco” automáticamente, ya que éste es un mero automatismo musical. El comienzo del coro es reemplazable por el comienzo de otros muchos coros. La interrelación entre los elementos o la relación de los elementos con el todo no se vería afectada"
 
-Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de esta forma entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/tipos-de-acordes#laclave">clave</a>.
+Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de esta forma entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
 Sin embargo, a este nuevo nivel de abstracción se le suman a su vez otros más profundos aún: 
@@ -320,10 +312,10 @@ Más allá de las disputas sobre la validez estètica de cual o tal tipo de mús
 
 
 
-En donde esto resulta mas evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulación se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+En donde esto resulta mas evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulación se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
-Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de que los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones tipcamente resolutivas <a class="lnk"  href="/category/tipos-de-acordes#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/tipos-de-acordes#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de que los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones tipcamente resolutivas <a class="lnk"  href="/category/módulos-técnicos#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
 El siguiente ejemplo es una práctica forma de graficar la "estructura profunda" común subyacente a estos dos recursos dado que primero hace uso de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> y luego procede a una <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>:
@@ -368,7 +360,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 &nbsp;<span class="rojo">F</span>: <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado del modo paralelo menor</a>
 &nbsp;<span class="rojo">G</span>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
 &nbsp;C/B: x20010
-&nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/tipos-de-acordes#sen-ton">ii-V-I</a> a bIII (C)
+&nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/módulos-técnicos#sen-ton">ii-V-I</a> a bIII (C)
 </code>
 
 
@@ -384,15 +376,15 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm3#agua" >Agua</a><br /> 
 <a class="lnk"  href="/armonia/arm2#aintshe" >Ain't She Sweet</a><br />
 <a class="lnk"  href="/armonia/arm3#allmyloving" >All My Loving</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#andiloveher">And I Love Her</a><br />
-<a class="lnk"  href="/armonia/arm2#ivcrom" >Anna</a><br /> 
+<a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a><br />
+<a class="lnk"  href="/armonia/arm2#anna" >Anna</a><br /> 
 <a class="lnk"  href="/armonia/arm2#anotherbrick" >Another Brick In The Wall</a><br />
 <a class="lnk"  href="/armonia/arm3#anothergirl" >Another Girl</a><br />
 <a class="lnk"  href="/armonia/arm3#aregonna" >Are You Gonna Go My Way?</a><br />
 <a class="lnk"  href="/armonia/arm2#iwanttohorizon" >Back In The USSR</a><br />
 <a class="lnk"  href="/armonia/arm2#backwater" >Backwater</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#bajan" >Bajan</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#because" >Because</a><br /> 
+<a class="lnk"  href="/category/módulos-técnicos#bajan" >Bajan</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#because" >Because</a><br /> 
 <a class="lnk"  href="/armonia/arm2#beingfor" >Being For The Benefit Of Mr Kite!</a><br />
 <a class="lnk"  href="/armonia/arm3#birthday">Birthday</a><br /> 
 <a class="lnk"  href="/armonia/arm3#black" >Black</a><br /> 
@@ -407,14 +399,14 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#creep" >Creep</a><br /> 
 <a class="lnk"  href="/armonia/arm3#crybabycry" >Cry Baby Cry</a><br />
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#dear1" >Dear Prudence 1</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#dear2" >Dear Prudence 2</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#dear1" >Dear Prudence 1</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#dear2" >Dear Prudence 2</a><br />
 <a class="lnk"  href="/armonia/arm2#demásiada" >Demásiada Presión</a><br />
 <a class="lnk"  href="/armonia/arm3#digapony" >Dig A Pony</a><br />
 <a class="lnk"  href="/armonia/arm3#divididos" >Divididos Por La Felicidad</a><br />
 <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a><br />
 <a class="lnk"  href="/armonia/arm3#drrobert" >Doctor Robert</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#circ-quint" >Don't Cry</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#circ-quint" >Don't Cry</a><br />
 <a class="lnk"  href="/armonia/arm2#dustinthewind" >Dust In The Wind</a><br />
 <a class="lnk"  href="/armonia/arm2#eightdays" >Eight Days A Week</a><br />
 <a class="lnk"  href="/armonia/arm2#elloco" >El Loco</a><br />
@@ -436,7 +428,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm3#ghostbusters">Ghostbusters Theme</a><br />
 <a class="lnk"  href="/armonia/arm3#girlyoull">Girl, You'll Be A Woman Soon</a><br />
 <a class="lnk"  href="/armonia/arm3#padrino">Godfather Theme</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#setonyou">Got My Mind Set On You</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#setonyou">Got My Mind Set On You</a><br />
 <a class="lnk"  href="/armonia/arm3#gottogetyou">Got To Get You Into My Life</a><br />
 <a class="lnk"  href="/armonia/arm3#haveyouever" >Have You Ever Loved A Woman?</a><br />
 <a class="lnk"  href="/armonia/arm3#hellogoodbye" >Hello Goodbye</a><br />
@@ -451,7 +443,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm3#holdmyhand" >Hold My Hand</a><br /> 
 <a class="lnk"  href="/armonia/arm3#honeypie" >Honey Pie</a><br />
 <a class="lnk"  href="/armonia/arm2#honky" >Honky Tonk Woman</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#hotelcalifornia" >Hotel California</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#hotelcalifornia" >Hotel California</a><br />
 <a class="lnk"  href="/armonia/arm2#houseoftherising" >House Of The Rising Sun</a><br /> 
 <a class="lnk"  href="/armonia/arm3#resu" >I Am The Resurrection</a><br />
 <a class="lnk"  href="/armonia/arm2#vdevivi" >I Call Your Name</a><br />
@@ -467,7 +459,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#follow" >I'll follow the sun</a><br />
 <a class="lnk"  href="/armonia/arm3#getyou" >I'll Get You</a><br />
 <a class="lnk"  href="/armonia/arm3#imaloser" >I'm a loser</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#happyjust" >I'm happy just to dance with you</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm happy just to dance with you</a><br />
 <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm only sleeping</a><br />
 <a class="lnk"  href="/armonia/arm3#if2" >If 1</a><br />
 <a class="lnk"  href="/armonia/arm2#dom-sec" >If 2</a><br />
@@ -496,19 +488,19 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#lovestreet" >Love Street</a><br />
 <a class="lnk"  href="/armonia/arm3#dinosaurios">Los Dinosaurios</a><br />
 <a class="lnk"  href="/armonia/arm3#loser">Loser</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#losing">Losing</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#losing">Losing</a><br />
 <a class="lnk"  href="/armonia/arm3#lump">Lump</a><br />
 <a class="lnk"  href="/armonia/arm3#mantenha" >Mantenha o respeito</a><br />
 <a class="lnk"  href="/armonia/arm3#pontiac" >Mariposa Pontiac</a><br />
 <a class="lnk"  href="/armonia/arm3#mustard">Mean Mr Mustard</a><br />
 <a class="lnk"  href="/armonia/arm3#refunc">Mi novia se cayó<br /> en un pozo ciego</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#michelledim" >Michelle</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a><br />
 <a class="lnk"  href="/armonia/arm3#sarajevo" >Miss Sarajevo</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#morethanwords">More Than Words</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#morethanwords">More Than Words</a><br />
 <a class="lnk"  href="/armonia/arm3#morethanafeeling">More Than A Feeling</a><br />
 <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's Little Helper</a><br />
 <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#mysweetlord">My sweet Lord</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My sweet Lord</a><br />
 <a class="lnk"  href="/armonia/arm3#neversay">Never say goodbye</a><br />
 <a class="lnk"  href="/armonia/arm3#nwood" >Norwegian Wood</a><br />
 <a class="lnk"  href="/armonia/arm2#2u">Nothing compares 2U</a><br />
@@ -516,7 +508,7 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#one">One</a><br />
 <a class="lnk"  href="/armonia/arm3#oneinamillon">One in a millon</a><br />
 <a class="lnk"  href="/armonia/arm2#onlyyou">Only you</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#outoftime" >Out of time</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#outoftime" >Out of time</a><br />
 <a class="lnk"  href="/armonia/arm2#paintitblack" >Paint it black</a><br />
 <a class="lnk"  href="/armonia/arm3#paisefilhos">Pais e filhos</a><br />
 <a class="lnk"  href="/armonia/arm3#paradisecity" >Paradise City 1</a><br /> 
@@ -551,23 +543,23 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> <br />
 <a class="lnk"  href="/armonia/arm3#theend" >The End</a><br />
 <a class="lnk"  href="/armonia/arm3#thenightbefore">The night before</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#tension" >The Shoop shoop song</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#artif-scala-menor" >The Way</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#tension" >The Shoop shoop song</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >The Way</a><br />
 <a class="lnk"  href="/armonia/arm3#thingswe">Things we said today</a><br />
 <a class="lnk"  href="/armonia/arm2#domiv" >This Boy</a><br />
 <a class="lnk"  href="/armonia/arm3#thunderstruck" >Thunderstruck</a><br /> 
 <a class="lnk"  href="/armonia/arm3#ticket" >Ticket to ride</a><br />
 <a class="lnk"  href="/armonia/arm3#tomorrownever" >Tomorrow never knows</a><br />
 <a class="lnk"  href="/armonia/arm3#suavemente" >Tratame Suavemente</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#tuyo" >Tuyo siempre</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#tuyo" >Tuyo siempre</a><br />
 <a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a><br />
 <a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny bop</a><br />
 <a class="lnk"  href="/armonia/arm3#walklike">Walk like an egyptian</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#wecan">We can work it out</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#wecan">We can work it out</a><br />
 <a class="lnk"  href="/armonia/arm3#wonderfulworld" >What a wonderful world</a><br />
 <a class="lnk"  href="/armonia/arm3#gethome" >When I get home</a><br />
 <a class="lnk"  href="/armonia/arm3#doblefriends" >With a little help from my friends</a><br />
-<a class="lnk"  href="/category/tipos-de-acordes#yesterdayiivi" >Yesterday 1</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi" >Yesterday 1</a><br />
 <a class="lnk"  href="/armonia/arm2#yestedayplagal" >Yesterday 2</a><br />
 <a class="lnk"  href="/armonia/arm3#youcanleave" >You can leave your hat on</a><br />
 <a class="lnk"  href="/armonia/arm2#youcantalways" >You can't always get what you want</a><br />

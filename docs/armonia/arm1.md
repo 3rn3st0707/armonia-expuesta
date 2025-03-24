@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-slug: /category/tipos-de-acordes
+slug: /category/módulos-técnicos
 ---
 
-# Acordes Diatónicos
+# Módulo 1
 
 
  <hr style={{  marginTop: '2em' }} />
@@ -1613,18 +1613,18 @@ En la sección <a class="lnk"  href="#fundamentos" >Un poco de fundamentos</a> v
 
 
 Esto es muy importante para la composición, al punto de que con solo 3 acordes, I, IV y V se pueden hacer muchas variaciones dependiendo de su dirección, veámoslos graficados:
-
-<h3>Quintas Descendentes</h3>
 <center>
+<h3>Quintas Descendentes</h3>
+
 
 <img  class="imgX"
   src={require('@site/static/img/descendente.png').default}
 /> 
 
-</center>
+<br /><br />
 
 <h3>Quintas Ascendentes</h3>
-<center>
+
 
 <img  class="imgX"
   src={require('@site/static/img/ascendente.png').default}

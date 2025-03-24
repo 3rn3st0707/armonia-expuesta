@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Dominantes Secundarios
+# Modulo 2
 
  <hr style={{  marginTop: '2em' }}  />
 
@@ -82,7 +82,7 @@ Cabe aclarar que en estos casos no se trata de un cambio de <a class="lnk"  href
 
 
 
-Por otro lado esto de comenzar el puente con I-VdeIV-IV y terminarlo en <a class="lnk"  href="#dom-sec" >VdeV</a>-V es casí una convención de la balada tipo años 50's cómo por ejemplo <a class="lnk"  href="#ivcrom" >Anna</a> que estando en clave de D también comienza su puente con D-D7-G (I-VdeIV-IV) y lo termina en VdeV-V (E7-A7). 
+Por otro lado esto de comenzar el puente con I-VdeIV-IV y terminarlo en <a class="lnk"  href="#dom-sec" >VdeV</a>-V es casí una convención de la balada tipo años 50's cómo por ejemplo <a class="lnk"  href="#anna" >Anna</a> que estando en clave de D también comienza su puente con D-D7-G (I-VdeIV-IV) y lo termina en VdeV-V (E7-A7). 
 
 
 
@@ -118,6 +118,100 @@ Pero la sección que sigue continúa con el tipo de puente años 50s que recién
 
 ## El cliché IV-<span class="min" >iv</span> (IV mayor-menor)
 
+
+<a class="anchor" id="inmylife"></a>
+
+<code>
+
+ I       ii      iii IV      V       vi      VII  I
+|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º| A 
+
+
+&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/272417.html" >In my life</a> <a target="_blank" href="https://youtu.be/z5CjaqZb5nM" ><FAIcon icon="fa-solid fa-play"  /></a>
+
+	
+Intro A E7 X2
+	
+&nbsp;            A    E7       F#m    <span class="magentaDom">A7</span>
+&nbsp;There are places I'll remember
+&nbsp;       D      <span class="rojo">Dm</span>                  A
+&nbsp;All my liiiiiife, though some have changed
+&nbsp; A             E7        F#m   <span class="magentaDom">A7</span> 
+&nbsp;Some forever, not for better
+&nbsp;          D   <span class="rojo">Dm</span>        A
+&nbsp;Some have goooone, and some remain
+
+
+&nbsp;<span class="magentaDom">A7</span>: <a class="lnk"  href="#domiv" >VdeIV</a>, ver <a class="lnk"  href="#palestrina">disonancia en tiempos débiles</a>
+&nbsp;<a class="rojo">Dm</a>: <a class="lnk"  href="/armonia/arm3#prestados" >acorde no-diatónico</a> (juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> con IV mayor)
+</code>
+
+
+La inclusión de un acorde ajeno a la <a class="lnk"  href="/category/tipos-de-acordes#laclave" >clave</a> de A mayor aquí, es decir el acorde del grado IV pero con una tercera menor (Dm) responde a que esa tercera menor (F en el acorde de Dm) permite extender el juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> que se da entre VdeIV y IV, A7 y D en este caso: la nota G del acorde A7 es seguida por la nota F# del acorde D que es seguido por la nota F del acorde Dm que es seguida por la nota E del acorde A describiendo una linea melodiaca cromatica descendente G-F#-F-E como resultado de la progresión de acordes A7-D-Dm-A. 
+
+
+
+
+También podemos ver que <a class="lnk"  href="#domiv" >VdeIV</a> (A7 en clave de A) aparece cómo un <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acorde de paso</a>, típicamente para este tipo de acordes, tocado brevemente durante un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> y de hecho Dm cae en el siguiente tiempo débil. Algo de hecho muy usual para una progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I. Veamos esta nota al respecto:
+
+
+<a class="" id="palestrina"></a>
+
+<details open>
+
+  <summary><h2>Disonancia en Tiempos Débiles</h2></summary>
+
+
+
+Son varios los ejemplos en este ebook donde un acorde disonante es utilizado como acorde de paso en un <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempo débil</a>, por ejemplo el acorde A7 (ver <a class="lnk"  href="/category/tipos-de-acordes#aco7" >dominante de séptima</a>) como <a class="lnk"  href="#domiv" >VdeIV</a> en clave de A en <a class="lnk"  href="#inmylife" >In My Life</a> o el acorde C7 en <a class="lnk"  href="#follow" >I'll Follow The Sun</a>  como <a class="lnk"  href="#domiv" >VdeIV</a> en clave de C.
+
+
+
+
+Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/tipos-de-acordes#meddim" >medio-disminuido</a>, caso que podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/tipos-de-acordes#michelledim" >Michelle</a> (<a class="lnk"  href="notasadmichell.htm" >ver más</a>) y casi todos los ejemplos que se ven en la <a class="lnk"  href="/category/tipos-de-acordes#meddim" >sección sobre el acorde medio-disminuido</a>.
+
+
+
+En <a class="lnk"  href="/armonia/arm3#htandevery">Here There And Everywhere</a> dicho juego se repite en 2 claves diferentes pero utilizando diferentes inversiones de un mismo <a class="lnk"  href="/category/tipos-de-acordes#meddim" >medio-disminuido</a>, tal como se explica en el siguiente gráfico de los <a class="lnk"  href="/category/tipos-de-acordes#htae_dim" >disminuidos en Here There And Everywhere</a>.
+
+
+
+Este recurso tiene sus origenes en la obra de <a href="https://es.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina" target="_blank">Giovanni Pierluigi da Palestrina</a> (1525-1594)
+sobre cuyo estilo podemos leer en <a href="https://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina#The_%22Palestrina_Style%22" target="_blank">The Palestrina Style</a>: 
+
+
+
+>"Una de las marcas caracteristicas del estilo de Palestrina es que las <a class="lnk"  href="/category/tipos-de-acordes#tritono" >disonancias</a> están típicamente relegadas a los <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempos débiles</a>. Esto produce un tipo más suave y consonante de <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> que ahora es considerada la definitiva de la música del renacimiento tardio debido a la posición de Palestrina como principal compositor europeo en ese momento. El estilo de Palestrina hoy en día es muy estudiado en el ambito académico como la base del <a href="https://es.wikipedia.org/wiki/Contrapunto" target="_blank">contrapunto</a> renancentista."
+
+
+
+
+Existe la leyenda, de la cual no hay pruevas, de que Palestrina desarrollo su estilo para vencer la oposición del <a href="https://es.wikipedia.org/wiki/Concilio_de_Trento" target="_blank">Concilio de Trento</a> al uso de la <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> en la música religiosa.
+		
+
+
+Verdad o mito lo cierto es que <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> se hizo eco del estilo de Palestrina en el capítulo *"<a href="http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Culture_industry_1.shtml" target="_blank">Industria Cultural</a>"* de su obra *"<a href="/textos/ilustracion" class="lnk">Dialéctica de la ilustración</a>"* cuando decidio hacer un paralelismo (ciertamente critico) entre la autodiciplinación religiosa de Palestrina y la tendencia a la estándarización de los arregladores de Jazz modernos:
+ 
+>"Ni el mismisimo Palestrina ubiese puesto tanto celo en eliminar la disonancia no preparada e irresuelta como un arrangeur de música de jazz elimina hoy toda cadencia
+que no se adecué perfectamente a su jerga"
+
+</details>
+
+
+<a  class="anchor" id="anna"></a>
+
+
+
+El proximo ejemplo rompe con el cliche de que en una progresión VdeIV-IV-iv-I lo acordes VdeIV y iv necesariamente caigan en tiempos debiles y lo hace extendiendo notablemente los compases que los acordes son sostenidos.
+
+Tambien rompe con el clicche de que Iv-iv (G-Gm e clave de D) tengan un sentido resolutorio inmediato, dado que G-Gm no cambian al acorde D (tónica) sino al acorde E7 (<a class="lnk"  href="#dom-sec" >VdeV</a> en clave de D)
+
+
+
+
+
+
+
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII   I
@@ -151,54 +245,18 @@ Pero la sección que sigue continúa con el tipo de puente años 50s que recién
 &nbsp;<a class="rojo">Gm</a>: <a class="lnk"  href="/armonia/arm3#prestados">acorde no-diatónico</a> (juego cromático con IV mayor)
 </code>
 
-La inclusión de un acorde ajeno a la <a class="lnk"  href="/category/tipos-de-acordes#laclave" >clave</a> de D mayor aquí, es decir el acorde del grado IV pero con una tercera menor (Gm) responde a que esa tercera menor permite extender el juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> que se da entre VdeIV y IV (D7 y G en este caso). 
 
 
 
-Si buscamos el acorde D7 en <a href="/category/tipos-de-acordes#aco7"  class="lnk">este diagrama</a> veremos que la séptima menor de D es C, si buscamos la tercera mayor (III) de G en <a href="/category/tipos-de-acordes#aco7"  class="lnk">este diagrama</a> veremos que su tercera es B, es decir, un semitono más abajo.
 
 
 
-Entonces la inclusión de Gm (cuya tercera (bIII) podemos ver en <a href="/category/tipos-de-acordes#aco7"  class="lnk">este diagrama</a> que es Bb) surge cómo una continuación  de dicha línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente.
 
 
-
-En este caso el acorde E7 (<a class="lnk"  href="#dom-sec" >VdeV</a>) corta dicha línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente, pero si volviera al acorde I (D) está continuaría, dado que la V de D es A, ósea un semitono más bajo que Bb, veamos un caso donde eso pasa, pero en clave de A:
-
-<a class="anchor" id="inmylife"></a>
-
-<code>
-
- I       ii      iii IV      V       vi      VII  I
-|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º| A 
-
-
-&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/272417.html" >In my life</a> <a target="_blank" href="https://youtu.be/z5CjaqZb5nM" ><FAIcon icon="fa-solid fa-play"  /></a>
-
-	
-Intro A E7 X2
-	
-&nbsp;            A    E7       F#m    <span class="magentaDom">A7</span>
-&nbsp;There are places I'll remember
-&nbsp;       D      <span class="rojo">Dm</span>                  A
-&nbsp;All my liiiiiife, though some have changed
-&nbsp; A             E7        F#m   <span class="magentaDom">A7</span> 
-&nbsp;Some forever, not for better
-&nbsp;          D   <span class="rojo">Dm</span>        A
-&nbsp;Some have goooone, and some remain
-
-
-&nbsp;<span class="magentaDom">A7</span>: <a class="lnk"  href="#domiv" >VdeIV</a>, ver <a class="lnk"  href="#palestrina">disonancia en tiempos débiles</a>
-&nbsp;<a class="rojo">Dm</a>: <a class="lnk"  href="/armonia/arm3#prestados" >acorde no-diatónico</a> (juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> con IV mayor)
-</code>
-
-En este caso podemos ver que <a class="lnk"  href="#domiv" >VdeIV</a> (A7 en clave de A) aparece cómo un <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acorde de paso</a>, típicamente para este tipo de acordes, tocado brevemente durante un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> y de hecho Dm cae en el siguiente tiempo débil. Algo de hecho muy usual para una progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I.
-
+ 
 <a class="anchor" id="ififellpuente"></a>
 
-
-
-El próximo ejemplo es una canción que en su puente hace uso de <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I pero justamente evitando ese cliché rítmico que acabamos de describir, aunque paradógicamente antes, en la estrofa previa, hace uso de un <a class="lnk"  href="/category/tipos-de-acordes#dism">acorde disminuido</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acorde de paso</a>, en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>.
+La misma banda que popularizo el cover q del tema que acabamos de analizar, incluiría un par de albumes más tarde, un tema propio también en clave de D, también incluyendo la misma inusual duracion de compases en la progresion VdeIv-IV-iv y también evitando que esta resuelva directamente en I sino interponiendo una rápida progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (Bb-C-D en clave de D) entre Gm y D:
 
 
 <code>
@@ -242,77 +300,17 @@ El próximo ejemplo es una canción que en su puente hace uso de <a class="lnk" 
 &nbsp;<a class="rojo">Bb-C</a>-D: <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a>
 </code>
 
-<p class="md_footnote_size">Notese que el numero inusual de compases dado a la resolución IV-iv-I  en <a class="lnk"  href="#ivcrom" >Anna</a> en la misma clave (G-<a class="rojo">Gm</a>-I) aqui se repite pero "incrustando" una progresion <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> tambien en clave de D.
+<p class="md_footnote_size">Notese que el numero inusual de compases dado a la resolución IV-iv-I  en <a class="lnk"  href="#anna" >Anna</a> en la misma clave (G-<a class="rojo">Gm</a>-I) aqui se repite pero "incrustando" una progresion <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> tambien en clave de D.
 </p>
 
-<a class="" id="palestrina"></a>
 
-<details open>
-
-  <summary><h2>Disonancia en Tiempos Débiles</h2></summary>
-
-
-
-Son varios los ejemplos en este ebook donde un acorde disonante es utilizado como acorde de paso en un <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempo débil</a>, por ejemplo el acorde A7 (ver <a class="lnk"  href="/category/tipos-de-acordes#aco7" >dominante de séptima</a>) como <a class="lnk"  href="#domiv" >VdeIV</a> en clave de A en <a class="lnk"  href="#inmylife" >In My Life</a> o el acorde C7 en <a class="lnk"  href="#follow" >I'll Follow The Sun</a>  como <a class="lnk"  href="#domiv" >VdeIV</a> en clave de C.
-
-
-
-
-Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/tipos-de-acordes#meddim" >medio-disminuido</a>, caso que podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/tipos-de-acordes#michelledim" >Michelle</a> (<a class="lnk"  href="notasadmichell.htm" >ver más</a>) y casi todos los ejemplos que se ven en la <a class="lnk"  href="/category/tipos-de-acordes#meddim" >sección sobre el acorde medio-disminuido</a>.
-
-
-
-En <a class="lnk"  href="/armonia/arm3#htandevery">Here There And Everywhere</a> dicho juego se repite en 2 claves diferentes pero utilizando diferentes inversiones de un mismo <a class="lnk"  href="/category/tipos-de-acordes#meddim" >medio-disminuido</a>, tal como se explica en el siguiente gráfico de los <a class="lnk"  href="/category/tipos-de-acordes#htae_dim" >disminuidos en Here There And Everywhere</a>.
-
-
-
-Este recurso tiene sus origenes en la obra de <a href="https://es.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina" target="_blank">Giovanni Pierluigi da Palestrina</a> (1525-1594)
-sobre cuyo estilo podemos leer en <a href="https://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina#The_%22Palestrina_Style%22" target="_blank">The Palestrina Style</a>: 
-
-
-
->"Una de las marcas caracteristicas del estilo de Palestrina es que las <a class="lnk"  href="/category/tipos-de-acordes#tritono" >disonancias</a> están típicamente relegadas a los <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempos débiles</a>. Esto produce un tipo más suave y consonante de <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> que ahora es considerada la definitiva de la música del renacimiento tardio debido a la posición de Palestrina como principal compositor europeo en ese momento. El estilo de Palestrina hoy en día es muy estudiado en el ambito académico como la base del <a href="https://es.wikipedia.org/wiki/Contrapunto" target="_blank">contrapunto</a> renancentista."
-
-
-
-
-Existe la leyenda, de la cual no hay pruevas, de que Palestrina desarrollo su estilo para vencer la oposición del <a href="https://es.wikipedia.org/wiki/Concilio_de_Trento" target="_blank">Concilio de Trento</a> al uso de la <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> en la música religiosa.
-		
-
-
-Verdad o mito lo cierto es que <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> se hizo eco del estilo de Palestrina en el capítulo *"<a href="http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Culture_industry_1.shtml" target="_blank">Industria Cultural</a>"* de su obra *"<a href="/textos/ilustracion" class="lnk">Dialéctica de la ilustración</a>"* cuando decidio hacer un paralelismo (ciertamente critico) entre la autodiciplinación religiosa de Palestrina y la tendencia a la estándarización de los arregladores de Jazz modernos:
-
-
-
- 
->"Ni el mismisimo Palestrina ubiese puesto tanto celo en eliminar la disonancia no preparada e irresuelta como un arrangeur de música de jazz elimina hoy toda cadencia
-que no se adecué perfectamente a su jerga"
-
-
-
-
-</details>
-
-En este caso <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) y de hecho ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual este puente logra "eliminar" el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, con esta versión "alargada" de <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I (D7/9-G-Gm-D).
-
-
-
-
-
-
-Esto ya tenía en los Beatles un antecedente en <a class="lnk"  href="#ivcrom" >Anna</a>, uno de los Covers incluido en su album debút del año anterior y resulto en su momento muy original, dado que siendo el truco IV mayor - iv menor uno de los clichés más usados de la historia de la música, usualmente iv cae en un tiempo dèbil, como en la mayor parte de estos casos:
-
-
-
-
-
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rutles/with_a_girl_like_you_crd.htm" >With a girl like you</a> <a target="_blank" href="https://youtu.be/RS73iuwxA7M" ><FAIcon icon="fa-solid fa-play"  /></a> parodia del ejemplo anterior (F/Fm en clave de C), <a class="lnk"  href="#thatthing">That thing you do</a> (A/Am en clave de E), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/volver-2.shtml" >Volver</a> <a target="_blank" href="https://youtu.be/kdSnNHErabQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F#/F#m en clave de C# sobre "sentir..."), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/por_una_cabeza-5.shtml" >Por una cabeza</a> <a target="_blank" href="https://youtu.be/SJ1aTPM-dyE" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..mujer que al jurar sonriendo.."), <a class="lnk"  href="#aintshe" >Ain't She Sweet</a> (A/Am en clave de E sobre "..cast an eye in her direction.."), <a target="_blank" href="http://www.e-chords.com/chords/frank-sinatra/my-way" >My way</a> <a target="_blank" href="https://youtu.be/5AVOpNR2PIs" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..travelled each and every highway.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "the door, will you still need..."), en <a class="lnk"  href="#onlyyou">Only you</a> (C/Cm en clave de G sobre "..you Hold My Hand, I understand.."), <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/d/david_lee_roth/just_a_gigolo_crd.htm" >Just a Gigolo</a> <a target="_blank" href="https://youtu.be/PeXjBWN8LO8" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de C sobre "..the end comes I know.."), <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/till-there-was-you" >Till there was you</a> <a target="_blank" href="https://youtu.be/jTGuP_hpvWo" ><FAIcon icon="fa-solid fa-play"  /></a> (Bb/Bbm en clave de F sobre "..and there was music and wondefull roses..."), <a target="_blank" href="https://www.cifraclub.com/the-beatles/devil-in-her-heart/" >Devil in her heart</a> <a target="_blank" href="https://www.youtube.com/watch?v=oMOf6Vm3Ye8"  ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I ll take my chances for romance.."), <a target="_blank" href="https://tabs.últimate-guitar.com/B/Bobby_vinton/Blue_velvet_crd.htm" >Blue velvet</a> <a target="_blank" href="https://youtu.be/icfq_foa5Mo" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..Softer than satin was.."), <a target="_blank" href="https://www.cifraclub.com/guns-n-roses/since-dont-have-you-/" >Since I don't have you</a> <a target="_blank" href="https://youtu.be/IYOYlqOitDA" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I don't have anything.."), <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm sobre "..all undone..").
-
+Aquí <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/tipos-de-acordes#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) y de hecho ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual este puente logra "eliminar" el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, con esta versión "alargada" de <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I (D7/9-G-Gm-D).
 
 
 <a class="anchor" id="thatthing"></a>
 
-Noten que por estar muchas de estás canciones escritas o inspiradas en el estilo predominante entre los años 20s y 50s, también hacen mucho uso de otro recurso típico de la época, cómo lo son los dominantes secundarios, especialmente el turnaround <a class="lnk"  href="#dom-sec" >VdeVdeV-VdeV-V-I</a>, la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> o la <a class="lnk"  href="/armonia/arm3#mod-par">modulación al modo paralelo menor</a> al cual de hecho pertenece el iv menor. Veamos un caso que la usa en medio de una profusión de ese tipo de trucos:
+Notese también que aquí el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm que si aparece más adelante). Este razgo es típico de otras baladas beatle como Nowhere Man y Real Love (Am en clave de E en ambos casos), por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
+
 
 
 <code>
@@ -385,6 +383,21 @@ Noten que por estar muchas de estás canciones escritas o inspiradas en el estil
 &nbsp;<span class="rojo">C</span>: <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado del modo paralelo menor</a>
 &nbsp;B-C#m: Ver <a class="lnk"  href="/category/tipos-de-acordes#decep-1" >resolución engañosa</a>
 </code>
+
+
+Noten que por estar muchas de las canciones  que incluyen Iv-iv-I escritas o inspiradas en el estilo predominante entre los años 20s y 50s, también hacen mucho uso de otros recurso típicos de la época, cómo lo son los dominantes secundarios, especialmente el turnaround <a class="lnk"  href="#dom-sec" >VdeVdeV-VdeV-V-I</a>, la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> o la <a class="lnk"  href="/armonia/arm3#mod-par">modulación al modo paralelo menor</a>veamos algunos ejemplos:
+
+
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rutles/with_a_girl_like_you_crd.htm" >With a girl like you</a> <a target="_blank" href="https://youtu.be/RS73iuwxA7M" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C parodia de <a class="lnk"  href="#ififellpuente" >If I fell</a>), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/volver-2.shtml" >Volver</a> <a target="_blank" href="https://youtu.be/kdSnNHErabQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F#/F#m en clave de C# sobre "sentir..."), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/por_una_cabeza-5.shtml" >Por una cabeza</a> <a target="_blank" href="https://youtu.be/SJ1aTPM-dyE" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..mujer que al jurar sonriendo.."), <a class="lnk"  href="#aintshe" >Ain't She Sweet</a> (A/Am en clave de E sobre "..cast an eye in her direction.."), <a target="_blank" href="http://www.e-chords.com/chords/frank-sinatra/my-way" >My way</a> <a target="_blank" href="https://youtu.be/5AVOpNR2PIs" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..travelled each and every highway.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "the door, will you still need..."), en <a class="lnk"  href="#onlyyou">Only you</a> (C/Cm en clave de G sobre "..you Hold My Hand, I understand.."), <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/d/david_lee_roth/just_a_gigolo_crd.htm" >Just a Gigolo</a> <a target="_blank" href="https://youtu.be/PeXjBWN8LO8" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de C sobre "..the end comes I know.."), <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/till-there-was-you" >Till there was you</a> <a target="_blank" href="https://youtu.be/jTGuP_hpvWo" ><FAIcon icon="fa-solid fa-play"  /></a> (Bb/Bbm en clave de F sobre "..and there was music and wondefull roses..."), <a target="_blank" href="https://www.cifraclub.com/the-beatles/devil-in-her-heart/" >Devil in her heart</a> <a target="_blank" href="https://www.youtube.com/watch?v=oMOf6Vm3Ye8"  ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I ll take my chances for romance.."), <a target="_blank" href="https://tabs.últimate-guitar.com/B/Bobby_vinton/Blue_velvet_crd.htm" >Blue velvet</a> <a target="_blank" href="https://youtu.be/icfq_foa5Mo" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..Softer than satin was.."), <a target="_blank" href="https://www.cifraclub.com/guns-n-roses/since-dont-have-you-/" >Since I don't have you</a> <a target="_blank" href="https://youtu.be/IYOYlqOitDA" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I don't have anything.."), <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm sobre "..all undone..").
+
+
+
+
+
+
+
+
+
 
 Desde ya esto no significa que no existan ejemplos más modernos, por ejemplo <a class="lnk"  href="#creep" >Creep</a> mezcla la progresión la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> con el <a class="lnk"  href="#ivcrom" >juego cromático IV-iv</a> para formar una progresión I-Vdevi-IV-vi (G-B-C-Cm) pese a que la canción es de 1994.
 
@@ -604,7 +617,7 @@ ver el <a class="lnk"  href="/armonia/arm3#dear2">cierre de la estrofa</a>.
 </code>
 
 
-La estrofa inicial consiste de un <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >patrón de digitación</a> sobre un mismo acorde de D, más una <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> decendente C-B-Bb-A, pero esta <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente es la misma que subyaceria a la progresión en esta clave (D7-G-Gm-D) y podemos comprobar de la misma forma que en <a class="lnk"  href="#ivcrom">Anna</a>. De hecho la <a target="_blank" href="https://youtu.be/r3zxN0S4Dxg" >versión de Dear Prudence de U2</a> se toca cómo un <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I en C: C7-F-Fm-C.
+La estrofa inicial consiste de un <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >patrón de digitación</a> sobre un mismo acorde de D, más una <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> decendente C-B-Bb-A, pero esta <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente es la misma que subyaceria a la progresión en esta clave (D7-G-Gm-D) y podemos comprobar de la misma forma que en <a class="lnk"  href="#anna">Anna</a>. De hecho la <a target="_blank" href="https://youtu.be/r3zxN0S4Dxg" >versión de Dear Prudence de U2</a> se toca cómo un <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I en C: C7-F-Fm-C.
 
 <a class="anchor" id="julia"></a>
 
