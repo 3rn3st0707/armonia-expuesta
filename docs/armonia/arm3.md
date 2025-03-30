@@ -428,7 +428,7 @@ Ahora pasemos de la complejidad extrema de Here There And Everywhere a un ejempl
 </code>
 
 
-<a class="anchor" id="happytogether"  ><FAIcon icon="fa-solid fa-play"  /></a>
+<a class="anchor" id="happytogether"  ></a>
 
 Finalmente vamos a ver una canción que modula de Em a E mayor, pero en esta última clave solo la tónica E pertenece a la clave mayor mientras que los demas acordes siguen siendo de la clave de E menor, lo que nos lleva al tema de la próxima sección: <a class="lnk"  href="#prestados">los acordes prestados del modo paralelo menor</a>
 
@@ -2171,7 +2171,7 @@ Esto un poco grafica el origen de la reputanción de bVII cómo un "pseudo-domin
 
 <code>
 
-&nbsp; I       ii <a class="lnk"  href="#biii">bIII</a>iii IV      V       vi      VII  I
+&nbsp; I       ii <a class="lnk"  href="#biii">bIII</a>iii  IV      V       vi     VII  I
 &nbsp;|C  |   |Dm |<span class="rojo">D#</span> |Em |F  |   |G  |   |Am |   |Bº |C 
 
 &nbsp; I       ii     iii  IV      V       vi     VII  I

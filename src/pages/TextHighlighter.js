@@ -279,7 +279,7 @@ const TextHighlighter = () => {
     'D': `      I       ii      iii IV      V       vi      VII I
      |D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D `,
     'D#': `      I       ii      iii IV      V       vi      VII I
-     |F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |Eº |F `,
+     |D# |   |Fm |   |Gm |G# |   |Bb |   |Cm |   |Dº |D#`,
     'E': `      I       ii      iii IV      V       vi      VII I
      |E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E `,
     'F': `      I       ii      iii IV      V       vi      VII I
@@ -293,7 +293,7 @@ const TextHighlighter = () => {
     'A': `      I       ii      iii IV      V       vi      VII I
      |A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A `,
     'Bb': `      I       ii      iii IV      V       vi      VII I
-     |F  |   |Gm |   |Am |Bb |   |C  |   |Dm |   |Eº |F `,
+     |Bb |   |Cm |   |Dm |Eb |   |F  |   |Gm |   |Aº |Bb `,
     'B': `      I       ii      iii IV      V       vi      VII I
      |B  |   |C#m|   |D#m|E  |   |F# |   |G#m|   |A#º|B `,
   };

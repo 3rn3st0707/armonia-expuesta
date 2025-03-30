@@ -418,7 +418,7 @@ html[data-theme='dark'] .pdf {
 
 
 html[data-theme='dark'] .table-of-contents {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: .8; 
 }
 
@@ -440,7 +440,7 @@ html[data-theme='dark'] .cardContainer_node_modules-\@docusaurus-theme-classic-l
 
 
 html[data-theme='dark'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
-  background-color: #252b31;
+  background-color: #232930;
   color: rgb(203, 255, 125);
   opacity: .8;
   border: solid;
@@ -466,7 +466,7 @@ html[data-theme='dark'] #__docusaurus > div.announcementBar_node_modules-\@docus
 }
 
 html[data-theme='dark'] article {
-  background-color: #252b31;
+  background-color: #232930;
   color:white ;
 }
 
@@ -507,12 +507,12 @@ html[data-theme='dark'] nav a {
 }
 
 html[data-theme='dark'] header {
-  background-color: #252b31;
+  background-color: #232930;
   color: white;
 }
 
 html[data-theme='dark'] footer {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: .9;
   color: white;
 
@@ -524,17 +524,17 @@ html[data-theme='dark'] aside .menu ul {
 }
 
 html[data-theme='dark'] aside .menu li {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: .8;  
 }
 
 html[data-theme='dark'] .pagination-nav__link {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: .8;
 }
 
 html[data-theme='dark'] div.col.col--3 {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: .8;  
 }
 
@@ -599,7 +599,7 @@ color: rgb(194, 255, 102);
 }
 
 html[data-theme='dark'] .navbar {
-  background-color: #252b31;
+  background-color: #232930;
   opacity: 0.9;
 
 }
@@ -613,7 +613,8 @@ html[data-theme='dark'] .trasluz {
 }
 
 html[data-theme='dark'] code {
-  background-color: #252b31 !important;
+  background-color: #161d24 !important;
+  padding: 1.5em;
 }
 
 
@@ -1120,3 +1121,33 @@ html[data-theme='light'] a .naranja2 {
   box-sizing: none;
 }
 
+
+/* ------------------------------------ */
+
+.biii {
+  color: rgba(238, 83, 142, 0.89);
+}
+
+.bvi {
+  color: rgba(238, 83, 142, 0.89);
+}
+
+.bvii {
+  color: rgba(238, 83, 142, 0.89);
+}
+
+.vdev {
+  color: rgb(156, 103, 230);
+}
+
+.vdeiv {
+  color: rgb(156, 103, 230);
+}
+
+.vdevi {
+  color: rgb(156, 103, 230);
+}
+
+.vdeii {
+  color: rgb(156, 103, 230);
+}

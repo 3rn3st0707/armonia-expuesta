@@ -146,10 +146,6 @@ Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este e
 
 </details>
 
-Por ra
-
-
-
 Por tanto la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave diatónica</a> basada en la escala jonica y su relativa menor, la clave diatonica basada en la escala Eolica son la interface que estructura dichas tendencias en un set preordenado de acordes.
 
 
@@ -399,8 +395,8 @@ El siguiente ejemplo es una práctica forma de graficar la "estructura profunda"
 <a class="lnk"  href="/armonia/arm2#creep" >Creep</a><br /> 
 <a class="lnk"  href="/armonia/arm3#crybabycry" >Cry Baby Cry</a><br />
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#dear1" >Dear Prudence 1</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#dear2" >Dear Prudence 2</a><br />
+<a class="lnk"  href="/category/arm3#dear1" >Dear Prudence 1</a><br />
+<a class="lnk"  href="/category/arm2#dear2" >Dear Prudence 2</a><br />
 <a class="lnk"  href="/armonia/arm2#demásiada" >Demásiada Presión</a><br />
 <a class="lnk"  href="/armonia/arm3#digapony" >Dig A Pony</a><br />
 <a class="lnk"  href="/armonia/arm3#divididos" >Divididos Por La Felicidad</a><br />
