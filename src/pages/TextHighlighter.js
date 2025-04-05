@@ -258,17 +258,27 @@ const TextHighlighter = () => {
       if (index < arr.length - 1) {
         const match = textWithSpaces.match(pattern)[index];
         const color = substrings[match];
+
+        console.log(match);
+        console.log(varClave);
+        
         acc.push(part, <span key={index} style={{ color }}>{match}</span>);
       } else {
         acc.push(part);
       }
       return acc;
+
+      
+
     }, []);
 
     return highlightedText.map((part, index) => (
       <React.Fragment key={index}>{part}</React.Fragment>
     ));
   };
+  // final de highlightText()
+
+  
 
   // Define the display strings based on varClave
   const displayStrings = {
@@ -296,6 +306,229 @@ const TextHighlighter = () => {
      |Bb |   |Cm |   |Dm |Eb |   |F  |   |Gm |   |Aº |Bb `,
     'B': `      I       ii      iii IV      V       vi      VII I
      |B  |   |C#m|   |D#m|E  |   |F# |   |G#m|   |A#º|B `,
+  };
+
+  const substringsFn = {
+    'C': { 'Bb ': 'bvii',
+           'A# ': 'bvii', 
+           'G# ': 'bvi', 
+           'Ab ': 'bvi', 
+           'Gm ': 'v',
+           'Fm ': 'iv',             
+           'D# ': 'iii',
+           'Eb ': 'iii',          
+          
+           'C7': 'vdeiv',             
+           'A ': 'vdeii',
+           'A7': 'vdeii', 
+           'D ': 'vdev',
+           'D7': 'vdev',
+           'E ': 'vdevi',
+           'E7': 'vdevi',  
+          },
+
+    'C#': { 
+      'A ': 'bvi', 
+      'B ': 'bvii', 
+      'E ': 'iii', 
+      'F#m ': 'iv',
+      'Gbm ': 'iv',          
+      'G#m ': 'v', 
+      'Abm ': 'v',
+
+      'C#7': 'vdeiv',             
+      'A# ': 'vdeii',
+      'A#7': 'vdeii', 
+      'D# ': 'vdev',
+      'D#7': 'vdev',
+      'F ': 'vdevi',
+      'F7': 'vdevi',  
+     },
+
+     'D': { 
+      'C ': 'bvii', 
+      'Bb ': 'bvi', 
+      'A# ': 'bvi', 
+      'F ': 'iii', 
+      'Gm ': 'iv', 
+      'Am ': 'v',
+       
+     
+      'E7': 'vdev',             
+      'E ': 'vdev',
+      'F#7': 'vdevi', 
+      'F# ': 'vdevi',
+      'D7': 'vdeiv',
+      'B ': 'vdeii',
+      'B7': 'vdeii',  
+     },
+
+      'D#': { 
+        'C# ': 'bvii', 
+        'B ': 'bvi', 
+        'F# ': 'iii', 
+        'G#m ': 'iv',
+        'Abm ': 'iv',        
+        'A#m ': 'v',
+              
+        'F7': 'vdev',             
+        'F ': 'vdev',
+        'G7': 'vdevi', 
+        'G ': 'vdevi',
+        'D#7': 'vdeiv',
+        'C ': 'vdeii',
+        'C7': 'vdeii',        
+      },
+
+    'E': { 
+      'G ': 'iii', 
+      'C ': 'bvi', 
+      'D ': 'bvii', 
+      'Am ': 'iv',
+      'Bm ': 'v',        
+            
+      'F#7 ': 'vdev',             
+      'F# ': 'vdev',
+      'G#7 ': 'vdevi', 
+      'G# ': 'vdevi',
+      'C#7 ': 'vdeii',
+      'C# ': 'vdeii',
+      'E7 ': 'vdeiv',        
+    },
+
+    'F': { 
+      'G# ': 'iii',
+      'Ab ': 'iii',        
+      'C# ': 'bvi', 
+      'Db ': 'bvi', 
+      'Eb ': 'bvii',
+      'D# ': 'bvii',
+      'A#m ': 'iv',
+      'Bbm ': 'iv',
+      'Cm ': 'v',        
+           
+      'G7': 'vdev',             
+      'G ': 'vdev',
+      'A7': 'vdevi', 
+      'A ': 'vdevi',
+      'D7 ': 'vdeii',
+      'D ': 'vdeii',
+      'F7 ': 'vdeiv',        
+    },
+
+    'F#': { 
+      'A ': 'iii',      
+      'D ': 'bvi', 
+      'E': 'bvii',
+      'Bm ': 'iv',
+      'C#m ': 'v',
+            
+      'G#7': 'vdev',             
+      'G# ': 'vdev',
+      'A#7': 'vdevi', 
+      'A# ': 'vdevi',
+      'Bb7': 'vdevi', 
+      'Bb ': 'vdevi',
+      'Eb7': 'vdeii',
+      'Eb ': 'vdeii',
+      'D#7': 'vdeii',
+      'D# ': 'vdeii',
+      'F#7 ': 'vdeiv',
+    },
+
+    'G': { 
+      'A# ': 'iii',
+      'Bb ': 'iii',
+      'D# ': 'bvi', 
+      'Eb ': 'bvi',
+      'F ': 'bvii',
+      'Cm ': 'iv',
+      'Dm ': 'v',
+    
+      'A7': 'vdev',
+      'A ': 'vdev',
+      'B7': 'vdevi', 
+      'B ': 'vdevi',
+      'E7': 'vdeii',
+      'E ': 'vdeii',
+      'G7 ': 'vdeiv',      
+    },
+
+    'G#': { 
+      'B ': 'iii',
+      'E ': 'bvi',
+      'F# ': 'bvii',
+      'C#m ': 'iv',
+      'Dbm ': 'iv',
+      'D#m ': 'v',        
+      'Ebm ': 'v',       
+    
+      'A#7': 'vdev',             
+      'A# ': 'vdev',
+      'C7': 'vdeii', 
+      'C ': 'vdeii',
+      'F7': 'vdevi',
+      'F ': 'vdevi',
+      'G#7 ': 'vdeiv',      
+    },
+
+    'A': { 
+      'C ': 'iii',
+      'F ': 'bvi',
+      'G ': 'bvii',
+      'Dm ': 'iv',
+      'Em ': 'v',        
+      
+      'A7': 'vdeiv',             
+      'B ': 'vdev',
+      'B7': 'vdev', 
+      'C# ': 'vdevi',
+      'C#7': 'vdevi',
+      'F# ': 'vdeii',
+      'F#7 ': 'vdeii',
+    
+    },
+
+    'Bb': { 
+      'C# ': 'iii',
+      'Db ': 'iii',
+      'F# ': 'bvi',
+      'G# ': 'bvii',
+      'Ab ': 'bvii',
+      'D#m ': 'iv',
+      'Ebm ': 'iv',
+      'Fm ': 'v',          
+    
+      'A#7': 'vdeiv',
+      'Bb7': 'vdeiv',             
+      'C ': 'vdev',
+      'C7': 'vdev', 
+      'D ': 'vdevi',
+      'D7': 'vdevi',
+      'G ': 'vdeii',
+      'G7 ': 'vdeii',     
+    },
+
+    'B': { 
+      'D ': 'iii',
+      'G ': 'bvi',
+      'A ': 'bvii',
+      'Em ': 'vi',
+      'F#m ': 'v',        
+      
+      'B7': 'vdeiv',             
+      'C# ': 'vdev',
+      'C#7': 'vdev', 
+      'D# ': 'vdevi',
+      'D#7': 'vdevi',
+      'Eb ': 'vdevi',
+      'Eb7': 'vdevi',
+      'Ab ': 'vdeii',
+      'Ab7 ': 'vdeii',
+      'G# ': 'vdeii',
+      'G#7 ': 'vdeii',      
+    },
+
   };
 
   return (
@@ -327,14 +560,22 @@ const TextHighlighter = () => {
             rows="13"
             cols="74"
           />
-          <pre className="highlighted-text">
-            {[displayStrings[varClave], <br key="line-break-1" />, <br key="line-break-2" />, ...highlightText(text)]}            
+          <pre className="highlighted-text" style={{backgroundColor: '#161d24'}}>
+            {[
+            displayStrings[varClave], 
+            
+            <br key="line-break-1" />, 
+            <br key="line-break-2" />, 
+            
+            ...highlightText(text)
+            
+            ]}            
           </pre>
 
         </article>
       </div>
     </Layout>
-  );
+  );  
 };
 
 export default TextHighlighter;
