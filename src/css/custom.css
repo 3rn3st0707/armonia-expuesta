@@ -915,22 +915,22 @@ a.anchor {
 
 
 html[data-theme='dark'] rojo {
-  color: rgb(228, 88, 158) !important;
+  color: rgb(221, 80, 151) !important;
 
 }
 
 html[data-theme='dark'] a .rojo {
-  color: rgb(228, 88, 158) !important;
+  color: rgb(221, 80, 151) !important;
 
 }
 
 html[data-theme='dark'] .rojo {
-  color: rgb(228, 88, 158) !important;
+  color: rgb(221, 80, 151) !important;
 
 }
 
 html[data-theme='dark']  a .rojo {
-  color: rgb(228, 88, 158) !important;
+  color: rgb(221, 80, 151) !important;
 
 }
 
@@ -945,12 +945,12 @@ html[data-theme='dark'] a .azul {
 }
 
 html[data-theme='dark'] .verde {
-  color:rgb(80, 250, 123) !important;
+  color:rgb(108, 221, 136) !important;
 
 }
 
 html[data-theme='dark'] a .verde {
-  color: rgb(80, 250, 123) !important;
+  color:rgb(108, 221, 136) !important;
 }
 
 
@@ -966,42 +966,40 @@ html[data-theme='dark'] a .magenta {
 
 
 html[data-theme='dark'] .magentaDom{
-  color: rgb(189, 147, 249) !important;
+  color: rgb(191, 122, 248) !important;
 }
 
 html[data-theme='dark'] a .magentaDom{
-  color: rgb(189, 147, 249) !important;
+  color: rgb(191, 122, 248) !important;
 }
 
 html[data-theme='dark'] .magentaBold {
-  color: rgb(189, 147, 249) !important; 
+  color: rgb(191, 122, 248) !important; 
   font-weight: bold !important;
 }
 
 html[data-theme='dark'] a .magentaBold {
-  color: rgb(189, 147, 249) !important; 
+  color: rgb(191, 122, 248) !important;
   font-weight: bold !important;
 }
 
 
 
 html[data-theme='dark'] .naranja {
-  color: rgb(250 166 140) !important;
+  color: rgb(243, 151, 123) !important;
 
 }
 
 html[data-theme='dark'] a .naranja {
-  color: rgb(250 166 140) !important;
+  color: rgb(243, 151, 123) !important;
 }
 
 html[data-theme='dark'] .naranja2 {
-  color: rgb(250 166 140) !important;
-
+  color: rgb(243, 151, 123) !important;
 }
 
 html[data-theme='dark'] a .naranja2 {
-  color: rgb(250 166 140)!important;
-
+  color: rgb(243, 151, 123) !important;
 }
 
 /* --------------------------   */
@@ -1161,4 +1159,31 @@ html[data-theme='light'] a .naranja2 {
 
 .vdeii {
   color: rgb(156, 103, 230);
+}
+
+
+/* ------------------------------------ */
+
+
+/* TextHighlighter.css */
+
+/* Default hidden state for fn-match divs */
+.fn-match.hidden {
+  display: none;
+}
+
+/* Visible state for fn-match divs */
+.fn-match.visible {
+  display: block;
+  background-color: #2a2f3a; /* Optional: Background for visibility */
+  padding: 8px;
+  margin-top: 8px;
+  border-radius: 4px;
+  color: #ffffff; /* White text for contrast */
+  font-size: 14px;
+}
+
+/* Ensure fn-match divs appear below the highlighted text */
+.fn-match {
+  width: fit-content;
 }

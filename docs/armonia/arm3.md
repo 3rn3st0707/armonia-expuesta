@@ -246,42 +246,42 @@ Y además de esto incluye otra vuelta de tuerca a las <a target="_blank" href="h
 
 &nbsp;G   Am  Bm          C          G    Am
 &nbsp;Here.. making each day of the year
-&nbsp; Bm          C           <a class="naranja">F#m</a>         <a class="naranja">B7</a>         -clave de E/Em
+&nbsp; Bm          C           <a class="naranja">F#m</a>         <a class="naranja">B7</a>          -clave de E/Em
 &nbsp;Changing my life with a wave of her hand,
 &nbsp;<a class="naranja">F#m</a>    <a class="naranja">B7</a> <a class="verde">F#º</a> Em                Am              <a class="magentaDom">D7</a>
 &nbsp;Nobody can deny that there's something there
 
-&nbsp;G   Am  Bm         C                 G    Am       -clave de G
+&nbsp;G   Am  Bm         C                 G    Am     -clave de G
 &nbsp;There running my hands through her hair
 &nbsp;Bm          C           <a class="naranja">F#m</a>         <a class="naranja">B7</a>           -clave de E/Em
 &nbsp;Both of us thinking how good it can be
 &nbsp; <a class="naranja">F#m</a>         <a class="naranja">B7</a>     <a class="verde">F#º</a> Em           Am               <a class="magentaDom">D7</a>
 &nbsp;Someone is speaking but she doesn't know he's there
 
-&nbsp;           Bb        Gm                            -clave de Bb  
+&nbsp;           Bb        Gm                          -clave de Bb
 &nbsp;I want her everywhere
-&nbsp;       Cm              <a class="magentaDom">D7</a>     <a class="verde">Aº</a>      Gm           -clave de Gm
+&nbsp;       Cm              <a class="magentaDom">D7</a>     <a class="verde">Aº</a> Gm              -clave de Gm
 &nbsp;And if she's beside me I know I need never care
 &nbsp;Cm              <a class="magentaDom">D7</a>
 &nbsp;But to love her is to need her
 
-&nbsp;G    Am    Bm            C          G     Am       -clave de G
+&nbsp;G    Am    Bm            C          G     Am     -clave de G
 &nbsp;Everywhere knowing that love is to share
-&nbsp;Bm         C             <a class="naranja">F#m</a>        <a class="naranja">B7</a>            -clave de E/Em
+&nbsp;Bm         C             <a class="naranja">F#m</a>        <a class="naranja">B7</a>           -clave de E/Em
 &nbsp;Each one believing that love never dies
 &nbsp; <a class="naranja">F#m</a>          <a class="naranja">B7</a>  <a class="verde">F#º</a>  Em         Am          <a class="magentaDom">D7</a>
 &nbsp;Watching her eyes and hoping I'm always there
 
-&nbsp;           Bb        Gm                             -clave de Bb
+&nbsp;           Bb        Gm                          -clave de Bb
 &nbsp;I want her everywhere
-&nbsp;       Cm              <a class="magentaDom">D7</a>     <a class="verde">Aº</a>     Gm             -clave de Gm
+&nbsp;       Cm              <a class="magentaDom">D7</a>     <a class="verde">Aº</a>     Gm          -clave de Gm
 &nbsp;And if she's beside me I know I need never care
 &nbsp;Cm              <a class="magentaDom">D7</a>
 &nbsp;But to love her is to need her
 
-&nbsp;G    Am     Bm           C          G     Am        -clave de G
+&nbsp;G    Am     Bm           C          G     Am     -clave de G
 &nbsp;Everywhere, knowing that love is to share
-&nbsp;Bm         C            <a class="naranja">F#m</a>        <a class="naranja">B7</a>             -clave de E/Em
+&nbsp;Bm         C            <a class="naranja">F#m</a>        <a class="naranja">B7</a>            -clave de E/Em
 &nbsp;Each one believing that love never dies
 &nbsp;<a class="naranja">F#m</a>          <a class="naranja">B7</a>   <a class="verde">F#º</a>  Em         Am            <a class="magentaDom">D7</a>
 &nbsp;Watching her eyes and hoping I'm always there
@@ -1713,7 +1713,7 @@ se basa en una doble plagal en B, ver link.
 
 <a class="anchor" id="lovely"></a>
 
-><p class="md_footnote_size">La siguiente canción está en clave de E mayor y de hecho 
+><p class="md_footnote_size"  style={{'backgroundColor':'#161d24',  'marginTop':'-1.7em', 'marginBottom':'-1.7em', 'padding':'.4em'}} >La siguiente canción está en clave de E mayor y de hecho 
 su estrofa inicial es una <a class="lnk"  href="#doblep">doble plagal en dicha clave</a>, por
 lo que a su vez suele considerarse su intro una progresión 
 <a class="lnk"  href="/category/módulos-técnicos#rock-quint-asc" >V-IV-I-V</a> en dicha clave. Pero si considramos que V-IV-I 
@@ -3154,6 +3154,7 @@ La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a>
 
 &nbsp;<a class="lnk"  href="#lithium" >Lithium</a> recuerda mucho a Mean Mr Mustard por estar en la misma clave, por la proximidad con el dominanter (B7) y por la forma en que se invierte la dirección de la progresión <a class="lnk"  href="#bVI-bVII-I">bVI-bVII-I</a> antes de llegar a la tónica, pero <a class="lnk"  href="#lithium" >Lithium</a> si recurre a la resolución <a class="lnk"  href="#crybabycry">bVII-I</a> en un movimiento que recuerda al que hacen estos mismos acordes en <a class="lnk"  href="#aday">A Day In The Life</a> y también en clave de E antes de <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modular</a> a G, con la diferencia de que acá simplemente se vuelve a E.
 
+<br /><br />
 
 <code>
 
@@ -3858,14 +3859,14 @@ La canción con la que vamos a ejemplificar ya utiliza bVII en la estrofa inicia
 &nbsp;When I'm walking beside her
 &nbsp;  A                 <a class="rojo">G</a>  D  D|C#
 &nbsp;People tell me I'm lucky
-&nbsp;  Bm   Bm|A      E7    A
+&nbsp;  Bm   Bm/A      E7    A
 &nbsp;Yes I know I'm a lucky guy
 
 &nbsp; A              D     E
 &nbsp;I remember the first time
 &nbsp; A               <a class="rojo">G</a>   D   D|C#
 &nbsp;I was lonely without her
-&nbsp;  Bm    Bm|A    Bm|G#     A
+&nbsp;  Bm    Bm/A    Bm/G#     A
 &nbsp;Yes I'm thinking about her now
 
 &nbsp;   A           <a class="rojo">G</a>
@@ -3878,7 +3879,7 @@ La canción con la que vamos a ejemplificar ya utiliza bVII en la estrofa inicia
 &nbsp;She does for me, ooh
 
 &nbsp;<a class="rojo">G</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
-&nbsp;D|C#: x40232
+&nbsp;D/C#: x40232
 &nbsp;Bm/A: x04432
 </code>
 
@@ -5514,7 +5515,7 @@ También es muy interésante <a class="lnk"  href="#lithium">Lithium</a>, donde 
 
 La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no funcional, ver <a class="lnk"  href="#nwood" >Norwegian Wood</a> en la misma clave) con la variante <a class="lnk"  href="#mayoresabiii">bVII-V</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> funcional, ver <a class="lnk"  href="#allmyloving" >All My Loving</a> en la misma clave) hacer juego con la esquizofrenia a la que hace referencia el titulo de la canción.
 
-<a class="anchor" id="help"  ><FAIcon icon="fa-solid fa-play"  /></a>
+<a class="anchor" id="help"  ></a>
 
 
 
@@ -5578,7 +5579,7 @@ Ya habíamos marcado la yuxtaposición de ambas variantes de <a class="lnk"  hre
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
 
-<a class="anchor" id="biii"  ><FAIcon icon="fa-solid fa-play"  /></a>
+<a class="anchor" id="biii" ></a>
 
 
 Ahora vamos a ver la versión del cambio de acordes mayores a un itervalo de bIII (3 semitonos) cuya <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> resulta disfuncional (y va en el sentido contrario que la variante que vimos al principio, es decir en este caso va del acorde más grave al más agudo).

@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import Layout from '@theme/Layout';
 import './TextHighlighter.css';
 
-const TextHighlighter = () => {
+const fnFinder = () => {
   const [text, setText] = useState('');
   const [varClave, setVariable] = useState('C');
 
@@ -12,7 +12,7 @@ const TextHighlighter = () => {
   };
 
   const handleClick = (value) => {
-    setVariable(value);
+    setVariable(value); 
   };
 
   const addSpaceAtEndOfLines = (text) => {
@@ -22,7 +22,7 @@ const TextHighlighter = () => {
   const highlightText = (text) => {
 
     // Define different sets of substrings based on varClave
-    const substringsSets = {
+    const substringFn = {
       'C': { 'Bb ': 'bvii',
              'A# ': 'bvii', 
              'G# ': 'bvi', 
@@ -246,7 +246,7 @@ const TextHighlighter = () => {
     };
 
     // Get the appropriate substrings set based on varClave
-    const substrings = substringsSets[varClave] || {};
+    const substrings = substringFn[varClave] || {};
 
     // Create a regex pattern to match any of the substrings
     const pattern = new RegExp(Object.keys(substrings).join('|'), 'gi');
@@ -264,11 +264,13 @@ const TextHighlighter = () => {
         console.log(fnArm);
 
         acc.push(part, <span key={index} className={{ fnArm }}>{match}</span>);
-      } else {
-        acc.push(part);
-      }
-      return acc;
+      } 
     }, []);
+
+    useEffect(() => {
+      // Update the document title using the browser API
+      document.title = `You clicked ${count} times`;
+    });
 
     return highlightedText.map((part, index) => (
       <React.Fragment key={index}>{part}</React.Fragment>
@@ -370,4 +372,4 @@ const TextHighlighter = () => {
   );  
 };
 
-export default TextHighlighter;
+export default fnFinder;

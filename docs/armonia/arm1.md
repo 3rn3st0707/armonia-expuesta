@@ -1230,18 +1230,35 @@ Eso el lo que voy a mostrar con este ejemplo donde el dominante natural de F#m t
 &nbsp;
 El "choque" <span class="magentaDom">E7</span>-<span class="magentaDom">C#7</span> también se da en <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"><FAIcon icon="fa-solid fa-play"  /></a> también 
 al volver de la clave de A a la de F#m.
-
 </code>
 
-Más ejemplos de modulaciones entre claves relativas incluyen a <a class="lnk"  href="#jijiji" >Jijiji</a> de clave de Dm a la de F (que nos permiten ver que la posición natural para el <a class="lnk"  href="#dism" >acorde disminuido</a> en 2 claves relativas es, lógicamente, el mismo acorde) <a class="lnk"  href="/armonia/arm2#one">One</a> que empieza en Am y el estribillo
-pasa a C, <a class="lnk"  href="#wecan">We can work it out</a> que empieza en D y el estribillo
-pasa a Bm, <a target="_blank" href="http://www.azchords.com/l/leonardcohen-tabs-25225/everybodyknows-tabs-226476.html" >Everybody knows</a> <a target="_blank" href="https://youtu.be/8IfmiKnZi3E?list=RD8IfmiKnZi3E"  ><FAIcon icon="fa-solid fa-play"  /></a> comienza en Dm y luego pasa a F
-, mientras que <a target="_blank" href="https://tabs.últimate-guitar.com/c/counting_crows/mr_jones_crd.htm" >Mr Jones</a> y <a class="lnk"  href="/armonia/arm3#padrino">Godfather Theme</a> <a target="_blank" href="https://www.youtube.com/watch?v=-oqAU5VxFWs"  ><FAIcon icon="fa-solid fa-play"  /></a> empiezan en Am y pasan luego a C, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_stone_roses/made_of_stone_crd.htm" >Made of stone</a> <a target="_blank" href="https://www.youtube.com/watch?v=8GJmkT4IBZE"  ><FAIcon icon="fa-solid fa-play"  /></a> empieza en Em y pasa a un
-estribillo en G, lo mismo que <a class="lnk"  href="/armonia/arm3#littlewing" >Little Wing</a>. <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/slide_away_crd.htm" >Slide Away</a> <a target="_blank" href="https://www.youtube.com/watch?v=3GCSUSwcDwg"  ><FAIcon icon="fa-solid fa-play"  /></a> pasa de una estrofa en
-Am a un estribillo en C al igual que la canción medioeval <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional|Greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw"  ><FAIcon icon="fa-solid fa-play"  /></a> empieza en Cm y luego pasa a D#, <a target="_blank" href="https://tabs.últimate-guitar.com|F|Fools_garden/lemon_tree_ver2_crd.htm" >Lemon tree</a> <a target="_blank" href="https://www.youtube.com/watch?v=phEnpdDusss"  ><FAIcon icon="fa-solid fa-play"  /></a> comienza en Em y
-luego pasa a G, <a class="lnk"  href="/armonia/arm3#comf" >Confortably Numb</a> empieza en Bm y
-luego pasa a D mientras que <a target="_blank" href="https://www.cifraclub.com.br/pink-floyd/us-and-them/" >Us and them</a> <a target="_blank" href="https://youtu.be/nDbeqj-1XOo"  ><FAIcon icon="fa-solid fa-play"  /></a> empieza en D y pasa a Bm en el estribillo, <a target="_blank" href="http://Acordes.lacuerda.net/nino_bravo/libre-4.shtml" >Libre</a> <a target="_blank" href="https://www.youtube.com/watch?v=tfpqKPsAjAM"  ><FAIcon icon="fa-solid fa-play"  /></a> arranca en Bm y
-luego pasa a D, <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a> empieza en Em y luego pasa a G y así muchas más.
+Mas canciones que utilizan claves relativas*:
+
+<p class="md_footnote_size" style={{'marginTop':'-1.4em'}}>
+*lo màs comùn es que comiencen en una clave menor y modulen a su clave relativa mayor siendo las ùnicas excepciones de la siguiente lista <a class="lnk"  href="#wecan">We can work it out</a>, <a target="_blank" href="https://www.cifraclub.com.br/pink-floyd/us-and-them/" >Us and them</a> <a target="_blank" href="https://youtu.be/nDbeqj-1XOo"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a class="lnk"  href="/armonia/arm3#crybabycry">Cry Baby Cry</a>)</p>
+
+
+
+Am y C: <a class="lnk"  href="/armonia/arm2#one">One</a>, <a target="_blank" href="https://tabs.últimate-guitar.com/c/counting_crows/mr_jones_crd.htm" >Mr Jones</a> <a target="_blank" href="https://www.youtube.com/watch?v=-oqAU5VxFWs"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm3#padrino">Godfather Theme</a>, <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/slide_away_crd.htm" >Slide Away</a> <a target="_blank" href="https://www.youtube.com/watch?v=3GCSUSwcDwg"  ><FAIcon icon="fa-solid fa-play"  /></a> y la canción medioeval <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional|Greensleeves_crd.htm" >Greensleeves</a>.
+
+Bm y D : <a class="lnk"  href="#wecan">We can work it out</a>, <a target="_blank" href="https://www.cifraclub.com.br/pink-floyd/us-and-them/" >Us and them</a> <a target="_blank" href="https://youtu.be/nDbeqj-1XOo"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm3#comf" >Confortably Numb</a> y <a target="_blank" href="http://Acordes.lacuerda.net/nino_bravo/libre-4.shtml" >Libre</a> <a target="_blank" href="https://www.youtube.com/watch?v=tfpqKPsAjAM"  ><FAIcon icon="fa-solid fa-play"  /></a>.
+
+
+Cm y D#: <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw"  ><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+C#m y E: <a class="lnk"  href="#happyjust" >I'm happy just to dance with you</a> y <a class="lnk"  href="#andiloveher">And I Love Her</a>
+
+
+
+Dm y F: <a target="_blank" href="http://www.azchords.com/l/leonardcohen-tabs-25225/everybodyknows-tabs-226476.html" >Everybody knows</a> <a target="_blank" href="https://youtu.be/8IfmiKnZi3E?list=RD8IfmiKnZi3E"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm2#anotherbrick" >Another Brick In The Wall</a> y <a class="lnk"  href="#jijiji" >Jijiji</a> cuyo gràfico (link) nos permiten ver que la posición natural para el <a class="lnk"  href="#dism" >acorde disminuido</a> en 2 claves relativas es, lógicamente, el mismo acorde.
+
+
+Em y G: <a class="lnk"  href="/armonia/arm3#littlewing" >Little Wing</a>, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_stone_roses/made_of_stone_crd.htm" >Made of stone</a> <a target="_blank" href="https://www.youtube.com/watch?v=8GJmkT4IBZE"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com|F|Fools_garden/lemon_tree_ver2_crd.htm" >Lemon tree</a> <a target="_blank" href="https://www.youtube.com/watch?v=phEnpdDusss"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's Little Helper</a>, <a class="lnk"  href="/armonia/arm3#crybabycry">Cry Baby Cry</a>.
+
+
+F#m y A: <a target="_blank" href="http://www.e-chords.com/chords/the-rolling-stones/under-my-thumb" >Under my thumb</a> <a target="_blank" href="https://youtu.be/nYYTLJ8YHi4"  ><FAIcon icon="fa-solid fa-play"  /></a>
+
 
 <a class="anchor" id="setonyou"></a> <br />
 
