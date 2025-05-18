@@ -14,7 +14,9 @@ export default function Hello() {
         }}>
         <p>
           Edit <code>pages/helloReact.js</code> and save to reload.
-          ok veamos
+          ok veamos <br />
+
+          <a class="lnk"  href="/armonia/arm2#dominante-del-relativo-menor-vdevi" >Vdevi</a>
         </p>
       </div>
     </Layout>

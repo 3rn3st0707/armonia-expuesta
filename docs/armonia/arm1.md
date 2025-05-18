@@ -2554,7 +2554,6 @@ Es justamente la misma modificación que usualmente se hace
 |-----+-----+-----+-----+--A--+-----+-----+
 </code>
 
-<a class="anchor" id="bestiapop"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 Veamos otro ejemplo de la misma banda, también en clave menor y en que también alternan su dominante con su <a class="lnk"  href="#meddim">medio-disminuido</a> natural:
 
@@ -2622,7 +2621,7 @@ E|-----+-----+-----+-----+-----+-----+-(B)-+
 
 </code>
 
-<a class="anchor" id="corcovado"  ><FAIcon icon="fa-solid fa-play"  /></a>
+<a class="anchor" id="corcovado"  ></a>
 
 
  El próximo ejemplo comienza con el acorde Am al cual le sigue B# <a class="lnk"  href="#meddim" >medio-disminuido</a> ósea el ii natual de la clave de Am. Sin embargo la frase completa resuelve en F, típicamente, atravez de una cadena <a class="lnk"  href="#sen-ton" >ii-V-I</a> con lo cual se puede considerar una modulación de Am a F:
