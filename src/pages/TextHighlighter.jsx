@@ -25,7 +25,7 @@ const TextHighlighter = () => {
     const substringsSets = {
       'C': { 'Bb ': 'rgba(238, 83, 142, 0.89)', 'A# ': 'rgba(238, 83, 142, 0.89)', 'G# ': 'rgba(238, 83, 142, 0.89)', 'Ab ': 'rgba(238, 83, 142, 0.89)', 'Gm ': 'rgba(238, 83, 142, 0.89)', 'Fm ': 'rgba(238, 83, 142, 0.89)', 'D# ': 'rgba(238, 83, 142, 0.89)', 'Eb ': 'rgba(238, 83, 142, 0.89)', 'C7': 'rgb(156, 103, 230)', 'A ': 'rgb(156, 103, 230)', 'A7': 'rgb(156, 103, 230)', 'D ': 'rgb(156, 103, 230)', 'D7': 'rgb(156, 103, 230)', 'E ': 'rgb(156, 103, 230)', 'E7': 'rgb(156, 103, 230)' },
       'C#': { 'A ': 'rgba(238, 83, 142, 0.89)', 'B ': 'rgba(238, 83, 142, 0.89)', 'E ': 'rgba(238, 83, 142, 0.89)', 'F#m ': 'rgba(238, 83, 142, 0.89)', 'G#m ': 'rgba(238, 83, 142, 0.89)', 'Abm ': 'rgba(238, 83, 142, 0.89)', 'Gbm ': 'rgba(238, 83, 142, 0.89)', 'C#7': 'rgb(156, 103, 230)', 'A# ': 'rgb(156, 103, 230)', 'A#7': 'rgb(156, 103, 230)', 'D# ': 'rgb(156, 103, 230)', 'D#7': 'rgb(156, 103, 230)', 'F ': 'rgb(156, 103, 230)', 'F7': 'rgb(156, 103, 230)' },
-      'D': { 'C ': 'rgba(238, 83, 142, 0.89)', 'Bb ': 'rgba(238, 83, 142, 0.89)', 'A# ': 'rgba(238, 83, 142, 0.89)', 'F ': 'rgba(238, 83, 142, 0.89)', 'Gm ': 'rgba(238, 83, 142, 0.89)', 'Am ': 'rgba(238, 83, 142, 0.89)', 'E7': 'rgb(156, 103, 230)', 'E ': 'rgb(156, 103, 230)', 'F#7': 'rgb(156, 103, 230)', 'F# ': 'rgb(156, 103, 230)', 'D7': 'rgb(156, 103, 230)', 'B ': 'rgb(156, 103, 230)', 'B7': 'rgb(156, 103, 230)' },
+      'D': { 'C ': 'rgba(238, 83, 142, 0.89)', 'Bb ': 'rgba(238, 83, 142, 0.89)', 'A# ': 'rgba(238, 83, 142, 0.89)', 'F ': 'rgba(238, 83, 142, 0.89)', 'Gm ': 'rgba(238, 83, 142, 0.89)', 'Am ': 'rgba(238, 83, 142, 0.89)', 'E7': 'rgb(156, 103, 230)', 'E ': 'rgb(156, 103 Anita page for additional info.' },
       'D#': { 'C# ': 'rgba(238, 83, 142, 0.89)', 'B ': 'rgba(238, 83, 142, 0.89)', 'F# ': 'rgba(238, 83, 142, 0.89)', 'G#m ': 'rgba(238, 83, 142, 0.89)', 'Abm ': 'rgba(238, 83, 142, 0.89)', 'A#m ': 'rgba(238, 83, 142, 0.89)', 'F7': 'rgb(156, 103, 230)', 'F ': 'rgb(156, 103, 230)', 'G7': 'rgb(156, 103, 230)', 'G ': 'rgb(156, 103, 230)', 'D#7': 'rgb(156, 103, 230)', 'C ': 'rgb(156, 103, 230)', 'C7': 'rgb(156, 103, 230)' },
       'E': { 'G ': 'rgba(238, 83, 142, 0.89)', 'C ': 'rgba(238, 83, 142, 0.89)', 'D ': 'rgba(238, 83, 142, 0.89)', 'Am ': 'rgba(238, 83, 142, 0.89)', 'Bm ': 'rgba(238, 83, 142, 0.89)', 'F#7 ': 'rgb(156, 103, 230)', 'F# ': 'rgb(156, 103, 230)', 'G#7 ': 'rgb(156, 103, 230)', 'G# ': 'rgb(156, 103, 230)', 'C#7 ': 'rgb(156, 103, 230)', 'C# ': 'rgb(156, 103, 230)', 'E7 ': 'rgb(156, 103, 230)' },
       'F': { 'G# ': 'rgba(238, 83, 142, 0.89)', 'Ab ': 'rgba(238, 83, 142, 0.89)', 'C# ': 'rgba(238, 83, 142, 0.89)', 'Db ': 'rgba(238, 83, 142, 0.89)', 'Eb ': 'rgba(238, 83, 142, 0.89)', 'D# ': 'rgba(238, 83, 142, 0.89)', 'A#m ': 'rgba(238, 83, 142, 0.89)', 'Bbm ': 'rgba(238, 83, 142, 0.89)', 'Cm ': 'rgba(238, 83, 142, 0.89)', 'G7': 'rgb(156, 103, 230)', 'G ': 'rgb(156, 103, 230)', 'A7': 'rgb(156, 103, 230)', 'A ': 'rgb(156, 103, 230)', 'D7 ': 'rgb(156, 103, 230)', 'D ': 'rgb(156, 103, 230)', 'F7 ': 'rgb(156, 103, 230)' },
@@ -53,6 +53,13 @@ const TextHighlighter = () => {
       'B': { 'D ': 'iii', 'G ': 'bvi', 'A ': 'bvii', 'Em ': 'vi', 'F#m ': 'v', 'B7': 'vdeiv', 'C# ': 'vdev', 'C#7': 'vdev', 'D# ': 'vdevi', 'D#7': 'vdevi', 'Eb ': 'vdevi', 'Eb7': 'vdevi', 'Ab ': 'vdeii', 'Ab7 ': 'vdeii', 'G# ': 'vdeii', 'G#7 ': 'vdeii' },
     };
 
+    // Function to format function value (e.g., 'bvii' to 'bVII')
+    const formatFunction = (fn) => {
+      if (!fn) return '';
+      // Replace 'b' with '♭' and convert to uppercase
+      return fn.replace(/^b/, '♭').toUpperCase();
+    };
+
     // Get the appropriate substrings set based on varClave
     const substrings = substringsSets[varClave] || {};
     const fnSubstrings = substringFn[varClave] || {};
@@ -71,15 +78,16 @@ const TextHighlighter = () => {
       fnMatches.forEach((match) => matchedFnPatterns.add(match));
     }
 
-    // Generate div elements for matched substringFn patterns with colored pattern text
+    // Generate div elements for matched substringFn patterns with colored pattern and function
     const fnDivs = Array.from(matchedFnPatterns).map((pattern, index) => {
-      const color = substrings[pattern] || 'inherit'; // Use color from substringsSets or default
+      const color = substrings[pattern] || 'inherit';
+      const fnValue = formatFunction(fnSubstrings[pattern]);
       return (
         <div
           key={`fn-match-${index}`}
           className={`fn-match ${matchedFnPatterns.has(pattern) ? 'visible' : 'hidden'}`}
         >
-          The pattern <span style={{ color }}>{pattern}</span> has been matched
+          The pattern <span style={{ color }}>{pattern}</span> has a function of {fnValue}
         </div>
       );
     });
@@ -174,10 +182,20 @@ const TextHighlighter = () => {
             ]}
           </pre>
 
-          <Link className="lnk" to="/armonia/arm2#dom-sec">VdeV</Link> <br />
-          <Link className="lnk" to="/armonia/arm2#dom-rel-men">Vdevi</Link> <br />
-          <Link to="/armonia/arm2#dom-rel-men" className="lnk">Go to Corcovado Ok</Link> <br />
-          <Link className="lnk" to="/armonia/arm3#acordes-prestados-del-modo-paralelo">acorde no-diatónico bVII</Link> <br />
+'vdev' then <Link className="lnk" to="/armonia/arm2#dom-sec">VdeV</Link> 
+'vdevi' then <Link className="lnk" to="/armonia/arm2#dom-rel-men">Vdevi</Link> 
+'vdeiv' then <Link className="lnk" to="/armonia/arm2#dominante-de-iv">VdeIV</Link> 
+'vdeii' then <Link className="lnk" to="/armonia/arm2#el-grado-ii-y-su-modulaciones">Vdeii</Link> 
+
+
+'bvii' then <Link className="lnk" to="/armonia/arm3#acordes-prestados-del-modo-paralelo">bVII prestado del modo paralelo menor</Link> 
+'bvi' then <Link className="lnk" to="/armonia/arm3#el-acorde-bvi-prestado">bVI prestado del modo paralelo menor</Link> 
+'biii' then <Link className="lnk" to="/armonia/arm3#biii">bIII prestado del modo paralelo menor</Link> 
+'v' then <Link className="lnk" to="/armonia/arm3#bvii-i-y-v-i-v-menor">v prestado del modo paralelo menor</Link> 
+'iv' then <Link className="lnk" to="/armonia/arm2#el-cliché-iv-iv-iv-mayor-menor">iv prestado del modo paralelo menor</Link> 
+
+
+
         </article>
       </div>
     </Layout>
