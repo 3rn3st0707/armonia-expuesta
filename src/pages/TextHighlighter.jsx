@@ -53,11 +53,17 @@ const TextHighlighter = () => {
       'B': { 'D ': 'iii', 'G ': 'bvi', 'A ': 'bvii', 'Em ': 'vi', 'F#m ': 'v', 'B7': 'vdeiv', 'C# ': 'vdev', 'C#7': 'vdev', 'D# ': 'vdevi', 'D#7': 'vdevi', 'Eb ': 'vdevi', 'Eb7': 'vdevi', 'Ab ': 'vdeii', 'Ab7 ': 'vdeii', 'G# ': 'vdeii', 'G#7 ': 'vdeii' },
     };
 
-    // Function to format function value (e.g., 'bvii' to 'bVII')
-    const formatFunction = (fn) => {
-      if (!fn) return '';
-      // Replace 'b' with '♭' and convert to uppercase
-      return fn.replace(/^b/, '♭').toUpperCase();
+    // Mapping of fnValue to Link component
+    const fnValueToLink = {
+      'vdev': <Link className="lnk" to="/armonia/arm2#dom-sec">VdeV</Link>,
+      'vdevi': <Link className="lnk" to="/armonia/arm2#dom-rel-men">Vdevi</Link>,
+      'vdeiv': <Link className="lnk" to="/armonia/arm2#dominante-de-iv">VdeIV</Link>,
+      'vdeii': <Link className="lnk" to="/armonia/arm2#el-grado-ii-y-su-modulaciones">Vdeii</Link>,
+      'bvii': <Link className="lnk" to="/armonia/arm3#acordes-prestados-del-modo-paralelo">bVII prestado del modo paralelo menor</Link>,
+      'bvi': <Link className="lnk" to="/armonia/arm3#el-acorde-bvi-prestado">bVI prestado del modo paralelo menor</Link>,
+      'biii': <Link className="lnk" to="/armonia/arm3#biii">bIII prestado del modo paralelo menor</Link>,
+      'v': <Link className="lnk" to="/armonia/arm3#bvii-i-y-v-i-v-menor">v prestado del modo paralelo menor</Link>,
+      'iv': <Link className="lnk" to="/armonia/arm2#el-cliché-iv-iv-iv-mayor-menor">iv prestado del modo paralelo menor</Link>,
     };
 
     // Get the appropriate substrings set based on varClave
@@ -81,13 +87,14 @@ const TextHighlighter = () => {
     // Generate div elements for matched substringFn patterns with colored pattern and function
     const fnDivs = Array.from(matchedFnPatterns).map((pattern, index) => {
       const color = substrings[pattern] || 'inherit';
-      const fnValue = formatFunction(fnSubstrings[pattern]);
+      const fnValue = fnSubstrings[pattern] || '';
+      const linkComponent = fnValueToLink[fnValue] || fnValue;
       return (
         <div
           key={`fn-match-${index}`}
           className={`fn-match ${matchedFnPatterns.has(pattern) ? 'visible' : 'hidden'}`}
         >
-          The pattern <span style={{ color }}>{pattern}</span> has a function of {fnValue}
+          <span style={{ color }}>{pattern}</span>: {linkComponent}
         </div>
       );
     });
@@ -151,7 +158,16 @@ const TextHighlighter = () => {
         <article>
           <h1>Coloreador Sintáctico para Tablaturas</h1>
 
-          <h3>Seleccione una clave. Clave Actual: {varClave}</h3>
+
+          <textarea
+            value={text}
+            onChange={handleChange}
+            placeholder="Pegue o escriba una tabaltura aquí"
+            rows="13"
+            cols="74"
+          />
+
+<h3>Seleccione una clave. Clave Actual: {varClave}</h3>
           <div className="navbarButtons">
             <button onClick={() => handleClick('C')}>DO (C)</button>
             <button onClick={() => handleClick('C#')}>DO# (C#)</button>
@@ -166,13 +182,7 @@ const TextHighlighter = () => {
             <button onClick={() => handleClick('Bb')}>SIb (Bb)</button>
             <button onClick={() => handleClick('B')}>SI (B)</button>
           </div>
-          <textarea
-            value={text}
-            onChange={handleChange}
-            placeholder="Pegue o escriba una tabaltura aquí"
-            rows="13"
-            cols="74"
-          />
+          
           <pre className="highlighted-text" style={{backgroundColor: '#161d24'}}>
             {[
               displayStrings[varClave],
@@ -181,20 +191,6 @@ const TextHighlighter = () => {
               ...highlightText(text)
             ]}
           </pre>
-
-'vdev' then <Link className="lnk" to="/armonia/arm2#dom-sec">VdeV</Link> 
-'vdevi' then <Link className="lnk" to="/armonia/arm2#dom-rel-men">Vdevi</Link> 
-'vdeiv' then <Link className="lnk" to="/armonia/arm2#dominante-de-iv">VdeIV</Link> 
-'vdeii' then <Link className="lnk" to="/armonia/arm2#el-grado-ii-y-su-modulaciones">Vdeii</Link> 
-
-
-'bvii' then <Link className="lnk" to="/armonia/arm3#acordes-prestados-del-modo-paralelo">bVII prestado del modo paralelo menor</Link> 
-'bvi' then <Link className="lnk" to="/armonia/arm3#el-acorde-bvi-prestado">bVI prestado del modo paralelo menor</Link> 
-'biii' then <Link className="lnk" to="/armonia/arm3#biii">bIII prestado del modo paralelo menor</Link> 
-'v' then <Link className="lnk" to="/armonia/arm3#bvii-i-y-v-i-v-menor">v prestado del modo paralelo menor</Link> 
-'iv' then <Link className="lnk" to="/armonia/arm2#el-cliché-iv-iv-iv-mayor-menor">iv prestado del modo paralelo menor</Link> 
-
-
 
         </article>
       </div>
