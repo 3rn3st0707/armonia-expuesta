@@ -337,7 +337,6 @@ flex-direction: column;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
   border: solid;
   border: 3px solid black;
 }
@@ -399,6 +398,7 @@ flex-direction: column;
 
 code {
   font-family: 'Ubuntu mono', monospace;
+ 
 }
 
 
@@ -412,6 +412,7 @@ code {
 html[data-theme='dark'] .pdf {
   color: rgba(129, 219, 215, 0.718);
   font-size: 60%;
+  font-weight: bold;
 }
 
 
@@ -472,7 +473,7 @@ html[data-theme='dark'] article {
 }
 
 html[data-theme='dark'] details {
-  background-color: #2c343a;
+  background-color: #293236;
   color: white;
   border-color: #021520;
   padding: 2.4em;
@@ -553,11 +554,12 @@ html[data-theme='dark'] nav a {
 
 
 html[data-theme='dark'] a:hover {
-  color: #99fde4;
+  opacity: 1;
 }
 
 html[data-theme='dark'] a {
-  color: #6b9286;
+  color: #99fde4;
+  opacity: .8;
 }
 
 html[data-theme='dark'] .pagination-nav__label {
@@ -575,11 +577,11 @@ html[data-theme='dark'] .menu__link--active {
 
 html[data-theme='dark'] .lnk {
   color: rgb(203, 255, 125);
+  opacity: 1;
 }
 
 html[data-theme='dark'] .lnk:hover {
-  color: rgb(203, 255, 125);
-  opacity: .8;
+  opacity: .9;
 }
 
 html[data-theme='dark'] h1, h2, h4 {
@@ -615,33 +617,36 @@ html[data-theme='dark'] .trasluz {
 
 html[data-theme='dark'] code {
   background-color: #161d24 !important;
-  padding: 1.5em;
+  padding: 1.3em;
+  border: 2px solid #010f0a;
 }
 
 
-/* same going for light mode  */
+
+
+/* Light mode with warm, pastel salmon tones and colorful accents */
+
+
 
 html[data-theme='light'] .navbar__title::after {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Warm, muted reddish-brown for subtle contrast */
 }
 
-
 html[data-theme='light'] article {
-  /* background-color: rgb(235, 235, 235); */
-  background-color: rgb(241, 231, 231);
-  color: black;    
-  border-color: #003422;
+  background-color: #fff5f2; /* Very light salmon/pastel background */
+  color: #3a2f2c; /* Deep warm brown for text readability */
+  border-color: #6b4e3d; /* Muted terracotta for borders */
   border-width: 4px;
-  font-weight:400;
+  font-weight: 400;
 }
 
 html[data-theme='light'] h2, h1 {
   font-weight: bold;
-  color:  #31412b;
+  color: #4a2f2a; /* Rich reddish-brown for headings */
 }
 
 html[data-theme='light'] h3 {
-  color:  #31412b;
+  color: #4a2f2a;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Merriweather', serif;
@@ -650,151 +655,128 @@ html[data-theme='light'] h3 {
 }
 
 html[data-theme='light'] .table-of-contents__link--active {
-  color:  #5e6643 !important;
+  color: #7a5c4a !important; /* Warm taupe for active TOC links */
 }
 
-
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a {
-
-  color:  #31412b;
+  color: #4a2f2a; /* Consistent heading color for sidebar links */
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a:hover {
-  color:  rgba(25, 151, 151, 0.76) !important;
+  color: #d76a5b !important; /* Soft coral for hover effect */
 }
 
 html[data-theme='light'] a {
-  color: rgba(20, 90, 90, 0.699);
+  color: #978158; /* Muted coral for links */
   font-weight: 500 !important;
 }
 
-
 html[data-theme='light'] b.navbar__title.text--truncate {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Matching reddish-brown for navbar title */
 }
 
-
 html[data-theme='light'] code {
-  background-color: rgb(241, 231, 231);
+  background-color: #fff2eb;; /* Lighter salmon for code blocks */
+  padding: 1.5em;
+  border: 2px solid #6b4e3d; /* Terracotta border for consistency */
 }
 
 html[data-theme='light'] details {
-  background-color: rgb(245, 228, 228);
-  color: #00060a;
-  border-color: #00060a;
+  background-color: #ece0d8;; /* Slightly lighter salmon for details */
+  color: #3a2f2c; /* Warm brown text */
+  border-color: #6b4e3d; /* Terracotta border */
   padding: 2.4em;
 }
 
 html[data-theme='light'] details code {
-  background-color: rgb(245, 228, 228);
-
+  background-color: #fff0ec; /* Matching details background */
 }
 
-
-html[data-theme='light' ] details a {
+html[data-theme='light'] details a {
   text-decoration: none;
 }
 
-html[data-theme='light' ] details a:hover {
+html[data-theme='light'] details a:hover {
   text-decoration: underline;
 }
-
 
 html[data-theme='light'] .trasluz {
   opacity: .3;
 }
 
 html[data-theme='light'] .pdf {
-  color: rgba(20, 90, 90, 0.699);
+  color: #b84e3f; /* Coral for PDF links */
   font-size: 60%;
   font-weight: bold;
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > div {
-  color: #f7f7f0;;
+  color: #fff5f2; /* Light salmon to blend with background */
 }
 
-html[data-theme='light'] .table-of-contents  {
-  background-color: rgb(241, 231, 231);
+html[data-theme='light'] .table-of-contents {
+  background-color: #fff5f2; /* Matching article background */
   opacity: .9;
 }
 
 html[data-theme='light'] .lnk {
-  color:  #334e3b;
-  font-weight: bold  !important;
+  color: #6b4e3d; /* Terracotta for bold links */
+  font-weight: bold !important;
 }
 
-html[data-theme='light'] .table-of-contents  a  {
-
-  color: #12312c;
-
+html[data-theme='light'] .table-of-contents a {
+  color: #5c4036; /* Slightly darker brown for TOC links */
 }
 
-html[data-theme='light'] .table-of-contents  a:hover  {
-  
-  color:  #334e3b;
-
+html[data-theme='light'] .table-of-contents a:hover {
+  color: #d76a5b; /* Coral for hover */
 }
 
 html[data-theme='light'] .cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module p {
-  color:  #1a1a1a;
-} 
-
-
-html[data-theme='light'] blockquote {
-
-  color: #01090f;
+  color: #3a2f2c; /* Warm brown for card text */
 }
 
+html[data-theme='light'] blockquote {
+  color: #4a2f2a; /* Reddish-brown for quotes */
+}
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
-  background-color: rgb(233, 228, 228);
-  color:  #00060a;  
-  opacity: .9 ;
+  background-color: #fff0ec; /* Light salmon for sidebar */
+  color: #3a2f2c; /* Warm brown text */
+  opacity: .9;
   border: solid;
-  border-color: black;
+  border-color: #6b4e3d; /* Terracotta border */
   padding: .4em 0 0 1.2em;
   font-family: 'Merriweather', serif;
 }
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav > ul > li > a:hover {
-
-  color:  #334e3b;
-
+  color: #d76a5b; /* Coral for sidebar link hover */
 }
 
-
-html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div
-{
-  background-color: #003422;
-  color: #e7e7e4;
+html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div {
+  background-color: #6b4e3d; /* Terracotta for announcement bar */
+  color: #fff5f2; /* Light salmon text for contrast */
 }
-
 
 html[data-theme='light'] header {
-  background-color: rgb(233, 228, 228);  
+  background-color: #fff0ec; /* Light salmon for header */
   opacity: .9;
   padding: 1.5em;
 }
 
 html[data-theme='light'] footer {
-  background-color: rgb(233, 228, 228);
-  color:  black;   
+  background-color: #fff0ec; /* Light salmon for footer */
+  color: #3a2f2c; /* Warm brown text */
   opacity: .9;
-
   padding: 1.5em;
-
 }
-
-
-
 
 html[data-theme='light'] #__docusaurus > nav > div.navbar__inner {
-  color: #010f0a;
+  color: #4a2f2a; /* Reddish-brown for navbar content */
 }
 
-
-html[data-theme='light'] article  a { 
+html[data-theme='light'] article a {
   font-weight: 700;
 }
 
@@ -802,94 +784,76 @@ html[data-theme='light'] article a:hover {
   opacity: .9;
 }
 
-html[data-theme='light'] .pagination-nav__link  {
-  color: #084044e7;
+html[data-theme='light'] .pagination-nav__link {
+  color: #b84e3f; /* Coral for pagination links */
   font-weight: 500;
 }
 
-
 html[data-theme='light'] aside .menu li {
-  background-color: rgb(233, 228, 228);
+  background-color: #fff0ec; /* Light salmon for menu items */
 }
-
 
 html[data-theme='light'] .navbar {
-  background-color: rgb(241, 231, 231);
-
+  background-color: #fff5f2; /* Matching article background */
+  opacity: .9;
 }
 
-
 html[data-theme='light'] .navbar a {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Reddish-brown for navbar links */
   font-weight: bold !important;
 }
 
 html[data-theme='light'] .navbar a:hover {
-  opacity: .8 ; 
-  color:  #1a1a1a;
+  opacity: .8;
+  color: #d76a5b; /* Coral for hover */
 }
 
-
-
-
-
-
-
-html[data-theme='light'] aside .menu  {
+html[data-theme='light'] aside .menu {
   opacity: .9;
 }
 
-
-
 html[data-theme='light'] .pagination-nav__link {
-  background-color: rgb(233, 228, 228);
-  opacity: .9 ;
-  color:  #5e6643 !important;
+  background-color: #fff0ec; /* Light salmon for pagination */
+  opacity: .9;
+  color: #7a5c4a !important; /* Taupe for link text */
 }
 
 html[data-theme='light'] div.col.col--3 {
-  background-color: rgb(233, 228, 228);
+  background-color: #fff0ec; /* Light salmon for sidebar column */
   opacity: .9;
 }
-
 
 html[data-theme='light'] div.col.col--3 a:hover {
   opacity: .7;
 }
 
-
-
-
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > h1 {
-  color:rgb(26, 26, 26);
+  color: #4a2f2a; /* Reddish-brown for main heading */
 }
 
 html[data-theme='light'] .menu__link {
-  color: #122d31;
+  color: #5c4036; /* Darker brown for menu links */
   font-weight: bold !important;
 }
 
-
-
 html[data-theme='light'] .menu__link:hover {
-  color:rgb(34, 78, 14);
-    opacity: .9;
+  color: #8b6a4e; /* Warm taupe for hover */
+  opacity: .9;
 }
 
 html[data-theme='light'] .menu__link--active {
-  color:rgb(34, 78, 14);
+  color: #8b6a4e; /* Warm taupe for active menu links */
 }
 
-
 html[data-theme='light'] article.margin-bottom--xl:nth-child(1) > header:nth-child(1) > h2:nth-child(1) a {
-  color: #00060a;
+  color: #4a2f2a; /* Reddish-brown for specific article links */
 }
 
 html[data-theme='light'] a.sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-  color: #00060a;
+  color: #4a2f2a; /* Reddish-brown for active sidebar links */
 }
 
-
+/* End of light mode   */
 
 a.anchor {
   display: block;

@@ -168,7 +168,7 @@ Son varios los ejemplos en este ebook donde un acorde disonante es utilizado com
 
 
 
-Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuido</a>, caso que podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> (<a class="lnk"  href="notasadmichell.htm" >ver más</a>) y casi todos los ejemplos que se ven en la <a class="lnk"  href="/category/módulos-técnicos#meddim" >sección sobre el acorde medio-disminuido</a>.
+Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuido</a>, caso que podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> (<a class="lnk"  href="/armonia/arm1#michelle+" >ver más</a>) y casi todos los ejemplos que se ven en la <a class="lnk"  href="/category/módulos-técnicos#meddim" >sección sobre el acorde medio-disminuido</a>.
 
 
 
@@ -300,16 +300,20 @@ La misma banda que popularizo el cover q del tema que acabamos de analizar, incl
 &nbsp;<a class="rojo">Bb-C</a>-D: <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a>
 </code>
 
-<p class="md_footnote_size">Notese que el numero inusual de compases dado al cambio IV-iv  en <a class="lnk"  href="#anna" >Anna</a> en la misma clave (G-<a class="rojo">Gm</a> aquí se repite pero "incrustando" una progresion <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> tambien en clave de D.
+<p class="md_footnote_size">Notese que el numero inusual de compases dado al cambio IV-iv (G-<a class="rojo">Gm</a>) en <a class="lnk"  href="#anna" >Anna</a> en la misma clave  aquí se repite pero "incrustando" una progresion <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> tambien en clave de D.
 </p>
 
 
-Aquí <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) y de hecho ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual este puente logra "eliminar" el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, con esta versión "alargada" de <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I (D7/9-G-Gm-D).
+Aquí <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) con lo cual los Beatles logran darle una vuelta de turca más a uno s de us recursos favoritos: la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a>
 
+
+
+Ademas D7/9 ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual este puente logra eliminar el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, algo que ya habian hecho en la misma clave en su cover de <a class="lnk"  href="#anna" >Anna</a>.
 
 <a class="anchor" id="thatthing"></a>
 
-Notese también que aquí el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm que si aparece más adelante). Este razgo es típico de otras baladas beatle como Nowhere Man y Real Love (Am en clave de E en ambos casos), por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
+Notese también que aun antes del puente el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm que si aparece más adelante). Esto es típico de otras baladas beatle como <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1040.html" >Across
+the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave de D o Nowhere Man y Real Love (Am en clave de E en ambos casos), por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
 
 
 
@@ -953,7 +957,7 @@ En <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a>
 
 <br  />
 
-En <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> podemos ver que utiliza <a class="lnk"  href="#des-min" >está progresión</a> sobre Fm cómo intro de guitarra (<a class="lnk"  href="notasadmichell.htm" >ver más</a>) con el truco de que, mediante el V común (C) a ambas <a class="lnk"  href="" >claves paralelas</a>, la estrofa empieza con el acorde de F mayor (ver <a class="lnk"  href="" >claves paralelas</a>). 
+En <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> podemos ver que utiliza <a class="lnk"  href="#des-min" >está progresión</a> sobre Fm cómo intro de guitarra (<a class="lnk"  href="/armonia/arm1#michelle+" >ver más</a>) con el truco de que, mediante el V común (C) a ambas <a class="lnk"  href="" >claves paralelas</a>, la estrofa empieza con el acorde de F mayor (ver <a class="lnk"  href="" >claves paralelas</a>). 
 
 
 
@@ -2472,6 +2476,9 @@ Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
 &nbsp;<a class="magentaDom">B7</a>: <a class="lnk"  href="#dom-sec" >VdeV</a>
 </code>
 
+><p class="md_footnote_size">Otro buen ejemplo de turnaround en una clave menor 
+es <a class="lnk"  href="/armonia/arm3#breakexp" title="Break It All">Break It All</a> (F#7-B7 en clave de Em).</p>
+
 En este caso está usado en su función más tradiciónal cómo parte de un turnaround ósea la "cadena" <a class="lnk"  href="#dom-sec" >VdeV-V</a> (B7-E7).
 
 
@@ -2481,7 +2488,7 @@ En este caso está usado en su función más tradiciónal cómo parte de un turn
 
 
 
-Otro buen ejemplo de turnaround en una clave menor es el de <a class="lnk"  href="/armonia/arm3#breakexp" title="Break It All">Break It All</a> (F#7-B7 en clave de Em).
+
 
 
 
@@ -3007,7 +3014,7 @@ Y para cerrar la sección otra canción que modula de C a Dm, pero en este caso 
 &nbsp;<span class="naranja">Dm</span>-<span class="naranja">G</span>-<span class="naranja">C</span>: <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> a clave de C.
 </code>
 
-Este gráfico, basado en la recomendable técnica de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> describe un poco mejor la división rítmica (G cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> ver más al respecto en las notas al <a class="lnk"  href="#inmylife" >ejemplo de In my life</a> ) y la reinterpretación de Dm:
+Este gráfico, basado en la recomendable técnica de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> describe un poco mejor la división rítmica (G cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> ver más al respecto en las notas al <a class="lnk"  href="#palestrina" >Disonancia En Tiempos Débiles</a> ) y la reinterpretación de Dm:
 
 ```
     |Bb             |A7             |Dm     G       |
@@ -3375,7 +3382,7 @@ En la <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >sección 
 
 
 
-Y a su vez en la sección <a class="lnk"  href="/category/módulos-técnicos#dir-quint">direción de quintas</a> vimos que un cambio de acorde a un intervalo de IV más alto se lo conoce como "quinta descendente" mientras que un cambio de acorde a un intervalo de V más ato se lo conoce como "quinta ascendente", por lo cual la "distancia" entre dos acordes puede ser tanto un intervalo de IV o de V según nos movamos en forma ascendente o descendente.
+Y a su vez en la sección <a class="lnk"  href="/category/módulos-técnicos#dir-quint">direción de quintas</a> vimos que un cambio de acorde a un intervalo de IV más alto se lo conoce como "quinta descendente" mientras que un cambio de acorde a un intervalo de V más alto se lo conoce como "quinta ascendente", por lo cual la "distancia" entre dos acordes puede ser tanto un intervalo de IV o de V según nos movamos en forma ascendente o descendente.
 
 
 

@@ -479,6 +479,8 @@ F#|  |G#|A |  |B |  |C#|D |  |E |  |F#
 <a class="anchor" id="aco-rel"></a>
 Y así mismo se da que los acordes mayor y menor "relativos" entre si, tienen en común 2 de sus tres notas:
 
+<br /><br />
+
 ```
   X= cuerda que no se toca.
   
@@ -1425,19 +1427,19 @@ How easy it would be...
 [Not a second time](http://www.e-chords.com/chords/the-beatles/not-i-second-time) <a target="_blank" href="https://www.youtube.com/watch?v=bg5M2NNK_tE"  ><FAIcon icon="fa-solid fa-play"  /></a> también en clave de G termina cada estribillo con la resolución decepcionante, y <a class="lnk"  href="/armonia/arm3#napolitanos">Do You Want To Know A Secret</a>
 estando en clave de E, al final del estribillo pasa de su dominante
 (B7) directamente a su relativo menor (C#m) negandonos así la
-resolución esperada, más aún el final de la canción es una repetición
-la progresión F#m-B7-C#m que es <a class="lnk"  href="#sen-ton" >ii-V7</a>-<a class="lnk"  href="#claves-relativas" >vi</a> es decir una repetición del truco (otros casos en clave de E son <a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> y <a class="lnk"  href="#bajan">Bajan</a>).
+resolución esperada (otros casos en clave de E son <a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> y <a class="lnk"  href="#bajan">Bajan</a>), más aún el final de la canción es una repetición
+la progresión F#m-B7-C#m que es <a class="lnk"  href="#sen-ton" >ii-V7</a>-<a class="lnk"  href="#claves-relativas" >vi</a> es decir una repetición del truco.
 
 
 
-El caso de Losing My Religion, más especificamente la resolución de su estrofa, también es similar al final de <a class="lnk"  href="/armonia/arm3#napolitanos">Do You Want To Know A Secret</a> pero desde el lado contrario: la canción esta en una clave menor (Am) y su punto de climax es el de los acordes Dm-C que resultan ser ii-V de la clave relativa mayor (C) debido a la fuerte tracción resolutiva de la progresión <a class="lnk"  href="#sen-ton" >ii-V-I</a> nuestro oido adelante una modulación a C pero una vez más aparece Am en cambio, y asi el resto de la canción;
+El caso de Losing My Religion, más especificamente la resolución de su estrofa, también es similar al final de <a class="lnk"  href="/armonia/arm3#napolitanos">Do You Want To Know A Secret</a> pero desde el lado contrario: la canción esta en una clave menor (Am) y su punto de climax es el de los acordes Dm-C que resultan ser ii-V de la clave relativa mayor (C) debido a la fuerte tracción resolutiva de la progresión <a class="lnk"  href="#sen-ton" >ii-V-I</a> nuestro oido adelante una modulación a C pero una vez más aparece Am en cambio, y asi el resto de la canción.
 
 <a id="losing" class="anchor"></a>
 
 <code>  
 
 &nbsp; i      II  bIII    iv      V   bVI     bVII    i
-&nbsp;Am |   |Bº |B  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am
+&nbsp;Am |   |Bº |c  |   |<span class="naranja">Dm</span> |   |Em |F  |   |<span class="naranja">G</span>  |   |Am
 &nbsp;      En C: I       ii                  V
 
 &nbsp;[Losing My Religion](https://es.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345) 
@@ -1460,11 +1462,11 @@ El caso de Losing My Religion, más especificamente la resolución de su estrofa
 &nbsp;puente:
 
 &nbsp;  G                        F
-&nbsp;I thought that I heard you laughing,
-&nbsp;  <span class="naranja">Dm</span>             <span class="naranja">G</span>         Am   Am|B   Am|C   Am|D
-&nbsp;I thought that I heard you sing.
+&nbsp;I thought that I heard you laughing
+&nbsp;  <span class="naranja">Dm</span>             <span class="naranja">G</span>         Am
+&nbsp;I thought that I heard you sing
 &nbsp;Am   F               <span class="naranja">Dm</span>   <span class="naranja">G</span>   Am     G
-&nbsp;I  think I thought I saw  you try.
+&nbsp;I  think I thought I saw  you try
 
 &nbsp;<span class="naranja">Dm</span>-<span class="naranja">G</span>: <a class="lnk"  href="#sen-ton" >ii-V</a> a C (abortado)
 </code>
@@ -1602,13 +1604,13 @@ regreso a la clave de D es precedido por el dominante de Bm
 &nbsp;We can work it out
 &nbsp; G              <span class="magentaDom">A</span>
 &nbsp;We can work it out
-&nbsp; Bm                      Bm|A      G     <span class="magentaDom">F#7</span>     -clave de Bm
+&nbsp; Bm                      Bm/A      G     <span class="magentaDom">F#7</span>     -clave de Bm
 &nbsp;Life is very short and there's no time
-&nbsp;     F#            Bm         Bm|A        G   <span class="magentaDom">F#7</span>
+&nbsp;     F#            Bm         Bm/A        G   <span class="magentaDom">F#7</span>
 &nbsp;For fussing and fighting my friend
-&nbsp; Bm                        Bm|A     G     <span class="magentaDom">F#7</span>
+&nbsp; Bm                        Bm/A     G     <span class="magentaDom">F#7</span>
 &nbsp;I have always thought that it's a crime
-&nbsp;    F#     Bm     Bm|A   G    <span class="magentaDom">F#7</span>
+&nbsp;    F#     Bm     Bm/A   G    <span class="magentaDom">F#7</span>
 &nbsp;So I will ask you once again
 &nbsp; D                                                -clave de D 
 &nbsp;Try to see it  my   way
@@ -1618,6 +1620,137 @@ regreso a la clave de D es precedido por el dominante de Bm
 &nbsp;Bm/A: x04432
 &nbsp;<span class="rojo">C</span>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo</a>
 </code>
+
+<a class="anchor" id="profugos"></a>
+
+
+El próximo ejemplo también incluye un F#-D justo entre estrofa y estribillo pero en este caso no como parte de un a modulación de Bm a D sino de D a D mixolidio, recuerden que la inclusión del acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> o un v menor en una clave mayor (su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo</a>) la convierten al mixolidio desde el punto de vista modal, tal como se explica en <a class="lnk"  href="/armonia/arm3#otrosnombres">Otros Nombres de los Acordes Prestados</a>
+
+
+
+<code>
+&nbsp; I       ii      iii IV      V       vi     VII  I
+
+&nbsp; <span class="trasluz">i       ii  bIII    iv      v  bVI     </span><a class="rojo">bVII</a><span class="trasluz">     i</span>
+ 
+&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
+&nbsp;<span class="trasluz">|Dm |   |Eº |F  |   |Gm |   |Am |Bb |   |</span><a class="rojo">C</a><span class="trasluz">  |   |Dm</span>
+
+
+&nbsp;<a href="https://www.cifraclub.com/soda-stereo/profugos/" target="_blank">Profugos</a> <a href="https://www.youtube.com/watch?v=36ZIg14V_v0" target="_blank"><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+&nbsp;G                      D
+&nbsp;   Como un efecto residual
+&nbsp;Em                          Bm
+&nbsp;   Yo siempre tomaré el desvío
+&nbsp;G                       D
+&nbsp;   Tus ojos nunca mentirán
+&nbsp;Em
+&nbsp;   Pero ese ruido blanco
+&nbsp;<span class="magentaDom">F#7</span>
+&nbsp;   Es una alarma a mis oídos
+&nbsp;D          <a class="rojo">Am</a>                       - D <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a>
+&nbsp;  No seas tan cruel
+&nbsp;Em             Bm
+&nbsp;   No busques más pretextos
+&nbsp;D          <a class="rojo">Am</a>
+&nbsp;  No seas tan cruel
+&nbsp;Em                   G   <span class="rojo">C</span>?   - Clave de G? de C?
+&nbsp;Siempre seremos prófugos
+&nbsp;     Em
+&nbsp;Los dos...
+
+&nbsp;<span class="magentaDom">F#7</span>: <a class="lnk"  href="/armonia/arm2#dom-rel-men" >Vdevi</a>
+&nbsp;<a class="rojo">Am</a>: <a class="lnk"  href="/armonia/arm3#prestados">v prestado del modo paralelo menor</a>
+
+
+&nbsp;<span class="rojo">C</span>?: En clave de D es <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> pero tal como veremos en la
+&nbsp;sección <a class="lnk"  href="/armonia/arm3#refunc">bVII Prestado Refuncionalizado como IV</a> siendo el modo
+&nbsp;<a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> menos estable que el mayor común (jónico) el acorde
+&nbsp;bVII tiende a ser refuncionalizado con una modulación a la clave
+&nbsp;que es la que tiene por tonica el acorde IV de la original como 
+&nbsp;el acorde IV de la nueva clave, ergo este amague de modulación
+&nbsp;con un toque de <a class="lnk"  href="/armonia/arm2#ambi">ambigüedad tonal</a>. Esto prepara la final cuando
+&nbsp;en el 3er estribillo por primera vez culmina con una clara
+&nbsp;resolución al tónica D dando lugar a la coda:
+
+&nbsp;D          <a class="rojo">Am</a>
+&nbsp;  No seas tan cruel
+&nbsp;Em             Bm
+&nbsp;   No busques más pretextos
+&nbsp;D          <a class="rojo">Am</a>
+&nbsp;  No seas tan cruel
+&nbsp;Em                   G   D
+&nbsp;Siempre seremos prófugos
+
+&nbsp;<a class="rojo">Am</a>  Em  Bm  D  <a class="rojo">Am</a>
+
+&nbsp;Em               G   D
+&nbsp;Siempre seremos prófugos
+
+&nbsp;<a class="rojo">Am</a>  Em  Bm D  <a class="rojo">Am</a>
+</code>
+
+<a class="anchor" id="temblor"></a>
+
+La misma banda en su Album anterior incluía un hit que ademas de una Resolución Descepcionante inversa (es decir desde una clave menor Am hacia su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa mayor</a> C) 2 acordes despues pasa de C a C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> dade la inclusón de Gm.
+
+Notese que en este caso la Resolución Descepcionate se da sin dominate previo, sino que resulta de que la misma progresión que se repitio 2 veces identica sorpresivamente en vez resolver en Am resuelve en C:
+
+
+<code> 
+&nbsp; i      II  bIII    iv      V   bVI     bVII    i<br />
+&nbsp;Am |   |Bº |C  |   |Dm |   |Em |F  |   |G  |   |Am
+
+&nbsp;            I       ii      iii IV      V       vi      VII I
+&nbsp;           |C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
+
+
+&nbsp;<a href="https://www.cifraclub.com/soda-stereo/cuando-pase-el-temblor/" target="_blank">Cuando Pase El Temblor</a> <a href="https://www.youtube.com/watch?v=36ZIg14V_v0" target="_blank"><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+&nbsp; Am  G  F  Em                        -clave de Am
+&nbsp; Am  G  F  Em
+
+&nbsp; Am  G                   F
+&nbsp;Yo, caminaré entre las piedras
+&nbsp; Em                  C
+&nbsp;Hasta sentir el temblor              -clave de C
+&nbsp;F             C
+&nbsp;  En mis piernas
+&nbsp;<a class="rojo">Gm</a>             C           <a class="rojo">Gm</a>        -clave de C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a>
+&nbsp;   A veces tengo temor (lo sé)
+&nbsp;             D    F   B7
+&nbsp;A veces vergüenza oh, oh
+
+&nbsp;<a class="rojo">Gm</a>: <a class="lnk"  href="/armonia/arm3#prestados">v prestado del modo paralelo menor</a>.
+
+&nbsp;F-B7: Si bien la primera estrofa recomienza despues de B7, en 
+&nbsp;la 2da y 3era repetición funciona como dominate-pivot a la clave
+&nbsp;de Em (puente) y F a su vez asume el papel de <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a> 
+&nbsp;respecto a esa nueva clave con una ortodoxa F-B7-Em identica a la
+&nbsp;<a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo siempre</a> en esa misma clave de Em.
+</code>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Para variaciones más avanzadas de la resolución decepcionante leer las notas a los ejemplos de <a class="lnk"  href="/armonia/arm2#follow" >I'll follow the sun</a>, <a class="lnk"  href="/armonia/arm2#vdevivi" >I Call Your Name</a>, <a class="lnk"  href="/armonia/arm3#htandevery">Here There And Everywhere</a>, <a class="lnk"  href="/armonia/arm3#sheselectric">She's electric</a>, <a class="lnk"  href="/armonia/arm2#daytripper">Day tripper</a> y <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a>.
 
@@ -1690,7 +1823,7 @@ Un ejemplo muy útil es el próximo donde se empieza con la progresión I-V-IV-I
 Con el paso de los 60s a los 70s el sonido del rock mostro una preferencia por los cambios de acorde a <a class="lnk"  href="#fundamentos" >intervalos</a> de quinta ascendente (ver <a class="lnk"  href="#dir-quint" >gráfico de dirección de quintas</a>) que se puede ver en estos ejemplos de I-V-IV-I :
 
 
-La estrofa inicial de <a target="_blank" href="http://www.guitaretab.com/r/rolling-stones/16336.html" >Dead Flowers</a> <a target="_blank" href="https://www.youtube.com/watch?v=8YRdxHHFKvQ"   ><FAIcon icon="fa-solid fa-play"  /></a> (D-A-G-D en clave de D), la estrofa inicial de <a target="_blank" href="http://www.traditionalmusic.co.uk/rock-and-pop-songs-with-chords/Salt_Of_The_Earth.htm" >Salt of the earth</a> <a target="_blank" href="https://www.youtube.com/watch?v=cDN11w1fHNg"   ><FAIcon icon="fa-solid fa-play"  /></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.cifraclub.com.br|Guns-n-roses/knocking-on-heavens-door/" >Knockin on Heaven's Door</a> <a target="_blank" href="https://www.youtube.com/watch?v=zv5R_e0jj7I"   ><FAIcon icon="fa-solid fa-play"  /></a> (G-D-C-G en clave de G), la parte de <a class="lnk"  href="/armonia/arm3#estranged" >Estranged</a> que empieza cuando canta "When I find out all the reasons..." es un B-F#-E-B en clave de B que se repite varias veces incluido un solo de guitarra en el medio, <a target="_blank" href="http://Acordes.lacuerda.net/renga/Blues_de_bolivia-2.shtml" >Blues de Bolivia</a> <a target="_blank" href="https://www.youtube.com/watch?v=osj0djbeyJA"   ><FAIcon icon="fa-solid fa-play"  /></a> (A-E-D-A en clave de A), <a target="_blank" href="http://www.guitaretab.com/l/lynyrd-skynyrd/276611.html" >Sweet home Alabama</a> <a target="_blank" href="https://www.youtube.com/watch?v=IwWUOmk7wO0"   ><FAIcon icon="fa-solid fa-play"  /></a> (G-D-C-G en clave de G), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Acdc/you_shook_me_all_night_long_crd.htm" >You shook me all night long</a> <a target="_blank" href="https://youtu.be/Lo2qQmj0_h4"   ><FAIcon icon="fa-solid fa-play"  /></a> (C-G-D en clave de G) o el estribillo de <a target="_blank" href="http://www.e-chords.com/chords/iggy-pop/candy" >Candy</a> <a target="_blank" href="https://www.youtube.com/watch?v=6bLOjmY--TA"   ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave que la anterior, <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/nowhere-man" >Nowhere man</a> <a target="_blank" href="https://youtu.be/93rSXA8aeG4"   ><FAIcon icon="fa-solid fa-play"  /></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.songsterr.com/A/wsa/specials-youre-wandering-now-chords-s249098" >You're wondering now</a> <a target="_blank" href="https://youtu.be/xEPfSWk0Lsw"   ><FAIcon icon="fa-solid fa-play"  /></a> (A-E-D-A en clave de A), <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/te_tirare_del_altar.shtml" >Te tirare del altar</a> <a target="_blank" href="https://youtu.be/SxrWWxDhUME"   ><FAIcon icon="fa-solid fa-play"  /></a> (C-G-F-C en clave de C) y <a target="_blank" href="http://www.e-chords.com/chords/coldplay/yellow" >Yellow</a> <a target="_blank" href="https://youtu.be/yKNxeF4KMsY"   ><FAIcon icon="fa-solid fa-play"  /></a> (B-F#-E-B en clave de B).
+La estrofa inicial de <a target="_blank" href="http://www.guitaretab.com/r/rolling-stones/16336.html" >Dead Flowers</a> <a target="_blank" href="https://www.youtube.com/watch?v=8YRdxHHFKvQ"   ><FAIcon icon="fa-solid fa-play"  /></a> (D-A-G-D en clave de D), la estrofa inicial de <a target="_blank" href="http://www.traditionalmusic.co.uk/rock-and-pop-songs-with-chords/Salt_Of_The_Earth.htm" >Salt of the earth</a> <a target="_blank" href="https://www.youtube.com/watch?v=cDN11w1fHNg"   ><FAIcon icon="fa-solid fa-play"  /></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.cifraclub.com.br|Guns-n-roses/knocking-on-heavens-door/" >Knockin' on Heaven's Door</a> <a target="_blank" href="https://www.youtube.com/watch?v=zv5R_e0jj7I"   ><FAIcon icon="fa-solid fa-play"  /></a> (G-D-C-G en clave de G), la parte de <a class="lnk"  href="/armonia/arm3#estranged" >Estranged</a> que empieza cuando canta "When I find out all the reasons..." es un B-F#-E-B en clave de B que se repite varias veces incluido un solo de guitarra en el medio, <a target="_blank" href="http://Acordes.lacuerda.net/renga/Blues_de_bolivia-2.shtml" >Blues de Bolivia</a> <a target="_blank" href="https://www.youtube.com/watch?v=osj0djbeyJA"   ><FAIcon icon="fa-solid fa-play"  /></a> (A-E-D-A en clave de A), <a target="_blank" href="http://www.guitaretab.com/l/lynyrd-skynyrd/276611.html" >Sweet home Alabama</a> <a target="_blank" href="https://www.youtube.com/watch?v=IwWUOmk7wO0"   ><FAIcon icon="fa-solid fa-play"  /></a> (G-D-C-G en clave de G), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Acdc/you_shook_me_all_night_long_crd.htm" >You shook me all night long</a> <a target="_blank" href="https://youtu.be/Lo2qQmj0_h4"   ><FAIcon icon="fa-solid fa-play"  /></a> (C-G-D en clave de G) o el estribillo de <a target="_blank" href="http://www.e-chords.com/chords/iggy-pop/candy" >Candy</a> <a target="_blank" href="https://www.youtube.com/watch?v=6bLOjmY--TA"   ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave que la anterior, <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/nowhere-man" >Nowhere man</a> <a target="_blank" href="https://youtu.be/93rSXA8aeG4"   ><FAIcon icon="fa-solid fa-play"  /></a> (E-B-A-E en clave de E), <a target="_blank" href="https://www.songsterr.com/A/wsa/specials-youre-wandering-now-chords-s249098" >You're wondering now</a> <a target="_blank" href="https://youtu.be/xEPfSWk0Lsw"   ><FAIcon icon="fa-solid fa-play"  /></a> (A-E-D-A en clave de A), <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/te_tirare_del_altar.shtml" >Te tirare del altar</a> <a target="_blank" href="https://youtu.be/SxrWWxDhUME"   ><FAIcon icon="fa-solid fa-play"  /></a> (C-G-F-C en clave de C) y <a target="_blank" href="http://www.e-chords.com/chords/coldplay/yellow" >Yellow</a> <a target="_blank" href="https://youtu.be/yKNxeF4KMsY"   ><FAIcon icon="fa-solid fa-play"  /></a> (B-F#-E-B en clave de B).
 
 
 
@@ -2250,7 +2383,7 @@ En este caso la clave tiene cierta <a class="lnk"  href="/armonia/arm2#ambi" >am
 es a lo que más se parece <a class="lnk"  href="#michelledim">el arreglo</a>, en realidad es una versión 
 parcial de <a class="verde">Bº</a> (sin <a class="lnk"  href="#tritono" >trítono</a>!), sobre ello podemos ver más en las siguientes notas adicionales:</p>
 
-
+<a class="anchor" id="michelle+"></a>
 
 <details open>
 

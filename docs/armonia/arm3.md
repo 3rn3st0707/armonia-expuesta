@@ -87,7 +87,7 @@ El intro y estrofa inicial de <a class="lnk"  href="/armonia/arm2#fixing" >Fixin
 
 
 
-&nbsp; <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> en cambio comienza con <a class="lnk"  href="/armonia/arm2#des-min" >la misma progresión</a> en Fm Pero su estrofa empieza en F mayor, más adelante en la canción vuelve a Fm donde sobre la mismo progresión menor que hizo el intro canta "I will say the only words..." para verlo más detalladamente ver <a class="lnk"  href="notasadmichell.htm">notas adiciónales de Michelle</a>.
+&nbsp; <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> en cambio comienza con <a class="lnk"  href="/armonia/arm2#des-min" >la misma progresión</a> en Fm Pero su estrofa empieza en F mayor, más adelante en la canción vuelve a Fm donde sobre la mismo progresión menor que hizo el intro canta "I will say the only words..." para verlo más detalladamente ver <a class="lnk"  href="/armonia/arm1#michelle+">notas adiciónales de Michelle</a>.
 
 
 <a class="anchor" id="picardy"></a>
@@ -584,16 +584,18 @@ IV es el limite teórico para moverse de a cambios de acorde a intervalos de IV 
 
 Pero en realidad es solo el último de una larga cadena de cambios de acorde de ese tipo que va iii-vi-ii-V-I-IV (conocida cómo <a class="lnk"  href="/category/módulos-técnicos#circ-quint" >circulo de quintas</a>) hasta que un cambio de acorde más de ese tipo implicaria salirse de la clave, como podemos ver en <a class="lnk"  href="/category/módulos-técnicos#tuyo" >Tuyo siempre</a>
 
+<a class="anchor" id="otrosnombres"></a>
+
 
 <details open>
 
-  <summary><h2>Otras Denominaciones De Los Prestados</h2></summary>
+  <summary><h2>Otros Nombres De Los Prestados</h2></summary>
 
 Seguramente habran oido hablar de lo que aquí denominamos acordes prestado con otras denominaciones.
 
-Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (iv) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
+Uno de ellos es el de [acordes cuartales](https://www.youtube.com/watch?v=XbJtGNGFhXc) como aparece en el celebre y recomendable articulo [A Flood Of Flat-Sevenths](https://www.researchgate.net/publication/356189519_A_flood_of_flat-sevenths_Or_what_are_all_those_flat-sevenths_doing_in_the_Beatles'_Revolver) dado que se "obtienen" apilando intervalos de IV (cuarta). Un buen ejemplo es justamente <a class="lnk"  href="#fornoone" >For No One</a> dado que si nos movemos de la tónica C un intervalo de IV estamos en el acorde F (IV) y si nos movemos nuevamente un intervalo de IV estamos en el acorde (bVII) Bb que esta fuera de la clave.
 
-Otra forma de "explicar" el acorde "<a class="lnk"  href="#prestados">bVII no diatonico</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde no-diatónico bVII y no <a class="lnk"  href="#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
+Otra forma de "explicar" el acorde "<a class="lnk"  href="#prestados">bVII prestado</a>" es el [modo mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio), pero aquí nos encontramos con la misma limitación que en el caso de la denominación cuartal: Sólo explica el acorde "prestado" bVII y su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> v y no los prestados <a class="lnk"  href="#bvisolo">bVI</a> o el <a class="lnk"  href="/armonia/arm3#biii" >bIII</a>.
 
 Una denominación un poco más abarcativa es la de [acordes cromáticos](https://www.howmusicreallyworks.com/chapter-six-chords-progressions/chromatic-chords-progressions.html) dado que esta se puede explicar a partir de la linea <a href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" target="_blank">cromatica</a> que subyace a la progresión <a class="lnk"  href="#doblep">doble plagal</a> que incluye a bVII, misma linea cromática que se alarga una nota más con la <a class="lnk"  href="#triplep">triple plagal</a> que incluye <a class="lnk"  href="/armonia/arm3#biii" >bIII</a> y se alarga una nota más con la <a class="lnk"  href="#cuadp">cuadruple plagal</a> que incluye <a class="lnk"  href="#bvisolo">bVI</a>.
 
@@ -607,7 +609,7 @@ Pero dado que es la idea que mejor se adapta al espiritu reduccionista de este e
 Como les decia, los acordes prestados son menos intuitivos que los diatónicos por eso debemos tener en cuenta que la clave original de <a class="lnk"  href="#fornoone" >For No One</a> es B y aquí ha sido subido un semitono a la más "guitarristica" clave de C.
 
 
-Si la ubiesemos mantenido en la clave original de B el bVII ubiese sido A y sin ningún bemol en el nombre (que todos los acordes prestados del modo paralelo menor necesariamente sean los que tengan bemoles solo ocurre en C) no hubiese sido tan fácil darse cuenta de su función especifica.
+Si la ubiesemos mantenido en la clave original de B el bVII ubiese sido A y sin ningún bemol en el nombre (que todos los acordes mayores prestados del modo paralelo menor necesariamente sean los que tengan bemoles solo ocurre en C) no hubiese sido tan fácil darse cuenta de su función especifica.
 
 Por eso pasemos a un par de ejemplos que tampóco estan en C y donde nada podría decinos que el bVII es un acorde prestado a menos que tengamos cierto conocimiento previo:
 
@@ -3146,7 +3148,7 @@ Acá vemos cómo la progresión <a class="lnk"  href="#bVI-bVII-I">bVI-bVII-I</a
 
 
 
-La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no funcional, ver <a class="lnk"  href="#nwood" >Norwegian Wood</a> en la misma clave) con la variante <a class="lnk"  href="#mayoresabiii">bVII-V</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> funcional, ver <a class="lnk"  href="#allmyloving" >All My Loving</a> en la misma clave) parecen hacer hacer juego con la esquizofrenia a la que hace referencia el titulo de la canción.
+La confluencia de de las variantes <a class="lnk"  href="#crybabycry">bVII-I</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no funcional, ver <a class="lnk"  href="#nwood" >Norwegian Wood</a> en la misma clave) con la variante <a class="lnk"  href="#mayoresabiii">bVII-V</a> (<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> funcional, ver <a class="lnk"  href="#allmyloving" >All My Loving</a> en la misma clave) parecen hacer juego con la esquizofrenia a la que hace referencia el titulo de la canción.
 
 
 <a class="anchor" id="mustard"></a>
@@ -3623,7 +3625,7 @@ Ahora podemos comparar la notable similitud de la resolución bVII-I aquí (<a c
 &nbsp;My sweet Lady Jane, when I see you again
 &nbsp;             <a class="rojo">C</a>                        G    D 
 &nbsp;your servant am I and will humbly remain
-&nbsp;<a class="magentaDom">E7</a>           Am                              -clave de Am|C 
+&nbsp;<a class="magentaDom">E7</a>           Am                              -clave de Am/C 
 &nbsp;Just heed this plea, my love                  (<a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativas</a>)
 &nbsp;<a class="magentaDom">D7</a>           G
 &nbsp;On bended knees my love
@@ -3857,14 +3859,14 @@ La canción con la que vamos a ejemplificar ya utiliza bVII en la estrofa inicia
 
 &nbsp; A                  D    E
 &nbsp;When I'm walking beside her
-&nbsp;  A                 <a class="rojo">G</a>  D  D|C#
+&nbsp;  A                 <a class="rojo">G</a>  D  D/C#
 &nbsp;People tell me I'm lucky
 &nbsp;  Bm   Bm/A      E7    A
 &nbsp;Yes I know I'm a lucky guy
 
 &nbsp; A              D     E
 &nbsp;I remember the first time
-&nbsp; A               <a class="rojo">G</a>   D   D|C#
+&nbsp; A               <a class="rojo">G</a>   D   D/C#
 &nbsp;I was lonely without her
 &nbsp;  Bm    Bm/A    Bm/G#     A
 &nbsp;Yes I'm thinking about her now
@@ -3919,7 +3921,42 @@ El comienzo de la estrofa de el siguiente ejemplo es otro ejemplo de la influenc
 &nbsp;<span class="rojo">Gm</span>: <a class="lnk" href="/armonia/arm2#ivcrom">iv prestado del modo paralelo</a>
 </code>
 
-La fuente más común de dicho cambio I-bVII es la repetición de la progresión <a class="lnk"  href="#doblep">doble plagal</a>, de la cual pueden ver muchisimos ejemplos en el link. En varios de esos ejemplos de hecho el I-bVII al comienzo es más notorio en terminos de tempo y fraseo que los 2 cambios de <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> a los que hace referencia la etiqueta "doble plagal" por ejemplo:
+<a class="anchor" id="champagne"></a>
+
+La progresión I-bVII-IV-V también tendría hits en los 90s
+
+<code>
+  
+&nbsp; I      ii       iii IV      V       vi     VII  I<br />
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">     i</span>
+ <br /><br />
+&nbsp;|A  |   |Bm |   |C#m|D  |   |E  |   |F#m|   |G#º|A<br />
+&nbsp;<span class="trasluz">|Am |   |Bº |C  |   |Dm |   |Em |F  |   |</span><a class="rojo">G</a><span class="trasluz">  |   |Am</span> 
+<br /><br />
+&nbsp;<a href="https://es.ultimate-guitar.com/tab/oasis/champagne-supernova-chords-6091" target="_blank">Champagne Supernova</a> <a href="https://www.youtube.com/watch?v=tI-5uv4wryI"  target="_blank"><FAIcon icon="fa-solid fa-play"  /></a> <br /><br /> 
+
+
+&nbsp;  A
+&nbsp;Slowly walking down the hall
+&nbsp;  <span class="rojo">G</span>
+&nbsp;Faster than a cannonball
+&nbsp;  D                                   E
+&nbsp;Where were you while we were getting high?
+&nbsp;                   A
+&nbsp;Some day you will find me
+&nbsp;                  <span class="rojo">G</span>
+&nbsp;Caught beneath a landslide
+&nbsp;        D                         E
+&nbsp;In a champagne supernova in the sky
+
+&nbsp;<span class="rojo">G</span>: <a class="lnk" href="#prestados">bVII prestado del modo paralelo</a>
+</code>
+
+La fuente más común de dicho cambio I-bVII es la repetición de la progresión <a class="lnk"  href="#doblep">doble plagal</a>, de la cual pueden ver muchisimos ejemplos en el link. 
+
+La doble plagal es igual a la progresión I-bVII-IV-V que vimos en los dos ejemplos anteriores pero sin el acorde V, lo cual hace que destaque la "resolución plagal" IV-I (una <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> en contraposición a la <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta descendente</a> V-I)
+
+Sin en varios de esos ejemplos de hecho el I-bVII al comienzo es más notorio en terminos de tempo y fraseo que los 2 cambios de <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> a los que hace referencia la etiqueta "doble plagal" por ejemplo:
 
 En clave de Db (Db-<span class="rojo">B</span>):
  <ul>
@@ -3969,8 +4006,57 @@ En clave de B (B-<span class="rojo">A</span>):
  </ul>
 
 
+<a class="anchor" id="norain"></a>
 
-De todas formas, hay muchos más ejemplos que sin ser estrictamente <a class="lnk"  href="#doblep">doble plagales</a> (aunque la mayoria de los que voy a citar siguen siendo una variación de la misma) utilizan notoriamente la progresión I-bVII en un estilo muy similar. Los ejemplos:
+De todas formas, hay muchos más ejemplos que sin ser estrictamente <a class="lnk"  href="#doblep">doble plagales</a> son variaciones de la misma como por ejemplo esta canción que comienza su estrofa con un iconico I-bVII (E-D en clave de E) y que seria una doble plagal si no se atravezara G (bIII) como un rápido acorde de paso entre A y E:
+
+
+<code>
+
+&nbsp; I      ii       iii IV      V       vi     VII  I
+&nbsp; <span class="trasluz">i      ii</span>  <span class="rojo">bIII</span>     <span class="trasluz">iv      v</span>   <span class="rojo">bVI</span>    <span class="rojo">bVII</span>     <span class="trasluz">i</span>
+ 
+&nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
+&nbsp;<span class="trasluz">|Em |   |F#º|</span><span class="rojo">G</span><span class="trasluz">  |   |Am |   |Bm |</span><span class="rojo">C</span><span class="trasluz">  |   |</span><span class="rojo">D</span><span class="trasluz">  |   |Em</span>
+
+
+&nbsp;<a target="_blank" href="https://www.cifraclub.com/blind-melon/no-rain/#google_vignette" >No Rain</a> <a target="_blank" href="https://www.youtube.com/watch?v=3qVPNONdF58&pp=0gcJCdgAo7VqN5tD"  ><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+&nbsp;E
+&nbsp;All I can say is that my
+&nbsp;<span class="rojo">D</span>
+&nbsp;Life is pretty plain
+&nbsp;  A                         <span class="rojo">G</span>       E
+&nbsp;I like watching the puddles gather rain
+&nbsp;    E
+&nbsp;And all I can do is just
+&nbsp; <span class="rojo">D</span>
+&nbsp;Pour some tea for two
+&nbsp;     A
+&nbsp;And speak my point of view
+&nbsp;     <span class="rojo">G</span>        E
+&nbsp;But it's not sane
+&nbsp; E
+&nbsp;It's not sane
+
+&nbsp;E           <span class="rojo">D</span>          E          <span class="rojo">D</span>
+&nbsp;I just want someone to say to me, no oh oh oh
+&nbsp;E           <span class="rojo">D</span>                 E        <span class="rojo">D</span>
+&nbsp;I'll always be there when you wake      yeah
+&nbsp;E                    <span class="rojo">D</span>              E         <span class="rojo">D</span>
+&nbsp;You know I'd like to keep my cheeks dry today
+&nbsp;E            <span class="rojo">D</span>                   E
+&nbsp;So stay with me and I'll have it made (I'll have it made)
+
+&nbsp;<span class="rojo">D</span>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
+&nbsp;<span class="rojo">G</span>: <a class="lnk"  href="#biii">bIII prestado del modo paralelo menor</a>
+
+</code>
+
+
+
+Más casos que sin ser ni doble plagal o una I-bVII-IV-V utilizan la progresión I-bVII :
  
 
 
@@ -4027,6 +4113,8 @@ Así mismo en el proximo caso en clave de E usa el cambio I-bVII (E-<span class=
 <a class="anchor" id="littlewing"></a>
 Mientras que el ejemplo anterior utiliza I-bVII dentro del contexto de ambiguedad entre I y ii (E y F#m) el proximo ejemplo lo usa inmediatamente despues de haber modulado de la clave de Em a su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave Relativa Mayor</a> de G:
 
+
+<br /><br />
 
 <code>
 &nbsp; i       ii  bIII    iv      v   bVI     bVI    i<br />
@@ -5066,7 +5154,7 @@ Ahora pasemos a ver un ejemplo un poco más complejo:
 &nbsp;<a class="rojo">Eb</a>: <a class="lnk"  href="#biii">bIII prestado del modo paralelo</a>
 </code>
 
-Aca la refuncionalización del <a class="lnk"  href="#prestados">bVII</a> de C (<a class="rojo">Bb</a>) como IV de F con el cambio de claves entre estrofa y estribillo es fácil de ver, el truco del puente, sin embargo, es considerablemente más complejo.
+Aca la refuncionalización de <a class="rojo">Bb</a> (<a class="lnk"  href="#prestados">bVII</a> de C) como IV de F con el cambio de claves entre estrofa y estribillo es fácil de ver, el truco del puente, sin embargo, es considerablemente más complejo.
 
 
 
@@ -5596,7 +5684,7 @@ Pueden testear dicho <a class="lnk"  href="/category/módulos-técnicos#tritono"
 
 
 
-Para ejemplificar su uso vamos a ver una canción que justamente hace evidente uso de la progresión I-bVII en clave de E (E-G):
+Para ejemplificar su uso vamos a ver una canción que justamente hace evidente uso de la progresión I-bIII en clave de E (E-G):
 
 <code>
 
@@ -5861,7 +5949,7 @@ Especialmente interésante es <a class="lnk"  href="/armonia/arm2#helter" >Helte
 ## Al Estilo del Rock ¿acordes "5" o tríadas?
 
 
-Debido a que la mayor parte de este módulo versa sobre acordes <a class="lnk"  href="#prestados">prestados del modo paralelo</a> y a que dichos acordes se tocan usualmente en guitarra y en el género rock cómo acordes "5", (acordes de 2 notas, I y V, por lo que al carecer de tercera se dice que no son ni <a href="/category/módulos-técnicos#aco7"  class="lnk">mayores</a> ni <a href="/category/módulos-técnicos#aco7"  class="lnk">menores</a>, en parte porque las terceras tienden a saturar la distorición) es muy común que se objete si está teoría de los <a class="lnk"  href="#prestados">prestados</a> es tan exacta. 
+Debido a que la mayor parte de este módulo versa sobre acordes <a class="lnk"  href="#prestados">prestados del modo paralelo</a> y a que dichos acordes se tocan usualmente en guitarra y en el género rock cómo acordes "5", (acordes de 2 notas, I y V, por lo que al carecer de tercera se dice que no son ni <a href="/category/módulos-técnicos#aco7"  class="lnk">mayores</a> ni <a href="/category/módulos-técnicos#aco7"  class="lnk">menores</a>, en parte porque las terceras tienden a saturar la distorisión) es muy común que se objete si está teoría de los <a class="lnk"  href="#prestados">prestados</a> es tan exacta. 
 
 
 
@@ -5916,7 +6004,7 @@ Para corroborarlo vamos a poner por ejemplo una canción que en la transcripció
 
 
 
-Ahora bien, el origen de cada acorde esta debidamente explicado en el gráfico, ahora, pero si por el hecho de que está tocado con acordes tipo 5 decidieramos excluir las terceras de cada acorde o más bien poner la tercera inversa (mayores donde yo puse menores y menores donde yo puse mayores) la progresión nos quedaria Em G#m7 B Am Cm Dm Bm Dm, pruevenla y diganme cómo suena ahora? 
+Ahora bien, el origen de cada acorde esta debidamente explicado en el gráfico, ahora, pero si por el hecho de que está tocado con acordes tipo 5 decidieramos excluir las terceras de cada acorde o más bien poner la tercera inversa (mayores donde yo puse menores y menores donde yo puse mayores) la progresión nos quedaria Em G#m7 B Am Cm Dm Bm Dm, pruebenla y diganme cómo suena ahora? 
 
 
 
