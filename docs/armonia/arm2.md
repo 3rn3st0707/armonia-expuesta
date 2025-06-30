@@ -2401,7 +2401,7 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 </code>
 
 
-La progresión i-bIII-VdebVII volveria a apareceren los 90s cómo la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_queen_ver3_tab.htm" >Rocket Queen</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><FAIcon icon="fa-solid fa-play"  /></a> de la misma banda y en la misma clave también incluye dicha progresión pero cómo parte de progresiones más largas, tanto en la estrofa cómo en el estribillo.
+La progresión i-bIII-VdebVII volveria a apareceren los 90s cómo la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_queen_ver3_tab.htm" >Rocket Queen</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><FAIcon icon="fa-solid fa-play"  /></a> ambas de la misma banda.
 
 <a class="anchor" id="one"></a>
 
@@ -2441,7 +2441,7 @@ Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
 </code>
 
 
-<a class="anchor" id="demásiada"></a>
+<a class="anchor" id="demasiada"></a>
 
 De todas formas el hecho de que hasta en canciones en clave menor predomine cómo dominante secundario el <a class="lnk"  href="#dom-sec" >VdeV</a> de su relativo mayor, no implica que las canciones en clave menor no usen su propio VdeV:
 
@@ -2451,7 +2451,7 @@ i       II  bIII    iv      V   bVI     bVII    i
 Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am        
 
 
-&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/demásiada_presión-3.shtml" >Demásiada Presión</a> <a target="_blank" href="https://youtu.be/s3SO1j06oSA"  ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/demasiada_presión-3.shtml" >Demasiada Presión</a> <a target="_blank" href="https://youtu.be/s3SO1j06oSA"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;Am

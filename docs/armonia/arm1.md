@@ -234,7 +234,7 @@ Realmente la escala construida de esta manera no llegaba a coincidir exactamente
 
 <p>
 
-está afinación es la que predomino en la <a href="https://es.wikipedia.org/wiki/Alta_Edad_Media" target="_blank">primera edad media</a> pero no supuso un problema debido al estilo <a href="https://es.wikipedia.org/wiki/Monofon%C3%ADa" target="_blank">monofonico</a> predominante en la época.
+Está afinación es la que predomino en la <a href="https://es.wikipedia.org/wiki/Alta_Edad_Media" target="_blank">primera edad media</a> pero no supuso un problema debido al estilo <a href="https://es.wikipedia.org/wiki/Monofon%C3%ADa" target="_blank">monofonico</a> predominante en la época.
 
 
 </p>
@@ -261,7 +261,7 @@ Sin embargo la misma polifonía trajo como concecuencia la música tonal, cuyas 
 
 <p>
 
-está claro que con cualquiera de las afinaciones mencionadas antes, no se ubiese podido cambiar de clave sin que alguna de ellas involucradas sonara desafinada, el primer intento para sortear este obstaculo fue la <a href="https://es.wikipedia.org/wiki/Temperamento_mesot%C3%B3nico" target="_blank">afinación mesotónica</a> que modificaba o "temperaba" (de ahi que a los tipos de afinaciones también se los llame "temperamentos") los <a class="lnk"  href="#fundamentos" >intervalos</a> de la escala con lo cual se logro modular entre algunas claves sin que se perciviera una desafinación en las mismas.
+Está claro que con cualquiera de las afinaciones mencionadas antes, no se ubiese podido cambiar de clave sin que alguna de ellas involucradas sonara desafinada, el primer intento para sortear este obstaculo fue la <a href="https://es.wikipedia.org/wiki/Temperamento_mesot%C3%B3nico" target="_blank">afinación mesotónica</a> que modificaba o "temperaba" (de ahi que a los tipos de afinaciones también se los llame "temperamentos") los <a class="lnk"  href="#fundamentos" >intervalos</a> de la escala con lo cual se logro modular entre algunas claves sin que se perciviera una desafinación en las mismas.
 
 </p>
 
@@ -1090,7 +1090,7 @@ Podemos ver un uso similar de la progresión <a class="lnk"  href="#sen-ton" >ii
 
 
 
-Por otro lado este truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, los Cadillacs también lo usaron en el estribillo de <a class="lnk"  href="/armonia/arm2#demásiada" >Demásiada Presión</a> cómo podemos ver con el link. 
+Por otro lado este truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, los Cadillacs también lo usaron en el estribillo de <a class="lnk"  href="/armonia/arm2#demasiada" >demasiada Presión</a> cómo podemos ver con el link. 
 
 <a class="anchor" id="todas-sept"></a>
 
@@ -1694,9 +1694,9 @@ El próximo ejemplo también incluye un F#-D justo entre estrofa y estribillo pe
 
 <a class="anchor" id="temblor"></a>
 
-La misma banda en su Album anterior incluía un hit que ademas de una Resolución Descepcionante inversa (es decir desde una clave menor Am hacia su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa mayor</a> C) 2 acordes despues pasa de C a C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> dade la inclusón de Gm.
+La misma banda en su Album anterior incluía un hit que ademas de una Resolución Descepcionante inversa (es decir desde una clave menor Am hacia su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa mayor</a> C) 2 acordes despues pasa de C a C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> dada la inclusón de <a class="rojo">Gm</a>.
 
-Notese que en este caso la Resolución Descepcionate se da sin dominate previo, sino que resulta de que la misma progresión que se repitio 2 veces identica sorpresivamente en vez resolver en Am resuelve en C:
+Notese que en este caso la Resolución Descepcionante se da sin dominan  te previo, sino que resulta de que la misma progresión que se repitio 2 veces identica sorpresivamente en vez resolver en Am resuelve en C:
 
 
 <code> 
@@ -1721,16 +1721,17 @@ Notese que en este caso la Resolución Descepcionate se da sin dominate previo, 
 &nbsp;  En mis piernas
 &nbsp;<a class="rojo">Gm</a>             C           <a class="rojo">Gm</a>        -clave de C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a>
 &nbsp;   A veces tengo temor (lo sé)
-&nbsp;             D    F   B7
+&nbsp;             <a class="magentaDom">D</a>    F   B7
 &nbsp;A veces vergüenza oh, oh
 
 &nbsp;<a class="rojo">Gm</a>: <a class="lnk"  href="/armonia/arm3#prestados">v prestado del modo paralelo menor</a>.
+&nbsp;<a class="magentaDom">D</a>:<a class="lnk"  href="/armonia/arm2#colgado" >VdeV no-funcional</a>
 
 &nbsp;F-B7: Si bien la primera estrofa recomienza despues de B7, en 
 &nbsp;la 2da y 3era repetición funciona como dominate-pivot a la clave
 &nbsp;de Em (puente) y F a su vez asume el papel de <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a> 
-&nbsp;respecto a esa nueva clave con una ortodoxa F-B7-Em identica a la
-&nbsp;<a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo siempre</a> en esa misma clave de Em.
+&nbsp;respecto a esa nueva clave con una ortodoxa F-B7-Em identica a
+&nbsp;la que se da en <a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo siempre</a> en esa misma clave de Em.
 </code>
 
 

@@ -154,7 +154,7 @@ Los motivos por los cuales en la práctica concreta de la música occidental han
 
 
 
-Una importante diferencia en la práctica es que mientras un músico inclinado al enfoque modal interpretaría las notas ajenas a la Clave Mayor como que dicha obra esta en un modo diferente al Jónico, otro músico con un enfoque más Tonal buscaría ciertas relaciones reduccionistas para para explicar esas "alteraciones" sobre todo cuando dichas alteraciones provengan de acordes.  
+Una importante diferencia en la práctica es que mientras un músico inclinado al enfoque modal interpretaría las notas ajenas a la Clave Mayor como que dicha obra esta en un modo diferente al Jónico, otro músico con un enfoque más Tonal buscaría ciertas relaciones reduccionistas para explicar esas "alteraciones" sobre todo cuando dichas alteraciones provengan de acordes.  
 
 
 Así por ejemplo un músico inclinado al enfoque modal podría decir que tal conción esta en el [modo Mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio) mientras que el del enfoque más tonal en cambio diría que incluye un <a class="lnk"  href="/armonia/arm3#prestados">acorde bVII prestado del modo paralelo menor</a> (y ambos tendrian razón).
@@ -308,7 +308,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
 <a class="lnk"  href="/category/arm3#dear1" >Dear Prudence 1</a><br />
 <a class="lnk"  href="/category/arm2#dear2" >Dear Prudence 2</a><br />
-<a class="lnk"  href="/armonia/arm2#demásiada" >Demásiada Presión</a><br />
+<a class="lnk"  href="/armonia/arm2#demasiada" >demasiada Presión</a><br />
 <a class="lnk"  href="/armonia/arm3#digapony" >Dig A Pony</a><br />
 <a class="lnk"  href="/armonia/arm3#divididos" >Divididos Por La Felicidad</a><br />
 <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a><br />
@@ -451,22 +451,23 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#terecuerdoamanda" >Te recuerdo Amanda</a><br />
 <a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> <br />
 <a class="lnk"  href="/armonia/arm3#theend" >The End</a><br />
-<a class="lnk"  href="/armonia/arm3#thenightbefore">The night before</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#tension" >The Shoop shoop song</a><br />
+<a class="lnk"  href="/armonia/arm3#look">The Look</a><br />
+<a class="lnk"  href="/armonia/arm3#thenightbefore">The Night Before</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#tension" >The Shoop Shoop Song</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >The Way</a><br />
-<a class="lnk"  href="/armonia/arm3#thingswe">Things we said today</a><br />
+<a class="lnk"  href="/armonia/arm3#thingswe">Things We Said Today</a><br />
 <a class="lnk"  href="/armonia/arm2#domiv" >This Boy</a><br />
 <a class="lnk"  href="/armonia/arm3#thunderstruck" >Thunderstruck</a><br /> 
-<a class="lnk"  href="/armonia/arm3#ticket" >Ticket to ride</a><br />
-<a class="lnk"  href="/armonia/arm3#tomorrownever" >Tomorrow never knows</a><br />
+<a class="lnk"  href="/armonia/arm3#ticket" >Ticket To Ride</a><br />
+<a class="lnk"  href="/armonia/arm3#tomorrownever" >Tomorrow Never Knows</a><br />
 <a class="lnk"  href="/armonia/arm3#suavemente" >Tratame Suavemente</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo siempre</a><br />
-<a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a><br />
-<a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny bop</a><br />
-<a class="lnk"  href="/armonia/arm3#walklike">Walk like an egyptian</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo Siempre</a><br />
+<a class="lnk"  href="/armonia/arm3#underthe" >Under The Bridge</a><br />
+<a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny Bop</a><br />
+<a class="lnk"  href="/armonia/arm3#walklike">Walk Like An Egyptian</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#wecan">We can work it out</a><br />
 <a class="lnk"  href="/armonia/arm3#wonderfulworld" >What a wonderful world</a><br />
-<a class="lnk"  href="/armonia/arm3#gethome" >When I get home</a><br />
+<a class="lnk"  href="/armonia/arm3#gethome" >When I Get Home</a><br />
 <a class="lnk"  href="/armonia/arm3#doblefriends" >With a little help from my friends</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi" >Yesterday 1</a><br />
 <a class="lnk"  href="/armonia/arm2#yestedayplagal" >Yesterday 2</a><br />

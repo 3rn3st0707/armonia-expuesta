@@ -377,7 +377,7 @@ Si la nota más grave es la que corresponde a un acorde menor se lo considera un
 
 Y de hecho la raíz es un tema importante en el arreglo de <a class="lnk"  href="#htandevery">Here There And Everywhere</a> dado que para tocar correctamente estos patrones rítmicos que describo es muy importante marcar una definida <a class="lnk"  href="/category/módulos-técnicos#líneadebajo" >línea de bajo</a> cómo se explica en ese link.
 
-<a class="anchor" id="black"  ><FAIcon icon="fa-solid fa-play"  /></a>
+<a class="anchor" id="black"  ></a>
 
 
 Ahora pasemos de la complejidad extrema de Here There And Everywhere a un ejemplo muy simple, pero que sin embargo evita el "dominante común" de las claves paralelas y aprovecha el efecto dramatico del "choque" disonante entre E y C (bVI natural de Em).
@@ -1452,6 +1452,39 @@ Ahora veremos más "doble plagales" en otras claves:
 &nbsp;Es La Vida que me alcanza
 
 &nbsp;<a class="rojo">G</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo menor</a>
+
+<br />
+<a class="anchor" id="look"></a>
+
+&nbsp;<a target="_blank" href="https://www.cifraclub.com/roxette/the-look/" >The Look</a> <a target="_blank" href=""><FAIcon icon="fa-solid fa-play"  /></a>
+
+
+&nbsp; A
+&nbsp;Walking like a man, hitting like a hammer
+&nbsp;  <a class="rojo">G</a>
+&nbsp;She's a juvenile scam. Never was a quitter
+&nbsp; D                                     A
+&nbsp;Tasty like a raindrop, she's got the look
+&nbsp;  A
+&nbsp;Heavenly bound cause heaven's got a number
+&nbsp;  <a class="rojo">G</a>
+&nbsp;When she's spinning me around, kissing is a colour
+&nbsp; D                                        A
+&nbsp;Her loving is a wild dog, she's got the look
+
+&nbsp;               A
+&nbsp;She's got the look. She's got the look
+&nbsp;  <a class="rojo">C</a>                            <a class="rojo">G</a>                    A
+&nbsp;What in the world can make a brown-eyed girl turn blue
+&nbsp;  <a class="rojo">C</a>                        <a class="rojo">G</a>              A
+&nbsp;When everything I'll ever do I'll do for you
+&nbsp;           <a class="rojo">F</a>           <a class="rojo">G</a>                A       <- <a class='lnk'  href="#bVI-bVII-I">bVI-bVII-I</a>
+&nbsp;And I go: la la la la la she's got the look
+
+&nbsp;<a class="rojo">G</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo</a>
+&nbsp;<a class="rojo">C</a>: <a class="lnk"  href="#biii">bIII prestado del modo paralelo</a>
+&nbsp;<a class="rojo">F</a>: <a class="lnk"  href="#bvisolo">bVI prestado del modo paralelo</a> 
+
 
 
 &nbsp;<a class="anchor" id="flyaway"></a>
@@ -2546,9 +2579,9 @@ Está secuencia de Break It All que es descendente y <a target="_blank" href="ht
 &nbsp;E6: 022120
 &nbsp;<a class="magentaDom">B7</a>: <a class="lnk"  href="#runaway" >V común entre paralelas</a>.
 &nbsp;<a class="magentaDom">F#7</a>: <a class="lnk"  href="/armonia/arm2#dom-sec" >VdeV</a>
-&nbsp;<a class="magentaDom">F#7-B7</a>: <a class="lnk"  href="/armonia/arm2#paintitblack" >turnaround en clave menor</a>
+&nbsp;<a class="magentaDom">F#7-B7</a>: <a class="lnk"  href="/armonia/arm2#demasiada" >turnaround en clave menor</a>
 &nbsp;<span class="rojo">G</span>: <a class="lnk"  href="#biii" >bIII prestado</a> de E
-&nbsp;<span class="rojo">F</span>: <a class="lnk"  href="#prestados" >bVII prestado</a> de G. 
+&nbsp;<span class="rojo">F</span>: <a class="lnk"  href="#napolitanos">Napolitáno</a> de E y Em y <a class="lnk"  href="#prestados" >bVII prestado</a> de G. 
 </code>
 
 
@@ -2558,7 +2591,7 @@ Podemos ver un antecedente a está progresión <a target="_blank" href="https://
 
 
 
-El puente de <a class="lnk"  href="#breakexp" >Break It All</a> consiste en una nueva (diferente) y más prolongada <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> (sobre ".. if you're alone and nobody..") también a G que a su vez vuelve a otra nueva (y diferente) modulación a Em cuya resolución turnaround VdeV-V (F#7-B7) podemos ver explicada al pie de <a class="lnk"  href="/armonia/arm2#demásiada" >este ejemplo</a>, tras lo cual (esa parte termina convenientemente en B7) vuelve a la secuencia inicial es E mayor.
+El puente de <a class="lnk"  href="#breakexp" >Break It All</a> consiste en una nueva (diferente) y más prolongada <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> (sobre ".. if you're alone and nobody..") también a G que a su vez vuelve a otra nueva (y diferente) modulación a Em cuya resolución turnaround VdeV-V (F#7-B7) podemos ver explicada al pie de <a class="lnk"  href="/armonia/arm2#demasiada" >este ejemplo</a>, tras lo cual (esa parte termina convenientemente en B7) vuelve a la secuencia inicial es E mayor.
 
 
 
@@ -5012,15 +5045,11 @@ El uso de un acorde de paso entre <a class="lnk"  href="#bvisolo">bVI</a> y <a c
 
 Antes que nada aclaro que no se debe confundir esto con la refuncionalización de <a class="lnk"  href="#prestados">bVII</a> como <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a> en la modulación entre <a class="lnk"  href="#rel-par">claves mayores a un intervalo de bIII</a>
 
+En los ejemplos de <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a> y <a class="lnk"  href="/armonia/arm2#eternalflame">Eternal Flame</a> habíamos visto que si estamos en clave G el acorde F (no natural de la clave de G) se podia considerar <a class="lnk"  href="#prestados">bVII prestado del modo paralelo</a>.
 
+Siendo este un acorde no natural de la clave tiende a generar disonancias con los otros acordes y a "buscar" un contexto tonal donde resulte más estable.
 
-En los ejemplos de <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a> y <a class="lnk"  href="/armonia/arm2#eternalflame">Eternal Flame</a> habíamos visto que si estamos en clave G el acorde F (no natural de la clave de G) se podia considerar <a class="lnk"  href="#prestados">bVII prestado del modo paralelo</a>, pero como en esos caso también se daba una modulación a la clave de C, el acorde F podia ser también considerado IV de C en el <a class="lnk"  href="/armonia/arm2#ambi">contexto ambiguo</a> de las modulaciones entre ambas claves.
-
-
-
-Así mismo también habíamos visto en ambos casos que el <a class="lnk" target="" href="/category/módulos-técnicos#aco-rel">acorde relativo menor</a> de F ósea Dm es alternativamente V menor (prestado) en G y ii en clave de C, algo que también queda claro en <a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I want to hold your hand</a> que también modula de G a C.
-
-
+Esto ocurre cuando ambas canciones modulan a la clave de C donde mismo acorde se vuelve totalmente consonante y natural como IV de la nueva clave.  
 
 Lo que vamos a ver ahora son un par de canciones que utilizan <a class="lnk"  href="#prestados">bVII</a> en una clave y al modular a su grado IV ese acorde se vuelve a su vez IV de la nueva clave:
 
