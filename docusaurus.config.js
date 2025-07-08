@@ -27,8 +27,12 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'es',
-    locales: ['es'],
+    defaultLocale: 'es', // Spanish as the default
+    locales: ['es', 'en'], // Add English
+    localeConfigs: {
+      es: { label: 'Español' },
+      en: { label: 'English' },
+    },
   },
 
  
@@ -70,10 +74,6 @@ const config = {
           routeBasePath: '/'
         },
 
-        gtag: {
-          trackingID: 'G-Q6BH1X6PMH',
-          anonymizeIP: true,
-        },
 
         blog: {
           showReadingTime: false,
