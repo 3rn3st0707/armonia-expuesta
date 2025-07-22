@@ -6,7 +6,7 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
-
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 html {
   background-image: url('/img/guitar&amp.jpg');
@@ -431,19 +431,21 @@ html[data-theme='dark'] .table-of-contents a {
 
 
 html[data-theme='dark'] .table-of-contents a:hover {
-color: greenyellow  ;
+text-shadow: 1px 1px #33ffff;
 }
 
 
+
+
 html[data-theme='dark'] .cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module p {
-  color: rgb(203, 255, 125);  
+  color: #99fde4;  
 }
 
 
 
 html[data-theme='dark'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
   background-color: #232930;
-  color: rgb(203, 255, 125);
+  color: #99fde4;
   opacity: .8;
   border: solid;
   border-color: black;
@@ -464,7 +466,7 @@ html[data-theme='dark'] #__docusaurus_skipToContent_fallback > div > div > main 
 
 html[data-theme='dark'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div a
 {
-  color: rgb(203, 255, 125);
+  color: #99fde4;
 }
 
 html[data-theme='dark'] article {
@@ -491,17 +493,17 @@ html[data-theme='dark'] details a:hover {
 
 
 html[data-theme='dark'] .navbar__items a {
-  color: rgb(203, 255, 125);  
+  color: #99fde4;  
 }
 
 
 html[data-theme='dark'] .navbar__items a:hover {
-  color: greenyellow;
+  text-shadow: 1px 1px #33ffff;
 }
 
 
 html[data-theme='dark'] nav a:hover {
-  color: greenyellow;
+  text-shadow: 1px 1px #33ffff;
 }
 
 html[data-theme='dark'] nav a {
@@ -541,56 +543,59 @@ html[data-theme='dark'] div.col.col--3 {
 }
 
 html[data-theme='dark'] div.col.col--3 a {
-  color: rgb(203, 255, 125);
+  color: #99fde4;
 }
 
 html[data-theme='dark'] .table-of-contents__link--active {
-  color: greenyellow !important;
+  text-shadow: 1px 1px #33ffff !important;
 }
 
 html[data-theme='dark'] nav a {
-  color: rgb(203, 255, 125);
+  color: #99fde4;
 }
 
 
 html[data-theme='dark'] a:hover {
-  opacity: 1;
+    text-shadow: 1px 1px #2ed2d8;
 }
 
 html[data-theme='dark'] a {
-  color: #99fde4;
+  color: #93bacf;
   opacity: .8;
 }
 
 html[data-theme='dark'] .pagination-nav__label {
-  color: greenyellow;
+    text-shadow: 1px 1px #33ffff;
 }
 
 html[data-theme='dark'] .menu__link {
-  color: rgb(203, 255, 125); 
+  color: #99fde4; 
   opacity: .8;
 }
 
 html[data-theme='dark'] .menu__link--active {
-  color: greenyellow;
+  text-shadow: 1px 1px #33ffff;
 }
 
 html[data-theme='dark'] .lnk {
-  color: rgb(203, 255, 125);
-  opacity: 1;
+  color: #99fde4;
 }
+
+
 
 html[data-theme='dark'] .lnk:hover {
-  opacity: .9;
+    text-shadow: 1px 1px #33ffff;
 }
 
-html[data-theme='dark'] h1, h2, h4 {
-  color: rgb(203, 255, 125);   
+html[data-theme='dark'] h1, h2, h3, h4, h5 {
+  color: #99fde4;   
   font-family: 'Merriweather', serif;
 }
 
+
+
 html[data-theme='dark'] h3 {
-  color: rgb(203, 255, 125); 
+  color: #33ffff; 
   margin-left: auto;
   margin-right: auto;
   font-family: 'Merriweather', serif;
@@ -655,7 +660,7 @@ html[data-theme='light'] h3 {
 }
 
 html[data-theme='light'] .table-of-contents__link--active {
-  color: #7a5c4a !important; /* Warm taupe for active TOC links */
+  color: #7a5c4a  !important; /* Warm taupe for active TOC links */
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a {
@@ -814,7 +819,6 @@ html[data-theme='light'] aside .menu {
 
 html[data-theme='light'] .pagination-nav__link {
   background-color: #fff0ec; /* Light salmon for pagination */
-  opacity: .9;
   color: #7a5c4a !important; /* Taupe for link text */
 }
 
@@ -878,23 +882,16 @@ a.anchor {
 /*       Estilos de "Armonia Expuesta"        */
 
 
-html[data-theme='dark'] rojo {
-  color: rgb(221, 80, 151) !important;
 
-}
 
-html[data-theme='dark'] a .rojo {
-  color: rgb(221, 80, 151) !important;
-
-}
 
 html[data-theme='dark'] .rojo {
-  color: rgb(221, 80, 151) !important;
+  color: rgb(255, 121, 198) !important;
 
 }
 
 html[data-theme='dark']  a .rojo {
-  color: rgb(221, 80, 151) !important;
+  color: rgb(255, 121, 198) !important;
 
 }
 
@@ -1138,11 +1135,7 @@ html[data-theme='light'] a .naranja2 {
 
 /* Visible state for fn-match divs */
 .fn-match.visible {
-  display: block;
-  background-color: #2a2f3a; /* Optional: Background for visibility */
-  padding: 8px;
-  margin-top: 8px;
-  border-radius: 4px;
+
   color: #ffffff; /* White text for contrast */
   font-size: 14px;
 }
@@ -1150,4 +1143,41 @@ html[data-theme='light'] a .naranja2 {
 /* Ensure fn-match divs appear below the highlighted text */
 .fn-match {
   width: fit-content;
+}
+
+
+/* ------------------------------------ */
+
+
+/*   reset button     */
+
+
+/* Wrapper for textarea and reset button */
+.textarea-container {
+  position: relative;
+  display: inline-block; /* Keeps container size to textarea */
+}
+
+/* Style reset button to match key buttons */
+.reset-button {
+  position: absolute;
+  top: 4px; /* Small offset from top */
+  right: 1px; /* Small offset from right */
+  background: #232930;; /* Example: matches typical Docusaurus button color */
+  color: white; /* Matches key buttons */
+  border: solid;
+  border-color: #00060a;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 6px 10px; /* Smaller padding for compact size */
+  cursor: pointer;
+  font-size: 100%;
+}
+
+
+
+/* Ensure textarea isn't overlapped */
+.textarea-container textarea {
+  width: 100%; /* Maintain full width */
+  box-sizing: border-box; /* Include padding/border in width */
 }

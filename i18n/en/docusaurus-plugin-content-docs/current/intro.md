@@ -123,7 +123,7 @@ Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alf
 ## Reduccionismo Tonal Vs Armonía Modal
 
 
-Como muchos de ustedes ya sabran la <a class="lnk"  href="/category/módulos-técnicos#laclave">escala diatónica</a> consta de 7 notas distribuidas en una octaba, que es por definición, circular. 
+Como muchos de ustedes ya sabran la <a class="lnk"  href="/category/módulos-técnicos#laclave">escala diatónica</a> consta de 7 notas disribuidas en una octaba, que es por definición, circular. 
 
 Y también sabrań que si tomamos como tónica (comienzo) a cada una de esas notas obtendremos los siete modos en los que se basa la [armonía modal](https://www.cresciente.net/wp-content/uploads/2020/06/Introduccion-a-la-Armonia-Modal.pdf).
 
@@ -420,7 +420,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#paintitblack" >Paint it black</a><br />
 <a class="lnk"  href="/armonia/arm3#paisefilhos">Pais e filhos</a><br />
 <a class="lnk"  href="/armonia/arm3#paradisecity" >Paradise City 1</a><br /> 
-<a class="lnk"  href="/category/módulos-técnicos#pasosalcostado" >Pasos Al Costado</a><br />
+<a class="lnk"  href="/armonia/arm3#paradisecity2" >Paradise City 2</a><br />
 <a class="lnk"  href="/armonia/arm2#pennylane" >Penny Lane</a><br />
 <a class="lnk"  href="/armonia/arm3#pleasedontgo" >Please Don't Go</a><br />
 <a class="lnk"  href="/armonia/arm3#plush" >Plush</a><br />  
@@ -466,7 +466,6 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny Bop</a><br />
 <a class="lnk"  href="/armonia/arm3#walklike">Walk Like An Egyptian</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#wecan">We can work it out</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#wearethechampions" >We Are The Champions</a><br />
 <a class="lnk"  href="/armonia/arm3#wonderfulworld" >What a wonderful world</a><br />
 <a class="lnk"  href="/armonia/arm3#gethome" >When I Get Home</a><br />
 <a class="lnk"  href="/armonia/arm3#doblefriends" >With a little help from my friends</a><br />

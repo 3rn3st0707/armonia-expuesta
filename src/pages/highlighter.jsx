@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import styles from './TablatureHighlighter.module.css'; // CSS module for scoped styles
+import styles from './TextHighlighter.module.css'; // CSS module for scoped styles
 import Layout from '@theme/Layout'; // Docusaurus Layout component for page structure
 
 // Chord and function data (unchanged from your script)

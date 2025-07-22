@@ -115,23 +115,31 @@ const config = {
         title: 'Armonia Expuesta',
 
 
-          /*
+
 
         items: [
+
+
+                  /*
           {
             type: 'doc',
             docId: 'intro',
             position: 'right',
-            label: 'Intro Ebooks',
+            label: 'Chord',
           },
 
           {to: '/textos/guerra', label: 'Más Textos', position: 'right'},
-          {to: '/blog/taylorismo', label: 'Blog', position: 'right'},
+
+                   */
+
+
+          {to: '/highlighter', label: 'Chord Highlighter', position: 'right'},
+          
           
 
         ],
 
-         */
+
       },
       footer: {
         style: 'dark',

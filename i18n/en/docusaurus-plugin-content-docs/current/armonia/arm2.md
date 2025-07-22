@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Módulo 2
+# Modulo 2
 
  <hr style={{  marginTop: '2em' }}  />
 
@@ -313,7 +313,7 @@ Ademas D7/9 ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual 
 <a class="anchor" id="thatthing"></a>
 
 Notese también que aun antes del puente el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm que si aparece más adelante). Esto es típico de otras baladas beatle como <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1040.html" >Across
-the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave de D, Nowhere Man y Real Love (Am en clave de E en ambos casos) o <a class="lnk"  href="/armonia/arm2#shelovesyou" >She loves you</a> (Cm en clave de G) por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
+the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave de D o Nowhere Man y Real Love (Am en clave de E en ambos casos), por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
 
 
 

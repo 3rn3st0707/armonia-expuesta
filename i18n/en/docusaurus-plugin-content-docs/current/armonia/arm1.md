@@ -504,18 +504,6 @@ A|-----+-----+-----+-----+-----+-----+-----+
 
 Es por eso que es muy común que al sacar canciones de oído se confunda un acorde con su relativo (siendo lo más común <a class="lnk"  href="#sen-ton" >IV por ii</a>), este error se puede corregir prestando más atención a la dirección de <a class="lnk"  href="#líneadebajo" >la línea de bajo</a>.
 
-<a class="anchor" id="vamp"></a>
-
-<details open>
-
-  <summary><h2>El Vamp De Acordes Relativos</h2></summary>
-  
-  Repetir varias veces el cambio entre un acorde y su acorde relatívo menor (usualmente I y vi) es una de las formulas más comunes del pop, especialmente en los años 50s y 60s con ejemplos como <a class="lnk"  href="/armonia/arm2#VdeV-I" >Locomotion</a>, <a class="lnk"  href="/armonia/arm2#anna" >Anna</a>, <a class="lnk"  href="/armonia/arm2#runforyourlife">Run for your life</a> (D-Bm), <a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty woman</a> (A-F#m), <a class="lnk"  href="/armonia/arm2#soldieroflove" >Soldier of love</a> (E-C#m).<br /><br />
-
-  A su vez dicho cambio seguido de una progresión <a class="lnk"  href="#sen-ton" >IV-V-I</a> es tambien uno de los cliches más conocidos para baladas con ejemplos como <a class="lnk"  href="/armonia/arm2#eternalflame">Eternal Flame</a>, <a class="lnk"  href="/armonia/arm3#lovehurts" >Love Hurts</a> (G-Em-C-D-E) o <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/i-will" >I will</a> <a target="_blank" href="https://www.youtube.com/watch?v=JGnNQM_9q-w"  ><FAIcon icon="fa-solid fa-play"  /></a> (F-Dm-Bb-C-F)
-
-</details>
-
 
 Los pares de acordes mayor-menor relativos más comúnes en guitarra son
 A-F#m G-Em C-Am D-Bm y F-Dm.
@@ -570,8 +558,8 @@ Estas son entonces las principales claves:
 
 
 Como pueden ver I IV y V (también conocidos cómo "los 3 acordes
-básicos" o "acordes de blues") son acordes mayores mientras que vi, ii
-y iii son menores, siendo de hecho los <a class="lnk"  href="#aco-rel" >acordes relativos menores</a> de cada uno de los
+básicos" o "acordes de blues") son acordes mayores mientras que vi, iii
+y ii son menores, siendo de hecho los <a class="lnk"  href="#aco-rel" >acordes relativos menores</a> de cada uno de los
 tres acordes básicos mayores.
 
 
@@ -1258,7 +1246,7 @@ Am y C: <a class="lnk"  href="/armonia/arm2#one">One</a>, <a target="_blank" hre
 Bm y D : <a class="lnk"  href="#wecan">We can work it out</a>, <a target="_blank" href="https://www.cifraclub.com.br/pink-floyd/us-and-them/" >Us and them</a> <a target="_blank" href="https://youtu.be/nDbeqj-1XOo"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm3#comf" >Confortably Numb</a> y <a target="_blank" href="http://Acordes.lacuerda.net/nino_bravo/libre-4.shtml" >Libre</a> <a target="_blank" href="https://www.youtube.com/watch?v=tfpqKPsAjAM"  ><FAIcon icon="fa-solid fa-play"  /></a>.
 
 
-Cm y Eb: <a class="lnk"  href="#wearethechampions" >We Are The Champions</a>, <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw"  ><FAIcon icon="fa-solid fa-play"  /></a>
+Cm y D#: <a target="_blank" href="http://Acordes.lacuerda.net|Fabulosos/el_satanico_dr_cadillac-5.shtml" >El satanico Dr Cadillac</a> <a target="_blank" href="https://www.youtube.com/watch?v=nz1QJozrRNw"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 C#m y E: <a class="lnk"  href="#happyjust" >I'm happy just to dance with you</a> y <a class="lnk"  href="#andiloveher">And I Love Her</a>
@@ -1436,7 +1424,7 @@ How easy it would be...
 </code>
 
 
-[Not a second time](http://www.e-chords.com/chords/the-beatles/not-i-second-time) <a target="_blank" href="https://www.youtube.com/watch?v=bg5M2NNK_tE"  ><FAIcon icon="fa-solid fa-play"  /></a> también en clave de G termina cada estribillo con la resolución decepcionante, y <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a>
+[Not a second time](http://www.e-chords.com/chords/the-beatles/not-i-second-time) <a target="_blank" href="https://www.youtube.com/watch?v=bg5M2NNK_tE"  ><FAIcon icon="fa-solid fa-play"  /></a> también en clave de G termina cada estribillo con la resolución decepcionante, y <a class="lnk"  href="/armonia/arm3#napolitanos">Do You Want To Know A Secret</a>
 estando en clave de E, al final del estribillo pasa de su dominante
 (B7) directamente a su relativo menor (C#m) negandonos así la
 resolución esperada (otros casos en clave de E son <a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> y <a class="lnk"  href="#bajan">Bajan</a>), más aún el final de la canción es una repetición
@@ -1444,7 +1432,7 @@ la progresión F#m-B7-C#m que es <a class="lnk"  href="#sen-ton" >ii-V7</a>-<a c
 
 
 
-El caso de Losing My Religion, más especificamente la resolución de su estrofa, también es similar al final de <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a> pero desde el lado contrario: la canción esta en una clave menor (Am) y su punto de climax es el de los acordes Dm-C que resultan ser ii-V de la clave relativa mayor (C) debido a la fuerte tracción resolutiva de la progresión <a class="lnk"  href="#sen-ton" >ii-V-I</a> nuestro oido adelante una modulación a C pero una vez más aparece Am en cambio, y asi el resto de la canción.
+El caso de Losing My Religion, más especificamente la resolución de su estrofa, también es similar al final de <a class="lnk"  href="/armonia/arm3#napolitanos">Do You Want To Know A Secret</a> pero desde el lado contrario: la canción esta en una clave menor (Am) y su punto de climax es el de los acordes Dm-C que resultan ser ii-V de la clave relativa mayor (C) debido a la fuerte tracción resolutiva de la progresión <a class="lnk"  href="#sen-ton" >ii-V-I</a> nuestro oido adelante una modulación a C pero una vez más aparece Am en cambio, y asi el resto de la canción.
 
 <a id="losing" class="anchor"></a>
 
@@ -1810,24 +1798,27 @@ Un ejemplo muy útil es el próximo donde se empieza con la progresión I-V-IV-I
 &nbsp; I       ii      iii IV      V       vi      VII  I
 &nbsp;|G  |   |Am |   |Bm |B  |   |D  |   |Em |   |F#º| G
 
+
 &nbsp;<a target="_blank" href="http://www.songsterr.com/A/wsa/rolling-stones-out-of-time-chords-s16937" >Out of time</a> <a target="_blank" href="https://youtu.be/yFe78Cm0YCE"   ><FAIcon icon="fa-solid fa-play"  /></a>
+
 
 &nbsp;G                                    - 5tas Ascendentes
 &nbsp;You don't know what's going on
 &nbsp;D
 &nbsp;you've been away for far too long
 &nbsp;C                                           G
-&nbsp;You can't come back and think you are still mine
+&nbsp;You can't come back and think you are still mine<br />
 &nbsp;       G               C             - 5tas Descendentes
 &nbsp;You're out of touch my baby,
 &nbsp;   D                  G
 &nbsp;my poor old fashioned baby
 &nbsp;       C           D                  G
 &nbsp;I said baby, baby, baby you're out of time
-
 </code>
 
 <a class="anchor" id="rock-quint-asc"></a>
+
+
 
 
 Con el paso de los 60s a los 70s el sonido del rock mostro una preferencia por los cambios de acorde a <a class="lnk"  href="#fundamentos" >intervalos</a> de quinta ascendente (ver <a class="lnk"  href="#dir-quint" >gráfico de dirección de quintas</a>) que se puede ver en estos ejemplos de I-V-IV-I :
@@ -1837,95 +1828,22 @@ La estrofa inicial de <a target="_blank" href="http://www.guitaretab.com/r/rolli
 
 
 
-Si bien I-V-IV-I contiene una <a target="_blank" href="https://es.wikipedia.org/wiki/Cadencia_plagal" >resolución plagal</a> (es decir una resolución IV-I y por tanto quinta ascendente) esta no contiene 2 movimientos de 5ta ascendente consecutivos que resuelvan en I, ese honor le cabe a la progresion conocida justamente como <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> que para ese proposito debe incluír el acorde no-diatonico <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado prestado del modo paralelo</a>.
+
+La variación iv-IV-I-V es puede escuchar durante toda <a target="_blank" href="http://Acordes.lacuerda.net/soda_stereo/de_música_ligera-3.shtml" >De música ligera</a> <a target="_blank" href="https://youtu.be/-XIeMp4zQC4"   ><FAIcon icon="fa-solid fa-play"  /></a> (Bm-G-D-A en clave de D) o la segunda parte de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"   ><FAIcon icon="fa-solid fa-play"  /></a> (la que empieza sobre "'cause my friend said he'd take you home...") que va D-A-E-F#m ósea IV-I-V-vi en clave de A.
 
 
-Por otro lado I-V-IV-I y la *doble plagal* son análogas es decir estan hechas de los mismos acordes y en el mismo orden pero con diferentes tónicas, por ejemplo si la clave es E la progresion <span class="rojo">D</span>-A-E es una doble plagal con <span class="rojo">D</span> como <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> pero si la clave fuera A esa misma progresión D-A-E sería IV-I-V, si se repiten ambas progresiones una y otra vez los acordes erian siempre los mismos y en el mismo orden.
-
-
-Un ejemplo interesante para ver ambas progresiones en una misma clave es  es <a class="lnk"  href="/armonia/arm3#fortunateson" >Fortunate Son</a> que siempre en la misma clave de G base su estrofa inicial en una doble plagal (G-<span class="rojo">F</span>-C-G) pero la estrofa es I-V-IV-I (G-D-C-G).
-
-Por su parte<a class="lnk"  href="/armonia/arm3#triplep" >Jumping Jack Flash</a> comienza repitiendo 3 veces la progresión B-E-<a class="rojo">A</a>-B (I-IV-<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-I) para revertir luego la <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >dirección de las quintas</a> con la progresión B-<a class="rojo">A</a>-E-B (I-<a class="lnk"  href="#prestados">bVII</a>-IV-I) osea la <a class="lnk"  href="/armonia/arm3#doblep" >doble pagal</a>.
-
-
-<a class="anchor" id="pasosalcostado"></a>
-
-
-La otra progresion común que analoga a I-V-IV-I y la <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> es I-V-<a class="lnk"  href="/armonia/arm2#dom-sec">VdeV</a>, en el siguiente ejemplo en clave de D veremos como el estribillo incluye una progresión I-V-<a class="lnk"  href="/armonia/arm2#dom-sec">VdeV</a> (D-A-E) seguida de una progresion IV-I-V (G-D-A):
-
-
-<code>
-
-&nbsp; I       ii      iii IV      V       vi      VII I
-&nbsp;|D  |   |Em |   |F#m|G  |   |A  |   |Bm |   |C#º|D
-
-
-&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/turf/pasos-al-costado/" >Pasos Al Costado</a> <a target="_blank" href="https://www.youtube.com/watch?v=TJkmo1PzfJg"  ><FAIcon icon="fa-solid fa-play"  /></a>
-
-&nbsp;         D
-&nbsp;Me imaginaba que lo que habíamos pasado
-&nbsp;                 Bm
-&nbsp;Había quedado pisado
-&nbsp;            F#m
-&nbsp;Pero encontramos una nueva
-&nbsp;             A
-&nbsp;Forma de hablar
-&nbsp;              Bm
-&nbsp;De cualquier modo
-&nbsp;                    D
-&nbsp;Que te toque esta bien
-&nbsp;              A
-&nbsp;De cualquier modo
-&nbsp;                   <a class="magentaDom">E</a>
-&nbsp;Que te toque esta mal
-&nbsp;         G                    D
-&nbsp;Mejor abrir los ojos para saber
-&nbsp;                A 
-&nbsp;Lo que te gustaría hacer
-
-&nbsp;<a class="magentaDom">E</a>: <a class="lnk"  href="#dom-sec" >VdeV</a> 
-</code>
+El uso de una resolución IV-I se conoce cómo <a target="_blank" href="https://es.wikipedia.org/wiki/Cadencia_plagal" >resolución plagal</a> en contraposición a la más  habitual resolución <a class="lnk"  href="#sen-ton" >V-I</a>, en la notas a <a class="lnk"  href="/armonia/arm2#yestedayplagal" >Yesterday</a> podemos ver una pequeña reseña de su origen y caracteristicas
 
 
 
 
-
-
-
-
+El intro de <a class="lnk"  href="/armonia/arm3#lovely">Lovely Rita</a>, se da I-V-IV-I (repite un par de veces B-A-E en clave de E) mientras que la parte cantada replica esa misma dirección de quintas pero a otra altura, con los acordes E-D-A-E que se transcribe cómo I-<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-IV-I, progresión que se conoce cómo <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> y sus cambios son identicos a los que estámo viendo pero con la diferencia de que la progresión resuelve directamente sobre I con lo cual se conviertio en la siguiente parada de la evolución del rock hacia las quintas ascendentes (ver también <a class="lnk"  href="/armonia/arm3#triplep">triple plagal</a> y <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a>).
 
 
 Hay otros casos de "secuenciación" (repetición a diferentes alturas) del cambio de acorde de quinta ascendente (I-V) son <a class="lnk" href="#hotelcalifornia">Hotel California</a> y <a class="lnk"  href="/armonia/arm2#fixing" >Fixing A Hole</a>.
 
 
 En el caso de <a class="lnk"  href="#hotelcalifornia" >Hotel California</a> es significativo por la herencia hispanica del estado norteamericano al que hace referencia el titulo, que la base sobre la cual se secuencia la relación I-V es la <a class="lnk"  href="#andalusec" >progresión andaluza</a>
-
-
-<a class="anchor" id="wearethechampions"></a>
-
-<p>En este ejemplo podemos ver como empieza en la clave menor de Cm y de ahi se mueve repetitivamente hacia su V Gm7 (quinta ascendente) pero cuando se da una <a class="lnk" href="#clav-rel">modulación relativa</a> hacia la clave de Eb no sólo es la clave lo que cambia: Ahora, sobre una linea melodica muy similar se mueve de la tónica Eb hacia su IV G# (quinta descendente):</p>
-
-<code>
-&nbsp; i       II  bIII    iv      V7  bVI     bVII    i<br />
-&nbsp;|Cm |   |Dº |Eb |   |Fm |   |G  |G# |   |Bb |   |Cm<br />
-&nbsp;             I       ii      iii IV      V7      vi      VII I<br />
-&nbsp;            |Eb |   |Fm |   |G  |G# |   |Bb |   |Cm |   |Dº |Eb<br /><br />
-
-&nbsp;<a href="https://tabs.ultimate-guitar.com/tab/queen/we-are-the-champions-chords-55346" rel="noopener noreferrer" target="_blank">We Are The Champions</a> <a href="https://youtu.be/vJYWBbDDUl0" rel="noopener noreferrer" target="_blank"></a><br />
-
-&nbsp;              Cm  Gm7           -clave de Cm
-&nbsp;I've paid my dues
-&nbsp;           Cm  Gm7
-&nbsp;Time after time
-&nbsp;             Cm     Gm7
-&nbsp;I've done my sentence
-&nbsp;                 Cm  Gm7
-&nbsp;But committed no crime
-&nbsp;           Eb   G#              -clase de Eb
-&nbsp;And bad mistakes
-&nbsp;            Eb  G#
-&nbsp;I've made a few
-</code>
 
 
 <a class="anchor" id="circ-quint"></a>
@@ -1941,49 +1859,18 @@ Ahora vamos a volver a las <a class="lnk"  href="#dir-quint" >quintas descendent
 Esto coincide con la cantidad de cambios de acordes (intervalos) y acordes que se pueden usar de a quintas descendentes, sin salirse de <a class="lnk"  href="#laclave" >la clave</a> (aunque se puede ir más lejor usando <a class="lnk"  href="/armonia/arm3#prestados" >acordes no-diatonicos</a> como en <a class="lnk"  href="#tuyo" >Tuyo siempre</a>), veamos primero un caso corto de estás cadenas de quintas descendentes:
 
 <code>
-&nbsp; I       ii      iii IV      V       vi     VII  I<br />
-&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |B<br /><br />
+
+&nbsp; I       ii     iii IV      V       vi      VII  I
+&nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |B           
 
 
 &nbsp;<a target="_blank" href="http://www.azchords.com|G|Gunsnroses-tabs-1732/dontcry-tabs-106898.html" >Don't Cry</a> <a target="_blank" href="https://www.youtube.com/watch?v=zRIbf6JqkNc"   ><FAIcon icon="fa-solid fa-play"  /></a> 
 
 
-&nbsp;Talk to me softly
+&nbsp;Am            Dm
+&nbsp;  Talk to me softly
 &nbsp;      G                 C
 &nbsp;There's something in your eyes
-&nbsp; Am                     Dm
-&nbsp;Don't hang your head in sorrow
-&nbsp; G                C
-&nbsp;And please don't cry
-
-&nbsp;-Luego de 2 estribillos y el solo aparece una estrofa diferente
-&nbsp;(antes del estribillo final) que utiliza los mismos 4 acordes
-&nbsp;y en el mismo orden pero arrancando un acorde más adelante en
-&nbsp;el circulo de quintas es decir Dm-G-C-Am en vez de Am-Dm-C-Am
-
-&nbsp; Dm              G
-&nbsp;And please remember
-&nbsp;  C           Am
-&nbsp;That I never lied
-&nbsp;Dm             G
-&nbsp;And please remember
-&nbsp; C          Am
-&nbsp;How I felt inside now honey
-&nbsp; Dm                         G
-&nbsp;You gotta make it your own way
-&nbsp;C                        Am
-&nbsp;But you'll be alright now sugar
-
-&nbsp;Este viejo recurso la podemos ver en <a class="lnk" href="#tuyo">Tuyo Siempre</a>, con una
-&nbsp;estrofa que es una cadena de quintas descendentes que empieza
-&nbsp;de Em y un estribillo que también es cadena de quintas
-&nbsp;descendentes pero empezando de Am.
-&nbsp;
-&nbsp;Una variación especialmente interesante de esto se da en
-&nbsp;<a class="lnk" href="#yesterdayiivi">Yesterday</a> cuya estrofa inicial comienza con un cambio de un
-&nbsp;semitono + un "circulo de 5tas" (F-Em7-A7-Dm-G) mientras que
-&nbsp;el punte utiliza la misma progresión pero arrancando de Em7 y
-&nbsp;omitiendo F en una variación análoga a la que gráficamos.
 </code>
 
 Claramente el <a class="lnk"  href="#fundamentos" >intervalo</a> que separa iv de ii (Am-Dm) es igual al que separa ii de V (Dm-G) e igual al que separa V de I (G-C), pero esta es una vuelta más bien corta.
