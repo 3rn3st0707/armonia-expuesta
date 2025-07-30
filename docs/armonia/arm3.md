@@ -3769,7 +3769,7 @@ En el próximo caso en la misma clave de C se da lo contrario: v menor (<a class
 &nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº | C
 &nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |</span><span class="rojo">Gm</span><span class="trasluz"> |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   | Cm</span>
 
-&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/charly-garcia/los-dinosaurios/">Los Dinosaurios</a> <a target="_blank" href=""  ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/charly-garcia/los-dinosaurios/">Los Dinosaurios</a> <a target="_blank" href="https://www.youtube.com/watch?v=BAuqozi64WQ"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 &nbsp;    C                  <a class="rojo">Gm</a>
 &nbsp;Los amigos del barrio pueden desaparecer
@@ -3985,11 +3985,9 @@ La progresión I-bVII-IV-V también tendría hits en los 90s
 &nbsp;<span class="rojo">G</span>: <a class="lnk" href="#prestados">bVII prestado del modo paralelo</a>
 </code>
 
-La fuente más común de dicho cambio I-bVII es la repetición de la progresión <a class="lnk"  href="#doblep">doble plagal</a>, de la cual pueden ver muchisimos ejemplos en el link. 
+La fuente más común de dicho cambio I-bVII es la repetición de la progresión <a class="lnk"  href="#doblep">doble plagal</a> que es igual a la progresión I-bVII-IV-V que vimos en los dos ejemplos anteriores pero sin el acorde V, lo cual hace que destaque la "resolución plagal" IV-I (una <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> en contraposición a la <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta descendente</a> V-I)
 
-La doble plagal es igual a la progresión I-bVII-IV-V que vimos en los dos ejemplos anteriores pero sin el acorde V, lo cual hace que destaque la "resolución plagal" IV-I (una <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> en contraposición a la <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta descendente</a> V-I)
-
-Sin en varios de esos ejemplos de hecho el I-bVII al comienzo es más notorio en terminos de tempo y fraseo que los 2 cambios de <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> a los que hace referencia la etiqueta "doble plagal" por ejemplo:
+Sin enbargo varios de esos ejemplos de hecho el I-bVII al comienzo es más notorio en terminos de tempo y fraseo que los 2 cambios de <a class="lnk"  href="/category/módulos-técnicos#dir-quint">quinta ascendente</a> a los que hace referencia la etiqueta "doble plagal" por ejemplo:
 
 En clave de Db (Db-<span class="rojo">B</span>):
  <ul>
@@ -4089,11 +4087,21 @@ De todas formas, hay muchos más ejemplos que sin ser estrictamente <a class="ln
 
 
 
-Más casos que sin ser ni doble plagal o una I-bVII-IV-V utilizan la progresión I-bVII :
+Más casos que sin ser ni doble plagal o una I-bVII-IV-V utilizan la progresión I-bVII:
  
 
+<ul>
+   <li><a class="lnk"  href="#lump" >Lump</a>, <a target="_blank" href="http://www.guitaretab.com/m/madonna/203373.html" >Beautiful stranger</a> (C#-B)</li>
+   <li><a class="lnk"  href="/armonia/arm3#sobredosis" >Sobredosis De TV</a>, <a class="lnk"  href="#yououghtaknow" >You oughta know</a> (F#-E)</li>
+   <li><a target="_blank" href="http://Acordes.lacuerda.net/rodriguez/mucho_mejor-5.shtml" >Mucho mejor</a> <a target="_blank" href="https://youtu.be/p7xkX6xeehA" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/Aerosmith/pink" >Pink</a> <a target="_blank" href="https://youtu.be/ZfbBqBOSXlU" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/the-rolling-stones/wild-horses" >Wild horses</a> <a target="_blank" href="https://www.youtube.com/watch?v=Xb3fZmkzy84"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_monkees/im_a_believer_ver3_crd.htm" >I'm a believer</a> <a target="_blank" href="https://www.youtube.com/watch?v=0mYBSayCsH0" ><FAIcon icon="fa-solid fa-play"  /></a> (G-F)</li>
+   <li><a class="lnk"  href="#anothergirl" >Another Girl</a>, <a class="lnk"  href="#lawoman1" >LA Woman</a>, <a target="_blank" href="https://tabs.últimate-guitar.com/s/skid_row/Big_guns_tab.htm" >Big guns</a> <a target="_blank" href="https://youtu.be/w7moa5ZiaDo" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/g/genesis/i_cant_dance_crd.htm" >I can't dance</a> <a target="_blank" href="https://youtu.be/qOyF4hR5GoE" ><FAIcon icon="fa-solid fa-play"  /></a> (A-G)</li>
+   <li> <a target="_blank" href="http://www.guitaretab.com/n/nazareth/13184.html" >Hair of the dog</a> <a target="_blank" href="https://youtu.be/jEG0-3xlAkg" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/the-clash/clash-city-rockers" >Clash city rockers</a> <a target="_blank" href="https://youtu.be/Sa2VtNRtu04" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/tabs/led-zeppelin/ramble-on" >Ramble on</a> <a target="_blank" href="https://youtu.be/A3HemKGDavw" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.cosmic-kitchen.com/song.php?id=black.sabbath__Paranoid" >Paranoid</a> <a target="_blank" href="https://youtu.be/hkXHsK4AQPs" ><FAIcon icon="fa-solid fa-play"  /></a> <a target="_blank" href="http://www.tusacordes.com/secciónes/ver_tema.php?id=5799" >El 38</a> <a target="_blank" href="https://youtu.be/tSqdUz-tNe4" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/flaming_crd.htm" >Flaming</a> <a target="_blank" href="https://youtu.be/gxVpdk5xKe4" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D)</li>
+   <li><a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beach_boys/california_girls_crd.htm" >California girls</a> <a target="_blank" href="https://youtu.be|FmIsdMWzdaE" ><FAIcon icon="fa-solid fa-play"  /></a> (B-A)</li>
+   <li> <a target="_blank" href="http://www.e-chords.com/chords/guns-n-roses/pretty-tied-up" >Pretty tied up</a> <a target="_blank" href="https://youtu.be/sFbujpjmTzs" ><FAIcon icon="fa-solid fa-play"  /></a> (D-C)</li>
 
-&nbsp;<a class="lnk"  href="#lawoman1" >LA Woman</a> (A-G), <a class="lnk"  href="#lump" >Lump</a> (C#-B), <a class="lnk"  href="#anothergirl" >Another Girl</a> (A-G), <a class="lnk"  href="#yououghtaknow" >You oughta know</a> (F#-E), <a target="_blank" href="http://www.guitaretab.com/n/nazareth/13184.html" >Hair of the dog</a> <a target="_blank" href="https://youtu.be/jEG0-3xlAkg" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="http://www.e-chords.com/chords/the-clash/clash-city-rockers" >Clash city rockers</a> <a target="_blank" href="https://youtu.be/Sa2VtNRtu04" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="http://www.e-chords.com/tabs/led-zeppelin/ramble-on" >Ramble on</a> <a target="_blank" href="https://youtu.be/A3HemKGDavw" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D) , <a target="_blank" href="http://www.e-chords.com/chords/guns-n-roses/pretty-tied-up" >Pretty tied up</a> <a target="_blank" href="https://youtu.be/sFbujpjmTzs" ><FAIcon icon="fa-solid fa-play"  /></a> (D-C), <a target="_blank" href="http://www.cosmic-kitchen.com/song.php?id=black.sabbath__Paranoid" >Paranoid</a> <a target="_blank" href="https://youtu.be/hkXHsK4AQPs" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="http://Acordes.lacuerda.net/rodriguez/mucho_mejor-5.shtml" >Mucho mejor</a> <a target="_blank" href="https://youtu.be/p7xkX6xeehA" ><FAIcon icon="fa-solid fa-play"  /></a> (G-F), <a target="_blank" href="http://www.tusacordes.com/secciónes/ver_tema.php?id=5799" >El 38</a> <a target="_blank" href="https://youtu.be/tSqdUz-tNe4" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="https://tabs.últimate-guitar.com/s/skid_row/Big_guns_tab.htm" >Big guns</a> <a target="_blank" href="https://youtu.be/w7moa5ZiaDo" ><FAIcon icon="fa-solid fa-play"  /></a> (A-G justo al comienzo del estribillo), <a target="_blank" href="https://tabs.últimate-guitar.com/g/genesis/i_cant_dance_crd.htm" >I can't dance</a> <a target="_blank" href="https://youtu.be/qOyF4hR5GoE" ><FAIcon icon="fa-solid fa-play"  /></a> (A-G), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beach_boys/california_girls_crd.htm" >California girls</a> <a target="_blank" href="https://youtu.be|FmIsdMWzdaE" ><FAIcon icon="fa-solid fa-play"  /></a> (B-A), <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/flaming_crd.htm" >Flaming</a> <a target="_blank" href="https://youtu.be/gxVpdk5xKe4" ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="https://tabs.últimate-guitar.com/B/Blind_melon/no_rain_crd.htm" >No Rain</a> <a target="_blank" href="https://www.youtube.com/watch?v=qmVn6b7DdpA"  ><FAIcon icon="fa-solid fa-play"  /></a> (E-D), <a target="_blank" href="http://www.e-chords.com/chords/Aerosmith/pink" >Pink</a> <a target="_blank" href="https://youtu.be/ZfbBqBOSXlU" ><FAIcon icon="fa-solid fa-play"  /></a> (G-F), <a target="_blank" href="http://www.e-chords.com/chords/the-rolling-stones/wild-horses" >Wild horses</a> <a target="_blank" href="https://www.youtube.com/watch?v=Xb3fZmkzy84"  ><FAIcon icon="fa-solid fa-play"  /></a> (G-F sobre "couldn't drag me ...") y mismos acordes y misma clave para <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_monkees/im_a_believer_ver3_crd.htm" >I'm a believer</a> <a target="_blank" href="https://www.youtube.com/watch?v=0mYBSayCsH0" ><FAIcon icon="fa-solid fa-play"  /></a> sobre "..I'm a believer I couldn't leave her.." por solo nombrar algunas, para casos de canciones que alternan entre I y bVII ver en <a class="lnk"  href="#iybvii">este link</a>
+ </ul>
+
+Para casos de canciones que alternan entre I y bVII ver en <a class="lnk"  href="#iybvii">este link</a>
 
 
 &nbsp;<a class="lnk"  href="#plush">Plush</a> también la incluye(G-F en clave de G sobre) pero no en la parte graficada en el link sino en la parte que canta *"When the dogs do find her got time, time, to wait for tomorrow"*.
@@ -5214,9 +5222,45 @@ En cualquiera de los casos, la liberación de <a class="lnk"  href="/category/m�
 
 <br />
 
-<a id="walklike" class="anchor"></a>
+<a id="sobredosis" class="anchor"></a>
 
 Aún en canciones que usan <a class="lnk"  href="#crybabycry">bVII-I</a> al comienzo y luego usan su acorde IV como vimos en <a class="lnk"  href="#refunc">Mi novia se cayó en un pozo ciego</a> no necesariamente producen una modulación (cambio de clave), dado que depende de varios factores (melodia, tiempo que se utiliza <a class="lnk"  href="#prestados">bVII</a> respecto al resto, etc), veamos un ejemplo:
+
+<code>
+
+&nbsp; I      ii       iii IV      V       vi     VII   I
+&nbsp; <span class="trasluz">i      ii  bIII     iv      v   bVI    </span><a class="rojo">bVII</a><span class="trasluz">      i</span>
+ 
+&nbsp;|F# |   |G#m|   |A#m|B  |   |C# |   |D#m|   |Fº |F#
+&nbsp;<span class="trasluz">|F#m|   |G#º|A  |   |Bm |   |C#m|D  |   |</span><a class="rojo">E</a><span class="trasluz">  |   |F#m</span>
+
+
+&nbsp;<a target="_blank" href="https://www.cifraclub.com/soda-stereo/sobredosis-de-tv/" >Sobredosis De TV</a> <a target="_blank" href=""  ><FAIcon icon="fa-solid fa-play"  /></a>
+
+&nbsp;   F#             <a class="rojo">E</a>
+&nbsp;Estoy desesperado
+&nbsp; F#                        B
+&nbsp;Soy tan vulnerable a su amor
+&nbsp; F#                <a class="rojo">E</a>
+&nbsp;Ella ya sea ha ido
+&nbsp;    F#                    B
+&nbsp;Un hueco en mi habitación
+&nbsp;    F#                 <a class="rojo">E</a>
+&nbsp;Mis manos siguen frías
+&nbsp;      F#                  B
+&nbsp;He perdido la fascinación
+&nbsp;    F#                   <a class="rojo">E</a>
+&nbsp;Sus labios son escombros
+&nbsp; F#                     B
+&nbsp;Detienen mi respiración
+
+&nbsp;<a class="rojo">E</a>: <a class="lnk"  href="#prestados">bVII prestado del modo paralelo</a>
+</code>
+
+Como pueden ver pese a que desde un sentido diatonico B tendría más sentido como tónica, el forzar la melodía tempo y demas en torno a F# convierte a E en un acorde no-diatonico. El próximo ejemplo es un caso similar: La constante alternación entre B y A fijan a B como clave, la irrupción tardía de E que como clave tendia mas sentido diatonico con B y A como V y IV realmente no produce el desplazamiento del centro tonal con la cual A sigue siendo el bVII prestado no diatonico:
+
+
+<a id="walklike" class="anchor"></a>
 
 <code>
 

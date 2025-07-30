@@ -439,13 +439,6 @@ Este truco en <a class="lnk"  href="#elloco" >El Loco</a> lo podemos ver grafica
 
 <a class="anchor" id="follow"></a>
 
-En <a class="lnk"  href="#iwanttoiivi" >I want to hold your hand</a> también podemos ver que para pasar (modular se dice) de la clave de G a la de C se utiliza una progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> que está marcada con color <span class="naranja">naranja</span> (también lo podemos ver en <a class="lnk"  href="/armonia/arm3#ladymadonna" >Lady Madonna</a> aunque modulando entre diferentes grados).
-
-
-
-En el próximo ejemplo también vamos a marcar <span class="naranja">ii-V</span> con ese color para explicar cierto truco que se da sobre el final de esta nueva variación de VdeIV-IV-iv:
-
-
 <code>
 
 &nbsp; I       ii      iii IV      V       vi      VII  I
@@ -514,7 +507,7 @@ temperada</a> que es menos exacta que la <a target="_blank" href="https://es.wik
 
 
 
-paradógicamente en la música moderna las disonancias "artificiales" (como <a class="lnk"  href="#domiv">VdeIV</a>, recuerden que el <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> pose una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a>, pero esta solo es natural en el grado <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a>) se utilizan cómo efecto para cambiar la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y de esa forma lograr que en un mismo acorde se puedan cantar las mismas notas pero con cierta variación en en la entonación, tal cómo sucede en el último uso de Dm durante el puente en <a class="lnk"  href="#follow">I'll follow the sun</a> y es aún más evidente en el género conocido cómo <a target="_blank" href="https://en.wikipedia.org/wiki/Barbershop_music" >Barbershop vocal harmony</a> <a target="_blank" href="http://www.barbershop.org/how-main-street-made-the-biggest-barbershop-hit-of-the-decade/" ><FAIcon icon="fa-solid fa-play"  /></a>.
+Paradógicamente en la música moderna las disonancias "artificiales" (como <a class="lnk"  href="#domiv">VdeIV</a>, recuerden que el <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> pose una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a>, pero esta solo es natural en el grado <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a>) se utilizan cómo efecto para cambiar la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y de esa forma lograr que en un mismo acorde se puedan cantar las mismas notas pero con cierta variación en en la entonación, tal cómo sucede en el último uso de Dm durante el puente en <a class="lnk"  href="#follow">I'll follow the sun</a> y es aún más evidente en el género conocido cómo <a target="_blank" href="https://en.wikipedia.org/wiki/Barbershop_music" >Barbershop vocal harmony</a> <a target="_blank" href="http://www.barbershop.org/how-main-street-made-the-biggest-barbershop-hit-of-the-decade/" ><FAIcon icon="fa-solid fa-play"  /></a>.
 
 <a class="anchor" id="seventeen"></a>
 
