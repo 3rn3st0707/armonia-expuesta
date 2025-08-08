@@ -286,7 +286,7 @@ Y además de esto incluye otra vuelta de tuerca a las <a target="_blank" href="h
 &nbsp;<a class="naranja">F#m</a>          <a class="naranja">B7</a>   <a class="verde">F#º</a>  Em         Am            <a class="magentaDom">D7</a>
 &nbsp;Watching her eyes and hoping I'm always there
 
-&nbsp;          G    Am   Bm    C  -clave de G
+&nbsp;          G    Am   Bm    C                       -clave de G
 &nbsp;I will be there and everywhere
 &nbsp;G     Am         Bm   C    G 
 &nbsp;Here there, and everywhere
