@@ -90,7 +90,7 @@ Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatur
 &nbsp;|C  |   |Dm |   |Em |F  |   |G  |   |Am |   |Bº |C
 &nbsp;<span class="trasluz">|Cm |   |Dº |Eb |   |Fm |   |Gm |G# |   |</span><a class="rojo">Bb</a> <span class="trasluz">|   |Cm</span>
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You never give me your money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/you_never_give_me_your_money_crd.htm" >You Never Give Me Your Money</a> <a target="_blank" href="https://www.youtube.com/watch?v=bVWwgrdobAw"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;C            <a class="magentaDom">E7</a>
@@ -116,7 +116,7 @@ También notarán que aquí no se incluye la canción completa sino un fragmento
 Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
-Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
+Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
 
 
 
@@ -270,6 +270,10 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 
 
 
+
+
+
+
 ## Indice Alfabetico de Ejemplos
 <div class="ejemplos">
 
@@ -297,6 +301,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#breakexp">Break It All</a><br />
 <a class="lnk"  href="/armonia/arm3#brownsugar">Brown Sugar</a><br />
 <a class="lnk"  href="/armonia/arm3#capitan" >Capitan America</a><br />
+<a class="lnk"  href="/armonia/arm3#ouate" >C'est La Ouate</a><br />
 <a class="lnk"  href="/armonia/arm3#champagne" >Champagne Supernova </a><br />
 <a class="lnk"  href="/armonia/arm2#cigarettes" >Cigarettes and Alcohol</a><br />
 <a class="lnk"  href="/armonia/arm2#civilwar" >Civil War</a><br />
@@ -356,31 +361,31 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#vdevivi" >I Call Your Name</a><br />
 <a class="lnk"  href="/armonia/arm2#vdeii" >I Get Around</a><br />
 <a class="lnk"  href="/armonia/arm2#ijustcalled" >I Just Called To Say I Love You</a><br />
-<a class="lnk"  href="/armonia/arm2#seventeen">I saw her standing there</a><br />
-<a class="lnk"  href="/armonia/arm3#itouchmyself" >I touch myself</a><br />
-<a class="lnk"  href="#iwanna" >I wanna be sedated</a><br />
-<a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I want to hold your hand</a><br />
-<a class="lnk"  href="/armonia/arm1#iwanttotellyou" >I want to tell you</a><br />
-<a class="lnk"  href="/armonia/arm2#joking" >I was only joking</a><br />
-<a class="lnk"  href="/armonia/arm2#survive" >I will survive</a><br />
-<a class="lnk"  href="/armonia/arm2#follow" >I'll follow the sun</a><br />
+<a class="lnk"  href="/armonia/arm2#seventeen">I Saw Her Standing There</a><br />
+<a class="lnk"  href="/armonia/arm3#itouchmyself" >I Touch Myself</a><br />
+<a class="lnk"  href="#iwanna" >I Wanna Be Sedated</a><br />
+<a class="lnk"  href="/armonia/arm2#iwanttoiivi" >I Want To Hold Your Hand</a><br />
+<a class="lnk"  href="/armonia/arm1#iwanttotellyou" >I Want To Tell You</a><br />
+<a class="lnk"  href="/armonia/arm2#joking" >I Was Only Joking</a><br />
+<a class="lnk"  href="/armonia/arm2#survive" >I Will Survive</a><br />
+<a class="lnk"  href="/armonia/arm2#follow" >I'll Follow The Sun</a><br />
 <a class="lnk"  href="/armonia/arm3#getyou" >I'll Get You</a><br />
-<a class="lnk"  href="/armonia/arm3#imaloser" >I'm a loser</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm happy just to dance with you</a><br />
-<a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm only sleeping</a><br />
+<a class="lnk"  href="/armonia/arm3#imaloser" >I'm A Loser</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm Happy Just To Dance With You</a><br />
+<a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a><br />
 <a class="lnk"  href="/armonia/arm3#if2" >If 1</a><br />
 <a class="lnk"  href="/armonia/arm2#dom-sec" >If 2</a><br />
-<a class="lnk"  href="/armonia/arm2#ififellintro" >If I fell 1</a><br />
-<a class="lnk"  href="/armonia/arm2#ififellpuente" >If I fell 2</a><br />
+<a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a><br />
+<a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a><br />
 <a class="lnk"  href="/armonia/arm2#ifineeded" >If I Needed Someone</a><br />
 <a class="lnk"  href="/armonia/arm2#imagine" >Imagine</a><br /> 
-<a class="lnk"  href="/armonia/arm2#inmylife" >In my life</a><br />
-<a class="lnk"  href="/armonia/arm3#janesays" >Jane says</a><br />
-<a class="lnk"  href="/armonia/arm2#jijiji" >Jijiji</a><br />
+<a class="lnk"  href="/armonia/arm2#inmylife" >In My Life</a><br />
+<a class="lnk"  href="/armonia/arm3#janesays" >Jane Says</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#jijiji" >Jijiji</a><br />
 <a class="lnk"  href="/armonia/arm3#juego" >Juego de Sedución</a><br />
 <a class="lnk"  href="/armonia/arm2#julia" >Julia</a><br />
 <a class="lnk"  href="/armonia/arm3#triplep" >Jumping Jack Flash</a><br />
-<a class="lnk"  href="/armonia/arm2#bestiapop" >La bestia pop</a><br />
+<a class="lnk"  href="/armonia/arm2#bestiapop" >La Bestia Pop</a><br />
 <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a><br />
 <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a><br />
 <a class="lnk"  href="/armonia/arm3#ladyjane" >Lady Jane</a><br />
@@ -414,43 +419,44 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#2u">Nothing compares 2U</a><br />
 <a class="lnk"  href="/armonia/arm3#ohdarling">Oh! Darling</a><br />
 <a class="lnk"  href="/armonia/arm2#one">One</a><br />
-<a class="lnk"  href="/armonia/arm3#oneinamillon">One in a millon</a><br />
-<a class="lnk"  href="/armonia/arm2#onlyyou">Only you</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#outoftime" >Out of time</a><br />
-<a class="lnk"  href="/armonia/arm2#paintitblack" >Paint it black</a><br />
-<a class="lnk"  href="/armonia/arm3#paisefilhos">Pais e filhos</a><br />
-<a class="lnk"  href="/armonia/arm3#paradisecity" >Paradise City 1</a><br /> 
+<a class="lnk"  href="/armonia/arm3#oneinamillon">One In A Millon</a><br />
+<a class="lnk"  href="/armonia/arm2#onlyyou">Only You</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#outoftime" >Out Of Time</a><br />
+<a class="lnk"  href="/armonia/arm2#paintitblack" >Paint It Black</a><br />
+<a class="lnk"  href="/armonia/arm3#paisefilhos">Pais E Filhos</a><br />
+<a class="lnk"  href="/armonia/arm3#paradisecity" >Paradise City 1</a><br />
+<a class="lnk"  href="/armonia/arm3#paradisecity2" >Paradise City 2</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#pasosalcostado" >Pasos Al Costado</a><br />
 <a class="lnk"  href="/armonia/arm2#pennylane" >Penny Lane</a><br />
 <a class="lnk"  href="/armonia/arm3#pleasedontgo" >Please Don't Go</a><br />
 <a class="lnk"  href="/armonia/arm3#plush" >Plush</a><br />  
-<a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty woman</a><br />
+<a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty Woman</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#profugos" >Profugos</a><br />
 <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a><br />
-<a class="lnk"  href="/armonia/arm3#rasguna" >Rasguña las piedras</a><br />
-<a class="lnk"  href="/armonia/arm3#delpedazo" >Rock del pedazo</a><br />
-<a class="lnk"  href="/armonia/arm3#damnation" >Rock n' roll damnation</a><br />
-<a class="lnk"  href="/armonia/arm3#rnryfiebre" >Rock n' roll y fiebre</a><br />
+<a class="lnk"  href="/armonia/arm3#rasguna" >Rasguña Las Piedras</a><br />
+<a class="lnk"  href="/armonia/arm3#delpedazo" >Rock Del Pedazo</a><br />
+<a class="lnk"  href="/armonia/arm3#damnation" >Rock N' Roll Damnation</a><br />
+<a class="lnk"  href="/armonia/arm3#rnryfiebre" >Rock  N' Roll Y Fiebre</a><br />
 <a class="lnk"  href="/armonia/arm2#runforyourlife">Run for your life</a><br />
 <a class="lnk"  href="/armonia/arm3#runaway">Runaway</a><br />
 <a class="lnk"  href="/armonia/arm3#satisfaction" >Satisfaction</a><br /> 
-<a class="lnk"  href="/armonia/arm3#shecamein">She came in through the bathroom window</a><br />
-<a class="lnk"  href="/armonia/arm2#shelovesyou" >She loves you</a><br />
-<a class="lnk"  href="/armonia/arm3#shesaid" >She said she said</a><br />
-<a class="lnk"  href="/armonia/arm3#sheselectric">She's electric</a><br />
+<a class="lnk"  href="/armonia/arm3#shecamein">She Came In Through The Bathroom Window</a><br />
+<a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a><br />
+<a class="lnk"  href="/armonia/arm3#shesaid" >She Said She Said</a><br />
+<a class="lnk"  href="/armonia/arm3#sheselectric">She's Electric</a><br />
 <a class="lnk"  href="/armonia/arm3#shine" >Shine</a><br /> 
-<a class="lnk"  href="/armonia/arm3#should" >Should I stay or should I go?</a><br />
+<a class="lnk"  href="/armonia/arm3#should" >Should I Stay Or Should I Go?</a><br />
 <a class="lnk"  href="/armonia/arm3#sobredosis" >Sobredosis De TV</a><br />
-<a class="lnk"  href="/armonia/arm2#soldieroflove" >Soldier of love</a><br />
+<a class="lnk"  href="/armonia/arm2#soldieroflove" >Soldier Of Love</a><br />
 <a class="lnk"  href="/armonia/arm3#something" >Something</a><br />
-<a class="lnk"  href="/armonia/arm3#s-intheway" >Something in the way</a><br />
-<a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry fields forever</a><br />
-<a class="lnk"  href="/armonia/arm3#sweetchild" >Sweet child o' mine</a><br />
-<a class="lnk"  href="/armonia/arm3#sympathy" >Sympathy for the devil</a><br />
-<a class="lnk"  href="/armonia/arm3#tansolo" >Tan solo</a><br />
+<a class="lnk"  href="/armonia/arm3#s-intheway" >Something In The Way</a><br />
+<a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a><br />
+<a class="lnk"  href="/armonia/arm3#sweetchild" >Sweet Child O' Mine</a><br />
+<a class="lnk"  href="/armonia/arm3#sympathy" >Sympathy For The Devil</a><br />
+<a class="lnk"  href="/armonia/arm3#tansolo" >Tan Solo</a><br />
 <a class="lnk"  href="/armonia/arm3#taxman" >Taxman</a><br /> 
-<a class="lnk"  href="/armonia/arm3#terecuerdoamanda" >Te recuerdo Amanda</a><br />
-<a class="lnk"  href="/armonia/arm2#thatthing">That thing you do</a> <br />
+<a class="lnk"  href="/armonia/arm3#terecuerdoamanda" >Te Recuerdo Amanda</a><br />
+<a class="lnk"  href="/armonia/arm2#thatthing">That Thing You Do</a> <br />
 <a class="lnk"  href="/armonia/arm3#theend" >The End</a><br />
 <a class="lnk"  href="/armonia/arm3#look">The Look</a><br />
 <a class="lnk"  href="/armonia/arm3#thenightbefore">The Night Before</a><br />
@@ -466,18 +472,21 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#underthe" >Under The Bridge</a><br />
 <a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny Bop</a><br />
 <a class="lnk"  href="/armonia/arm3#walklike">Walk Like An Egyptian</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#wecan">We can work it out</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#wecan">We Can Work It Out</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#wearethechampions" >We Are The Champions</a><br />
-<a class="lnk"  href="/armonia/arm3#wonderfulworld" >What a wonderful world</a><br />
+<a class="lnk"  href="/armonia/arm3#wonderfulworld" >What A Wonderful World</a><br />
 <a class="lnk"  href="/armonia/arm3#gethome" >When I Get Home</a><br />
-<a class="lnk"  href="/armonia/arm3#doblefriends" >With a little help from my friends</a><br />
+<a class="lnk"  href="/armonia/arm3#doblefriends" >With A Little Help From My Friends</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi" >Yesterday 1</a><br />
 <a class="lnk"  href="/armonia/arm2#yestedayplagal" >Yesterday 2</a><br />
-<a class="lnk"  href="/armonia/arm3#youcanleave" >You can leave your hat on</a><br />
-<a class="lnk"  href="/armonia/arm2#youcantalways" >You can't always get what you want</a><br />
-<a class="lnk"  href="/armonia/arm3#younever" >You never give me your money</a><br />
-<a class="lnk"  href="/armonia/arm3#yououghtaknow">You oughta know</a><br />
-<a class="lnk"  href="/armonia/arm3#gonnalose" >You're gonna lose that girl</a><br />
+<a class="lnk"  href="/armonia/arm3#youcanleave" >You Can Leave Your Hat On</a><br />
+<a class="lnk"  href="/armonia/arm2#youcantalways" >You Can't Always Get What You Want</a><br />
+<a class="lnk"  href="/armonia/arm3#younever" >You Never Give Me Your Money</a><br />
+<a class="lnk"  href="/armonia/arm3#yououghtaknow">You Oughta Know</a><br />
+<a class="lnk"  href="/armonia/arm3#gonnalose" >You're Gonna Lose That Girl</a><br />
 <a class="lnk"  href="/armonia/arm2#zoom" >Zoom</a>
 
 </div>
+
+
+

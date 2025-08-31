@@ -37,7 +37,9 @@ const config = {
 
  
   plugins: [
+
     [
+  
       '@docusaurus/plugin-content-blog',
       {
         /**
@@ -79,6 +81,7 @@ const config = {
           showReadingTime: false,
           blogSidebarTitle: 'Blog',
           blogSidebarCount: 'ALL',
+
 
         },
 
