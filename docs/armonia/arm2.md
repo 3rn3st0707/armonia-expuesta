@@ -2345,17 +2345,17 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 &nbsp;Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
   
   
-&nbsp;<a target="_blank" href="https://www.cifraclub.com/the-doors/love-her-madly/" >Love her madly</a> <a target="_blank" href="https://youtu.be/zrv7Hs7k7w8" ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="https://www.cifraclub.com/the-doors/love-her-madly/" >Love Her Madly</a> <a target="_blank" href="https://youtu.be/zrv7Hs7k7w8" ><FAIcon icon="fa-solid fa-play"  /></a>
   
   
 &nbsp;          Am                                -clave de Am
-&nbsp;Don't you love her madly?  Don't you need her badly?
+&nbsp;Don't you Love Her Madly?  Don't you need her badly?
 &nbsp;           <span class="magentaDom">D</span>
 &nbsp;Don't you love her ways?
 &nbsp;        Am
 &nbsp;Tell me what you say?
 &nbsp;          Am               C
-&nbsp;Don't you love her madly?
+&nbsp;Don't you Love Her Madly?
 &nbsp;        F              <span class="magentaDom">D</span>
 &nbsp;Want to be her daddy?
 &nbsp;          Am
@@ -2759,7 +2759,7 @@ En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en cla
 &nbsp;<span class="trasluz">|Fm |   |G* |G# |   |Bbm|   |Cm |C# |   |</span><a class="rojo">Eb</a><span class="trasluz"> |   |Fm</span>
 
 
-&nbsp;<a target="_blank" href="https://www.azchords.com/o/oconnorsinead-tabs-5429/nothingcomparestoyou-tabs-153102.html" >Nothing compares 2U</a> <a target="_blank" href="https://youtu.be/AuUPqxI1vqg" ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="https://www.azchords.com/o/oconnorsinead-tabs-5429/nothingcomparestoyou-tabs-153102.html" >Nothing Compares 2U</a> <a target="_blank" href="https://youtu.be/AuUPqxI1vqg" ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;F                         C 

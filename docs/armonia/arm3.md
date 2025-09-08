@@ -796,7 +796,7 @@ Fianlmente en la misma clave de A, 3 canciones cuyas estrofas comienzan con una 
 
 <a class="anchor" id="neversay"></a><br />
 
-&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Bon-jovi/2096.html" >Never say goodbye</a> <a target="_blank" href="https://youtu.be/ifm00JEjSeo"  ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Bon-jovi/2096.html" >Never Say Goodbye</a> <a target="_blank" href="https://youtu.be/ifm00JEjSeo"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp;A
@@ -3035,7 +3035,7 @@ la progresión <a class="lnk"  href="#bVI-bVII-I">bVI-bVII-I</a> amplia esa <a c
 
 
 &nbsp;<a class="lnk"  href="#plush">Plush</a> (Eb-F-G en clave de G), el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/p/pearl_jam/jeremy_acoustic_crd.htm" >Jeremy</a> <a target="_blank" href="https://www.youtube.com/watch?v=MS91knuzoOA"  ><FAIcon icon="fa-solid fa-play"  /></a> (F G A en clave de A), en <a class="lnk"  href="#sheselectric">She's Electric</a>, <a target="_blank" href="http://www.e-chords.com/chords/sheryl-crow/All-i-wanna-do" >All I wanna do</a> <a target="_blank" href="https://youtu.be/s_qO97oTYNw"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm2#backwater" >Backwater</a>
-y <a target="_blank" href="https://tabs.últimate-guitar.com/f/faith_no_more/epic_tab.htm" >Epic</a> <a target="_blank" href="https://youtu.be/ZG_k5CSYKhg"  ><FAIcon icon="fa-solid fa-play"  /></a> (en los 4 casos C-D-E en clave de E), en la estrofa inicial de <a class="lnk"  href="#mantenha">Mantenha o respeito</a> (D-E-F# en clave e F#), en el estribillo de <a target="_blank" href="http://www.guitaretab.com/f/foo-fighters/71863.html" >Aurora</a> <a target="_blank" href="https://youtu.be/H6t_g8UZacá?list=RDH6t_g8UZacá"  ><FAIcon icon="fa-solid fa-play"  /></a> (F-G-A en clave de A) o en variaciones cómo en <a class="lnk"  href="#lithium">Lithium</a>, <a class="lnk"  href="#lump" >Lump</a> o <a class="lnk"  href="#evenflow">Even flow</a>, está última incluye el uso de bVI y bVII pero de una forma no-lineal, algo que también pasa en <a class="lnk"  href="#hellogoodbye" >Hello Goodbye</a> y <a class="lnk"  href="#juego" >Juego de Sedución</a>.
+y <a target="_blank" href="https://tabs.últimate-guitar.com/f/faith_no_more/epic_tab.htm" >Epic</a> <a target="_blank" href="https://youtu.be/ZG_k5CSYKhg"  ><FAIcon icon="fa-solid fa-play"  /></a> (en los 4 casos C-D-E en clave de E), en la estrofa inicial de <a class="lnk"  href="#mantenha">Mantenha O Respeito</a> (D-E-F# en clave e F#), en el estribillo de <a target="_blank" href="http://www.guitaretab.com/f/foo-fighters/71863.html" >Aurora</a> <a target="_blank" href="https://youtu.be/H6t_g8UZacá?list=RDH6t_g8UZacá"  ><FAIcon icon="fa-solid fa-play"  /></a> (F-G-A en clave de A) o en variaciones cómo en <a class="lnk"  href="#lithium">Lithium</a>, <a class="lnk"  href="#lump" >Lump</a> o <a class="lnk"  href="#evenflow">Even flow</a>, está última incluye el uso de bVI y bVII pero de una forma no-lineal, algo que también pasa en <a class="lnk"  href="#hellogoodbye" >Hello Goodbye</a> y <a class="lnk"  href="#juego" >Juego de Sedución</a>.
 
 
 
@@ -3478,7 +3478,7 @@ De más está decir que la canción juega concientemente con tal <a class="lnk" 
 &nbsp;A time for kiss and tell
 </code>
 
-Fijense cómo significativamente la aparición del acorde que finalmente será la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> se da sobre la frase "Here she comes..". El truco es muy parecido al que podemos ver en <a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My sweet Lord</a>  en la misma clave.
+Fijense cómo significativamente la aparición del acorde que finalmente será la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> se da sobre la frase "Here she comes..". El truco es muy parecido al que podemos ver en <a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My Sweet Lord</a>  en la misma clave.
 
 
   
@@ -3512,7 +3512,7 @@ Otra que secuencia dicha relación es <a target="_blank" href="https://tabs.últ
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
 
-Al igual que <a class="lnk"  href="#sarajevo" >Miss Sarajevo</a> y <a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My sweet Lord</a>, el próximo ejemplo repite todo el comienzo de la canción varias veces los acordes F#m y B 
+Al igual que <a class="lnk"  href="#sarajevo" >Miss Sarajevo</a> y <a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My Sweet Lord</a>, el próximo ejemplo repite todo el comienzo de la canción varias veces los acordes F#m y B 
 
 
 Pero a diferencia de aquellas, en esta B nunca resuelve directamente a E (no hay <a class="lnk"  href="#refunc" >refuncionalización</a>), por lo cual decididamente se trata de una canción en clave de B mayor con el grado V de la clave menor (F#m).
@@ -5071,7 +5071,7 @@ El uso de un acorde de paso entre <a class="lnk"  href="#bvisolo">bVI</a> y <a c
 &nbsp;<span class="trasluz">|F#m|   |G#º|A  |   |Bm |   |C#m|</span><a class="rojo">D</a><span class="trasluz">  |   |</span><a class="rojo">E</a><span class="trasluz">  |   |F#m</span>
 
 
-&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/planet-hemp/mantenha-respeito/tabs-baixo/" >Mantenha o respeito</a> <a target="_blank" href="https://youtu.be/oQkF3y29nSE"  ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/planet-hemp/mantenha-respeito/tabs-baixo/" >Mantenha O Respeito</a> <a target="_blank" href="https://youtu.be/oQkF3y29nSE"  ><FAIcon icon="fa-solid fa-play"  /></a>
 
 
 &nbsp; F#        C#    C       B
@@ -5085,14 +5085,14 @@ El uso de un acorde de paso entre <a class="lnk"  href="#bvisolo">bVI</a> y <a c
 &nbsp; F#               C#       C      B
 &nbsp;Se você tem amor pelo que tem no peito
 
-&nbsp;D2 más mantenha o respeito
+&nbsp;D2 más Mantenha O Respeito
 
 &nbsp; F#     C#      C       B     <a class="magentaDom">Bb</a>     B     C
-&nbsp;D2 más mantenha o respeito
+&nbsp;D2 más Mantenha O Respeito
 &nbsp; F#     C#      C       B     <a class="magentaDom">Bb</a>     B     C
-&nbsp;D2 más mantenha o respeito
+&nbsp;D2 más Mantenha O Respeito
 &nbsp; F#     C#      C       B     <a class="magentaDom">Bb</a>     B     C
-&nbsp;D2 más mantenha o respeito
+&nbsp;D2 más Mantenha O Respeito
 
 &nbsp;C: acorde de paso entre C# y B
 &nbsp;<a class="rojo">D</a>-<a class="rojo">E</a>-F#: ver <a class="lnk"  href="#bVI-bVII-I">bVI-bVII-I</a>

@@ -2703,10 +2703,10 @@ En clave de E:
 &nbsp;|E  |   |F#m|   |G#m|A  |   |B  |   |C#m|   |D#º|E
 
 
-&nbsp;<a target="_blank" href="http://www.e-chords.com/chords|George-harrison/my-sweet-lord" >My sweet Lord</a> <a target="_blank" href="https://youtu.be/0kNGnIKUdMI"   ><FAIcon icon="fa-solid fa-play"  /></a>
+&nbsp;<a target="_blank" href="http://www.e-chords.com/chords|George-harrison/my-sweet-lord" >My Sweet Lord</a> <a target="_blank" href="https://youtu.be/0kNGnIKUdMI"   ><FAIcon icon="fa-solid fa-play"  /></a>
 
 &nbsp;F#m    B
-&nbsp;My sweet Lord
+&nbsp;My Sweet Lord
 &nbsp;         F#m    B
 &nbsp;ohhh my Lord
 &nbsp;         F#m    B

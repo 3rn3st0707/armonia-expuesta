@@ -394,7 +394,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#lithium" >Lithium</a><br />
 <a class="lnk"  href="/armonia/arm3#littlewing" >Little Wing</a><br />
 <a class="lnk"  href="/armonia/arm2#VdeV-I" >Locomotion</a><br />
-<a class="lnk"  href="/armonia/arm2#lovehermadly" >Love Her madly</a><br />
+<a class="lnk"  href="/armonia/arm2#lovehermadly" >Love Her Madly</a><br />
 <a class="lnk"  href="/armonia/arm3#lovehurts" >Love Hurts</a><br />
 <a class="lnk"  href="/armonia/arm3#lovely" >Lovely Rita</a><br />
 <a class="lnk"  href="/armonia/arm2#lovestreet" >Love Street</a><br />
@@ -402,7 +402,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#loser">Loser</a><br />
 <a class="lnk"  href="/category/módulos-técnicos#losing">Losing</a><br />
 <a class="lnk"  href="/armonia/arm3#lump">Lump</a><br />
-<a class="lnk"  href="/armonia/arm3#mantenha" >Mantenha o respeito</a><br />
+<a class="lnk"  href="/armonia/arm3#mantenha" >Mantenha O Respeito</a><br />
 <a class="lnk"  href="/armonia/arm3#pontiac" >Mariposa Pontiac</a><br />
 <a class="lnk"  href="/armonia/arm3#mustard">Mean Mr Mustard</a><br />
 <a class="lnk"  href="/armonia/arm3#refunc">Mi novia se cayó<br /> en un pozo ciego</a><br />
@@ -412,11 +412,11 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#morethanafeeling">More Than A Feeling</a><br />
 <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's Little Helper</a><br />
 <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My sweet Lord</a><br />
-<a class="lnk"  href="/armonia/arm3#neversay">Never say goodbye</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My Sweet Lord</a><br />
+<a class="lnk"  href="/armonia/arm3#neversay">Never Say Goodbye</a><br />
 <a class="lnk"  href="/armonia/arm3#norain" >No Rain</a><br />
 <a class="lnk"  href="/armonia/arm3#nwood" >Norwegian Wood</a><br />
-<a class="lnk"  href="/armonia/arm2#2u">Nothing compares 2U</a><br />
+<a class="lnk"  href="/armonia/arm2#2u">Nothing Compares 2U</a><br />
 <a class="lnk"  href="/armonia/arm3#ohdarling">Oh! Darling</a><br />
 <a class="lnk"  href="/armonia/arm2#one">One</a><br />
 <a class="lnk"  href="/armonia/arm3#oneinamillon">One In A Millon</a><br />
