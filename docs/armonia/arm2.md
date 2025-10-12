@@ -7,7 +7,7 @@ sidebar_position: 2
  <hr style={{  marginTop: '2em' }}  />
 
 <p class="md_footnote_size">
-Este módulo se ocupa principalmente de ejemplos con dominantes secundarios, mientras que el módulo 1 se ocupa principalmente de aspectos puramente diatonicos y el módulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitira navegar libremente entre módulos pero para los principiantes recomiendo una lectura más lineal de estos.
+Este módulo se ocupa principalmente de ejemplos con dominantes secundarios, mientras qué el módulo 1 se ocupa principalmente de aspectos puramente diatónicos y el módulo 3 a los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo menor</a>. Un amplio linkeado le permitirá navegar libremente entre módulos pero para los principiantes recomiendo una lectura más lineal de estos.
 </p>
 
  <hr style={{  marginBottom: '2em' }}  />
@@ -19,20 +19,20 @@ Este módulo se ocupa principalmente de ejemplos con dominantes secundarios, mie
 ##  Dominante de IV
 
 
-Imaginemos ahora que deseamos pasar de la clave de D a la de G (un <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a> de IV más adelate ósea G es IV de D). 
+Imaginemos ahora qué deseamos pasar de la clave de D a la de G (un <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a> de IV más adelate ósea G es IV de D). 
 
 
 
-Por tener ese parentesco tan cercano de ser IV de la original, la nueva clave de G tendria muchos acordes en común con la clave D, no todos cómo las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>, pero aún así varios.
+Por tener ese parentesco tan cercano de ser IV de la original, la nueva clave de G tendria muchos acordes en común con la clave D, no todos como las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>, pero aún así varios.
 
 
 
-Está claro que <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> cómo haciamos en las claves menores en (caso de la modulación entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde que resulte ser <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >el dominante</a> de la nueva clave. 
+esta claro que<a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> como haciamos en las claves menores en (caso de la modulación entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde qué resulte ser <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >el dominante</a> de la nueva clave. 
 
 
 
 
-Ese acorde resulta ser el acorde I (<a target="_blank" href="https://en.wikipedia.org/wiki/Tonic_(music)" >tónica</a> si se lo usa sin dicha 7ma menor) de la clave original, por lo que al convertirlo en un <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> I se vuelve VdeIV o una especie de pivot a un cambio temporal de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >centro tonal</a>, aquí el ejemplo:
+Ese acorde resulta ser el acorde I (<a target="_blank" href="https://en.wikipedia.org/wiki/Tonic_(music)" >tónica</a> si se lo usa sin dicha 7ma menor) de la clave original, por lo qué al convertirlo en un <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> I se vuelve VdeIV o una especie de pivot a un cambio temporal de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >centro tonal</a>, aquí el ejemplo:
 
 <code>
 
@@ -71,26 +71,26 @@ Ese acorde resulta ser el acorde I (<a target="_blank" href="https://en.wikipedi
 
 
 
-Como pueden ver, además de lo indicado con el acorde D pasando a D7, la misma lógica que antes habíamos usado para <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >convertir un V natural menor en un dominante</a> se utiliza con otros acordes de la clave (<a class="lnk"  href="#dom-sec" >dominantes secundarios</a>) tal cómo se indica al pie de la tablatura: F#m pasa a ser F#7 para ser dominante de Bm, y Em pasa a ser E7 para actuar cómo dominante de A. 
+Como pueden ver, además de lo indicado con el acorde D pasando a D7, la misma lógica qué antes habíamos usado para <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >convertir un V natural menor en un dominante</a> se utiliza con otros acordes de la clave (<a class="lnk"  href="#dom-sec" >dominantes secundarios</a>) tal como se indica al pie de la tablatura: F#m pasa a ser F#7 para ser dominante de Bm, y Em pasa a ser E7 para actuar como dominante de A. 
 
 
 
 
-Cabe aclarar que en estos casos no se trata de un cambio de <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> bien establecido (ver <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a>) sino más bien de un breve recurso tonal que ayuda a darle "tracción" a la progresión de acordes por medio de las 7más menores y las terceras mayores que forman una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a> que "pide" <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución</a> sobre el acorde del cual es V. 
+Cabe aclarar qué en estos casos no se trata de un cambio de <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> bien establecido (ver <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a>) sino más bien de un breve recurso tonal qué ayuda a darle "tracción" a la progresión de acordes por medio de las 7más menores y las terceras mayores qué forman una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a> que"pide" <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución</a> sobre el acorde del cuál es V. 
 
 
 
 
 
-Por otro lado esto de comenzar el puente con I-VdeIV-IV y terminarlo en <a class="lnk"  href="#dom-sec" >VdeV</a>-V es casí una convención de la balada tipo años 50's cómo por ejemplo <a class="lnk"  href="#anna" >Anna</a> que estando en clave de D también comienza su puente con D-D7-G (I-VdeIV-IV) y lo termina en VdeV-V (E7-A7). 
+Por otro lado esto de comenzar el puente con I-VdeIV-IV y terminarlo en <a class="lnk"  href="#dom-sec" >VdeV</a>-V es casí una convención de la balada tipo años 50's como por ejemplo <a class="lnk"  href="#anna" >Anna</a> qué estando en clave de D también comienza su puente con D-D7-G (I-VdeIV-IV) y lo termina en VdeV-V (E7-A7). 
 
 
 
-La función de <a class="lnk"  href="#dom-sec" >VdeV</a> (con su tercera elevada medio semitono respecto a la natural para la clave) en esta convención es el de elevar la línea melódica por encima del resto de la canción, justo al final del puente. 
+La función de <a class="lnk"  href="#dom-sec" >VdeV</a> (con su tercera elevada medio semitono respecto a la natural para la clave) en está convención es el de elevar la línea melódica por encima del resto de la canción, justo al final del puente. 
 
 
 
-Paul McCartney rescataría esta tradición años más tarde con <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/i-will" >I will</a> <a target="_blank" href="https://www.youtube.com/watch?v=JGnNQM_9q-w"  ><FAIcon icon="fa-solid fa-play"  /></a>, que, estando en clave de F empieza su puente en Bb (IV) y lo termina en G7-C (<a class="lnk"  href="#dom-sec" >VdeV</a>-V).
+Paul McCartney rescataría está tradición años más tarde con <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/i-will" >I will</a> <a target="_blank" href="https://www.youtube.com/watch?v=JGnNQM_9q-w"  ><FAIcon icon="fa-solid fa-play"  /></a>, que, estando en clave de F empieza su puente en Bb (IV) y lo termina en G7-C (<a class="lnk"  href="#dom-sec" >VdeV</a>-V).
 
 
 
@@ -101,15 +101,15 @@ En este último caso por hacer el puente uso del ii natural (Gm) antes del VdeV 
 <center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
 
 
-Volviendo a VdeIV, otros ejemplos con un uso menos "cliché" de VdeIV que podemos ver graficados con los siguientes links son <a class="lnk"  href="/armonia/arm3#fornoone" >For No One</a>, <a class="lnk"  href="/armonia/arm3#thingswe">Things we said today</a>, <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#younever" >You Never Give Me Your Money</a> y <a class="lnk"  href="/armonia/arm3#ohdarling">Oh! Darling</a>.
+Volviendo a VdeIV, otros ejemplos con un uso menos "cliché" de VdeIV qué podemos ver graficados con los siguientes links son <a class="lnk"  href="/armonia/arm3#fornoone" >For No One</a>, <a class="lnk"  href="/armonia/arm3#thingswe">Things we said today</a>, <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#younever" >You Never Give Me Your Money</a> y <a class="lnk"  href="/armonia/arm3#ohdarling">Oh! Darling</a>.
 
 
 
-Como ya dijimos, el acorde de 7ma dominante es la version "vertical" (interna del acorde) de la disonancia funcional que en las progresiones <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a> y <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se da "horizontalamente" (en el cambio entre un acorde y otro) y en la sección <a class="lnk"  href="#frommetoyou" >modulación a IV mediante ii-V-I</a> puden ver la modulación a la misma clave de IV pero con dichas progresiones.
+Como ya dijimos, el acorde de 7ma dominante es la versión "vertical" (interna del acorde) de la disonancia funcional qué en las progresiones <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a> y <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se da "horizontalamente" (en el cambio entre un acorde y otro) y en la sección <a class="lnk"  href="#frommetoyou" >modulación a IV mediante ii-V-I</a> puden ver la modulación a la misma clave de IV pero con dichas progresiones.
 
 
 
-Pero la sección que sigue continúa con el tipo de puente años 50s que recién vimos a fin de mostrar un juego cromático extra que suele darse en la misma y que es un cliché muy usado:
+Pero la sección qué rigue continúa con el tipo de puente años 50s qué recién vimos a fin de mostrar un juego cromático extra qué ruele darse en la misma y qué es un cliché muy usado:
 
 
 
@@ -147,12 +147,12 @@ Intro A E7 X2
 </code>
 
 
-La inclusión de un acorde ajeno a la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de A mayor aquí, es decir el acorde del grado IV pero con una tercera menor (Dm) responde a que esa tercera menor (F en el acorde de Dm) permite extender el juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> que se da entre VdeIV y IV, A7 y D en este caso: la nota G del acorde A7 es seguida por la nota F# del acorde D que es seguido por la nota F del acorde Dm que es seguida por la nota E del acorde A describiendo una linea melodiaca cromatica descendente G-F#-F-E como resultado de la progresión de acordes A7-D-Dm-A. 
+La inclusión de un acorde ajeno a la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de A mayor aquí, es decir el acorde del grado IV pero con una tercera menor (Dm) responde a qué esa tercera menor (F en el acorde de Dm) permite extender el juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> qué se da entre VdeIV y IV, A7 y D en este caso: la nota G del acorde A7 es seguida por la nota F# del acorde D qué es seguido por la nota F del acorde Dm qué es seguida por la nota E del acorde A describiendo una linea melodíaca crómatica descendente G-F#-F-E como resultado de la progresión de acordes A7-D-Dm-A. 
 
 
 
 
-También podemos ver que <a class="lnk"  href="#domiv" >VdeIV</a> (A7 en clave de A) aparece cómo un <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acorde de paso</a>, típicamente para este tipo de acordes, tocado brevemente durante un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> y de hecho Dm cae en el siguiente tiempo débil. Algo de hecho muy usual para una progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I. Veamos esta nota al respecto:
+También podemos ver que<a class="lnk"  href="#domiv" >VdeIV</a> (A7 en clave de A) aparece como un <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acorde de paso</a>, típicamente para este tipo de acordes, tocado brevemente durante un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a> y de hecho Dm cae en el siguiente tiempo débil. Algo de hecho muy usual para una progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I. Veamos está nota al respecto:
 
 
 <a class="" id="palestrina"></a>
@@ -168,7 +168,7 @@ Son varios los ejemplos en este ebook donde un acorde disonante es utilizado com
 
 
 
-Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuido</a>, caso que podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> (<a class="lnk"  href="/armonia/arm1#michelle+" >ver más</a>) y casi todos los ejemplos que se ven en la <a class="lnk"  href="/category/módulos-técnicos#meddim" >sección sobre el acorde medio-disminuido</a>.
+Pero es todavía más común esa misma utilización de un acorde <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuido</a>, caso qué podemos ver graficado en <a class="lnk"  href="#ififellpuente" >If I Fell</a>, <a class="lnk"  href="/armonia/arm3#strawberry" >Strawberry Fields Forever</a> , <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a>, <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a>   y casi todos los ejemplos qué se ven en la <a class="lnk"  href="/category/módulos-técnicos#meddim" >sección sobre el acorde medio-disminuido</a>.
 
 
 
@@ -181,19 +181,19 @@ sobre cuyo estilo podemos leer en <a href="https://en.wikipedia.org/wiki/Giovann
 
 
 
->"Una de las marcas caracteristicas del estilo de Palestrina es que las <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancias</a> están típicamente relegadas a los <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempos débiles</a>. Esto produce un tipo más suave y consonante de <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> que ahora es considerada la definitiva de la música del renacimiento tardio debido a la posición de Palestrina como principal compositor europeo en ese momento. El estilo de Palestrina hoy en día es muy estudiado en el ambito académico como la base del <a href="https://es.wikipedia.org/wiki/Contrapunto" target="_blank">contrapunto</a> renancentista."
+>"Una de las marcas características del estilo de Palestrina es qué las <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancias</a> estan típicamente relegadas a los <a href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" target="_blank">tiempos débiles</a>. Esto produce un tipo más suave y consonante de <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> qué ahora es considerada la definitiva de la música del renacimiento tardio debido a la posición de Palestrina como principal compositor europeo en ese momento. El estilo de Palestrina hoy en día es muy estudiado en el ambito académico como la base del <a href="https://es.wikipedia.org/wiki/Contrapunto" target="_blank">contrapunto</a> renancentista."
 
 
 
 
-Existe la leyenda, de la cual no hay pruevas, de que Palestrina desarrollo su estilo para vencer la oposición del <a href="https://es.wikipedia.org/wiki/Concilio_de_Trento" target="_blank">Concilio de Trento</a> al uso de la <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> en la música religiosa.
+Existe la leyenda, de la cuál no hay pruevas, de qué palestrina desarrollo su estilo para vencer la oposición del <a href="https://es.wikipedia.org/wiki/Concilio_de_Trento" target="_blank">Concilio de Trento</a> al uso de la <a href="https://es.wikipedia.org/wiki/Polifon%C3%ADa" target="_blank">polifonía</a> en la música religiosa.
 		
 
 
-Verdad o mito lo cierto es que <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> se hizo eco del estilo de Palestrina en el capítulo *"<a href="http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Culture_industry_1.shtml" target="_blank">Industria Cultural</a>"* de su obra *"<a href="/textos/ilustracion" class="lnk">Dialéctica de la ilustración</a>"* cuando decidio hacer un paralelismo (ciertamente critico) entre la autodiciplinación religiosa de Palestrina y la tendencia a la estándarización de los arregladores de Jazz modernos:
+Verdad o mito lo cierto es que<a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> se hizo eco del estilo de Palestrina en el capítulo *"<a href="http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Culture_industry_1.shtml" target="_blank">Industria Cultural</a>"* de su obra *"<a href="/textos/ilustracion" class="lnk">Dialéctica de la ilustración</a>"* cuándo decidio hacer un paralelismo (ciertamente critico) entre la autodiciplinación religiosa de Palestrina y la tendencia a la estandarización de los arregladores de Jazz modernos:
  
 >"Ni el mismisimo Palestrina ubiese puesto tanto celo en eliminar la disonancia no preparada e irresuelta como un arrangeur de música de jazz elimina hoy toda cadencia
-que no se adecué perfectamente a su jerga"
+queno se adecué perfectamente a su jerga"
 
 </details>
 
@@ -202,9 +202,9 @@ que no se adecué perfectamente a su jerga"
 
 
 
-El proximo ejemplo rompe con el cliche de que en una progresión VdeIV-IV-iv-I lo acordes VdeIV y iv necesariamente caigan en tiempos debiles y lo hace extendiendo notablemente los compases que los acordes son sostenidos.
+El proximo ejemplo rompe con el cliche de qué en una progresión VdeIV-IV-iv-I lo acordes VdeIV y iv necesariamente caigan en tiempos debiles y lo hace extendiendo notablemente los compases qué los acordes son sostenidos.
 
-Tambien rompe con el clicche de que Iv-iv (G-Gm e clave de D) tengan un sentido resolutorio inmediato, dado que G-Gm no cambian al acorde D (tónica) sino al acorde E7 (<a class="lnk"  href="#dom-sec" >VdeV</a> en clave de D)
+también rompe con el cliche de qué iv-iv (G-Gm e clave de D) tengan un sentido resolutorio inmediato, dado qué g-Gm no cambian al acorde D (tónica) sino al acorde E7 (<a class="lnk"  href="#dom-sec" >VdeV</a> en clave de D)
 
 
 
@@ -256,7 +256,7 @@ Tambien rompe con el clicche de que Iv-iv (G-Gm e clave de D) tengan un sentido 
  
 <a class="anchor" id="ififellpuente"></a>
 
-La misma banda que popularizo el cover q del tema que acabamos de analizar, incluiría un par de albumes más tarde, un tema propio también en clave de D, también incluyendo la misma inusual duracion de compases en la progresion VdeIv-IV-iv y también evitando que esta resuelva directamente en I sino interponiendo una rápida progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (Bb-C-D en clave de D) entre Gm y D:
+La misma banda qué popularizo el cover q del tema qué acabamos de analizar, incluiría un par de albumes más tarde, un tema propio también en clave de D, también incluyendo la misma inusual duración de compases en la progresión VdeIv-IV-iv y también evitando qué esta resuelva directamente en I sino interponiendo una rápida progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (Bb-C-D en clave de D) entre Gm y D:
 
 
 <code>
@@ -300,20 +300,20 @@ La misma banda que popularizo el cover q del tema que acabamos de analizar, incl
 &nbsp;<a class="rojo">Bb-C</a>-D: <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a>
 </code>
 
-<p class="md_footnote_size">Notese que el numero inusual de compases dado al cambio IV-iv (G-<a class="rojo">Gm</a>) en <a class="lnk"  href="#anna" >Anna</a> en la misma clave  aquí se repite pero "incrustando" una progresion <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> tambien en clave de D.
+<p class="md_footnote_size">Notese qué el número inusual de compases dado al cambio IV-iv (G-<a class="rojo">Gm</a>) en <a class="lnk"  href="#anna" >Anna</a> en la misma clave  aquí se repite pero "incrustando" una progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> (<a class="rojo">Bb-C</a>-D) entre <a class="rojo">Gm</a> y D cuyo tempo es identico a esa progresión en <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a> también en clave de D.
 </p>
 
 
-Aquí <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) con lo cual los Beatles logran darle una vuelta de turca más a uno s de us recursos favoritos: la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a>
+Aquí <a class="lnk"  href="#domiv" >VdeIV</a> (D7/9) no cae en un <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempo débil</a>, más aún, aparece un tanto sorpresivamente en el mismo lugar donde nos habíamos habituado a escuchar a una <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >resolución V-I</a> (A7-D7/9 en vez del A7-D de la estrofa anterior) con lo cuál los Beatles logran darle una vuelta de turca más a uno s de us recursos favoritos: la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a>
 
 
 
-Ademas D7/9 ocupa tanto el tiempo fuerte cómo el posterior débil, con lo cual este puente logra eliminar el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> cómo <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, algo que ya habian hecho en la misma clave en su cover de <a class="lnk"  href="#anna" >Anna</a>.
+además D7/9 ocupa tanto el tiempo fuerte como el posterior débil, con lo cuál este puente logra eliminar el cliché de <a class="lnk"  href="#domiv" >VdeIV</a> y iv menor cayendo siempre en <a target="_blank" href="http://música.fakiro.com/solfeo/tiempos-fuertes-y-débiles.html" >tiempos débiles</a> como <a target="_blank" href="http://armonía-musical.blogspot.com.ar/2008/11/tutorial-nivel-medio-acordes-de-paso.html" >acordes de paso</a>, algo qué va habian hecho en la misma clave en su cover de <a class="lnk"  href="#anna" >Anna</a>.
 
 <a class="anchor" id="thatthing"></a>
 
-Notese también que aun antes del puente el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm que si aparece más adelante). Esto es típico de otras baladas beatle como <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1040.html" >Across
-the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave de D, Nowhere Man y Real Love (Am en clave de E en ambos casos) o <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (Cm en clave de G) por lo que no es de extrañar que sea utilizado también como un elemento de caracterización en esta paródia pseudo-beatle: 
+Notese también qué aun antes del puente el acorde Gm (iv menor) ya se utiliza sólo, es decir no necesariamente como parte de una progresión Iv-iv (G-Gm qué ri aparece más adelante). Esto es típico de otras baladas beatle como <a target="_blank" href="http://www.guitaretab.com/B/Beatles/1040.html" >Across
+the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIcon icon="fa-solid fa-play"  /></a> en la misma clave de D, Nowhere Man y Real Love (Am en clave de E en ambos casos) o <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (Cm en clave de G) por lo qué no es de extrañar qué rea utilizado también como un elemento de caracterización en está paródia pseudo-beatle: 
 
 
 
@@ -389,13 +389,10 @@ the universe</a> <a target="_blank" href="https://youtu.be/zyEdqOWAE6k"  ><FAIco
 </code>
 
 
-Noten que por estar muchas de las canciones  que incluyen Iv-iv-I escritas o inspiradas en el estilo predominante entre los años 20s y 50s, también hacen mucho uso de otros recurso típicos de la época, cómo lo son los dominantes secundarios, especialmente el turnaround <a class="lnk"  href="#dom-sec" >VdeVdeV-VdeV-V-I</a>, la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> o la <a class="lnk"  href="/armonia/arm3#mod-par">modulación al modo paralelo menor</a>veamos algunos ejemplos:
+Noten qué por estar muchas de las canciones  qué incluyen Iv-iv-I escritas o inspiradas en el estilo predominante entre los años 20s y 50s, también hacen mucho uso de otros recurso típicos de la época, como lo son los dominantes secundarios, especialmente el turnaround <a class="lnk"  href="#dom-sec" >VdeVdeV-VdeV-V-I</a>, la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> o la <a class="lnk"  href="/armonia/arm3#mod-par">modulación al modo paralelo menor</a>veamos algunos ejemplos:
 
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rutles/with_a_girl_like_you_crd.htm" >With a girl like you</a> <a target="_blank" href="https://youtu.be/RS73iuwxA7M" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C parodia de <a class="lnk"  href="#ififellpuente" >If I Fell</a>), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/volver-2.shtml" >Volver</a> <a target="_blank" href="https://youtu.be/kdSnNHErabQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F#/F#m en clave de C# sobre "sentir..."), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/por_una_cabeza-5.shtml" >Por una cabeza</a> <a target="_blank" href="https://youtu.be/SJ1aTPM-dyE" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..mujer que al jurar sonriendo.."), <a class="lnk"  href="#aintshe" >Ain't She Sweet</a> (A/Am en clave de E sobre "..cast an eye in her direction.."), <a target="_blank" href="http://www.e-chords.com/chords/frank-sinatra/my-way" >My way</a> <a target="_blank" href="https://youtu.be/5AVOpNR2PIs" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..travelled each and every highway.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "the door, will you still need..."), en <a class="lnk"  href="#onlyyou">Only You</a> (C/Cm en clave de G sobre "..you Hold My Hand, I understand.."), <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/d/david_lee_roth/just_a_gigolo_crd.htm" >Just a Gigolo</a> <a target="_blank" href="https://youtu.be/PeXjBWN8LO8" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de C sobre "..the end comes I know.."), <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/till-there-was-you" >Till there was you</a> <a target="_blank" href="https://youtu.be/jTGuP_hpvWo" ><FAIcon icon="fa-solid fa-play"  /></a> (Bb/Bbm en clave de F sobre "..and there was music and wondefull roses..."), <a target="_blank" href="https://www.cifraclub.com/the-beatles/devil-in-her-heart/" >Devil in her heart</a> <a target="_blank" href="https://www.youtube.com/watch?v=oMOf6Vm3Ye8"  ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I ll take my chances for romance.."), <a target="_blank" href="https://tabs.últimate-guitar.com/B/Bobby_vinton/Blue_velvet_crd.htm" >Blue velvet</a> <a target="_blank" href="https://youtu.be/icfq_foa5Mo" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..Softer than satin was.."), <a target="_blank" href="https://www.cifraclub.com/guns-n-roses/since-dont-have-you-/" >Since I don't have you</a> <a target="_blank" href="https://youtu.be/IYOYlqOitDA" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I don't have anything.."), <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm sobre "..all undone..").
-
-
-
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rutles/with_a_girl_like_you_crd.htm" >With a girl like you</a> <a target="_blank" href="https://youtu.be/RS73iuwxA7M" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C parodia de <a class="lnk"  href="#ififellpuente" >If I Fell</a>), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/volver-2.shtml" >Volver</a> <a target="_blank" href="https://youtu.be/kdSnNHErabQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F#/F#m en clave de C# sobre "sentir..."), <a target="_blank" href="http://Acordes.lacuerda.net/carlos_gardel/por_una_cabeza-5.shtml" >Por una cabeza</a> <a target="_blank" href="https://youtu.be/SJ1aTPM-dyE" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..mujer qué al jurar sonriendo.."), <a class="lnk"  href="#aintshe" >Ain't She Sweet</a> (A/Am en clave de E sobre "..cast an eye in her direction.."), <a target="_blank" href="http://www.e-chords.com/chords/frank-sinatra/my-way" >My way</a> <a target="_blank" href="https://youtu.be/5AVOpNR2PIs" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..travelled each and every highway.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "the door, will you still need..."), en <a class="lnk"  href="#onlyyou">Only You</a> (C/Cm en clave de G sobre "..you Hold My Hand, I understand.."), <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/d/david_lee_roth/just_a_gigolo_crd.htm" >Just a Gigolo</a> <a target="_blank" href="https://youtu.be/PeXjBWN8LO8" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de C sobre "..the end comes I know.."), <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/till-there-was-you" >Till there was you</a> <a target="_blank" href="https://youtu.be/jTGuP_hpvWo" ><FAIcon icon="fa-solid fa-play"  /></a> (Bb/Bbm en clave de F sobre "..and there was music and wondefull roses..."), <a target="_blank" href="https://www.cifraclub.com/the-beatles/devil-in-her-heart/" >Devil in her heart</a> <a target="_blank" href="https://www.youtube.com/watch?v=oMOf6Vm3Ye8"  ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I ll take my chances for romance.."), <a target="_blank" href="https://tabs.últimate-guitar.com/B/Bobby_vinton/Blue_velvet_crd.htm" >Blue velvet</a> <a target="_blank" href="https://youtu.be/icfq_foa5Mo" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..Softer than satin was.."), <a target="_blank" href="https://www.cifraclub.com/guns-n-roses/since-dont-have-you-/" >Since I don't have you</a> <a target="_blank" href="https://youtu.be/IYOYlqOitDA" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..I don't have anything.."), <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm sobre "..all undone..").
 
 
 
@@ -403,15 +400,18 @@ Noten que por estar muchas de las canciones  que incluyen Iv-iv-I escritas o ins
 
 
 
-Desde ya esto no significa que no existan ejemplos más modernos, por ejemplo <a class="lnk"  href="#creep" >Creep</a> mezcla la progresión la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> con el <a class="lnk"  href="#ivcrom" >juego cromático IV-iv</a> para formar una progresión I-Vdevi-IV-vi (G-B-C-Cm) pese a que la canción es de 1994.
 
 
 
-En <a class="lnk"  href="#blackbird" >Blackbird</a> (C/Cm en clave de G) forma parte de un juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> más complejo que también incluye el uso de <a class="lnk"  href="/category/módulos-técnicos#dism" >acordes disminuidos</a>, <a class="lnk"  href="#des-min" >cromáticas descendentes desde un acorde</a> y <a class="lnk"  href="#colgado" >dominante secundario no-funcional</a> (A7 cómo <a class="lnk"  href="#dom-sec" >VdeV</a>)
+Desde ya esto no significa qué no existan ejemplos más modernos, por ejemplo <a class="lnk"  href="#creep" >Creep</a> mezcla la progresión la progresión <a class="lnk"  href="#dom-rel-men" >I-Vdevi-vi</a> con el <a class="lnk"  href="#ivcrom" >juego cromático IV-iv</a> para formar una progresión I-Vdevi-IV-vi (G-B-C-Cm) pese a qué la canción es de 1994.
 
 
 
-Otros ejemplos más modernos incluyen a <a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/número_2_en_tu_lista.shtml" >Número 2 en tu lista</a> <a target="_blank" href="https://youtu.be/gajfwU1jvds" ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "..pero el es mejor y se noto mi borrachera..."), <a class="lnk"  href="/armonia/arm3#resu" >I Am The Resurrection</a> (E/Em en clave de B sobre "I am the resurection and I am the life.."), <a target="_blank" href="http://www.guitaretab.com/r/ramones/329412.html" >Baby I love you</a> <a target="_blank" href="https://youtu.be/PqZmJ7RGAP4" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..though I'm really tryin' I think I may start cryin'.."), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/julia_ver2_tab.htm" >Julia</a> <a target="_blank" href="https://youtu.be/VyX9sf5uJEg" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..calls me.."), <a target="_blank" href="http://www.guitaretab.com/o/oasís/13664.html" >Dont Look Back In Anger</a> <a target="_blank" href="https://www.youtube.com/watch?v=cmpRLQZkTb8"   ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..so I started a revolution from my bed.."), <a target="_blank" href="http://www.e-chords.com/chords/Aerosmith/Amazing" >Amazing</a> <a target="_blank" href="https://youtu.be/zSmOvYzSeaQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..there were times In My Life.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/277418.html" >You won't see me</a> <a target="_blank" href="https://www.youtube.com/watch?v=VRGaQ6jm1Ak"  ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "..the time that was so hard to.."), <a target="_blank" href="http://www.azchords.com/A/Adamsbryan-tabs-4842/everythingido-tabs-125937.html" >(Everything I Do) I Do It For You</a> <a target="_blank" href="https://youtu.be/ZGoWtY_h4xo" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..walk the wire for you, yeah I'd die for you.."), <a target="_blank" href="http://Acordes.lacuerda.net/raul_porchetto/Bailando_en_la_vereda-2.shtml" >Bailando en la vereda</a> <a target="_blank" href="https://youtu.be/DmUrJ_9u9E8" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..tengo ganas de gritar que nada podra ya parar.."), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/waiting_for_the_sun_crd.htm" >Waiting for the sun</a> <a target="_blank" href="https://www.youtube.com/watch?v=A0kypyGSKsE"  ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..of Eden we raced down.."), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Aerosmith/crazy_crd.htm" >Crazy</a> <a target="_blank" href="https://youtu.be/NMNgbISmF4I"  ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "baby I go crazy").
+En <a class="lnk"  href="#blackbird" >Blackbird</a> (C/Cm en clave de G) forma parte de un juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> más complejo qué también incluye el uso de <a class="lnk"  href="/category/módulos-técnicos#dism" >acordes disminuidos</a>, <a class="lnk"  href="#des-min" >cromáticas descendentes desde un acorde</a> y <a class="lnk"  href="#colgado" >dominante secundario no-funcional</a> (A7 como <a class="lnk"  href="#dom-sec" >VdeV</a>)
+
+
+
+Otros ejemplos más modernos incluyen a <a target="_blank" href="http://Acordes.lacuerda.net/fabulosos/número_2_en_tu_lista.shtml" >Número 2 en tu lista</a> <a target="_blank" href="https://youtu.be/gajfwU1jvds" ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "..pero el es mejor y se noto mi borrachera..."), <a class="lnk"  href="/armonia/arm3#resu" >I Am The Resurrection</a> (E/Em en clave de B sobre "I am the resurection and I am the life.."), <a target="_blank" href="http://www.guitaretab.com/r/ramones/329412.html" >Baby I love you</a> <a target="_blank" href="https://youtu.be/PqZmJ7RGAP4" ><FAIcon icon="fa-solid fa-play"  /></a> (C/Cm en clave de G sobre "..though I'm really tryin' I think I may start cryin'.."), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/julia_ver2_tab.htm" >Julia</a> <a target="_blank" href="https://youtu.be/VyX9sf5uJEg" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..calls me.."), <a target="_blank" href="http://www.guitaretab.com/o/oasís/13664.html" >Dont Look Back In Anger</a> <a target="_blank" href="https://www.youtube.com/watch?v=cmpRLQZkTb8"   ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..so I started a revolution from my bed.."), <a target="_blank" href="http://www.e-chords.com/chords/Aerosmith/Amazing" >Amazing</a> <a target="_blank" href="https://youtu.be/zSmOvYzSeaQ" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..there were times In My Life.."), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/277418.html" >You won't see me</a> <a target="_blank" href="https://www.youtube.com/watch?v=VRGaQ6jm1Ak"  ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "..the time that was so hard to.."), <a target="_blank" href="http://www.azchords.com/A/Adamsbryan-tabs-4842/everythingido-tabs-125937.html" >(Everything I Do) I Do It For You</a> <a target="_blank" href="https://youtu.be/ZGoWtY_h4xo" ><FAIcon icon="fa-solid fa-play"  /></a> (F/Fm en clave de C sobre "..walk the wire for you, yeah I'd die for you.."), <a target="_blank" href="http://Acordes.lacuerda.net/raul_porchetto/Bailando_en_la_vereda-2.shtml" >Bailando en la vereda</a> <a target="_blank" href="https://youtu.be/DmUrJ_9u9E8" ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..tengo ganas de gritar qué nada podra ya parar.."), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_doors/waiting_for_the_sun_crd.htm" >Waiting for the sun</a> <a target="_blank" href="https://www.youtube.com/watch?v=A0kypyGSKsE"  ><FAIcon icon="fa-solid fa-play"  /></a> (G/Gm en clave de D sobre "..of Eden we raced down.."), <a target="_blank" href="https://tabs.últimate-guitar.com/A/Aerosmith/crazy_crd.htm" >Crazy</a> <a target="_blank" href="https://youtu.be/NMNgbISmF4I"  ><FAIcon icon="fa-solid fa-play"  /></a> (D/Dm en clave de A sobre "baby I go crazy").
 
 
 
@@ -419,7 +419,7 @@ Este truco en <a class="lnk"  href="#elloco" >El Loco</a> lo podemos ver grafica
 
 
 
-&nbsp;<a class="lnk"  href="/category/módulos-técnicos#morethanwords">More Than Words</a> también incluye este juego (C/Cm en clave de G sobre "..then you wouldn't have to say..") utilizando una posición de Cm que aprovecha G como cuerda al aire:
+&nbsp;<a class="lnk"  href="/category/módulos-técnicos#morethanwords">More Than Words</a> también incluye este juego (C/Cm en clave de G sobre "..then you wouldn't have to say..") utilizando una posición de Cm qué aprovecha G como cuerda al aire:
 
 <code>
 
@@ -435,7 +435,7 @@ Este truco en <a class="lnk"  href="#elloco" >El Loco</a> lo podemos ver grafica
 
 
 
-&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/donald/tiritando.shtml" >Tiritando (las olas y el viento)</a> <a target="_blank" href="https://youtu.be/K2i1_X9flAM" ><FAIcon icon="fa-solid fa-play"  /></a>  tiene sobre estos acordes su momento de climax (G/Gm en clave de D sobre "..es por eso que he jurado no amarte.." sobre las estrofas previas pueden ver más <a class="lnk"  href="#des-min" >en Esta sección</a>), pero además ese juego G/Gm ya es adelantado en el intro, recurso que recuerda un poco al que se ve en <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> donde el riff que marca la vuelta a la clave original de G desde C es el mismo que se utiliza cómo intro.
+&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/donald/tiritando.shtml" >Tiritando (las olas y el viento)</a> <a target="_blank" href="https://youtu.be/K2i1_X9flAM" ><FAIcon icon="fa-solid fa-play"  /></a>  tiene sobre estos acordes su momento de climax (G/Gm en clave de D sobre "..es por eso qué he jurado no amarte.." sobre las estrofas previas pueden ver más <a class="lnk"  href="#des-min" >en está sección</a>), pero además ese juego G/Gm ya es adelantado en el intro, recurso qué recuerda un poco al qué se ve en <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> donde el riff qué marca la vuelta a la clave original de G desde C es el mismo qué se utiliza como intro.
 
 <a class="anchor" id="follow"></a>
 
@@ -477,37 +477,37 @@ Este truco en <a class="lnk"  href="#elloco" >El Loco</a> lo podemos ver grafica
 &nbsp;<span class="naranja">Dm</span>-<span class="naranja">G</span>: <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V</a> de C
 </code>
 
-Acá podemos ver cómo sorpresivamente <a class="lnk"  href="#domiv" >VdeIV</a> (C7) no resuelve en IV (F) sino que pasa al <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de este ósea ii (Dm), lo cual es una variación de la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a>.
+Acá podemos ver como sorpresivamente <a class="lnk"  href="#domiv" >VdeIV</a> (C7) no resuelve en IV (F) sino qué pasa al <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de este ósea ii (Dm), lo cuál es una variación de la <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a>.
 
 
 
 
-En este caso la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descrita en <a class="lnk"  href="#ivcrom" >IV-iv cliché</a> no se corta, dado que teniendo los <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acordes relativos</a> entre sí 2 de sus 3 notas en común, una de ellas es justo la que se necesita en este caso. 
+En este caso la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descrita en <a class="lnk"  href="#ivcrom" >IV-iv cliché</a> no se corta, dado qué teniendo los <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acordes relativos</a> entre sí 2 de sus 3 notas en común, una de ellas es justo la qué se necesita en este caso. 
 
 
 
-Noten que los acordes Dm que siguen a C7 (<a class="lnk"  href="#domiv" >VdeIV</a>) no están marcados con ningún color, pero el acorde Dm que sigue a C (I) está marcado con color <span class="naranja">naranja</span> al igual que el acorde G que le sigue, cómo una referencia a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> en la clave original de C, luego de esa especie de <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> pasajera a IV que usualmente representa la progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I.
+Noten qué los acordes Dm qué riguen a C7 (<a class="lnk"  href="#domiv" >VdeIV</a>) no estan marcados con ningún color, pero el acorde Dm qué rigue a C (I) está marcado con color <span class="naranja">naranja</span> al igual qué el acorde G qué le sigue, como una referencia a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> en la clave original de C, luego de esa especie de <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> pasajera a IV qué usualmente representa la progresión <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I.
 
 
 
-Comparémosla con dos canciones de la sección <a class="lnk"  href="#vdeii" >modulaciones a ii</a>: <a class="lnk"  href="#fornoone2" >For No One</a> y <a class="lnk"  href="#ijustcalled" >I Just Called To Say I Love You</a> que empiezan en clave de C, pero luego modulan a su ii (Dm). 
+Comparémosla con dos canciones de la sección <a class="lnk"  href="#vdeii" >modulaciones a ii</a>: <a class="lnk"  href="#fornoone2" >For No One</a> y <a class="lnk"  href="#ijustcalled" >I Just Called To Say I Love You</a> qué empiezan en clave de C, pero luego modulan a su ii (Dm). 
 
 
 
-En estos casos la vuelta a la clave de C se da cuando se pasa del acorde Dm al acorde G que además de ser el dominante (V) de C, ni es parte de la clave de Dm, ni a su vez Dm es parte de la G (<a class="lnk"  href="/category/módulos-técnicos#laclave">comparar</a>), con lo cual con la llegada a C, los acordes Dm y G naturalmente tienden a ser reinterpretados cómo ii y V de C (ver <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>).
+En estos casos la vuelta a la clave de C se da cuándo se pasa del acorde Dm al acorde G qué además de ser el dominante (V) de C, ni es parte de la clave de Dm, ni a su vez Dm es parte de la G (<a class="lnk"  href="/category/módulos-técnicos#laclave">comparar</a>), con lo cuál con la llegada a C, los acordes Dm y G naturalmente tienden a ser reinterpretados como ii y V de C (ver <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>).
 
 
 
-En el caso de <a class="lnk"  href="#follow" >I'll Follow The Sun</a> el contraste está dado por el hecho de que al estar precedido por C7 (<a class="lnk"  href="#domiv">VdeIV</a>) Dm tiende a ser interpretado cómo <a class="lnk"  href="/category/módulos-técnicos#aco-rel">acorde relativo menor</a> (o vi) de F (IV), mientras que al estar precedido por C tiende a ser interpretado cómo ii de C, algo que se confirma con el paso al acorde G (V). (ver <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>)..
+En el caso de <a class="lnk"  href="#follow" >I'll Follow The Sun</a> el contraste está dado por el hecho de qué al estar precedido por C7 (<a class="lnk"  href="#domiv">VdeIV</a>) Dm tiende a ser interpretado como <a class="lnk"  href="/category/módulos-técnicos#aco-rel">acorde relativo menor</a> (o vi) de F (IV), mientras qué al estar precedido por C tiende a ser interpretado como ii de C, algo qué se confirma con el paso al acorde G (V). (ver <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>)..
 
 
 
-Este truco viene acompañado por una variación real en la entonacion: En la sección sobre <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >Fundamentos físicos y matemáticos de los intervalos</a> y más específicamente en la sección <a class="lnk"  href="/category/módulos-técnicos#pita">Pitágoras lo hizo primero</a>, vimos que actualmente se utiliza la <a target="_blank" href="https://es.wikipedia.org/wiki/Temperamento_igual" >entonación
-temperada</a> que es menos exacta que la <a target="_blank" href="https://es.wikipedia.org/wiki/Temperamento_justo" >entonación justa</a> que predomino hasta el barroco, pero que a diferencia de esta última, permite el cambio de claves o <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a>, sin desafinar.
+Este truco viene acompañado por una variación real en la entonacion: En la sección sobre <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >Fundamentos físicos y matemáticos de los intervalos</a> y más específicamente en la sección <a class="lnk"  href="/category/módulos-técnicos#pita">Pitágoras lo hizo primero</a>, vimos qué actualmente se utiliza la <a target="_blank" href="https://es.wikipedia.org/wiki/Temperamento_igual" >entonación
+temperada</a> qué es menos exacta qué la <a target="_blank" href="https://es.wikipedia.org/wiki/Temperamento_justo" >entonación justa</a> qué predomino hasta el barroco, pero qué a diferencia de está última, permite el cambio de claves o <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a>, sin desafinar.
 
 
 
-Paradógicamente en la música moderna las disonancias "artificiales" (como <a class="lnk"  href="#domiv">VdeIV</a>, recuerden que el <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> pose una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a>, pero esta solo es natural en el grado <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a>) se utilizan cómo efecto para cambiar la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y de esa forma lograr que en un mismo acorde se puedan cantar las mismas notas pero con cierta variación en en la entonación, tal cómo sucede en el último uso de Dm durante el puente en <a class="lnk"  href="#follow">I'll Follow The Sun</a> y es aún más evidente en el género conocido cómo <a target="_blank" href="https://en.wikipedia.org/wiki/Barbershop_music" >Barbershop vocal harmony</a> <a target="_blank" href="http://www.barbershop.org/how-main-street-made-the-biggest-barbershop-hit-of-the-decade/" ><FAIcon icon="fa-solid fa-play"  /></a>.
+Paradógicamente en la música moderna las disonancias "artificiales" (como <a class="lnk"  href="#domiv">VdeIV</a>, recuerden qué el <a href="/category/módulos-técnicos#aco7"  class="lnk">acorde de séptima dominante</a> pose una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a>, pero está solo es natural en el grado <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a>) se utilizan como efecto para cambiar la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y de esa forma lograr qué en un mismo acorde se puedan cantar las mismas notas pero con cierta variación en en la entonación, tal como sucede en el último uso de Dm durante el puente en <a class="lnk"  href="#follow">I'll Follow The Sun</a> y es aún más evidente en el género conocido como <a target="_blank" href="https://en.wikipedia.org/wiki/Barbershop_music" >Barbershop vocal harmony</a> <a target="_blank" href="http://www.barbershop.org/how-main-street-made-the-biggest-barbershop-hit-of-the-decade/" ><FAIcon icon="fa-solid fa-play"  /></a>.
 
 <a class="anchor" id="seventeen"></a>
 
@@ -516,7 +516,7 @@ Así como en <a class="lnk"  href="#follow">I'll Follow The Sun</a> la <a target
 
 
 
-Pero como en el contexto de una clave mayor el acorde iv menor resulta ser un <a class="lnk"  href="/armonia/arm3#prestados">acorde prestado del modo paralelo menor</a> también lo será su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo mayor</a> que en ese caso resulta ser el <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado</a>.
+Pero como en el contexto de una clave mayor el acorde iv menor resulta ser un <a class="lnk"  href="/armonia/arm3#prestados">acorde prestado del modo paralelo menor</a> también lo será su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo mayor</a> qué en ese caso resulta ser el <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado</a>.
 
 <code>
 
@@ -546,7 +546,7 @@ Pero como en el contexto de una clave mayor el acorde iv menor resulta ser un <a
 
 <span class="rojo">C</span>: <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado del modo paralelo</a>
 
-Para entender porque E, A y B (I, IV, y V) son todos acordes 
+Para entender porque e, A y B (I, IV, y V) son todos acordes 
 de 7ma ver sección <a class="lnk"  href="/category/módulos-técnicos#todas-sept" >todos los acordes básicos con 7ma dominante</a>
 
 Posiciones sugeridas:
@@ -580,11 +580,11 @@ B7: 797877
 
 
 
-Comparando <a class="lnk"  href="/armonia/arm2#shelovesyou">She Loves You</a> con <a class="lnk"  href="#helter">Helter Skelter</a> pudimos ver que el intro del segundo caso usa los mismos acordes que el primero, pero disimula este hecho mediante "acordes parciales" o <a class="lnk"  href="/category/módulos-técnicos#esc-arm">díadas</a>.
+Comparando <a class="lnk"  href="/armonia/arm2#shelovesyou">She Loves You</a> con <a class="lnk"  href="#helter">Helter Skelter</a> pudimos ver qué el intro del segundo caso usa los mismos acordes qué el primero, pero disimula este hecho mediante "acordes parciales" o <a class="lnk"  href="/category/módulos-técnicos#esc-arm">díadas</a>.
 
 
 
-La progresión <a class="lnk"  href="#domiv">VdeIV</a>-IV-iv-I tampoco escapo a esto dado que con un tratamiento similar se la "disimula" en un arreglo un tanto psicodélico de una canción que viene en el mismo album blanco que <a class="lnk"  href="#helter">Helter Skelter</a>:
+La progresión <a class="lnk"  href="#domiv">VdeIV</a>-IV-iv-I tampoco escapo a esto dado qué con un tratamiento similar se la "disimula" en un arreglo un tanto psicodélico de una canción qué viene en el mismo album blanco que<a class="lnk"  href="#helter">Helter Skelter</a>:
 
 
 <code>
@@ -614,11 +614,11 @@ ver el <a class="lnk"  href="/armonia/arm3#dear2">cierre de la estrofa</a>.
 </code>
 
 
-La estrofa inicial consiste de un <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >patrón de digitación</a> sobre un mismo acorde de D, más una <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> decendente C-B-Bb-A, pero esta <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente es la misma que subyaceria a la progresión en esta clave (D7-G-Gm-D) y podemos comprobar de la misma forma que en <a class="lnk"  href="#anna">Anna</a>. De hecho la <a target="_blank" href="https://youtu.be/r3zxN0S4Dxg" >versión de Dear Prudence de U2</a> se toca cómo un <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I en C: C7-F-Fm-C.
+La estrofa inicial consiste de un <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >patrón de digitación</a> sobre un mismo acorde de D, más una <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> decendente C-B-Bb-A, pero está <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente es la misma qué rubyaceria a la progresión en está clave (D7-G-Gm-D) y podemos comprobar de la misma forma qué en <a class="lnk"  href="#anna">Anna</a>. De hecho la <a target="_blank" href="https://youtu.be/r3zxN0S4Dxg" >versión de Dear Prudence de U2</a> se toca como un <a class="lnk"  href="#domiv" >VdeIV</a>-IV-iv-I en C: C7-F-Fm-C.
 
 <a class="anchor" id="julia"></a>
 
-Ahora vamos a ver una canción del mismo album, que está tocada con el mismo patrón de digitación (<a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >Fingerpicking</a>) y que también incluye el juego <a class="lnk"  href="#ivcrom" >IV-iv</a> medio disimulado. De hecho también está en la misma clave, aunque al tocarse con un capo en el 2do traste las posiciones corresponden a los acordes de la clave de C y no la de D. Noten también que en el ejemplo anterior la 6ta cuerda estába bajada a D:
+Ahora vamos a ver una canción del mismo album, qué esta tocada con el mismo patrón de digitación (<a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >Fingerpicking</a>) y qué también incluye el juego <a class="lnk"  href="#ivcrom" >IV-iv</a> medio disimulado. De hecho también está en la misma clave, aunqueal tocarse con un capo en el 2do traste las posiciones corresponden a los acordes de la clave de C y no la de D. Noten también qué en el ejemplo anterior la 6ta cuerda estaba bajada a D:
 
 <code>
 
@@ -640,7 +640,7 @@ F#|----------------1------------|----------------1------------|
 </code>
 
 ><p class="md_footnote_size">
-Recuerden que las posiciones se corresponden a las de IV/iv 
+Recuerden qué las posiciones se corresponden a las de IV/iv 
 en la clave de C (F9/Fm7) y no en la clave de D debido al uso 
 de un capo en el 2do traste.
 </p>
@@ -648,7 +648,7 @@ de un capo en el 2do traste.
 ><p class="md_footnote_size">
 Mismo <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >patrón de digitación</a> en <a target="_blank" href="http://www.azchords.com/B/Beatles-tabs-410/dearprudence-tabs-169857.htm/armonial" >Dear Prudence</a> <a target="_blank" href="https://www.youtube.com/watch?v=UQmznZFi8Ho"  ><FAIcon icon="fa-solid fa-play"  /></a>el intro de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/happiness_is_a_warm_gun_ver2_tab.htm" >Hapiness Is A Warm Gun</a> <a target="_blank" href="https://youtu.be/Ln92Y3exaRs"><FAIcon icon="fa-solid fa-play"  /></a> (muy similar al puente de Julia) 
 <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/octopuss_garden_ver2_tab.htm" >Octopus's Garden</a> <a target="_blank" href="https://youtu.be/c0vFUxE3SrM"><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="http://tabportal.com/files/pink_floyd/A_pillow_of_winds/2299148.html" >A pillow of winds</a> <a target="_blank" href="https://www.youtube.com/watch?v=7Ozh3-DjJNA"  ><FAIcon icon="fa-solid fa-play"  /></a>. Ver comparados 
-esos ejemplos en video <a target="_blank" href="https://youtu.be/dHMUGoYgQU8" >en esta parodia</a>, dado que fue <a target="_blank" href="https://youtu.be/Q3tWkyYXcLc" >Donovan 
+esos ejemplos en video <a target="_blank" href="https://youtu.be/dHMUGoYgQU8" >en está parodia</a>, dado qué fue <a target="_blank" href="https://youtu.be/Q3tWkyYXcLc" >Donovan 
 quien se la enseno a Lennon</a>, por el hecho de pulsar dos cuerdas 
 al mismo tiempo también se lo puede considerar una variación 
 de las <a class="lnk"  href="/category/módulos-técnicos#esc-arm" >díadas</a>.
@@ -663,7 +663,7 @@ son tocados principalmente con <a class="lnk"  href="/category/módulos-técnico
 <a id="joking" class="anchor"></a>
 
 
-Finalmente nos queda por ver el caso en el cual a la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descrita en los ejemplos previos se alarga un semitono más, al interponer un acorde maj7 (acorde mayor con una séptima mayor) entre I y <a class="lnk"  href="#domiv" >VdeIV</a> (<a href="/category/módulos-técnicos#aco7"  class="lnk">acorde mayor con una séptima menor</a>), acá un conocido ejemplo:
+Finalmente nos qué da por ver el caso en el cuál a la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descrita en los ejemplos previos se alarga un semitono más, al interponer un acorde maj7 (acorde mayor con una séptima mayor) entre I y <a class="lnk"  href="#domiv" >VdeIV</a> (<a href="/category/módulos-técnicos#aco7"  class="lnk">acorde mayor con una séptima menor</a>), acá un conocido ejemplo:
 
 
 <code>
@@ -681,7 +681,7 @@ Finalmente nos queda por ver el caso en el cual a la línea <a target="_blank" h
 &nbsp;I messed around with all the rules
 &nbsp;<a class="rojo">Dm</a>               A                E              A
 &nbsp;Apologized then realized I'm not different after all
-&nbsp;A                        A<a target="_blank" href="#des-maj" class="lnk">maj7</a>         <span class="magentaDom">A7</span>         D
+&nbsp;A                        A<a   href="#des-maj" class="lnk">maj7</a>         <span class="magentaDom">A7</span>         D
 &nbsp;Me & the boys thought we had it sussed Valentinos all of us
 &nbsp;<a class="rojo">Dm</a>                      A            E                  A
 &nbsp;My dad said we looked ridiculous but boy we broke some hearts
@@ -691,7 +691,7 @@ Finalmente nos queda por ver el caso en el cual a la línea <a target="_blank" h
 &nbsp;<a class="rojo">Dm</a>: <a class="lnk"  href="/armonia/arm3#prestados">acorde no-diatónico</a> (juego <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromático</a> con IV mayor)     
 </code>
 
-En la proxima sección vamos a estudiar la progresión I-I<a class="lnk"  href="#des-maj">maj7</a>-<a class="lnk"  href="#domiv" >VdeIV</a>-IV por si sola, dado que también se ha ganado su logar propio cómo cliché en la música popular, tal cómo lo hace por si sola su continuación  <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> IV-iv-I en la que se baso toda Esta sección que acá termina:
+En la proxima sección vamos a estudiar la progresión I-I<a class="lnk"  href="#des-maj">maj7</a>-<a class="lnk"  href="#domiv" >VdeIV</a>-IV por si sola, dado qué también se ha ganado su logar propio como cliché en la música popular, tal como lo hace por si sola su continuación  <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> IV-iv-I en la qué se baso toda está sección qué acá termina:
 
 
 
@@ -720,16 +720,16 @@ En la proxima sección vamos a estudiar la progresión I-I<a class="lnk"  href="
 >Ver está progresión en clave de A en <a class="lnk" href="#joking"  >I Was Only Joking</a>
 
 
-Es una popular progresión que podemos escuchar al comienzo de <a class="lnk"  href="/armonia/arm3#something">Something</a>, en <a target="_blank" href="http://Acordes.lacuerda.net/litto_nebbia/solo_se_trata_de_vivir-3.shtml" >Solo se trata de vivir</a> <a target="_blank" href="https://www.youtube.com/watch?v=NWEWBYTOvbQ"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://www.cifraclub.com.br/lenny-kravitz/Aint-over-til-its-over/" >It ain't over 'til it's over</a> <a target="_blank" href="https://www.youtube.com/watch?v=TmENMZFUU_0"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://www.cifraclub.com/led-zeppelin/the-rain-song/" >The rain song</a> <a target="_blank" href="https://youtu.be/zDVnjCwCYCs" ><FAIcon icon="fa-solid fa-play"  /></a> (sobre una <a target="_blank" href="https://en.wikipedia.org/wiki/Open_G_tuning" >afinación abierta de G</a>), parte de su atractivo reside en la escala <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente, esto es nota por nota, que describe.
+Es una popular progresión qué podemos escuchar al comienzo de <a class="lnk"  href="/armonia/arm3#something">Something</a>, en <a target="_blank" href="http://Acordes.lacuerda.net/litto_nebbia/solo_se_trata_de_vivir-3.shtml" >Solo se trata de vivir</a> <a target="_blank" href="https://www.youtube.com/watch?v=NWEWBYTOvbQ"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://www.cifraclub.com.br/lenny-kravitz/Aint-over-til-its-over/" >It ain't over 'til it's over</a> <a target="_blank" href="https://www.youtube.com/watch?v=TmENMZFUU_0"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://www.cifraclub.com/led-zeppelin/the-rain-song/" >The rain song</a> <a target="_blank" href="https://youtu.be/zDVnjCwCYCs" ><FAIcon icon="fa-solid fa-play"  /></a> (sobre una <a target="_blank" href="https://en.wikipedia.org/wiki/Open_G_tuning" >afinación abierta de G</a>), parte de su atractivo reside en la escala <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente, esto es nota por nota, qué describe.
 
 
 
 
-Debido a que el acorde iii es el que naturalmente contiene la 7ma mayor, se puede sustituir Imaj7 por iii sin que se corte la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> tal es el caso que podemos ver en <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> (E-G#m-E7)
+Debido a qué el acorde iii es el qué naturalmente contiene la 7ma mayor, se puede sustituir Imaj7 por iii sin qué se corte la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> tal es el caso qué podemos ver en <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> (E-G#m-E7)
 
 
 
-Por otro lado el acorde <a target="_blank" href="https://sites.google.com/site/zonicstudio/guitarra/2/3-acordes-cuatríadas" >maj7</a> también se puede oír solo en muchas canciones cómo <a target="_blank" href="http://www.guitaretab.com/e/erik-satie/220873.html" >Gymnopedie No 1</a>,  <a target="_blank" href="http://www.e-chords.com/chords/the-doors/Blue-sunday" >Blue Sunday</a> <a target="_blank" href="https://youtu.be/1KpP_f9rPY8" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/f/frankie_avalon/venus_crd.htm" >Venus</a> <a target="_blank" href="https://www.youtube.com/watch?v=kqGwixEOshA"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://mundoacorde.com/c/charles-manson-look-at-your-game-girl-tab_i232199" >Look at your game girl</a> <a target="_blank" href="https://www.youtube.com/watch?v=RgfILrd8HjE"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="http://Acordes.lacuerda.net/piero/soy_pan_soy_paz_soy_más.shtml" >Soy Pan, Soy Paz, Soy más</a> <a target="_blank" href="https://www.youtube.com/watch?v=6Y6HEl7z2.1w"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/pink-floyd/san-tropez" >San Tropez</a> <a target="_blank" href="https://youtu.be/Cv5uuhkS4j8" ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a> o el acorde final de <a class="lnk"  href="#julia" >Julia</a> 
+Por otro lado el acorde <a target="_blank" href="https://sites.google.com/site/zonicstudio/guitarra/2/3-acordes-cuatríadas" >maj7</a> también se puede oír solo en muchas canciones como <a target="_blank" href="http://www.guitaretab.com/e/erik-satie/220873.html" >Gymnopedie No 1</a>,  <a target="_blank" href="http://www.e-chords.com/chords/the-doors/Blue-sunday" >Blue Sunday</a> <a target="_blank" href="https://youtu.be/1KpP_f9rPY8" ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="https://tabs.últimate-guitar.com/f/frankie_avalon/venus_crd.htm" >Venus</a> <a target="_blank" href="https://www.youtube.com/watch?v=kqGwixEOshA"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://mundoacorde.com/c/charles-manson-look-at-your-game-girl-tab_i232199" >Look at your game girl</a> <a target="_blank" href="https://www.youtube.com/watch?v=RgfILrd8HjE"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="http://Acordes.lacuerda.net/piero/soy_pan_soy_paz_soy_más.shtml" >Soy Pan, Soy Paz, Soy más</a> <a target="_blank" href="https://www.youtube.com/watch?v=6Y6HEl7z2.1w"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/pink-floyd/san-tropez" >San Tropez</a> <a target="_blank" href="https://youtu.be/Cv5uuhkS4j8" ><FAIcon icon="fa-solid fa-play"  /></a>, <a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a> o el acorde final de <a class="lnk"  href="#julia" >Julia</a> 
 
 
 
@@ -737,20 +737,20 @@ Por otro lado el acorde <a target="_blank" href="https://sites.google.com/site/z
 También suele ser el acorde tónica en varios standards de jazz y <a target="_blank" href="http://www.etc.ch/~jason/tabs.html" >bossanovas</a>, por ejemplo <a class="lnk"  href="/category/módulos-técnicos#corcovado" >Corcovado</a> resuelve típicamente con V7/9-Imaj7 (C7/9-Fmaj7 siendo C7/9: x32330).
 
 
-&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/Babasonicos/putita-3.shtml" >Putita</a> <a target="_blank" href="https://youtu.be/7siu5MQ_8s0" ><FAIcon icon="fa-solid fa-play"  /></a> comienza justamente con esa resolución C7/9-Fmaj7 repitiendo insistentemente C7/9 cómo <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >dominante</a>, aunque ya no aparece el resto de la canción, donde si aparecen mucho Fmaj7 y Cmaj7.
+&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/Babasonicos/putita-3.shtml" >Putita</a> <a target="_blank" href="https://youtu.be/7siu5MQ_8s0" ><FAIcon icon="fa-solid fa-play"  /></a> comienza justamente con esa resolución C7/9-Fmaj7 repitiendo insistentemente C7/9 como <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >dominante</a>, aunqueya no aparece el resto de la canción, donde si aparecen mucho Fmaj7 y Cmaj7.
 
 
-Es interésante ver en <a class="lnk"  href="#imagine" >Imagine</a> cómo C se convierte en Cmaj7 (ver también A-Amaj7 en <a class="lnk"  href="/armonia/arm3#sheselectric" >She's Electric</a>) justo sobre "..I'm a dreamer" dado que ese es uno de los estados con los que se asocia el sonido del acorde maj7, Lennon repetiria el truco al comienzo de justamente <a target="_blank" href="https://tabs.últimate-guitar.com/j/john_lennon/number_9_dream_crd.htm" >#9 Dream</a> <a target="_blank" href="https://youtu.be/DGFvlnCq-ts" ><FAIcon icon="fa-solid fa-play"  /></a>, que comienza con la evocativa frase "so long ago...", dado que la evocación del pasado es otro de los estados asociados con su sonido.
+Es interésante ver en <a class="lnk"  href="#imagine" >Imagine</a> como C se convierte en Cmaj7 (ver también A-Amaj7 en <a class="lnk"  href="/armonia/arm3#sheselectric" >She's Electric</a>) justo sobre "..I'm a dreamer" dado qué ese es uno de los estados con los qué se asocia el sonido del acorde maj7, Lennon repetiria el truco al comienzo de justamente <a target="_blank" href="https://tabs.últimate-guitar.com/j/john_lennon/number_9_dream_crd.htm" >#9 Dream</a> <a target="_blank" href="https://youtu.be/DGFvlnCq-ts" ><FAIcon icon="fa-solid fa-play"  /></a>, qué comienza con la evocativa frase "so long ago...", dado qué la evocación del pasado es otro de los estados asociados con su sonido.
 
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_smáshing_pumpkins/1979_ver2_tab.htm" >1979</a> <a target="_blank" href="https://www.youtube.com/watch?v=4aeETEoNfOg"  ><FAIcon icon="fa-solid fa-play"  /></a> es la versión noventosa de eso, con sus riff de bajo y guitarra basados en el acorde maj7, en la que el narrador tiene una visión retrospectiva de su adolecencia en el año que da titulo a la canción.
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_smáshing_pumpkins/1979_ver2_tab.htm" >1979</a> <a target="_blank" href="https://www.youtube.com/watch?v=4aeETEoNfOg"  ><FAIcon icon="fa-solid fa-play"  /></a> es la versión noventosa de eso, con sus riff de bajo y guitarra basados en el acorde maj7, en la qué el narrador tiene una visión retrospectiva de su adolecencia en el año qué da titulo a la canción.
 
 
-Algo similar ocurre con el ostencible acorde Cmaj7 que abre <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/see_saw_crd.htm" >See-saw</a> <a target="_blank" href="https://youtu.be/A_rp2UAj1Tg"><FAIcon icon="fa-solid fa-play"  /></a>, titulo que hace referencia al juego infantil que aquí conocemos cómo sube-y-baja, pero seria <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/time_crd.htm" >Time</a> <a target="_blank" href="https://youtu.be/JwYX52.2P2Sk" ><FAIcon icon="fa-solid fa-play"  /></a> una canción posterior pero también de Pink Floyd, la que lo usaria en función de la forma: Mientras que la tensa estrofa inicial en F#m describe el implacáble paso del tiempo, la relajada parte en Dmaj7 arroja una nostalgica mirada al pasado, está canción merece un análisis más cercano para explicar un par de puntos:
+Algo similar ocurre con el ostencible acorde Cmaj7 qué abre <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/see_saw_crd.htm" >See-saw</a> <a target="_blank" href="https://youtu.be/A_rp2UAj1Tg"><FAIcon icon="fa-solid fa-play"  /></a>, titulo qué hace referencia al juego infantil qué aquí conocemos como sube-y-baja, pero seria <a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/time_crd.htm" >Time</a> <a target="_blank" href="https://youtu.be/JwYX52.2P2Sk" ><FAIcon icon="fa-solid fa-play"  /></a> una canción posterior pero también de Pink Floyd, la qué lo usaria en función de la forma: Mientras qué la tensa estrofa inicial en F#m describe el implacáble paso del tiempo, la relajada parte en Dmaj7 arroja una nostalgica mirada al pasado, está canción merece un análisis más cercano para explicar un par de puntos:
 
 
 
-&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/time_crd.htm" >Time</a> <a target="_blank" href="https://youtu.be/JwYX52.2P2Sk" ><FAIcon icon="fa-solid fa-play"  /></a> luego de un comienzo en F#m pasa a una sección en Dmaj7 que utiliza los acordes Dmaj7 (xx0222) y Amaj7 (x03230) y esto tiene una lógica: siendo el acorde maj7 una <a target="_blank" href="https://es.wikipedia.org/wiki/Cuatr%C3%ADada" >tetrada</a> (tiene 4 notas) contiene dentro suyo las 3 notas de la <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríada</a> monor del grado III respecto a su tónica, que por ejemplo seria F#m si la clave fuera D. Inversamente si la clave fuera menor, pongamosle F#m, su acorde tónica estaría contenido dentro del acorde maj en su grado bVI (III y bVI son <a class="lnk"  href="/category/módulos-técnicos#inter" >intervalos complementarios</a>). 
+&nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/p/pink_floyd/time_crd.htm" >Time</a> <a target="_blank" href="https://youtu.be/JwYX52.2P2Sk" ><FAIcon icon="fa-solid fa-play"  /></a> luego de un comienzo en F#m pasa a una sección en Dmaj7 qué utiliza los acordes Dmaj7 (xx0222) y Amaj7 (x03230) y esto tiene una lógica: siendo el acorde maj7 una <a target="_blank" href="https://es.wikipedia.org/wiki/Cuatr%C3%ADada" >tetrada</a> (tiene 4 notas) contiene dentro suyo las 3 notas de la <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríada</a> monor del grado III respecto a su tónica, qué por ejemplo seria F#m si la clave fuera D. Inversamente si la clave fuera menor, pongamosle F#m, su acorde tónica estaría contenido dentro del acorde maj en su grado bVI (III y bVI son <a class="lnk"  href="/category/módulos-técnicos#inter" >intervalos complementarios</a>). 
 
 
 
@@ -758,7 +758,7 @@ Si clickeamos el próximo link para ver la relación de <a class="lnk"  href="/c
 
 
 ```
-X= cuerda que no se toca.
+X= cuerda qué no se toca.
 
   Dmaj7 (xx0222):
  |-----+--F#-+-----+-----+-----+-----+-----+      
@@ -776,14 +776,14 @@ D|-----+-----+-----+-----+-----+-----+-----+
  |-----+-----+-----+--C#-+-----+-----+-----+ 
  |-----+--F#-+-----+-----+-----+-----+-----+ 
  ```
-Es por eso que está <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> recuerda bastante a la <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >modulación entre claves relativas</a>.
+Es por eso qué esta <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> recuerda bastante a la <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >modulación entre claves relativas</a>.
 
 
 
-Debido a que el acorde iii es el que naturalmente contiene la 7ma mayor, se puede sustituir Imaj7 por iii sin que se corte la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> en la progresión que comienza Esta sección, tal es el caso que podemos ver en <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> (E-G#m-E7)
+Debido a qué el acorde iii es el qué naturalmente contiene la 7ma mayor, se puede sustituir Imaj7 por iii sin qué se corte la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> en la progresión qué comienza está sección, tal es el caso qué podemos ver en <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> (E-G#m-E7)
 
 
-También podemos comprobar dicha relación por el juego que se da entre Am y Fmaj7 tanto en <a class="lnk"  href="/category/módulos-técnicos#corcovado" >Corcovado</a> como en <a target="_blank" href="https://www.cifraclub.com/the-beatles/your-mother-should-know/" >Your mother should know</a> <a target="_blank" href="https://youtu.be/Dacáp5Q5qJg"  ><FAIcon icon="fa-solid fa-play"  /></a> y en <a target="_blank" href="http://Acordes.lacuerda.net/Babasonicos/putita-3.shtml" >Putita</a> <a target="_blank" href="https://youtu.be/7siu5MQ_8s0" ><FAIcon icon="fa-solid fa-play"  /></a>.
+También podemos comprobar dicha relación por el juego qué se da entre Am y Fmaj7 tanto en <a class="lnk"  href="/category/módulos-técnicos#corcovado" >Corcovado</a> como en <a target="_blank" href="https://www.cifraclub.com/the-beatles/your-mother-should-know/" >Your mother should know</a> <a target="_blank" href="https://youtu.be/Dacáp5Q5qJg"  ><FAIcon icon="fa-solid fa-play"  /></a> y en <a target="_blank" href="http://Acordes.lacuerda.net/Babasonicos/putita-3.shtml" >Putita</a> <a target="_blank" href="https://youtu.be/7siu5MQ_8s0" ><FAIcon icon="fa-solid fa-play"  /></a>.
 
 
 <a class="anchor" id="des-min"></a>
@@ -806,37 +806,37 @@ Por otro lado, también se puede hacer lo de dicha línea descendente, pero desd
 
 
 ><p class="md_footnote_size">*La nota E es la V del acorde A, mientras C# (VI de Em6) 
-  es la III del acorde A por lo cual pueden remplazar este 
+  es la III del acorde A por lo cuál pueden remplazar este 
   acorde por A (<a class="lnk"  href="#colgado" >VdebVII</a> desde el punto de vista de la clave 
-  de Em) una variación habitual que pueden encontrar en el 
-  uso del acorde B cómo prolongación de la descendente desde 
+  de Em) una variación habitual qué pueden encontrar en el 
+  uso del acorde B como prolongación de la descendente desde 
     F#m en <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/A-taste-of-honey" >A taste of honey</a> <a target="_blank" href="https://www.youtube.com/watch?v=WQH7Xa4A-os"  ><FAIcon icon="fa-solid fa-play"  /></a>
 </p>
 
 
-En la misma clave que lo vemos aquí, lo podemos escuchar en <a class="lnk"  href="/armonia/arm3#crybabycry">Cry Baby Cry</a>, en la parte que está en clave de Em (la canción fluctua entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a> G y Em) cuando canta "The king of Marigold was in the kitchen..." y en <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a> sobre la linea "learn to fly...  all your life" en clave de G.
+En la misma clave qué lo vemos aquí, lo podemos escuchar en <a class="lnk"  href="/armonia/arm3#crybabycry">Cry Baby Cry</a>, en la parte qué esta en clave de Em (la canción fluctua entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a> G y Em) cuándo canta "The king of Marigold was in the kitchen..." y en <a class="lnk"  href="/armonia/arm2#blackbird" >Blackbird</a> sobre la linea "learn to fly...  all your life" en clave de G.
   
 
   
   
-Otros ejemplos celebres incluyen  <a target="_blank" href="http://www.e-chords.com/chords/Almendra/muchacha-ojos-de-papel" >Muchacha ojos de papel</a> <a target="_blank" href="https://www.youtube.com/watch?v=lP7_qMRIXTg"  ><FAIcon icon="fa-solid fa-play"  /></a> también sobre Em (vi en la clave de la canción que es en G) cuando canta "Sueña un sueño despacito entre mis manos hasta...". también se puede escuchar en la estrofa inicial de <a target="_blank" href="http://www.e-chords.com/chords/john-lennon/im-losing-you" >I'm losing you</a> <a target="_blank" href="https://www.youtube.com/watch?v=RexzEnxMpWo"  ><FAIcon icon="fa-solid fa-play"  /></a> que está en clave de Am. También en la estrofa inicial de <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/A-taste-of-honey" >A taste of honey</a> <a target="_blank" href="https://www.youtube.com/watch?v=WQH7Xa4A-os"  ><FAIcon icon="fa-solid fa-play"  /></a> en clave de F#m. Y también lo podemos encontrar en <a target="_blank" href="http://www.guitaretab.com/p/pink-floyd/218143.html" >Shine on you crazy diamond</a> <a target="_blank" href="https://www.youtube.com/watch?v=Fk0V_GGa2XM"  ><FAIcon icon="fa-solid fa-play"  /></a> sobre Gm en la parte que canta "You were caught in the crossfire of..." y sobre el acorde Dm en el intro de <a target="_blank" href="http://www.10acordes.com.ar/letra-de-casanova-turf-6369" >Casanova</a> <a target="_blank" href="https://youtu.be/u0JZlsIpOT8"  ><FAIcon icon="fa-solid fa-play"  /></a>. El famoso intro de <a target="_blank" href="http://www.e-chords.com/chords/led-zeppelin/stairway-to-heaven" >Stairway to heaven</a> <a target="_blank" href="https://www.youtube.com/watch?v=9Q7Vr3yQYWQ"  ><FAIcon icon="fa-solid fa-play"  /></a> es una variación de esta progresión. 
+Otros ejemplos celebres incluyen  <a target="_blank" href="http://www.e-chords.com/chords/Almendra/muchacha-ojos-de-papel" >Muchacha ojos de papel</a> <a target="_blank" href="https://www.youtube.com/watch?v=lP7_qMRIXTg"  ><FAIcon icon="fa-solid fa-play"  /></a> también sobre Em (vi en la clave de la canción qué es en G) cuándo canta "Sueña un sueño despacito entre mis manos hasta...". también se puede escuchar en la estrofa inicial de <a target="_blank" href="http://www.e-chords.com/chords/john-lennon/im-losing-you" >I'm losing you</a> <a target="_blank" href="https://www.youtube.com/watch?v=RexzEnxMpWo"  ><FAIcon icon="fa-solid fa-play"  /></a> qué esta en clave de Am. También en la estrofa inicial de <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/A-taste-of-honey" >A taste of honey</a> <a target="_blank" href="https://www.youtube.com/watch?v=WQH7Xa4A-os"  ><FAIcon icon="fa-solid fa-play"  /></a> en clave de F#m. Y también lo podemos encontrar en <a target="_blank" href="http://www.guitaretab.com/p/pink-floyd/218143.html" >Shine on you crazy diamond</a> <a target="_blank" href="https://www.youtube.com/watch?v=Fk0V_GGa2XM"  ><FAIcon icon="fa-solid fa-play"  /></a> sobre Gm en la parte qué canta "You were caught in the crossfire of..." y sobre el acorde Dm en el intro de <a target="_blank" href="http://www.10acordes.com.ar/letra-de-casanova-turf-6369" >Casanova</a> <a target="_blank" href="https://youtu.be/u0JZlsIpOT8"  ><FAIcon icon="fa-solid fa-play"  /></a>. El famoso intro de <a target="_blank" href="http://www.e-chords.com/chords/led-zeppelin/stairway-to-heaven" >Stairway to heaven</a> <a target="_blank" href="https://www.youtube.com/watch?v=9Q7Vr3yQYWQ"  ><FAIcon icon="fa-solid fa-play"  /></a> es una variación de está progresión. 
 
 
 
-En el gráfico de <a class="lnk"  href="/armonia/arm3#something">Something</a> podemos ver que incluye ambas <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromáticas</a> descendentes desde un acorde: Al comienzo desde el acorde mayor de C cómo ya vimos, y más tarde sobre su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa menor</a> Am sobre la parte que canta "I don't want to leave her now, you know...".
+En el gráfico de <a class="lnk"  href="/armonia/arm3#something">Something</a> podemos ver qué incluye ambas <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromáticas</a> descendentes desde un acorde: Al comienzo desde el acorde mayor de C como ya vimos, y más tarde sobre su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa menor</a> Am sobre la parte qué canta "I don't want to leave her now, you know...".
 
 
 
-&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/1052.html" >And your bird can sing</a> <a target="_blank" href="https://www.youtube.com/watch?v=fJMNgcfnFJs"  ><FAIcon icon="fa-solid fa-play"  /></a> en clave de E mayor lo hace sobre su grado iii es decir G#m sobre la parte que canta "When your prize posessións start to...", 
+&nbsp;<a target="_blank" href="http://www.guitaretab.com/B/Beatles/1052.html" >And your bird can sing</a> <a target="_blank" href="https://www.youtube.com/watch?v=fJMNgcfnFJs"  ><FAIcon icon="fa-solid fa-play"  /></a> en clave de E mayor lo hace sobre su grado iii es decir G#m sobre la parte qué canta "When your prize posessións start to...", 
 
 
 
-&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/donald/tiritando.shtml" >Tiritando</a> <a target="_blank" href="https://youtu.be/K2i1_X9flAM" ><FAIcon icon="fa-solid fa-play"  /></a>  (las olas y el viento) no solo lo hace sobre el relativo (VI ósea Bm en clave de D) en la parte "tiritando caminando..." y el III (F#m en clave de D) sobre "veo la espuma de ..." sino que además ya lo hace en la estrofa inicial sobre Em (II de D) ("sha la la la la")
+&nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/donald/tiritando.shtml" >Tiritando</a> <a target="_blank" href="https://youtu.be/K2i1_X9flAM" ><FAIcon icon="fa-solid fa-play"  /></a>  (las olas y el viento) no solo lo hace sobre el relativo (VI ósea Bm en clave de D) en la parte "tiritando caminando..." y el III (F#m en clave de D) sobre "veo la espuma de ..." sino qué además ya lo hace en la estrofa inicial sobre Em (II de D) ("sha la la la la")
 
 
 
-&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/chico-buarque/que-sera/" >O que sera</a> <a target="_blank" href="https://youtu.be/yh744ic-wBY" ><FAIcon icon="fa-solid fa-play"  /></a> lo hace sobre cada uno de los tres acordes principales de la clave de D menor, es decir Dm, Am y Gm.
-Otra canción que continuamente recurre a estás <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromáticas</a> descendentes sobre varios acordes diferentes, sean mayores o menores es <a target="_blank" href="https://www.cifraclub.com/caetano-veloso/sampa/" >Sampa</a> <a target="_blank" href="https://www.youtube.com/watch?v=btn7E8yYvaM"  ><FAIcon icon="fa-solid fa-play"  /></a>. 
+&nbsp;<a target="_blank" href="https://www.cifraclub.com.br/chico-buarque/que-sera/" >O qué rera</a> <a target="_blank" href="https://youtu.be/yh744ic-wBY" ><FAIcon icon="fa-solid fa-play"  /></a> lo hace sobre cada uno de los tres acordes principales de la clave de D menor, es decir Dm, Am y Gm.
+Otra canción qué continuamente recurre a estas <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromáticas</a> descendentes sobre varios acordes diferentes, sean mayores o menores es <a target="_blank" href="https://www.cifraclub.com/caetano-veloso/sampa/" >Sampa</a> <a target="_blank" href="https://www.youtube.com/watch?v=btn7E8yYvaM"  ><FAIcon icon="fa-solid fa-play"  /></a>. 
 
 
 
@@ -851,16 +851,16 @@ El caso de <a class="lnk"  href="#ijustcalled" >I Just Called To Say I Love You<
 <a class="anchor" id="blackbird"></a>
 
 
-El ejemplo que vamos a ver ahora mezcla está "descendente cromática desde un acorde menor" que estamos viendo con el <a class="lnk"  href="#ivcrom" >juego cromático IV mayor - iv menor</a> pero además tiene otro juego cromático ascendente antes de eso.
+El ejemplo qué vamos a ver ahora mezcla está "descendente cromática desde un acorde menor" qué estamos viendo con el <a class="lnk"  href="#ivcrom" >juego cromático IV mayor - iv menor</a> pero además tiene otro juego cromático ascendente antes de eso.
 
 
 
 
-Al igual que en <a class="lnk"  href="#julia" >Julia</a> y en <a class="lnk"  href="#dear1" >Dear Prudence</a> (que además también tienen el <a class="lnk"  href="#ivcrom" >juego IV-iv</a>) está también tiene una mezcla de <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >fingerpicking</a> con <a class="lnk"  href="/category/módulos-técnicos#esc-arm" >díadas</a> (aunque con un patron diferente) y también está incluida en el album blanco.
+Al igual qué en <a class="lnk"  href="#julia" >Julia</a> y en <a class="lnk"  href="#dear1" >Dear Prudence</a> (queademás también tienen el <a class="lnk"  href="#ivcrom" >juego IV-iv</a>) está también tiene una mezcla de <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >fingerpicking</a> con <a class="lnk"  href="/category/módulos-técnicos#esc-arm" >díadas</a> (aunque con un patron diferente) y también está incluida en el album blanco.
 
 
 
-Pero en este caso no incluire el patron de <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >fingerpicking</a> (<a class="lnk"  href="/category/módulos-técnicos#esc-arm">díadas</a> + <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a>, G como cuerda al aire), en cambio, lo voy a transcribir con los acordes tocados cómo las <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríadas</a> (tres notas) y cuatradas (cuatro notas) que más se parecen al arreglo (incluyendo los digitaciones sugeridas para los <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuidos</a>) a fin de ver cuales son los acordes usualmente asociados con dichas líneas cromáticas:
+Pero en este caso no incluire el patron de <a target="_blank" href="http://www.guitarraviva.com/sección/cursos/curso-de-fingerpicking/" >fingerpicking</a> (<a class="lnk"  href="/category/módulos-técnicos#esc-arm">díadas</a> + <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a>, G como cuerda al aire), en cambio, lo voy a transcribir con los acordes tocados como las <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríadas</a> (tres notas) y cuatradas (cuatro notas) qué más se parecen al arreglo (incluyendo los digitaciones sugeridas para los <a class="lnk"  href="/category/módulos-técnicos#meddim" >medio-disminuidos</a>) a fin de ver cuales son los acordes usualmente asociados con dichas líneas cromáticas:
 
 
 <code>
@@ -905,23 +905,23 @@ Pero en este caso no incluire el patron de <a target="_blank" href="http://www.g
 &nbsp;C-<span class="rojo">Bb</span>: (replica de G-<span class="rojo">F</span>) ver <a class="lnk"  href="/armonia/arm3#I-bVII">I-bVII</a>-IV-bIII.
 </code>
 
-><p class="md_footnote_size">Recuerden que acá los acordes están representados cómo <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríadas</a> pero 
+><p class="md_footnote_size">Recuerden qué acá los acordes estan representados como <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >tríadas</a> pero 
 el arreglo original (de guitarra al menos) en realidad son <a class="lnk"  href="/category/módulos-técnicos#esc-arm" >díadas</a> más una <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a> (G tercera cuerda al aire)
 </p>
 
-Acá podemos ver cómo sobre la frase "Take these broken wings and learn to fly" se da una cromática ascendente que coincide con la raíz de cada acorde (C-<span class="verde">C#º</span>-D-<a class="verde">D#º</a>-Em) siendo está cromática C-C#-D-D#-E. 
+Acá podemos ver como sobre la frase "Take these broken wings and learn to fly" se da una cromática ascendente qué coincide con la raíz de cada acorde (C-<span class="verde">C#º</span>-D-<a class="verde">D#º</a>-Em) siendo está cromática C-C#-D-D#-E. 
 
 
 
-En este punto comienza la <a class="lnk"  href="#des-min" >cromática descendente desde Em</a> (ver gráfico) que invierte la dirección ascendente de la primera cromática: D# es la séptima mayor de Em+7, D es la séptima menor de Em7, C# es la sexta de Em6 y C es la raíz de C.
+En este punto comienza la <a class="lnk"  href="#des-min" >cromática descendente desde Em</a> (ver gráfico) qué invierte la dirección ascendente de la primera cromática: D# es la séptima mayor de Em+7, D es la séptima menor de Em7, C# es la sexta de Em6 y C es la raíz de C.
 
 
 
-Cuando esa cromatica descendente culmina en el acorde de C (IV) empieza de nuevo desde ese mismo acorde dado que su tercera es E y se convierte en D# con el paso al acorde Cm (típico juego <a class="lnk"  href="#ivcrom" >IV-iv</a>) y luego D cómo V del acorde G, C# cómo 3era de A7 (<a class="lnk"  href="#dom-sec" >VdeV</a>) y C cómo tercera de Am7, y en este caso también hay que agregar C pasando a B cómo tercera de G, totalizando una cromática descendente igual a la anterior pero con una nota más.
+Cuando esa crómatica descendente culmina en el acorde de C (IV) empieza de nuevo desde ese mismo acorde dado qué ru tercera es E y se convierte en D# con el paso al acorde Cm (típico juego <a class="lnk"  href="#ivcrom" >IV-iv</a>) y luego D como V del acorde G, C# como 3era de A7 (<a class="lnk"  href="#dom-sec" >VdeV</a>) y C como tercera de Am7, y en este caso también hay qué agregar C pasando a B como tercera de G, totalizando una cromática descendente igual a la anterior pero con una nota más.
 
 
 
-Dado que el acorde Am7 incluye en sus notas el acorde C (<a class="lnk"  href="/armonia/arm3#m7">ver nota</a>) se puede comparar la última parte de esta cromática en A7-Am7-G (<a class="lnk"  href="#dom-sec" >VdeV</a>-ii-I) con la cromática A7-C-G (<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I) que cierra el <a class="lnk"  href="/armonia/arm2#shelovesyou" >intro de She Loves You</a> y que suyace a toda <a class="lnk"  href="#vdevivi" >progresión VdeV-IV-I</a>.
+Dado qué el acorde Am7 incluye en sus notas el acorde C (<a class="lnk"  href="/armonia/arm3#m7">ver nota</a>) se puede comparar la última parte de está cromática en A7-Am7-G (<a class="lnk"  href="#dom-sec" >VdeV</a>-ii-I) con la cromática A7-C-G (<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I) qué cierra el <a class="lnk"  href="/armonia/arm2#shelovesyou" >intro de She Loves You</a> y qué ruyace a toda <a class="lnk"  href="#vdevivi" >progresión VdeV-IV-I</a>.
 
 
 
@@ -929,20 +929,20 @@ Dado que el acorde Am7 incluye en sus notas el acorde C (<a class="lnk"  href="/
 
 <br  />
 
- El estribillo comienza con la progresión F-Em-Dm-C que se puede interpretar cómo IV-iii-ii-I en clave de C, pero en los casos de F y Dm nos muestran cómo la supeposición de una clave mayor (G en este caso) con la clave de su IV (en este caso C) genera acordes que, desde la clave original (G) se consideran <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo</a>. 
+ El estribillo comienza con la progresión F-Em-Dm-C qué se puede interpretar como IV-iii-ii-I en clave de C, pero en los casos de F y Dm nos muestran como la supeposición de una clave mayor (G en este caso) con la clave de su IV (en este caso C) genera acordes que, desde la clave original (G) se consideran <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados del modo paralelo</a>. 
 
 
 
-Para ver esto en más detalle les recomiendo leer las notas a <a class="lnk"  href="#eternalflame">Eternal Flame</a>, dado que justamente modula de G a C, también es interésante notar que por la propia lógica de las relativas, en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> que modula entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C (ósea Em y Am respectivamente) el "acorde de contraste" también es <span class="rojo">F</span>.
+Para ver esto en más detalle les recomiendo leer las notas a <a class="lnk"  href="#eternalflame">Eternal Flame</a>, dado qué justamente modula de G a C, también es interésante notar qué por la propia lógica de las relativas, en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> qué modula entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C (ósea Em y Am respectivamente) el "acorde de contraste" también es <span class="rojo">F</span>.
 
 
 
 
-Otro detalle está en cómo la progresión G-F (<a class="lnk"  href="/armonia/arm3#I-bVII">I-bVII</a>) que comienza el estribillo es replicada con C-Bb (<a class="lnk"  href="/armonia/arm3#should">IV-bIII</a>).
+Otro detalle está en como la progresión G-F (<a class="lnk"  href="/armonia/arm3#I-bVII">I-bVII</a>) qué comienza el estribillo es replicada con C-Bb (<a class="lnk"  href="/armonia/arm3#should">IV-bIII</a>).
 
 
 
-En <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> podemos ver cómo se usa de manera muy similar una progresión descendente para ir de A a F#m (Bm-A-<span class="verde">G#º</span>-F#m cómo iv-bIII-II-i en clave de F#m) pero dicha progresión pasada en otra clave no produce "alteraciónes" dado que las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a> están compuestas por los mismos acordes y A y F#m lo son.
+En <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a> podemos ver como se usa de manera muy similar una progresión descendente para ir de A a F#m (Bm-A-<span class="verde">G#º</span>-F#m como iv-bIII-II-i en clave de F#m) pero dicha progresión pasada en otra clave no produce "alteraciónes" dado qué las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a> estan compuestas por los mismos acordes y A y F#m lo son.
 
 
 
@@ -950,14 +950,14 @@ En <a class="lnk"  href="/armonia/arm3#strawberry">Strawberry Fields Forever</a>
 
 <br  />
 
-En <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> podemos ver que utiliza <a class="lnk"  href="#des-min" >está progresión</a> sobre Fm cómo intro de guitarra (<a class="lnk"  href="/armonia/arm1#michelle+" >ver más</a>) con el truco de que, mediante el V común (C) a ambas <a class="lnk"  href="" >claves paralelas</a>, la estrofa empieza con el acorde de F mayor (ver <a class="lnk"  href="" >claves paralelas</a>). 
+En <a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a> podemos ver qué utiliza <a class="lnk"  href="#des-min" >esta progresión</a> sobre Fm como intro de guitarra (<a class="lnk"  href="/armonia/arm1#michelle+" >ver más</a>) con el truco de que, mediante el V común (C) a ambas <a class="lnk"  href="" >claves paralelas</a>, la estrofa empieza con el acorde de F mayor (ver <a class="lnk"  href="" >claves paralelas</a>). 
 
 
 
 <a id="fixing" class="anchor"></a>
 
 
-En el ejemplo que viene pasa lo contrario: tras un comienzo en F mayor con los acordes F-C+5 (I-V) pasa a hacer la <a class="lnk"  href="#des-min" >cromática descendente</a> desde el acorde Fm (ósea el <a class="lnk"  href="/armonia/arm3#mod-par">paralelo menor</a>):
+En el ejemplo qué viene pasa lo contrario: tras un comienzo en F mayor con los acordes F-C+5 (I-V) pasa a hacer la <a class="lnk"  href="#des-min" >cromática descendente</a> desde el acorde Fm (ósea el <a class="lnk"  href="/armonia/arm3#mod-par">paralelo menor</a>):
 
 <code>
 
@@ -1025,11 +1025,11 @@ Como ya habia explicado tras un comienzo en F mayor con los acordes F-C+5 pasa a
 
 
 
-La siguiente parte en F mayor ("..it really doesn't matter..") repite la progresión I-V en F (F-C) mientras que luego "secuencia" dicha cambio de acorde y melodia cómo I-V en clave de C (C-G sobre "..See the people standing..") dado a que esa parte es una secuenciación o repetición de la parte anterior (En clave de F) a una nueva altura (clave de C), el acorde G mayor no se marca cómo <a class="lnk"  href="#colgado" >VdeV</a> tal cómo habitualmente se haria para ese acorde en clave de F.
+La siguiente parte en F mayor ("..it really doesn't matter..") repite la progresión I-V en F (F-C) mientras qué luego "secuencia" dicha cambio de acorde y melodía como I-V en clave de C (C-G sobre "..See the people standing..") dado a qué esa parte es una secuenciación o repetición de la parte anterior (En clave de F) a una nueva altura (clave de C), el acorde G mayor no se marca como <a class="lnk"  href="#colgado" >VdeV</a> tal como habitualmente se haria para ese acorde en clave de F.
 
 
 
-Otro ejemplo de "secuenciación" de la relación <a class="lnk"  href="/category/módulos-técnicos#rock-quint-asc" >I-V</a> es <a class="lnk"  href="#hotelcalifornia">Hotel California</a>, donde la base sobre la cual se la secuencia es la <a class="lnk"  href="/category/módulos-técnicos#andalusec" >progresión andaluza</a>
+Otro ejemplo de "secuenciación" de la relación <a class="lnk"  href="/category/módulos-técnicos#rock-quint-asc" >I-V</a> es <a class="lnk"  href="#hotelcalifornia">Hotel California</a>, donde la base sobre la cuál se la secuencia es la <a class="lnk"  href="/category/módulos-técnicos#andalusec" >progresión andaluza</a>
 
 
 <a class="anchor" id="frommetoyou"></a>
@@ -1074,11 +1074,11 @@ Otro ejemplo de "secuenciación" de la relación <a class="lnk"  href="/category
 &nbsp;G5+: XX5443, acorde inicial de <a target="_blank" href="http://www.guitaretab.com/c/chuck-berry/80676.html" >School Days</a> <a target="_blank" href="https://youtu.be/DHG5-GxI_Es" ><FAIcon icon="fa-solid fa-play"  /></a>
 </code>
 
-Acá hay un detalle muy importante que notar: El acorde Gm no es natural de la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de C (si lo es G mayor cómo V de C) lo cual por ese contraste al cambiar de acorde de Gm a C nos predispone a escuchar a C ya no cómo I de la clave de C, sino cómo V de la clave de F donde Gm cobra más sentido cómo el ii de dicha clave. 
+Acá hay un detalle muy importante qué notar: El acorde Gm no es natural de la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de C (si lo es G mayor como V de C) lo cuál por ese contraste al cambiar de acorde de Gm a C nos predispone a escuchar a C ya no como I de la clave de C, sino como V de la clave de F donde Gm cobra más sentido como el ii de dicha clave. 
 
 
 
-veamos lo que tenia para decir el mismisimo Sr Paul McCartney:
+veamos lo qué tenia para decir el mismisimo Sr Paul McCartney:
 
 
 
@@ -1088,11 +1088,11 @@ veamos lo que tenia para decir el mismisimo Sr Paul McCartney:
 
 
 
-Claramente lo que McCartney llama "fairly ordinary" y "pretty ordinary" son cambios sobre acordes pertenecientes a la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave diatónica</a> C, mientras que destáca el contraste que ofrece Gm.
+Claramente lo qué mcCartney llama "fairly ordinary" y "pretty ordinary" son cambios sobre acordes pertenecientes a la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave diatónica</a> C, mientras qué destaca el contraste qué ofrece Gm.
 
 
 
-Como a algunos el tema de la reinterpretación funcional de un acorde les puede resultar algo un poco abstracto lo vamos a ver acá en un diagrama de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> que lo hace más intuitivo:
+Como a algunos el tema de la reinterpretación funcional de un acorde les puede resultar algo un poco abstracto lo vamos a ver acá en un diagrama de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> qué lo hace más intuitivo:
 
 <code>
 
@@ -1111,11 +1111,11 @@ Como a algunos el tema de la reinterpretación funcional de un acorde les puede 
 <a class="anchor" id="iwanttoiivi"></a>
 
 
-&nbsp;<a class="lnk"  href="#blackbird">Blackbird</a> también modula (brevemente) a la clave de su IV respecto a la clave original (de G a C) pero atravez de una progresión más larga (F-Em-Dm-C cómo IV-iii-ii-I en clave de C) con lo cual los acordes "contrastantes" con la clave anterior son más de uno.
+&nbsp;<a class="lnk"  href="#blackbird">Blackbird</a> también modula (brevemente) a la clave de su IV respecto a la clave original (de G a C) pero através de una progresión más larga (F-Em-Dm-C como IV-iii-ii-I en clave de C) con lo cuál los acordes "contrastantes" con la clave anterior son más de uno.
 
 
 
-Para entenderlo mejor veamos un caso donde también se modula de G a C pero atravez de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>:
+Para entenderlo mejor veamos un caso donde también se modula de G a C pero através de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>:
 
 <code>
 
@@ -1177,11 +1177,11 @@ Para entenderlo mejor veamos un caso donde también se modula de G a C pero atra
 <a class="anchor" id="eternalflame"></a>
 
 
-En <a class="lnk"  href="#blackbird">Blackbird</a> además de darse esa variante en la dominante (Dm en vez del D mayor natural) también aparece su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo mayor</a> F que es VI de C y <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> respecto a G.
+En <a class="lnk"  href="#blackbird">Blackbird</a> además de darse esa variante en la dominante (Dm en vez del D mayor natural) también aparece su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo mayor</a> F qué es VI de C y <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> respecto a G.
 
 
 
-Para graficarlo más claramente aún vamos a ver una canción que también modula de G a C con F y Dm (IV y ii de C) como acordes de "contraste" respecto a G, pero sin que estos resuelvan inmediatamente con lo cual se genera un deliverado efecto de <a class="lnk"  href="#ambi">ambigüedad tonal</a> que hace aún más sentida la llegada a la nueva clave de C:
+Para graficarlo más claramente aún vamos a ver una canción qué también modula de G a C con F y Dm (IV y ii de C) como acordes de "contraste" respecto a G, pero sin qué estos resuelvan inmediatamente con lo cuál se genera un deliberado efecto de <a class="lnk"  href="#ambi">ambigüedad tonal</a> qué hace aún más sentida la llegada a la nueva clave de C:
 
 <code>
 
@@ -1219,13 +1219,13 @@ Para graficarlo más claramente aún vamos a ver una canción que también modul
 &nbsp;Am I only dreaming 
 &nbsp;   Am              C            <span class="magentaDom">D</span>?
 &nbsp;Or is this burning an Eternal Flame 
-&nbsp;<span class="magentaDom">D</span>?    <span class="naranja">Dm</span>7    <span class="naranja">G</span>                    <span class="magentaDom">D</span>? transicion a clave de C
+&nbsp;<span class="magentaDom">D</span>?    <span class="naranja">Dm</span>7    <span class="naranja">G</span>                    <span class="magentaDom">D</span>? transición a clave de C
 &nbsp;Say my name, sun shines through the rain 
 &nbsp;       <span class="naranja">F        G</span> 
 &nbsp;A whole life so lonely 
 &nbsp;             <span class="naranja">C</span>       C/B      Am                 -clave de C
 &nbsp;And then you come and ease the pain 
-&nbsp;D        Bm               <span class="rojo">F</span>   C   D  -transicion a clave de G 
+&nbsp;D        Bm               <span class="rojo">F</span>   C   D  -transición a clave de G 
 &nbsp;I don't want to lose this feeling ooooooooh
 
 &nbsp;  G        Em     C            D         G        -clave de G
@@ -1244,25 +1244,25 @@ Para graficarlo más claramente aún vamos a ver una canción que también modul
 </code>
 
 
-En <a target="_blank" href="https://www.azchords.com/B/Bangles-tabs-4870/eternalflame-tabs-100743.html" >Eternal Flame</a> <a target="_blank" href="https://youtu.be/PSoOFn3wQV4" ><FAIcon icon="fa-solid fa-play"  /></a> aún en las partes donde la cancion aún no ha salido "oficialmente" de la clave de G, ya presenta cierta tendencia a la <a class="lnk"  href="#ambi" >ambigüedad tonal</a> con la inclusión del <a class="lnk"  href="#dom-rel-men" >dominante de la relativa menor</a> (<span class="magentaDom">B7</span>) y el <a class="lnk"  href="#dom-sec" >dominante del dominante</a> (<span class="magentaDom">A7</span>).
+En <a target="_blank" href="https://www.azchords.com/B/Bangles-tabs-4870/eternalflame-tabs-100743.html" >Eternal Flame</a> <a target="_blank" href="https://youtu.be/PSoOFn3wQV4" ><FAIcon icon="fa-solid fa-play"  /></a> aún en las partes donde la canción aún no ha salido "oficialmente" de la clave de G, ya presenta cierta tendencia a la <a class="lnk"  href="#ambi" >ambigüedad tonal</a> con la inclusión del <a class="lnk"  href="#dom-rel-men" >dominante de la relativa menor</a> (<span class="magentaDom">B7</span>) y el <a class="lnk"  href="#dom-sec" >dominante del dominante</a> (<span class="magentaDom">A7</span>).
 
 
 
-Pero lo mejor en ese sentido sin dudas viene en el puente, donde el hecho de que D mayor (V de G) se utilize antes y después de <span class="naranja">Dm</span>7-<span class="naranja">G</span> (<a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V</a> de C) evita que estos dos últimos resuelvan directamente a C, con lo cual, cuando dicha resolución finalmente llega con F-G-C (<a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>) está es mucho más sentida por la <a class="lnk"  href="/category/módulos-técnicos#tension">tensión</a> irresuelta acumulada.
+Pero lo mejor en ese sentido sin dudas viene en el puente, donde el hecho de qué d mayor (V de G) se utilize antes y después de <span class="naranja">Dm</span>7-<span class="naranja">G</span> (<a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V</a> de C) evita qué estos dos últimos resuelvan directamente a C, con lo cual, cuándo dicha resolución finalmente llega con F-G-C (<a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>) está es mucho más sentida por la <a class="lnk"  href="/category/módulos-técnicos#tension">tensión</a> irresuelta acumulada.
 
 
 
-Noten que ya fuera de la clave de C el acorde F pasa a estar marcado como <a class="lnk"  href="/armonia/arm3#prestados">acorde prestado del modo paralelo</a> por el hecho de que los acordes que lo preceden (D y Bm) no forman parte de la clave de C, al respecto es interésante comparar como está marcado el acorde F (y su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> Dm) en otras dos canciones que modulan entre G y C: <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> y <a class="lnk"  href="#blackbird" >Blackbird</a>.
+Noten qué va fuera de la clave de C el acorde F pasa a estar marcado como <a class="lnk"  href="/armonia/arm3#prestados">acorde prestado del modo paralelo</a> por el hecho de qué los acordes qué lo preceden (D y Bm) no forman parte de la clave de C, al respecto es interésante comparar como está marcado el acorde F (y su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> Dm) en otras dos canciones qué modulan entre G y C: <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> y <a class="lnk"  href="#blackbird" >Blackbird</a>.
 
 
 
 
-Al respecto es interésante notar que por la propia lógica de las relativas, en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> que modula entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C, ósea Em y Am respectivamente, el "acorde de contraste" también es F.
+Al respecto es interésante notar qué por la propia lógica de las relativas, en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> qué modula entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C, ósea Em y Am respectivamente, el "acorde de contraste" también es F.
 
 <a class="anchor" id="elloco"></a>
 
 
-El uso de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a> para modular es menos común que <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>, pero aquí tenemos un caso:
+El uso de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a> para modular es menos común que<a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>, pero aquí tenemos un caso:
 
 <code>
 
@@ -1291,9 +1291,9 @@ El uso de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a
 &nbsp;              C#m
 &nbsp;quizo mi disfraz
 &nbsp;           F#m
-&nbsp;vivir cómo un mortal
+&nbsp;vivir como un mortal
 &nbsp;      F#m         C#m
-&nbsp;cómo no logro, matarme
+&nbsp;como no logro, matarme
 &nbsp;    Bm                       A
 &nbsp;me regalo, una visión particular.
 &nbsp; D           <a class="rojo">Dm</a>
@@ -1314,19 +1314,19 @@ El uso de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a
 &nbsp;<span class="naranja">G</span>-<span class="naranja">A</span>-<span class="naranja">D</span>: <a class="lnk"  href="/category/módulos-técnicos#sen-ton">IV-V-I</a> a D.
 </code>
 
-Dado que el acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> y el acorde ii de una modulación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> al grado IV son <a class="lnk"  href="/category/módulos-técnicos#aco-rel">acordes relativos</a> vamos a ver un par de casos donde la presencia de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> "adelanta" una posterior modulación al grado IV mediante la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>.
+Dado qué el acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> y el acorde ii de una modulación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> al grado IV son <a class="lnk"  href="/category/módulos-técnicos#aco-rel">acordes relativos</a> vamos a ver un par de casos donde la presencia de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> "adelanta" una posterior modulación al grado IV mediante la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a>.
 
 
 
-El caso más viejo y armónicamente más tradiciónal es el de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/yes_it_is_ver3_crd.htm" >Yes it is</a> <a target="_blank" href="https://youtu.be/fu2.2uZDnYwU"  > <FAIcon icon="fa-solid fa-play"  /></a> que estando en clave de E utiliza D (<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>) cómo remplazo del ii (F#m) que se oye en la primera frase dado que la quinta de D es la mima nota que produce la disnonacia horizontal funcional propia de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V</a> (F#m-B) resultando en la variación <a class="lnk"  href="/armonia/arm3#mayoresabiii">bVII-V</a>.
+El caso más viejo y armónicamente más tradiciónal es el de <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/yes_it_is_ver3_crd.htm" >Yes it is</a> <a target="_blank" href="https://youtu.be/fu2.2uZDnYwU"  > <FAIcon icon="fa-solid fa-play"  /></a> qué estando en clave de E utiliza D (<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>) como remplazo del ii (F#m) qué se oye en la primera frase dado qué la quinta de D es la mima nota qué produce la disnonacia horizontal funcional propia de <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V</a> (F#m-B) resultando en la variación <a class="lnk"  href="/armonia/arm3#mayoresabiii">bVII-V</a>.
 
 
 
-Podemos verlo explicado más detalladamente en <a class="lnk"  href="/armonia/arm3#allmyloving">All My Loving</a> que además también está en clave de E.
+Podemos verlo explicado más detalladamente en <a class="lnk"  href="/armonia/arm3#allmyloving">All My Loving</a> qué además también está en clave de E.
 
 
 
-Pero luego en el puente la canción hace una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> a su IV (A) mediante una progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> que resulta ser Bm-E-A y siendo Bm <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de D su uso en la estrofa inicial es una especie de "adelanto" de esta modulación.
+Pero luego en el puente la canción hace una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> a su IV (A) mediante una progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> qué resulta ser Bm-E-A y siendo Bm <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de D su uso en la estrofa inicial es una especie de "adelanto" de está modulación.
 
 
 
@@ -1338,9 +1338,9 @@ El otro caso donde se da esto es en <a class="lnk"  href="/armonia/arm3#shesaid"
 
 
 
-Esta estrofa es una <a class="lnk"  href="/armonia/arm3#rnryfiebre">doble plagal en clave de B</a> que incluye la relación <a class="lnk"  href="/armonia/arm3#I-bVII">I-bVII</a> (B-A) que tal cómo podemos ver en el link produce <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional, con lo cual su sonido psicodélico se diferencia mucho del uso "funcional" de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> en <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/yes_it_is_ver3_crd.htm" >Yes it is</a> <a target="_blank" href="https://youtu.be/fu2.2uZDnYwU"  > <FAIcon icon="fa-solid fa-play"  /></a> más propio de los años 50s.
+esta estrofa es una <a class="lnk"  href="/armonia/arm3#rnryfiebre">doble plagal en clave de B</a> qué incluye la relación <a class="lnk"  href="/armonia/arm3#I-bVII">I-bVII</a> (B-A) qué tal como podemos ver en el link produce <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional, con lo cuál su sonido psicodélico se diferencia mucho del uso "funcional" de <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> en <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/yes_it_is_ver3_crd.htm" >Yes it is</a> <a target="_blank" href="https://youtu.be/fu2.2uZDnYwU"  > <FAIcon icon="fa-solid fa-play"  /></a> más propio de los años 50s.
 
-Sin embargo también se da el hecho de que el <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> en la estrofa "adelante" una modulación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> a IV dado que el <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de A es el que comienza dicha <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> (F#m-B-E sobre "..When I was a boy..")
+Sin embargo también se da el hecho de qué el <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> en la estrofa "adelante" una modulación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> a IV dado qué el <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> de A es el qué comienza dicha <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> (F#m-B-E sobre "..When I was a boy..")
 
 
 <a class="anchor" id="dom-sec"></a>
@@ -1350,12 +1350,12 @@ Sin embargo también se da el hecho de que el <a class="lnk"  href="/armonia/arm
 
 
 
-A está altura ya hemos visto dominantes secundarios de varios tipos como el <a class="lnk" href="/armonia/arm2#domiv">VdeIV</a>, a la vez que explicamos debidamente <a class="lnk"  href="/category/módulos-técnicos#sen-ton">la función dominante</a> en la que se basan.
+A está altura ya hemos visto dominantes secundarios de varios tipos como el <a class="lnk" href="/armonia/arm2#domiv">VdeIV</a>, a la vez qué explicamos debidamente <a class="lnk"  href="/category/módulos-técnicos#sen-ton">la función dominante</a> en la qué se basan.
 
 
 
 
-Para estudiarlos más sistematicamente vamos a tener que volver una vez más sobre las <a class="lnk"  href="/category/módulos-técnicos#circ-quint">cadenas de cambios de acorde a intervalos de quinta descendente</a> que ya vimos en la sección anterior, pero esta vez todos los acordes tendran una tercera mayor y una séptima menor, es decir todos los acordes seran dominantes del próximo, veamos una de dichas cadenas:
+Para estudiarlos más sistematicamente vamos a tener qué volver una vez más sobre las <a class="lnk"  href="/category/módulos-técnicos#circ-quint">cadenas de cambios de acorde a intervalos de quinta descendente</a> qué va vimos en la sección anterior, pero está vez todos los acordes tendran una tercera mayor y una séptima menor, es decir todos los acordes seran dominantes del próximo, veamos una de dichas cadenas:
 
 
 <code>
@@ -1376,7 +1376,7 @@ VdeVdeV-VdeV-V-I en otra clave: <a class="lnk"  href="#onlyyou">Only You</a> (E7
 </p>
 </code>
 
-Aquí los acordes que antes usabamos en el <a class="lnk"  href="/category/módulos-técnicos#circ-quint" >circulo de quintas</a> se han convertido en dominantes secundarios del que los precede en la cadena: vi (C#m) a pasado a ser VdeVdeV (C#7) mientras que ii (F#m) a pasado a ser VdeV (F#7).
+Aquí los acordes qué antes usabamos en el <a class="lnk"  href="/category/módulos-técnicos#circ-quint" >circulo de quintas</a> se han convertido en dominantes secundarios del qué los precede en la cadena: vi (C#m) a pasado a ser VdeVdeV (C#7) mientras qué ii (F#m) a pasado a ser VdeV (F#7).
 
 
 Y obiamente la vuelta puede ser más larga:
@@ -1408,7 +1408,7 @@ Y obiamente la vuelta puede ser más larga:
 de un truco de <a class="lnk"  href="#ambi" >ambigüedad tonal</a>.
 </p>
 
-La versión más corta de este turnaround (VdeV-V-I) suena a country-blues y es lo que vamos a ver en el próximo ejemplo, aunque tenga en cuenta que es muy fácil confundir VdeV-V-I con <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>, para aclarar este punto les recomiendo leer las notas de <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a>:
+La versión más corta de este turnaround (VdeV-V-I) suena a country-blues y es lo qué vamos a ver en el próximo ejemplo, aunquetenga en cuenta qué es muy fácil confundir VdeV-V-I con <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>, para aclarar este punto les recomiendo leer las notas de <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a>:
 
 
 <a class="anchor" id="honky"></a>
@@ -1424,7 +1424,7 @@ La versión más corta de este turnaround (VdeV-V-I) suena a country-blues y es 
 
 
 &nbsp;G                                   C
-&nbsp;I met a gin-soaked barroom queen in Memphis 
+&nbsp;I met a gin-soaked barroom qué en in Memphis 
 &nbsp;    G                <span class="magentaDom">A</span>              D 
 &nbsp;She tried to take me upstairs for a ride 
 &nbsp;         G                               C 
@@ -1436,15 +1436,15 @@ La versión más corta de este turnaround (VdeV-V-I) suena a country-blues y es 
 </code>
 
 
-La versión imediatamente más larga del turnaround (VdeVdeV-VdeV-V-I) es típica del jazz primitivo y es fácilmente identificable en varias canciones beatle, tales cómo <a class="lnk"  href="/armonia/arm3#honeypie" >Honey Pie</a> (E7-A7-D7-G en clave de G), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (Ab7-Eb7-G#7-Db en clave de Db),  <a target="_blank" href="http://www.guitaretab.com/B/Beatles/271620.html" >Good day sunshine</a> <a target="_blank" href="https://youtu.be/plmnpVBszj4"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#7-B7-E7-A en clave de A), o <a target="_blank" href="https://www.cifraclub.com/the-beatles/your-mother-should-know/" >Your mother should know</a> <a target="_blank" href="https://youtu.be/Dacáp5Q5qJg"  ><FAIcon icon="fa-solid fa-play"  /></a> (A7-D7-G7-C en clave de C).
+La versión imediatamente más larga del turnaround (VdeVdeV-VdeV-V-I) es típica del jazz primitivo y es fácilmente identificable en varias canciones beatle, tales como <a class="lnk"  href="/armonia/arm3#honeypie" >Honey Pie</a> (E7-A7-D7-G en clave de G), <a target="_blank" href="http://www.guitaretab.com/B/Beatles/221369.html" >When I'm sixty four</a> <a target="_blank" href="https://www.youtube.com/watch?v=vAzaOZfgf0M"  ><FAIcon icon="fa-solid fa-play"  /></a> (Ab7-Eb7-G#7-Db en clave de Db),  <a target="_blank" href="http://www.guitaretab.com/B/Beatles/271620.html" >Good day sunshine</a> <a target="_blank" href="https://youtu.be/plmnpVBszj4"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#7-B7-E7-A en clave de A), o <a target="_blank" href="https://www.cifraclub.com/the-beatles/your-mother-should-know/" >Your mother should know</a> <a target="_blank" href="https://youtu.be/Dacáp5Q5qJg"  ><FAIcon icon="fa-solid fa-play"  /></a> (A7-D7-G7-C en clave de C).
 
 
 
-Debido a su acusado gusto jazzero John Lennon solia llamar a estás canciones "La típica canción de abuelita de Paul", sin embargo el propio John utilizaria está progresión, no al tradiciónal estilo de turnaround al que lo usaba Paul, sino directamente en la primera estrofa de <a class="lnk"  href="#vdevivi" >I Call Your Name</a> (E-C#7-F#7-B7-E en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E). 
+Debido a su acusado gusto jazzero John Lennon solia llamar a estas canciones "La típica canción de abuelita de Paul", sin embargo el propio John utilizaria está progresión, no al tradiciónal estilo de turnaround al qué lo usaba Paul, sino directamente en la primera estrofa de <a class="lnk"  href="#vdevivi" >I Call Your Name</a> (E-C#7-F#7-B7-E en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E). 
 
 
 
-Debido a una variación que se introduce en la segunda repetición de dicha estrofa, veremos ese caso en esta nueva sección:
+Debido a una variación qué se introduce en la segunda repetición de dicha estrofa, veremos ese caso en está nueva sección:
 
 
 <a class="anchor" id="vdevivi"></a>
@@ -1475,7 +1475,7 @@ Debido a una variación que se introduce en la segunda repetición de dicha estr
 </code>
 
 
-Como bien pueden ver, la primera vuelta se cumple tal cómo la habíamos visto en los <a class="lnk"  href="#dom-sec" >ejemplos anteriores</a> hasta completar el ciclo de vuelta a E (I), pero en la segunda nos aguarda una sorpresa: donde esperariamos un B7(V) en cambio encontramos un A(IV). 
+Como bien pueden ver, la primera vuelta se cumple tal como la habíamos visto en los <a class="lnk"  href="#dom-sec" >ejemplos anteriores</a> hasta completar el ciclo de vuelta a E (I), pero en la segunda nos aguarda una sorpresa: donde esperariamos un B7(V) en cambio encontramos un A(IV). 
 
 
 
@@ -1483,17 +1483,17 @@ Este tipo de truco, jugando con la expectativa del oyente es muy común en los b
 
 
 
-De hecho aquí lo que se está haciendo es remplazar la resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> por una "resolución plagal" (IV-I) la cual podemos repasar en la sección de <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >dirección de quintas</a> cómo quinta ascendente, dado que es un cambio de acorde que corresponde a ese <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a>.
+De hecho aquí lo qué se está haciendo es remplazar la resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> por una "resolución plagal" (IV-I) la cuál podemos repasar en la sección de <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >dirección de quintas</a> como quinta ascendente, dado qué es un cambio de acorde qué corresponde a ese <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a>.
 
 
 
-Este truco es muy efectivo dado que <a class="lnk"  href="#dom-sec" >VdeV</a> (en este caso F#7) naturalmente nos prepara para escuchar <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> (B7) pero en vez de eso escuchamos IV (A).
+Este truco es muy efectivo dado que<a class="lnk"  href="#dom-sec" >VdeV</a> (en este caso F#7) naturalmente nos prepara para escuchar <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> (B7) pero en vez de eso escuchamos IV (A).
 
 
 <a class="anchor" id="disonon"></a>
 
 
-Pero ese no es el único factor nuevo que agrega: al privarselo al <a class="lnk"  href="#dom-sec" >VdeV</a> de su relación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >tipo V-I</a> con el siguiente acorde (<a class="lnk"  href="#dom-sec" >VdeV</a>-V), se pone en evidencia la disonancia que causa su tercera mayor agregada, dado que está genera una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a> "horizontal" (entre notas de un acorde y otro) entre esa tercera "agregada" de <a class="lnk"  href="#dom-sec" >VdeV</a> (en este caso la nota Bb del acorde F#7) y la V del acorde IV (E del acorde A), por lo cual se le dice "<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional", mientras que en la relación <a class="lnk"  href="#dom-sec" >VdeV</a>-V se consideraría funcional.
+Pero ese no es el único factor nuevo qué agrega: al privarselo al <a class="lnk"  href="#dom-sec" >VdeV</a> de su relación <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >tipo V-I</a> con el siguiente acorde (<a class="lnk"  href="#dom-sec" >VdeV</a>-V), se pone en evidencia la disonancia qué causa su tercera mayor agregada, dado qué esta genera una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia tritónica</a> "horizontal" (entre notas de un acorde y otro) entre esa tercera "agregada" de <a class="lnk"  href="#dom-sec" >VdeV</a> (en este caso la nota Bb del acorde F#7) y la V del acorde IV (E del acorde A), por lo cuál se le dice "<a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional", mientras qué en la relación <a class="lnk"  href="#dom-sec" >VdeV</a>-V se consideraría funcional.
 
 
 
@@ -1522,27 +1522,27 @@ Ahora veamos un caso de <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un con
 &nbsp;<a class="magentaDom">G7</a>: <a class="lnk"  href="#dom-sec" >VdeV</a>
 </code>
 
-En este caso el uso de la resolución plagal (IV-I, ver <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quintas ascendentes</a>) se corresponde con su uso en la música religiosa del periodo barroco (especialmente Bach) donde se lo utilizaba después de una la resolución "oficial" <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> y cómo pueden ver que efectivamente pasa en la resolución previa con el C-F sobre "..to hide away", y ciertamente en <a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi"> está explicación de la progresión inicial</a> (F-E-A-Dm) pueden ver que no es este el único recurso barroco de la canción.
+En este caso el uso de la resolución plagal (IV-I, ver <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quintas ascendentes</a>) se corresponde con su uso en la música religiosa del periodo barroco (especialmente Bach) donde se lo utilizaba después de una la resolución "oficial" <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> y como pueden ver qué efectivamente pasa en la resolución previa con el C-F sobre "..to hide away", y ciertamente en <a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi"> está explicación de la progresión inicial</a> (F-E-A-Dm) pueden ver qué no es este el único recurso barroco de la canción.
 
 
 
-Si bien Bach no era ajeno al uso de VdeV, jamas lo ubiese puesto donde provoque una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional, pero la resolución plagal era tan común en los himnos religiosos (Genero que cultivo Bach) que se la conoce cómo la "resolución Amen".
+Si bien Bach no era ajeno al uso de VdeV, jamas lo ubiese puesto donde provoque una <a class="lnk"  href="/category/módulos-técnicos#tritono" >disonancia</a> no-funcional, pero la resolución plagal era tan común en los himnos religiosos (Genero qué cultivo Bach) qué se la conoce como la "resolución Amen".
 
 
 
-Mi teoría es que el tener la resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> una sensación casí gravitatoria, al invertirse con IV-I la dinamica de esa relación, la sensación es casí de elevación celestial, en contraste con nuestras mundanas vidas regidas por la inexorable gravedad.
+Mi teoría es qué el tener la resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> una sensación casí gravitatoria, al invertirse con IV-I la dinamica de esa relación, la sensación es casí de elevación celestial, en contraste con nuestras mundanas vidas regidas por la inexorable gravedad.
 
 
 
-Aparte en <a class="lnk"  href="/armonia/arm3#aday">A Day In The Life</a> podemos ver cómo la repetición consecutiva de este tipo de cambio de acorde (<a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quinta ascendente</a>) resulta en la progresión conocida como <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a> y que parece hacer referencia a dicho tipo de elevación evangelica.
+Aparte en <a class="lnk"  href="/armonia/arm3#aday">A Day In The Life</a> podemos ver como la repetición consecutiva de este tipo de cambio de acorde (<a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quinta ascendente</a>) resulta en la progresión conocida como <a class="lnk"  href="/armonia/arm3#cuadp">cuadruple plagal</a> y qué parece hacer referencia a dicho tipo de elevación evangelica.
 
 
 
-Y aún cuando no les sonaran convincentes mis argumentaciónes, la resolución plagal se corresponde con lo que se conoce cómo <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quintas ascendentes</a>, que marco <a class="lnk"  href="/category/módulos-técnicos#rock-quint-asc" >tendencia en el rock</a>.
+Y aún cuándo no les sonaran convincentes mis argumentaciónes, la resolución plagal se corresponde con lo qué se conoce como <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >quintas ascendentes</a>, qué marco <a class="lnk"  href="/category/módulos-técnicos#rock-quint-asc" >tendencia en el rock</a>.
 
 <a class="anchor" id="shelovesyou"></a>
 
-Pero volviendo al ii-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I del anterior ejemplo (<a class="lnk"  href="#yestedayplagal">Yesterday</a>) vamos a ver ahora esa misma progresión pero cómo intro:
+Pero volviendo al ii-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I del anterior ejemplo (<a class="lnk"  href="#yestedayplagal">Yesterday</a>) vamos a ver ahora esa misma progresión pero como intro:
 
 
 <code>
@@ -1566,7 +1566,7 @@ Pero volviendo al ii-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I del anterior
 &nbsp;G6: 320030 (<a href="/category/módulos-técnicos#aco7"  class="lnk">acorde mayor</a> + nota VI del acorde)
 </code>
 
-En este caso se tiene la ventaja de que por comenzar la progresión desde el <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> (Em) y que la tónica no sea sino el 4to acorde en aparecer, la progresión tiene cierta <a class="lnk"  href="#ambi">ambigüedad tonal</a> que resulta en un mayor impacto con la confirmación de la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> del relativo mayor (G).
+En este caso se tiene la ventaja de qué por comenzar la progresión desde el <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> (Em) y qué la tónica no sea sino el 4to acorde en aparecer, la progresión tiene cierta <a class="lnk"  href="#ambi">ambigüedad tonal</a> qué resulta en un mayor impacto con la confirmación de la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> del relativo mayor (G).
 
 
 <a class="anchor" id="helter"></a>
@@ -1577,7 +1577,7 @@ el arreglo deliberadamente lo hace aún más <a class="lnk"  href="#ambi">ambigu
 
 
 
-Noten el detalle de que las 2 primeras notas coinciden con las 2 primeras de la digitación del acorde G6 (320030) con el que termina la <a class="lnk"  href="/armonia/arm2#shelovesyou">intro de She Loves You</a> (se pueden interpretar como parte de G6 o de Em7), veamos el intro:
+Noten el detalle de qué las 2 primeras notas coinciden con las 2 primeras de la digitación del acorde G6 (320030) con el qué termina la <a class="lnk"  href="/armonia/arm2#shelovesyou">intro de She Loves You</a> (se pueden interpretar como parte de G6 o de Em7), veamos el intro:
 
 <code>
 
@@ -1595,11 +1595,11 @@ E|--------------------------------------3---------------|
 &nbsp;<a class="lnk"  href="/category/módulos-técnicos#esc-arm" >Ver díadas</a> 
 </code>
 
-El resto del riff nos permite ver la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> que subyace a cualquier progresión ii7-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I o la variante  I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I (ver <a class="lnk"  href="#eightdays" >Eight Days A Week</a>): 
+El resto del riff nos permite ver la línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> qué rubyace a cualquier progresión ii7-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I o la variante  I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I (ver <a class="lnk"  href="#eightdays" >Eight Days A Week</a>): 
 
 
 
-La primera cuerda se mantiene al aire todo el tiempo dado que E es una nota que forma parte de cuaquíera de los acordes que usa la progresión (checkear con el <a href="/category/módulos-técnicos#aco7"  class="lnk">diagrama de acordes</a>) y es lo que se conoce cómo <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a>.
+La primera cuerda se mantiene al aire todo el tiempo dado qué e es una nota qué forma parte de cuaquíera de los acordes qué usa la progresión (checkear con el <a href="/category/módulos-técnicos#aco7"  class="lnk">diagrama de acordes</a>) y es lo qué se conoce como <a target="_blank" href="http://desafinados.es/lecciónes-de-guitarra-para-principiantes-la-nota-pedal-o-pedal-point/" >nota pedal</a>.
 
 
 
@@ -1608,18 +1608,18 @@ La 2da cuerda es donde se toca la linea <a target="_blank" href="https://es.wiki
 
 
 
-De más está decir que el <a class="lnk"  href="/armonia/arm2#shelovesyou" >intro de She Loves You</a> se puede cantar tranquilamente sobre este riff aunque sonara más parecido aún si lo terminamos en donde empezo en vez de G abierto, dado que esas dos notas se pueden interpretar tanto cómo parte de G6 cómo de Em7 (<a class="lnk"  href="/armonia/arm3#m7">ver nota</a>).
+De más está decir qué el <a class="lnk"  href="/armonia/arm2#shelovesyou" >intro de She Loves You</a> se puede cantar tranquilamente sobre este riff aunque sonara más parecido aún si lo terminamos en donde empezo en vez de G abierto, dado qué esas dos notas se pueden interpretar tanto como parte de G6 como de Em7 (<a class="lnk"  href="/armonia/arm3#m7">ver nota</a>).
 
 
-Luego de eso la canción pasa a una subita <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> a E mayor lo cual cae en la categoría de <a class="lnk"  href="/armonia/arm3#rel-par">dos claves mayores separadas por 3 semitonos</a> ampliamente usada por los beatles y de la que pueden ver más ejemplos clickeando allí. 
+Luego de eso la canción pasa a una subita <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> a E mayor lo cuál cae en la categoría de <a class="lnk"  href="/armonia/arm3#rel-par">dos claves mayores separadas por 3 semitonos</a> ampliamente usada por los beatles y de la qué pueden ver más ejemplos clickeando allí. 
 
 
 
-Pero ya en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E se da un cambio de acorde de E a G (<a class="lnk"  href="/armonia/arm3#biii">I-bIII</a>) que es analogo al de A a C (dos acordes mayores a un <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a> de 3 semitonos o bIII) y que por ende pose la misma <a class="lnk"  href="/category/módulos-técnicos#disonon" >disonancia</a> no-funcional.
+Pero ya en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E se da un cambio de acorde de E a G (<a class="lnk"  href="/armonia/arm3#biii">I-bIII</a>) qué es analogo al de A a C (dos acordes mayores a un <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalo</a> de 3 semitonos o bIII) y qué por ende pose la misma <a class="lnk"  href="/category/módulos-técnicos#disonon" >disonancia</a> no-funcional.
 
 <a class="anchor" id="cigarettes"></a>
 
-<a target="_blank" href="https://tabs.últimate-guitar.com/o/oasis/cigarettes_and_alcohol_ver2_tab.htm" >Cigarettes and Alcohol</a> <a target="_blank" href="https://youtu.be/UJDK8X5K9mw"  ><FAIcon icon="fa-solid fa-play"  /></a> hace uso de ambas versiónes de dicho <a class="lnk"  href="/category/módulos-técnicos#disonon" >disonante</a> cambio de acorde sin cambiar de clave, primero con su riff (muy parecido al de <a target="_blank" href="http://www.guitaretab.com/t/t-rex/289099.html" >Get it on</a> <a target="_blank" href="https://youtu.be/Y5YoyAbE2.2U" ><FAIcon icon="fa-solid fa-play"  /></a>) que sobre la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> de E mayor usa el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G mayor (<a class="lnk"  href="/armonia/arm3#biii">bIII</a>) y luego entre F# y A cómo parte de la progresión I-VdeV-IV-I (E-F#-A-E) de la estrofa, mejor veamos lo gráficado:
+<a target="_blank" href="https://tabs.últimate-guitar.com/o/oasis/cigarettes_and_alcohol_ver2_tab.htm" >Cigarettes and Alcohol</a> <a target="_blank" href="https://youtu.be/UJDK8X5K9mw"  ><FAIcon icon="fa-solid fa-play"  /></a> hace uso de ambas versiónes de dicho <a class="lnk"  href="/category/módulos-técnicos#disonon" >disonante</a> cambio de acorde sin cambiar de clave, primero con su riff (muy parecido al de <a target="_blank" href="http://www.guitaretab.com/t/t-rex/289099.html" >Get it on</a> <a target="_blank" href="https://youtu.be/Y5YoyAbE2.2U" ><FAIcon icon="fa-solid fa-play"  /></a>) qué robre la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> de E mayor usa el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G mayor (<a class="lnk"  href="/armonia/arm3#biii">bIII</a>) y luego entre F# y A como parte de la progresión I-VdeV-IV-I (E-F#-A-E) de la estrofa, mejor veamos lo gráficado:
 
 <br />
 <br />
@@ -1682,12 +1682,12 @@ Pero ya en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a
 </code>
 
 
-El estribillo es una <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> que funciona cómo una prolongación de la resolución plagal previa (A-E) ósea IV-I, pero además cómo una referencia al <a class="lnk"  href="">modo paralelo</a>, dado que el intro usa el prestado <a class="lnk"  href="/armonia/arm3#biii">bIII</a> (G) mientras que el estribillo usa el prestado <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> (D). En las notas a <a class="lnk"  href="#lawoman2" >LA Woman</a> podremos encontrar varios ejemplos de esa "referencia".
+El estribillo es una <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> qué funciona como una prolongación de la resolución plagal previa (A-E) ósea IV-I, pero además como una referencia al <a class="lnk"  href="">modo paralelo</a>, dado qué el intro usa el prestado <a class="lnk"  href="/armonia/arm3#biii">bIII</a> (G) mientras qué el estribillo usa el prestado <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> (D). En las notas a <a class="lnk"  href="#lawoman2" >LA Woman</a> podremos encontrar varios ejemplos de esa "referencia".
 
 
 <a class="anchor" id="zoom"></a>
 
-Veamo ahora un caso que tambièn utiliza VdeV-IV-I en la misma clave (F#-A-E) y ademas utiliza el grado ii (F#m en clave de E) para comparar el sonido de ese acorde con el de F# mayor (VdeV):
+Veamo ahora un caso qué también utiliza VdeV-IV-I en la misma clave (F#-A-E) y además utiliza el grado ii (F#m en clave de E) para comparar el sonido de ese acorde con el de F# mayor (VdeV):
 
 
 <code>
@@ -1715,7 +1715,7 @@ Veamo ahora un caso que tambièn utiliza VdeV-IV-I en la misma clave (F#-A-E) y 
 
 
 
-La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y estrofas también nos lleva a un recordado hit beatle, de hecho el más asociado con esta progresion al punto de que algunos la llaman <a target="_blank" href="https://youtu.be/5ANjO8ypYfQ" >la progresión "Eight Days A Week"</a>:
+La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y estrofas también nos lleva a un recordado hit beatle, de hecho el más asociado con está progresión al punto de qué algunos la llaman <a target="_blank" href="https://youtu.be/5ANjO8ypYfQ" >la progresión "Eight Days A Week"</a>:
 
 
 
@@ -1746,23 +1746,23 @@ La repetición de I-<a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I en un intro y
 &nbsp;<a class="magentaDom">E</a>: <a class="lnk"  href="#dom-sec" >VdeV</a>
 </code>
 
-Otros ejemplos: <a target="_blank" href="http://www.guitaretab.com/B/Beatles/277418.html" >You won't see me</a> <a target="_blank" href="https://www.youtube.com/watch?v=VRGaQ6jm1Ak"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/u2/stay" >Stay</a> <a target="_blank" href="https://youtu.be/gNS1jTQOnCs"  ><FAIcon icon="fa-solid fa-play"  /></a>, en el estribillo de <a target="_blank" href="http://www.guitaretab.com/p/pink-floyd/343664.html" >Brain damage</a> <a target="_blank" href="https://youtu.be/pnExahMPPFI"  ><FAIcon icon="fa-solid fa-play"  /></a> (que está en clave de G a diferencia de la estrofa inicial que está en D), en la parte intermedia de <a target="_blank" href="https://www.cifraclub.com.br/led-zeppelin/the-rain-song/" >The rain song</a> <a target="_blank" href="https://www.youtube.com/watch?v=zDVnjCwCYCs"  ><FAIcon icon="fa-solid fa-play"  /></a> (la parte más movida, la única que se toca con guitarra electrica y afinación standard).
+Otros ejemplos: <a target="_blank" href="http://www.guitaretab.com/B/Beatles/277418.html" >You won't see me</a> <a target="_blank" href="https://www.youtube.com/watch?v=VRGaQ6jm1Ak"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.e-chords.com/chords/u2/stay" >Stay</a> <a target="_blank" href="https://youtu.be/gNS1jTQOnCs"  ><FAIcon icon="fa-solid fa-play"  /></a>, en el estribillo de <a target="_blank" href="http://www.guitaretab.com/p/pink-floyd/343664.html" >Brain damage</a> <a target="_blank" href="https://youtu.be/pnExahMPPFI"  ><FAIcon icon="fa-solid fa-play"  /></a> (que esta en clave de G a diferencia de la estrofa inicial qué esta en D), en la parte intermedia de <a target="_blank" href="https://www.cifraclub.com.br/led-zeppelin/the-rain-song/" >The rain song</a> <a target="_blank" href="https://www.youtube.com/watch?v=zDVnjCwCYCs"  ><FAIcon icon="fa-solid fa-play"  /></a> (la parte más movida, la única qué se toca con guitarra electrica y afinación standard).
 
 
 
-También la podemos escuchar al comienzo de <a target="_blank" href="http://Acordes.lacuerda.net/gatos/la_balsa.shtml" >La balsa</a> <a target="_blank" href="https://youtu.be/Yv9PnHsEGas"  ><FAIcon icon="fa-solid fa-play"  /></a> (F-G-Bb-F) pero la segunda repetición de la estrofa incluye V (F-G-Bb-C-F) que nos priva de la resolución plagal.
+También la podemos escuchar al comienzo de <a target="_blank" href="http://Acordes.lacuerda.net/gatos/la_balsa.shtml" >La balsa</a> <a target="_blank" href="https://youtu.be/Yv9PnHsEGas"  ><FAIcon icon="fa-solid fa-play"  /></a> (F-G-Bb-F) pero la segunda repetición de la estrofa incluye V (F-G-Bb-C-F) qué nos priva de la resolución plagal.
 
 
-Lo opuesto pasa con <a target="_blank" href="http://www.e-chords.com/chords/lou-reed/satellite-of-love" >Satellite of love</a> <a target="_blank" href="https://youtu.be/FH2EgYq_NCY"  ><FAIcon icon="fa-solid fa-play"  /></a> que comienza I-VdeV-IV-V-I (F-G-Bb-C-F) pero al final de la canción se quita el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> A (V) de la progresión quedando F-G-Bb-F. Esto nos permite ver cierto aspecto rítmico de la resolución plagal que la inclusión de V cortaba en la estrofa inicial.
+Lo opuesto pasa con <a target="_blank" href="http://www.e-chords.com/chords/lou-reed/satellite-of-love" >Satellite of love</a> <a target="_blank" href="https://youtu.be/FH2EgYq_NCY"  ><FAIcon icon="fa-solid fa-play"  /></a> qué comienza I-VdeV-IV-V-I (F-G-Bb-C-F) pero al final de la canción se quita el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> A (V) de la progresión qué dando F-G-Bb-F. Esto nos permite ver cierto aspecto rítmico de la resolución plagal qué la inclusión de V cortaba en la estrofa inicial.
 
 
 
-Por eso no es de extrañar el frecuente uso rítmico que se le da a la <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> cómo podemos ver en <a class="lnk"  href="/armonia/arm3#sympathy">Sympathy For The Devil</a>, en <a class="lnk"  href="/armonia/arm3#theend" >The End</a> y en <a class="lnk"  href="/armonia/arm3#doblee">Remember a day y Mr Brownstone</a> en ese link junto a otros ejemplos similares, al igual que esos dos, en clave de E mayor.
+Por eso no es de extrañar el frecuente uso rítmico qué se le da a la <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> como podemos ver en <a class="lnk"  href="/armonia/arm3#sympathy">Sympathy For The Devil</a>, en <a class="lnk"  href="/armonia/arm3#theend" >The End</a> y en <a class="lnk"  href="/armonia/arm3#doblee">Remember a day y Mr Brownstone</a> en ese link junto a otros ejemplos similares, al igual qué esos dos, en clave de E mayor.
 
 <a class="anchor" id="youcantalways"></a>
 
 
-Las variaciones que incluian <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I continuarian a medida que avanzaban los 60s:
+Las variaciones qué incluian <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I continuarian a medida qué avanzaban los 60s:
 
 
 <code>
@@ -1796,12 +1796,12 @@ Las variaciones que incluian <a class="lnk"  href="#dom-sec" >VdeV</a>-IV-I cont
 &nbsp;<a class="magentaDom">A</a>: <a class="lnk"  href="#dom-sec" >VdeV</a>
 </code>
 
-Por otro lado la convinacion I-<a class="lnk"  href="#dom-sec" >VdeV</a> aún sin ser seguida por una resolución plagal (IV-I) también fue muy popular en el rock y pop:
+Por otro lado la conbinación I-<a class="lnk"  href="#dom-sec" >VdeV</a> aún sin ser seguida por una resolución plagal (IV-I) también fue muy popular en el rock y pop:
 
 
 
 
-Por ejemplo como parte de la progresión I-<a class="lnk"  href="#dom-sec" >VdeV</a>-V que podemos ver en <a class="lnk"  href="#honky" >Honky Tonk Woman</a>, <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a> y <a class="lnk"  href="/category/módulos-técnicos#iwanttotellyou" >I Want To Tell You</a>.
+Por ejemplo como parte de la progresión I-<a class="lnk"  href="#dom-sec" >VdeV</a>-V qué podemos ver en <a class="lnk"  href="#honky" >Honky Tonk Woman</a>, <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's little helper</a> y <a class="lnk"  href="/category/módulos-técnicos#iwanttotellyou" >I Want To Tell You</a>.
 
 
 también como parte de la progresión I-VdeV-IV-V-I en <a target="_blank" href="http://www.e-chords.com/chords/lou-reed/satellite-of-love" >Satellite of love</a> <a target="_blank" href="https://youtu.be/FH2EgYq_NCY"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="http://Acordes.lacuerda.net/gatos/la_balsa.shtml" >La balsa</a> <a target="_blank" href="https://youtu.be/Yv9PnHsEGas"  ><FAIcon icon="fa-solid fa-play"  /></a> (En ambos casos F-G-Bb-C en clave de F) o <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_rolling_stones/As_tears_go_by_ver3_crd.htm" >As tears go by</a> <a target="_blank" href="https://youtu.be/GkDsf06rU6g"  ><FAIcon icon="fa-solid fa-play"  /></a> (E-F#-A-B en clave de E).
@@ -1809,7 +1809,7 @@ también como parte de la progresión I-VdeV-IV-V-I en <a target="_blank" href="
 
 <a class="anchor" id="backwater"></a>
 
-Para cerrar esta sección vamos a ver una cancion de los 90s que mezcla la progresión I-<a class="lnk"  href="#dom-sec" >VdeV</a> con otro cliché de los 60s: la progresión <a class="lnk"  href="/armonia/arm3#bVI-bVII-I">bVI-bVII-I</a>:
+Para cerrar está sección vamos a ver una canción de los 90s qué mezcla la progresión I-<a class="lnk"  href="#dom-sec" >VdeV</a> con otro cliché de los 60s: la progresión <a class="lnk"  href="/armonia/arm3#bVI-bVII-I">bVI-bVII-I</a>:
 
 <code>
 
@@ -1853,7 +1853,7 @@ Para cerrar esta sección vamos a ver una cancion de los 90s que mezcla la progr
 
 ## VdeV-I como Resolución
 
-Si bien la resolución VdeV-IV-I que vimos en la sección anterior es tal vez el cliche más común del pop en terminos de "VdeV no-funcional" este hit de los 50s se adelanto en esa categoría con una resolución VdeV-I:
+Si bien la resolución VdeV-IV-I qué vimos en la sección anterior es tal vez el cliche más común del pop en términos de "VdeV no-funcional" este hit de los 50s se adelanto en esa categoría con una resolución VdeV-I:
 
 
 <code>
@@ -1941,12 +1941,12 @@ En el próximo ejemplo, en la misma clave, vemos la misma resolución <a class="
 
 ## VdeV no-funcional y V<span class="min">de</span>bVII
 
-Si bien en secciones previas vimos usos no funcionales del acorde <a class="lnk"  href="#dom-sec" >VdeV</a> tales como <a class="lnk"  href="#la-progresión-vdev-iv-i">la progresión VdeV-IV-I</a> y <a class="lnk"  href="#vdev-i-como-resolución">la resolución VdeV-I</a> en esta sección estudiaremos algunas propiedades particulares sobre la altura y duración del uso de VdeV al margen de su uso o no como dominante de otro acorde.
+Si bien en secciones previas vimos usos no funcionales del acorde <a class="lnk"  href="#dom-sec" >VdeV</a> tales como <a class="lnk"  href="#la-progresión-vdev-iv-i">la progresión VdeV-IV-I</a> y <a class="lnk"  href="#vdev-i-como-resolución">la resolución VdeV-I</a> en está sección estudiaremos algunas propiedades particulares sobre la altura y duración del uso de VdeV al margen de su uso o no como dominante de otro acorde.
 
 
 
 
-Habíamos visto en <a class="lnk"  href="" >This Boy</a> que el típico puente estilo años 50 empieza en IV y termina en una <a class="lnk"  href="#dom-sec" >VdeV</a>-V donde VdeV parece quedar "colgado" sin resolución por un breve instante.
+Habíamos visto en <a class="lnk"  href="" >This Boy</a> qué el típico puente estilo años 50 empieza en IV y termina en una <a class="lnk"  href="#dom-sec" >VdeV</a>-V donde VdeV parece qué dar "colgado" sin resolución por un breve instante.
 
 
 
@@ -1955,7 +1955,7 @@ Esto es llevado a un nuevo limite en el caso de <a class="lnk"  href="/armonia/a
 <a class="anchor" id="daytripper"></a>
 
 
-Sin embargo esto es aún más común en los casos de <a class="lnk"  href="#dom-sec" >VdeV</a> que no resuelven directamente a V, conocidos como VdeV "no-funcionales", vamos a verlo en un celebre caso de la misma banda:
+Sin embargo esto es aún más común en los casos de <a class="lnk"  href="#dom-sec" >VdeV</a> qué no resuelven directamente a V, conocidos como VdeV "no-funcionales", vamos a verlo en un celebre caso de la misma banda:
 
 <code>
 
@@ -1980,28 +1980,28 @@ Sin embargo esto es aún más común en los casos de <a class="lnk"  href="#dom-
 &nbsp;<span class="magentaDom">C#</span>: vi con <a class="lnk"  href="/category/módulos-técnicos#esc-aco">tercera mayor</a>.
 </code>
 
-Acá cláramente pueden ver el <a class="lnk"  href="#dom-sec">VdeV</a> "no-funcional" (<span class="magentaDom">F#7</span>) mantenido durantre varios compases, y que no resuelve directamente a <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> (B).
+Acá cláramente pueden ver el <a class="lnk"  href="#dom-sec">VdeV</a> "no-funcional" (<span class="magentaDom">F#7</span>) mantenido durantre varios compases, y qué no resuelve directamente a <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> (B).
 
 
 
-B7 finalmente apare más tarde, pero acá hay algo muy importante que notar:
-justamente la corta progresión de 3 acordes que se interpone entre <a class="lnk"  href="#dom-sec">VdeV</a> y <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a> (<span class="magentaDom">F#7</span> y B7), dado que tiene sus propias particularidades:
+B7 finalmente apare más tarde, pero acá hay algo muy importante qué notar:
+justamente la corta progresión de 3 acordes qué se interpone entre <a class="lnk"  href="#dom-sec">VdeV</a> y <a class="lnk"  href="/category/módulos-técnicos#sen-ton">V</a> (<span class="magentaDom">F#7</span> y B7), dado qué tiene sus propias particularidades:
 
 
 
-Si el acorde que corresponde al grado vi ubiese estado en su version natural (C#m) en vez de la versión con tercera aumentada (<span class="magentaDom">C#</span>) que se escucha en la canción, está resolución ubiese sido interpretada por nuestro oído como una modulación a C#m (ver <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >modulación al relativo menor</a>) con lo cual A y G#7 (IV-<a class="lnk"  href="#dom-rel-men">Vdevi</a>, para verlos en su resolución usual ver <a class="lnk"  href="#runforyourlife">Run for your life</a>) ubiesen sido reinterpretados como bV y V en una progresión <a class="lnk"  href="/category/módulos-técnicos#andalu" >bVI-V-i</a> con C#m como nueva clave. 
+Si el acorde qué corresponde al grado vi ubiese estado en su versión natural (C#m) en vez de la versión con tercera aumentada (<span class="magentaDom">C#</span>) qué se escucha en la canción, está resolución ubiese sido interpretada por nuestro oído como una modulación a C#m (ver <a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >modulación al relativo menor</a>) con lo cuál A y G#7 (IV-<a class="lnk"  href="#dom-rel-men">Vdevi</a>, para verlos en su resolución usual ver <a class="lnk"  href="#runforyourlife">Run for your life</a>) ubiesen sido reinterpretados como bV y V en una progresión <a class="lnk"  href="/category/módulos-técnicos#andalu" >bVI-V-i</a> con C#m como nueva clave. 
 
 
 
-Es por eso que el hecho de que el grado vi aca sea mayor (<span class="magentaDom">C#</span>) tiene que ver con evitar una resolución total que ubiese dejado la canción desprovista de <a class="lnk"  href="/category/módulos-técnicos#tension">tensión</a> y por ende imposibilitada de volver a resolver en E mediante la típica resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> (B7-E).
+Es por eso qué el hecho de qué el grado vi aca sea mayor (<span class="magentaDom">C#</span>) tiene qué ver con evitar una resolución total qué ubiese dejado la canción desprovista de <a class="lnk"  href="/category/módulos-técnicos#tension">tensión</a> y por ende imposibilitada de volver a resolver en E mediante la típica resolución <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V-I</a> (B7-E).
 
 
 
-A un nivel más general se puede decir que se trata de una progresión <a class="lnk"  href="/category/módulos-técnicos#andalu" >bVI-V-i</a> incrustada en medio de una progresión <a class="lnk"  href="#dom-sec" >VdeV-V-I</a>, pero que debido al hecho de ser ambas progresiones fuertemente resolutivas se debio recurrir al truco del iv mayor (mézcla de <a class="lnk"  href="/armonia/arm3#picardy">tercera de picardy</a> y <a class="lnk"  href="/category/módulos-técnicos#decep-1">resolución decepcionante</a>) para que una resolución no interfiera con la otra.
+A un nivel más general se puede decir qué se trata de una progresión <a class="lnk"  href="/category/módulos-técnicos#andalu" >bVI-V-i</a> incrustada en medio de una progresión <a class="lnk"  href="#dom-sec" >VdeV-V-I</a>, pero qué debido al hecho de ser ambas progresiones fuertemente resolutivas se debio recurrir al truco del iv mayor (mézcla de <a class="lnk"  href="/armonia/arm3#picardy">tercera de picardy</a> y <a class="lnk"  href="/category/módulos-técnicos#decep-1">resolución decepcionante</a>) para qué una resolución no interfiera con la otra.
 
 
 
-veámoslo en un <a class="lnk"  href="index.html#lecturas1" >gráfico Schenkeriano</a> con division de compases para ver otra caracteristica de esta canción que tuvo gran influencia en el rock:
+veámoslo en un <a class="lnk"  href="index.html#lecturas1" >gráfico Schenkeriano</a> con división de compases para ver otra característica de está canción qué tuvo gran influencia en el rock:
 
 <code>
 
@@ -2082,7 +2082,7 @@ Como pueden ver <a class="lnk"  href="#dom-sec" >VdeV</a> se mantiene por una ca
 
 
 <a class="anchor" id="civilwar"></a>
-La banda insistiria con el recurso, pero en este caso empezando desde el lado del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> por lo que el mismo <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> ahora será marcado cómo VdebVII, la canción solo pasa al <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo mayor</a> (G) brevemente sobre el estribillio.
+La banda insistiria con el recurso, pero en este caso empezando desde el lado del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> por lo qué el mismo <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> ahora será marcado como VdebVII, la canción solo pasa al <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo mayor</a> (G) brevemente sobre el estribillio.
 <br />
 <br />
 
@@ -2160,13 +2160,13 @@ The way we've always done before
 &nbsp;<span class="magentaDom">A</span>: VdebVII
 </code>
 
-Como pueden ver en este ejemplo, VdebVII no es más que lo que una clave mayor es <a class="lnk"  href="#dom-sec">VdeV</a> visto desde la perspectiva de su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a>.
+Como pueden ver en este ejemplo, VdebVII no es más qué lo qué una clave mayor es <a class="lnk"  href="#dom-sec">VdeV</a> visto desde la perspectiva de su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a>.
 
 
 
 <a class="anchor" id="runforyourlife"></a>
 
-Comparemos la progresión Bm-E7 que en Run for your life por estar en clave de D es vi-<a class="lnk"  href="#dom-sec" >VdeV</a> pero en <a class="lnk"  href="/category/módulos-técnicos#bestiapop" >La Bestia Pop</a> es i-VdebVII por estar en clave de Bm (<a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> de D) pese a tener los mismos acordes.
+Comparemos la progresión Bm-E7 qué en Run for your life por estar en clave de D es vi-<a class="lnk"  href="#dom-sec" >VdeV</a> pero en <a class="lnk"  href="/category/módulos-técnicos#bestiapop" >La Bestia Pop</a> es i-VdebVII por estar en clave de Bm (<a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> de D) pese a tener los mismos acordes.
 
 <code>
 
@@ -2301,7 +2301,7 @@ D|-----+-----+-----+-----+-----+-----+
  &nbsp;|-----+--F#-+-----+-----+-----+-----+
 </code>
 
-Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teoría.com/es/referencia/i/inversion.php" >inversión</a> tiene que ver con transladar la cromatica F#-G a la cuerda más grave de la guitarra, ahora veamos el mismo acorde pero en la <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa menor</a> de la del ejemplo anterior:
+Es fácil ver qué la elección de dicha <a target="_blank" href="http://www.teoría.com/es/referencia/i/inversion.php" >inversión</a> tiene qué ver con transladar la crómatica F#-G a la cuerda más grave de la guitarra, ahora veamos el mismo acorde pero en la <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa menor</a> de la del ejemplo anterior:
 
 
 <a class="anchor" id="houseoftherising"></a>
@@ -2399,11 +2399,11 @@ Es fácil ver que la elección de dicha <a target="_blank" href="http://www.teor
 </code>
 
 
-La progresión i-bIII-VdebVII volveria a apareceren los 90s cómo la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_queen_ver3_tab.htm" >Rocket Queen</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><FAIcon icon="fa-solid fa-play"  /></a> ambas de la misma banda.
+La progresión i-bIII-VdebVII volveria a apareceren los 90s como la estrofa incial de <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasís/supersonic_acoustic_crd.htm" >Supersonic</a> <a target="_blank" href="https://youtu.be/BJKpUH2kJQg"  ><FAIcon icon="fa-solid fa-play"  /></a> (F#m-A-B) y también con los mismos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> en el estribillo de <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/you_could_be_mine_crd.htm" >You Could Be Mine</a> <a target="_blank" href="https://www.youtube.com/watch?v=_U5IhEAFGwQ"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/g/guns_n_roses/rocket_que en_ver3_tab.htm" >Rocket qué en</a> <a target="_blank" href="https://www.youtube.com/watch?v=c7xQ04nlePM" ><FAIcon icon="fa-solid fa-play"  /></a> ambas de la misma banda.
 
 <a class="anchor" id="one"></a>
 
-Habría más clasícos de los 90s con el VdebVII, que cómo ya vimos es en si el muy popular VdeV puesto en el contexto de su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa menor</a>:  
+Habría más clasícos de los 90s con el VdebVII, qué como ya vimos es en si el muy popular VdeV puesto en el contexto de su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa menor</a>:  
 
 <code>
 
@@ -2441,7 +2441,7 @@ Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
 
 <a class="anchor" id="demasiada"></a>
 
-De todas formas el hecho de que hasta en canciones en clave menor predomine cómo dominante secundario el <a class="lnk"  href="#dom-sec" >VdeV</a> de su relativo mayor, no implica que las canciones en clave menor no usen su propio VdeV:
+De todas formas el hecho de qué hasta en canciones en clave menor predomine como dominante secundario el <a class="lnk"  href="#dom-sec" >VdeV</a> de su relativo mayor, no implica qué las canciones en clave menor no usen su propio VdeV:
 
 <code>
 
@@ -2457,12 +2457,12 @@ Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
 &nbsp;   Dm
 &nbsp;juraste no volverla a ver
 &nbsp;     E7
-&nbsp;la fiestá terminó
+&nbsp;la fiesta terminó
 &nbsp;   Am
 &nbsp;ya no podés tenerte en pie
 
 &nbsp;Dm                           C
-&nbsp;está noche es hora de que pienses en cambiar
+&nbsp;esta noche es hora de qué pienses en cambiar
 &nbsp;               <a class="magentaDom">B7</a>                  E7
 &nbsp;el tiempo pasa pronto y todo tiene su final
 &nbsp;Dm                      C
@@ -2477,11 +2477,11 @@ Am |   |Bº |C  |   |Dm |   |E7 |F  |   |G  |   |Am
 ><p class="md_footnote_size">Otro buen ejemplo de turnaround en una clave menor 
 es <a class="lnk"  href="/armonia/arm3#breakexp" title="Break It All">Break It All</a> (F#7-B7 en clave de Em).</p>
 
-En este caso está usado en su función más tradiciónal cómo parte de un turnaround ósea la "cadena" <a class="lnk"  href="#dom-sec" >VdeV-V</a> (B7-E7).
+En este caso está usado en su función más tradiciónal como parte de un turnaround ósea la "cadena" <a class="lnk"  href="#dom-sec" >VdeV-V</a> (B7-E7).
 
 
 
- Noten el detalle no menor de que Am no aparece durante el estribillo, algo que ayuda a <a class="lnk"  href="/category/módulos-técnicos#tension">mantener la tensión</a>, de hecho al truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> los Cadillacs también lo usaron en <a class="lnk"  href="/armonia/arm3#refunc">Mi novia se cayó en un pozo ciego</a> cómo podemos ver con el link.
+ Noten el detalle no menor de qué am no aparece durante el estribillo, algo qué ayuda a <a class="lnk"  href="/category/módulos-técnicos#tension">mantener la tensión</a>, de hecho al truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%Basíca)" >tónica</a> los Cadillacs también lo usaron en <a class="lnk"  href="/armonia/arm3#refunc">Mi novia se cayó en un pozo ciego</a> como podemos ver con el link.
 
 
 
@@ -2497,11 +2497,11 @@ En este caso está usado en su función más tradiciónal cómo parte de un turn
 ## Dominante del Relativo Menor (V<span class="min" >devi</span>)
 
 
-Típicamente se encuntra cómo I-Vdevi-vi (bastante lógico), está progresión también se remonta a los origenes de la música popular y el primer jazz, pero no ha perdido vigencia. 
+Típicamente se encuntra como I-Vdevi-vi (bastante lógico), está progresión también se remonta a los origenes de la música popular y el primer jazz, pero no ha perdido vigencia. 
 
 
 
-Ya habíamos visto el uso de un dominante de séptima para modular entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>, pero la progresión I-Vdevi-vi, cómo tantas popularizadas entre fines del siglo XIX y principios del siglo XX con el primer auge de la música grabada, utiliza el dominante secundario para dar tracción a la progresión sin realmente modular a otra clave, veamos un ejemplo no tan antiguo:
+Ya habíamos visto el uso de un dominante de séptima para modular entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>, pero la progresión I-Vdevi-vi, como tantas popularizadas entre fines del siglo XIX y principios del siglo XX con el primer auge de la música grabada, utiliza el dominante secundario para dar tracción a la progresión sin realmente modular a otra clave, veamos un ejemplo no tan antiguo:
 
 
 <code>
@@ -2527,14 +2527,14 @@ Ya habíamos visto el uso de un dominante de séptima para modular entre <a clas
 </code>
 
 
-Está progresión genera una atractiva línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> ascendente de 3 notas, lo cual está bien aprovechada y se nota claramente en el riff en la  intro de Flaca: La nota V del <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G (seria D) subiendo un semitono se convierte en la tercera (iii) del acorde B7 (seria D#) y finalmente subiendo un semitono más se convierte en la primera (I) del acorde Em (seria la nota E).
+esta progresión genera una atractiva línea <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> ascendente de 3 notas, lo cuál está bien aprovechada y se nota claramente en el riff en la  intro de Flaca: La nota V del <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G (seria D) subiendo un semitono se convierte en la tercera (iii) del acorde B7 (seria D#) y finalmente subiendo un semitono más se convierte en la primera (I) del acorde Em (seria la nota E).
 
 
 
 <a class="anchor" id="onlyyou"></a>
 
 
-Siendo un típico truco del viejo Tin Pan Alley es común que este acompañado por otros dominantes secundarios y trucos de ese estilo:  
+Siendo un típico truco del viejo Tin Pan Alley es común qué este acompañado por otros dominantes secundarios y trucos de ese estilo:  
 
 <code>
 
@@ -2574,7 +2574,7 @@ Siendo un típico truco del viejo Tin Pan Alley es común que este acompañado p
 </code>
 
 
-Más ejemplos de I-Vdevi-vi en clave de G (G-B7-Em) la podemos encontrar en <a target="_blank" href="http://www.tusacordes.com/secciónes/ver_tema.php?id=25197" >Cum On Feel The Noise</a> <a target="_blank" href="https://youtu.be/6MQRCCNncGA"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.guitaretab.com/f/frank-sinatra/198783.html" >That's life</a> <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, el intro de <a target="_blank" href="http://www.guitaretab.com/q/queen/15278.html" >Friends will be friends</a> <a target="_blank" href="https://youtu.be/eTDTHLbkw0k"  ><FAIcon icon="fa-solid fa-play"  /></a> o el estribillo de <a target="_blank" href="http://www.guitaretab.com/B/Beatles/290733.html" >You can't do that</a> <a target="_blank" href="https://youtu.be/y8Dpt7TI9q0"  ><FAIcon icon="fa-solid fa-play"  /></a>.
+Más ejemplos de I-Vdevi-vi en clave de G (G-B7-Em) la podemos encontrar en <a target="_blank" href="http://www.tusacordes.com/secciónes/ver_tema.php?id=25197" >Cum On Feel The Noise</a> <a target="_blank" href="https://youtu.be/6MQRCCNncGA"  ><FAIcon icon="fa-solid fa-play"  /></a>, <a target="_blank" href="http://www.guitaretab.com/f/frank-sinatra/198783.html" >That's life</a> <a target="_blank" href="https://youtu.be/vIbRBiM2Fyg"  ><FAIcon icon="fa-solid fa-play"  /></a>, el intro de <a target="_blank" href="http://www.guitaretab.com/q/que en/15278.html" >Friends will be friends</a> <a target="_blank" href="https://youtu.be/eTDTHLbkw0k"  ><FAIcon icon="fa-solid fa-play"  /></a> o el estribillo de <a target="_blank" href="http://www.guitaretab.com/B/Beatles/290733.html" >You can't do that</a> <a target="_blank" href="https://youtu.be/y8Dpt7TI9q0"  ><FAIcon icon="fa-solid fa-play"  /></a>.
 
 En clave de A <a target="_blank" href="http://www.azchords.com/n/nirvana-tabs-2773/drainyou-tabs-111876.html" >Drain you</a> <a target="_blank" href="https://www.youtube.com/watch?v=Hbhx4p9qTts"  ><FAIcon icon="fa-solid fa-play"  /></a> (A-C#7-Fm)
 
@@ -2586,20 +2586,20 @@ En clave de F: <a class="lnk"  href="/armonia/arm3#wonderfulworld">What A Wonder
 
 
 
-En clave de E (E-G#7-C#m) en <a class="lnk"  href="/armonia/arm3#sheselectric">She's Electric</a>, <a class="lnk"  href="/armonia/arm3#lithium">Lithium</a>, <a target="_blank" href="http://www.e-chords.com/chords/sublime/santeria" >Santeria</a> <a target="_blank" href="https://youtu.be/AEYN5w4T_aM"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasis/married_with_children_crd.htm" >Married With Children</a> <a target="_blank" href="https://youtu.be/EOoidN2s5qY"  ><FAIcon icon="fa-solid fa-play"  /></a> mientras que <a target="_blank" href="https://tabs.últimate-guitar.com/s/stone_temple_pilots/interstate_love_song_crd.htm" >Interstate Love Song</a> <a target="_blank" href="https://youtu.be/yjJL9DGU7Gg"  ><FAIcon icon="fa-solid fa-play"  /></a> también utiliza G#7 en clave de E en el estribillo, pero sin que nunca resuelva a C#m lo cual ayuda a <a class="lnk"  href="/category/módulos-técnicos#tension">mantener la tensión</a>.
+En clave de E (E-G#7-C#m) en <a class="lnk"  href="/armonia/arm3#sheselectric">She's Electric</a>, <a class="lnk"  href="/armonia/arm3#lithium">Lithium</a>, <a target="_blank" href="http://www.e-chords.com/chords/sublime/santeria" >Santeria</a> <a target="_blank" href="https://youtu.be/AEYN5w4T_aM"  ><FAIcon icon="fa-solid fa-play"  /></a> y <a target="_blank" href="https://tabs.últimate-guitar.com/o/oasis/married_with_children_crd.htm" >Married With Children</a> <a target="_blank" href="https://youtu.be/EOoidN2s5qY"  ><FAIcon icon="fa-solid fa-play"  /></a> mientras que<a target="_blank" href="https://tabs.últimate-guitar.com/s/stone_temple_pilots/interstate_love_song_crd.htm" >Interstate Love Song</a> <a target="_blank" href="https://youtu.be/yjJL9DGU7Gg"  ><FAIcon icon="fa-solid fa-play"  /></a> también utiliza G#7 en clave de E en el estribillo, pero sin qué nunca resuelva a C#m lo cuál ayuda a <a class="lnk"  href="/category/módulos-técnicos#tension">mantener la tensión</a>.
 
 
 &nbsp;<a target="_blank" href="http://Acordes.lacuerda.net/panchos/perfidia.shtml" >Perfidia</a> <a target="_blank" href="https://youtu.be/JyRBBeOYAwU" ><FAIcon icon="fa-solid fa-play"  /></a> hace una especie de <a class="lnk"  href="/category/módulos-técnicos#decep-1" >resolución decepcionante</a> cambiando I (D) por Vdevi (F#7) en la resolución y utilizandolo luego en el puente junto con IV (G) a solo mediotono.
 
 
 
-También lo podemos escuchar en <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> (B7 en clave de G) en la misma clave en <a target="_blank" href="http://www.guitaretab.com/B/Beatles/23333.html" >I Should Have Known Better</a> <a target="_blank" href="https://youtu.be/wwo4VYWi8GA" ><FAIcon icon="fa-solid fa-play"  /></a> y en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping'</a> (la canción fluctua entre G y Em que son <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>).
+También lo podemos escuchar en <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> (B7 en clave de G) en la misma clave en <a target="_blank" href="http://www.guitaretab.com/B/Beatles/23333.html" >I Should Have Known Better</a> <a target="_blank" href="https://youtu.be/wwo4VYWi8GA" ><FAIcon icon="fa-solid fa-play"  /></a> y en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping'</a> (la canción fluctua entre G y Em qué ron <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>).
 
 
 <a class="anchor" id="creep"></a>
 
 
-Un ejemplo interésante donde Vdevi no resuelve en iv es Creep que estando en clave de G comienza G-B (I-Vdevi) pero luego pasa a IV (C) donde hace hace el <a class="lnk"  href="#ivcrom" >juego cromático IV-vi</a> describiendo una progresión I-Vdevi-IV-iv (G-B-C-Cm):
+Un ejemplo interésante donde Vdevi no resuelve en iv es Creep qué estando en clave de G comienza G-B (I-Vdevi) pero luego pasa a IV (C) donde hace hace el <a class="lnk"  href="#ivcrom" >juego cromático IV-vi</a> describiendo una progresión I-Vdevi-IV-iv (G-B-C-Cm):
 
 <code>
 
@@ -2625,7 +2625,7 @@ Un ejemplo interésante donde Vdevi no resuelve en iv es Creep que estando en cl
 &nbsp;<span class="rojo">Cm</span>: acorde no-diatónico (<a class="lnk"  href="#ivcrom" >juego cromático con IV mayor</a>)  
 </code>
 
-En el siguiente ejemplo Vdevi también es no-funcional, pero más aún, aparece justo donde se esperaria escuchar vi, remplazando completamente el acorde sobre el cual "se supondria" deberia resolver en el sentido "funcional":
+En el siguiente ejemplo Vdevi también es no-funcional, pero más aún, aparece justo donde se esperaria escuchar vi, remplazando completamente el acorde sobre el cuál "se supondria" deberia resolver en el sentido "funcional":
 
 <a class="anchor" id="imagine"></a>
 
@@ -2653,7 +2653,7 @@ En el siguiente ejemplo Vdevi también es no-funcional, pero más aún, aparece 
 &nbsp;<span class="magentaDom">E7</span>: <a class="lnk"  href="#dom-rel-men" >Vdevi</a>
 </code>
 
-Para entender la naturaleza del truco deberiamos imaginar la mucho más intuitiva progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>-vi que en este caso seria F-G-C-Am...   pero la verdad es que Am (vi) nunca aparece sino que es completamente sustituida por su propio dominante (IV-V-I-Vdevi).
+Para entender la naturaleza del truco deberiamos imaginar la mucho más intuitiva progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >IV-V-I</a>-vi qué en este caso seria F-G-C-Am...   pero la verdad es qué am (vi) nunca aparece sino qué es completamente sustituida por su propio dominante (IV-V-I-Vdevi).
 
 
 <a class="anchor" id="soldieroflove"></a>
@@ -2675,7 +2675,7 @@ Existe un antecedente a está progresión I-<a class="lnk"  href="#dom-rel-men" 
 &nbsp;               C#m                      E
 &nbsp;Lay down your arms and love me peacefully yeah
 &nbsp;C#m                            F#m 
-&nbsp;Use your arms for squeezin' and please 
+&nbsp;Use your arms for sque ezin' and please 
 &nbsp;                           E
 &nbsp;I'm the one that loves you so
 &nbsp;      E                   <span class="magentaDom">G#7</span>
@@ -2695,18 +2695,18 @@ de E, su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >C
 </code>
 
 
-Noten el parecido de esa estrofa con la resolución que se da en la misma clave en <a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm Happy Just To Dance With You</a> donde se explica como una variación de <a class="lnk"  href="/category/módulos-técnicos#decep-1" >la resolución decepcionante</a>.
+Noten el parecido de esa estrofa con la resolución qué se da en la misma clave en <a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm Happy Just To Dance With You</a> donde se explica como una variación de <a class="lnk"  href="/category/módulos-técnicos#decep-1" >la resolución decepcionante</a>.
 
 
 
 
-Hay una canción que en su intro hace homenaje <a class="lnk"  href="#imagine" >Imagine</a> y también un uso inusual del <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> Vdevi (va desde iv a <a class="lnk"  href="#dom-rel-men" >Vdevi</a> y no al reves cómo es más usual) , se trata de <a target="_blank" href="http://www.guitaretab.com/o/oasís/13664.html" >Dont Look Back In Anger</a> <a target="_blank" href="https://www.youtube.com/watch?v=cmpRLQZkTb8"  ><FAIcon icon="fa-solid fa-play"  /></a> cuya estrofa inicial en clave de C es C-G-Am-E-F-G ósea I-V-vi-Vdevi-IV-V, aunque en este caso recuerda más al uso de Vdevi en la canción medioeval inglesa <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional/greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0"  ><FAIcon icon="fa-solid fa-play"  /></a> (en la parte del puente, cuando pese a que la canción pasa a la clave del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo mayor</a> sigue utilizando el <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a>).
+Hay una canción qué en su intro hace homenaje <a class="lnk"  href="#imagine" >Imagine</a> y también un uso inusual del <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> Vdevi (va desde iv a <a class="lnk"  href="#dom-rel-men" >Vdevi</a> y no al reves como es más usual) , se trata de <a target="_blank" href="http://www.guitaretab.com/o/oasís/13664.html" >Dont Look Back In Anger</a> <a target="_blank" href="https://www.youtube.com/watch?v=cmpRLQZkTb8"  ><FAIcon icon="fa-solid fa-play"  /></a> cuya estrofa inicial en clave de C es C-G-Am-E-F-G ósea I-V-vi-Vdevi-IV-V, aunque en este caso recuerda más al uso de Vdevi en la canción medioeval inglesa <a target="_blank" href="https://tabs.últimate-guitar.com/m/misc_traditional/greensleeves_crd.htm" >Greensleeves</a> <a target="_blank" href="https://youtu.be/wARiOb80Zr0"  ><FAIcon icon="fa-solid fa-play"  /></a> (en la parte del puente, cuándo pese a qué la canción pasa a la clave del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo mayor</a> sigue utilizando el <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V</a> del <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a>).
 
 <a class="anchor" id="alittlerespect"></a>
 
 
 
-El el próximo ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (E en clave de C) parece ser tener más que ver con un juego con su acorde contiguo F (IV) de la misma forma que en el estribillo F hace un juego similar con Em (iii):
+El el próximo ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (E en clave de C) parece ser tener más qué ver con un juego con su acorde contiguo F (IV) de la misma forma qué en el estribillo F hace un juego similar con Em (iii):
 
 
 <code>
@@ -2747,7 +2747,7 @@ El el próximo ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (E en clav
 
 <a class="anchor" id="2u"></a>
 
-En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en clave de F) es tocado a continuación de vi (Dm) como una pequeña variación respecto a las estrofas previas que sirve de preparación a al estribillo. Dado que el estribillo comienza con un acorde no diatonico (Eb como <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo</a>) se produce un cambio de acorde muy inusual de 2 acordes mayores separados por un <a class="lnk"  href="/category/módulos-técnicos#tritono" >intervalo de tritóno</a> (A y Eb):
+En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en clave de F) es tocado a continuación de vi (Dm) como una pequeña variación respecto a las estrofas previas qué rirve de preparación a al estribillo. Dado qué el estribillo comienza con un acorde no diatónico (Eb como <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo</a>) se produce un cambio de acorde muy inusual de 2 acordes mayores separados por un <a class="lnk"  href="/category/módulos-técnicos#tritono" >intervalo de tritóno</a> (A y Eb):
 
 
 <code>
@@ -2775,7 +2775,7 @@ En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en cla
 &nbsp;Dm                           F  C 
 &nbsp;I can see whomever I choose
 &nbsp;F                              C 
-&nbsp;I can eat my dinner in a fancy restáurant
+&nbsp;I can eat my dinner in a fancy restaurant
 &nbsp;    Dm                                <span class="magentaDom">A</span> 
 &nbsp;but nothing, I said nothing can take away these blues
 &nbsp;     <span class="rojo">Eb</span>         Bb 
@@ -2794,7 +2794,7 @@ En el siguiente ejemplo <a class="lnk"  href="#dom-rel-men" >Vdevi</a> (A en cla
 ## El Grado II y su Modulaciones
 
 
-Cómo es de esperar, la progresión más común que incluye el dominante secundario Vdeii es I-Vdeii-ii, dos ejemplos clásicos son <a target="_blank" href="http://www.losacordes.com/Acordes/ramones/the-kkk-took-my-baby-away"  >The KKK took my baby away</a> <a target="_blank" href="https://www.youtube.com/watch?v=hT1OKo1rT84"  ><FAIcon icon="fa-solid fa-play"  /></a> (G#-F-Bbm) y el próximo ejemplo:
+como es de esperar, la progresión más común qué incluye el dominante secundario Vdeii es I-Vdeii-ii, dos ejemplos clásicos son <a target="_blank" href="http://www.losacordes.com/Acordes/ramones/the-kkk-took-my-baby-away"  >The KKK took my baby away</a> <a target="_blank" href="https://www.youtube.com/watch?v=hT1OKo1rT84"  ><FAIcon icon="fa-solid fa-play"  /></a> (G#-F-Bbm) y el próximo ejemplo:
 
 
 <code>
@@ -2819,7 +2819,7 @@ Cómo es de esperar, la progresión más común que incluye el dominante secunda
 </code>
 
 ><p class="md_footnote_size">Los últimos tres acordes (Am-F-D ósea ii-<a class="lnk"  href="/armonia/arm3#mayoresabiii">bVII-V</a>) son son los mismos, 
-con casi el mismo tempo y en la misma clave que los últimos 3 del 
+con casi el mismo tempo y en la misma clave qué los últimos 3 del 
 estribillo de <a class="lnk"  href="/armonia/arm3#imaloser" >I'm A Loser</a></p>
 
 
@@ -2870,11 +2870,11 @@ Ahora vamos a ver un par de casos donde se modula de Dm a C mediante la progresi
 &nbsp;<span class="naranja">Dm</span>-<span class="naranja">G</span>-<span class="naranja">C</span>: <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> a clave de C.
 </code>
 
-Acá de entrada ya podemos ver algo que luego veremos también en <a class="lnk"  href="#ifineeded" >If I Needed Someone</a>: Mientras que el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> un tono completo detrás de la tónica (en este caso Bb) usualmente se lo cataloga cómo <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a> también se encuentra en la clave del grado ii (Dm en este caso) cómo bVI.
+Acá de entrada ya podemos ver algo qué luego veremos también en <a class="lnk"  href="#ifineeded" >If I Needed Someone</a>: Mientras qué el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> un tono completo detrás de la tónica (en este caso Bb) usualmente se lo cataloga como <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a> también se encuentra en la clave del grado ii (Dm en este caso) como bVI.
 
 
 
-Pero lo más interésante viene con la salida de la modulación a Dm (ósea la vuelta a C) donde la aparición de G fuerza a una reinterpretación de Dm: el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G ni es parte de la clave de Dm, ni a su vez Dm es parte de la G (checkear con este botton para comparar las <a class="lnk"  href="/category/módulos-técnicos#laclave">claves</a>), con lo cual la clave diatónica en la que más sentido tienen es en la de C (con Dm cómo <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii</a> y G cómo <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V o dominante</a>) lo cual debido a Esta relación subyacente se puede sentir incluso antes de que finalmente toquen C! De hecho es interésante el detalle de que la canción termina Dm-G sin llegar a C.
+Pero lo más interésante viene con la salida de la modulación a Dm (ósea la vuelta a C) donde la aparición de G fuerza a una reinterpretación de Dm: el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> G ni es parte de la clave de Dm, ni a su vez Dm es parte de la G (checkear con este botton para comparar las <a class="lnk"  href="/category/módulos-técnicos#laclave">claves</a>), con lo cuál la clave diatónica en la qué más sentido tienen es en la de C (con Dm como <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii</a> y G como <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >V o dominante</a>) lo cuál debido a está relación subyacente se puede sentir incluso antes de qué finalmente toquen C! De hecho es interésante el detalle de qué la canción termina Dm-G sin llegar a C.
 
  
 
@@ -2884,13 +2884,13 @@ Pero lo más interésante viene con la salida de la modulación a Dm (ósea la v
 
 
  
-Y es similar también a lo que pasa sobre el final del puente en <a class="lnk"  href="#follow" >I'll Follow The Sun</a> aún que en ese caso la "reinterpretación" de Dm es de Dm cómo <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> (vi) de F a ii de C.
+Y es similar también a lo qué pasa sobre el final del puente en <a class="lnk"  href="#follow" >I'll Follow The Sun</a> aún qué en ese caso la "reinterpretación" de Dm es de Dm como <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativo menor</a> (vi) de F a ii de C.
 
 
 
 <a id="ijustcalled" class="anchor"></a>
 
-Y es interésante notar que acá se invierte lo que pasa en <a class="lnk"  href="#frommetoyou" >From Me To You</a>: mientras que en ese caso se reinterpreta el V de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> que modula a otra clave, en este caso el "reinterpretado" es el grado ii de esa progresión. 
+Y es interésante notar qué acá se invierte lo qué pasa en <a class="lnk"  href="#frommetoyou" >From Me To You</a>: mientras qué en ese caso se reinterpreta el V de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> qué modula a otra clave, en este caso el "reinterpretado" es el grado ii de esa progresión. 
 
 Veamos un ejemplo similar:
 
@@ -2927,12 +2927,12 @@ Acá el uso de C<a class="lnk"  href="#des-maj" >maj7</a> en la estrofa inicial 
 
 
 
-Con respecto a <a class="lnk"  href="#follow" >I'll Follow The Sun</a> además de tener en común la vuelta a la clave original mediante <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> que ya menciónamos antes, también se da que <a class="lnk"  href="" >VdeIV</a> (C7) sorpresivamente no resuelva en IV (F) sino que pase al <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> menor de este ósea ii (Dm), que a su vez pasa a ser confirmado cómo centro tonal momentaneo por su propia dominante (A7) tal cómo vimos en el ejemplo anterior que pasa con <a class="lnk"  href="#fornoone2" >For No One</a>.
+Con respecto a <a class="lnk"  href="#follow" >I'll Follow The Sun</a> además de tener en común la vuelta a la clave original mediante <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> qué va menciónamos antes, también se da que<a class="lnk"  href="" >VdeIV</a> (C7) sorpresivamente no resuelva en IV (F) sino qué pase al <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo menor</a> menor de este ósea ii (Dm), qué a su vez pasa a ser confirmado como centro tonal momentaneo por su propia dominante (A7) tal como vimos en el ejemplo anterior qué pasa con <a class="lnk"  href="#fornoone2" >For No One</a>.
 
 
 <a class="anchor" id="ifineeded"></a>
 
-Ahora una que nos va a mostrar una vez más lo que vimos en <a class="lnk"  href="#fornoone2" >For No One</a> de que el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> usualmente denominado <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a> también aparece en la clave de ii respecto a la original cómo bVI.
+Ahora una qué nos va a mostrar una vez más lo qué vimos en <a class="lnk"  href="#fornoone2" >For No One</a> de qué el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> usualmente denominado <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a> también aparece en la clave de ii respecto a la original como bVI.
 
 
 <code>
@@ -2980,13 +2980,13 @@ Ahora una que nos va a mostrar una vez más lo que vimos en <a class="lnk"  href
 &nbsp;Estrofa en A: ver junto a <a class="lnk"  href="/armonia/arm3#iybvii">más casos de I-bVII-I-bVII</a>
 </code>
 
-En esta el hecho de que se entre en la nueva clave atravez de <a class="lnk"  href="/category/módulos-técnicos#451menor" >iv-V-i</a> nos permite ver el contraste entre el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> con el cual se entra en esa modulación (Em) y el acorde con el cual se sale (E).
+En está el hecho de qué se entre en la nueva clave através de <a class="lnk"  href="/category/módulos-técnicos#451menor" >iv-V-i</a> nos permite ver el contraste entre el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> con el cuál se entra en esa modulación (Em) y el acorde con el cuál se sale (E).
 
 
 <a class="anchor" id="beingfor"></a>
 
 
-Y para cerrar la sección otra canción que modula de C a Dm, pero en este caso nos vamos a centrar solo en el intro que está pensado para enfatizar al máximo la sensación de reinterpretación que se da en Dm al pasar a la clave de C:
+Y para cerrar la sección otra canción qué modula de C a Dm, pero en este caso nos vamos a centrar solo en el intro qué esta pensado para enfatizar al máximo la sensación de reinterpretación qué se da en Dm al pasar a la clave de C:
 
 
 <code>
@@ -3025,25 +3025,25 @@ Dm:  bVI             V               i
 ## Modulación de Semitono o Tono Completo
 
 
-Es un tipo de <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> que cambia de clave sin dominantes ni otro tipo de pivot previo. Generalmente se da sobre el final de la canción, veamos algunos casos de a un semitono:
+Es un tipo de <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> qué cambia de clave sin dominantes ni otro tipo de pivot previo. Generalmente se da sobre el final de la canción, veamos algunos casos de a un semitono:
 
 
 
 
-Como recurso tuvo su máximo esplendor en los 50s y 60s, especialmente baladas cómo podemos ver en los ejemplos de <a target="_blank" href="https://tabs.últimate-guitar.com/p/paul_anka/put_your_head_on_my_shoulder_crd.htm" >Put your head on my shoulder</a> <a target="_blank" href="https://youtu.be/TY4uxdAt4-M" ><FAIcon icon="fa-solid fa-play"  /></a> (de G a G#), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/take_good_care_of_my_baby_crd.htm" >Take good care of my baby</a> <a target="_blank" href="https://youtu.be/vVFJVTEsBGw" ><FAIcon icon="fa-solid fa-play"  /></a>(de G a G#),  <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a>(de D a D#), <a target="_blank" href="https://tabs.últimate-guitar.com/m/michael_bolton/when_a_man_loves_a_woman_ver2_crd.htm"  >When a man loves a woman</a> <a target="_blank" href="https://youtu.be/MUuNDb-nm5M"  ><FAIcon icon="fa-solid fa-play"  /></a>(de C# a D), <a class="lnk"  href="#vdeii" >I Get Around</a> (de G a G#), <a target="_blank" href="http://www.e-chords.com/chords/the-doors/hello-i-love-you" >Hello I love you</a> <a target="_blank" href="https://youtu.be/8f1z-nHvt3c" ><FAIcon icon="fa-solid fa-play"  /></a>(de A a A#), o aún en canciones posteriores a ese periodo cómo <a target="_blank" href="http://www.e-chords.com/chords/macy-gray/i-try" >I try</a> <a target="_blank" href="https://youtu.be/WEQ0l_m3Xm0" ><FAIcon icon="fa-solid fa-play"  /></a> (de G a G#).
+Como recurso tuvo su máximo esplendor en los 50s y 60s, especialmente baladas como podemos ver en los ejemplos de <a target="_blank" href="https://tabs.últimate-guitar.com/p/paul_anka/put_your_head_on_my_shoulder_crd.htm" >Put your head on my shoulder</a> <a target="_blank" href="https://youtu.be/TY4uxdAt4-M" ><FAIcon icon="fa-solid fa-play"  /></a> (de G a G#), <a target="_blank" href="https://tabs.últimate-guitar.com/t/the_beatles/take_good_care_of_my_baby_crd.htm" >Take good care of my baby</a> <a target="_blank" href="https://youtu.be/vVFJVTEsBGw" ><FAIcon icon="fa-solid fa-play"  /></a>(de G a G#),  <a target="_blank" href="http://www.e-chords.com/chords/Beach-boys/surfer-girl" >Surfer Girl</a> <a target="_blank" href="https://youtu.be/HGjky5U64LM" ><FAIcon icon="fa-solid fa-play"  /></a>(de D a D#), <a target="_blank" href="https://tabs.últimate-guitar.com/m/michael_bolton/when_a_man_loves_a_woman_ver2_crd.htm"  >When a man loves a woman</a> <a target="_blank" href="https://youtu.be/MUuNDb-nm5M"  ><FAIcon icon="fa-solid fa-play"  /></a>(de C# a D), <a class="lnk"  href="#vdeii" >I Get Around</a> (de G a G#), <a target="_blank" href="http://www.e-chords.com/chords/the-doors/hello-i-love-you" >Hello I love you</a> <a target="_blank" href="https://youtu.be/8f1z-nHvt3c" ><FAIcon icon="fa-solid fa-play"  /></a>(de A a A#), o aún en canciones posteriores a ese periodo como <a target="_blank" href="http://www.e-chords.com/chords/macy-gray/i-try" >I try</a> <a target="_blank" href="https://youtu.be/WEQ0l_m3Xm0" ><FAIcon icon="fa-solid fa-play"  /></a> (de G a G#).
 
 
 
-Está "subida" de un semitono, se la conoce de aquellas épocas cómo "<a target="_blank" href="http://Allthetropes.wikia.com/wiki/Truck_Driver's_Gear_Change" >The Truck Driver's Gear Change</a>" ósea "La metida de cambio del camionero" lo cual por un lado da una idea de cómo se siente está <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> y por otro refleja la baja reputación estetica que este recurso goza entre los circulos compositivos.
+esta "subida" de un semitono, se la conoce de aquellas épocas como "<a target="_blank" href="http://Allthetropes.wikia.com/wiki/Truck_Driver's_Gear_Change" >The Truck Driver's Gear Change</a>" ósea "La metida de cambio del camionero" lo cuál por un lado da una idea de como se siente está <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> y por otro refleja la baja reputación estetica qué este recurso goza entre los circulos compositivos.
 
 
 
-El que parecio tomarse en serio la analogia de los cambios del camion fue Palito Ortega, dado que su recordado hit <a target="_blank" href="http://Acordestotales.com/Artistas/palito-ortega/yo-tengo-fe"  >Yo tengo fe</a> <a target="_blank" href="https://youtu.be/GqJnI3RW3Uk"  ><FAIcon icon="fa-solid fa-play"  /></a> sube un semitono con cada nueva estrofa, que a su vez va un poco más rápido que la anterior hasta totalizar 6 claves difrentes, empezando en E y terminando en A, con un tempo que tranquilamente podría ser el doble de rápido que el original.
+El qué parecio tomarse en serio la analogia de los cambios del camion fue Palito Ortega, dado qué ru recordado hit <a target="_blank" href="http://Acordestotales.com/Artistas/palito-ortega/yo-tengo-fe"  >Yo tengo fe</a> <a target="_blank" href="https://youtu.be/GqJnI3RW3Uk"  ><FAIcon icon="fa-solid fa-play"  /></a> sube un semitono con cada nueva estrofa, qué a su vez va un poco más rápido qué la anterior hasta totalizar 6 claves difrentes, empezando en E y terminando en A, con un tempo qué tranquilamente podría ser el doble de rápido qué el original.
  
 
  
 
-&nbsp;<a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a> lo hace de una forma más disimulada: subiendo medio tono de C#m/E a Dm/F (en ambos casos se da un juego entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>) justo en el momento que empieza el solo de guitarra.
+&nbsp;<a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a> lo hace de una forma más disimulada: subiendo medio tono de C#m/E a Dm/F (en ambos casos se da un juego entre <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas</a>) justo en el momento qué empieza el solo de guitarra.
  
  
  <a class="anchor" id="ififellintro"></a>
@@ -3051,17 +3051,17 @@ El que parecio tomarse en serio la analogia de los cambios del camion fue Palito
  
 
 
-Sería otra canción que venia en el mismo album que <a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a> la que desafiaría algunos clichés asociados con la <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> de un semitono: no se da sobre el final, de hecho se da en el intro. 
+Sería otra canción qué venia en el mismo album que<a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a> la qué desafiaría algunos clichés asociados con la <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> de un semitono: no se da sobre el final, de hecho se da en el intro. 
 
 
 
 
-Pero sobre todo <u>no es directa</u>: se da en este caso un complejo juego de reinterpretación tonal de un <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a>, típicamente para los beatles, haciendo referencia a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> en el sentido de la nueva clave cómo se puede ver en <a class="lnk"  href="#frommetoyou" >From Me To You</a>, en <a class="lnk"  href="#follow" >I'll Follow The Sun</a> o en las vueltas de las <a class="lnk"  href="#vdeii" >modulaciones a ii</a>.
+Pero sobre todo <u>no es directa</u>: se da en este caso un complejo juego de reinterpretación tonal de un <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a>, típicamente para los beatles, haciendo referencia a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> en el sentido de la nueva clave como se puede ver en <a class="lnk"  href="#frommetoyou" >From Me To You</a>, en <a class="lnk"  href="#follow" >I'll Follow The Sun</a> o en las vueltas de las <a class="lnk"  href="#vdeii" >modulaciones a ii</a>.
 
 
 
 
-Clickeando esos links van a poder ver cómo a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se la marca con el color <span class="naranja">naranja</span> que también vamos a usar con ese propósito en este caso:
+Clickeando esos links van a poder ver como a la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se la marca con el color <span class="naranja">naranja</span> qué también vamos a usar con ese propósito en este caso:
 
 <code>
 
@@ -3102,20 +3102,20 @@ Clickeando esos links van a poder ver cómo a la progresión <a class="lnk"  hre
 &nbsp;<a class="verde">Fdim</a>: 123131 <a class="lnk"  href="/category/módulos-técnicos#dimx">ver gráfico</a>, ver <a class="lnk"  href="#palestrina">disonancia en tiempos débiles</a>
 </code>
 
-Cómo podemos ya en clave de Db la cosa arranca por el grado ii (D#m) donde cómo variación a la típica <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se usa D cómo <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> de paso llenando el espación entre D#m y Db con una progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente.
+como podemos ya en clave de Db la cosa arranca por el grado ii (D#m) donde como variación a la típica <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se usa D como <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> de paso llenando el espación entre D#m y Db con una progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente.
 
 
 
 
 
-Pero es a su vez el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> Em cómo ii de D el que fuerza el oído a reinterpretar a D cómo nueva clave, cosa que queda confirmada con la inclusión de A7 (V de D) formando una típica progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> que deja a D bien firme cómo clave para el inicio de la estrofa.
+Pero es a su vez el <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acorde</a> Em como ii de D el qué fuerza el oído a reinterpretar a D como nueva clave, cosa qué pueda confirmada con la inclusión de A7 (V de D) formando una típica progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> qué deja a D bien firme como clave para el inicio de la estrofa.
 
 
 
 
 
 
-Volviendo al tema de la reinterpretación tonal, o funcional si se prefiere, de D vamos a mostrar un diagrama de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> que lo hace un poco más intuitivo:
+Volviendo al tema de la reinterpretación tonal, o funcional si se prefiere, de D vamos a mostrar un diagrama de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> qué lo hace un poco más intuitivo:
 
 
 
@@ -3132,28 +3132,28 @@ Volviendo al tema de la reinterpretación tonal, o funcional si se prefiere, de 
 
 
 
-><p class="md_footnote_size">* Otros diagramas de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> donde se modula atravez de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se incluyen en <a class="lnk"  href="#frommetoyou" >From Me To You</a> y <a class="lnk"  href="#beingfor" >Being for the Benefit of Mr. Kite!</a></p>
+><p class="md_footnote_size">* Otros diagramas de <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> donde se modula através de la progresión <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> se incluyen en <a class="lnk"  href="#frommetoyou" >From Me To You</a> y <a class="lnk"  href="#beingfor" >Being for the Benefit of Mr. Kite!</a></p>
 
 
 
-Tambièn hay una cierta referencia en la estrofa misma a la progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente D#m-D-Db con la que empezo la canción: la progresión F#m-<a class="verde">Fdim</a>-Em7, si bien con un tempo más rápido (<a class="verde">Fdim</a> cae  en el tiempo débil entre F#m y Em7), también es una progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente con un acorde de paso (<a class="lnk"  href="/category/módulos-técnicos#dism" >disminuido</a> en este caso) entre dos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> a un tono completo de distancia.
+también hay una cierta referencia en la estrofa misma a la progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente D#m-D-Db con la qué empezo la canción: la progresión F#m-<a class="verde">Fdim</a>-Em7, si bien con un tempo más rápido (<a class="verde">Fdim</a> cae  en el tiempo débil entre F#m y Em7), también es una progresión <a target="_blank" href="https://es.wikipedia.org/wiki/Escala_crom%C3%A1tica" >cromática</a> descendente con un acorde de paso (<a class="lnk"  href="/category/módulos-técnicos#dism" >disminuido</a> en este caso) entre dos <a class="lnk"  href="/category/módulos-técnicos#esc-aco" >acordes</a> a un tono completo de distancia.
 
 La modulación directa no se limito a la subida de un semitono: también suele hacerse con 2 semitonos o un tono completo si se prefiere. Por ejemplo <a target="_blank" href="http://www.e-chords.com/chords/temptations/my-girl"  >My girl</a> <a target="_blank" href="https://youtu.be/6IUG-9jZD-g"  ><FAIcon icon="fa-solid fa-play"  /></a> sube de C a D, <a target="_blank" href="http://www.losacordes.com/Acordes/ramones/the-kkk-took-my-baby-away"  >The KKK took my baby away</a> <a target="_blank" href="https://www.youtube.com/watch?v=hT1OKo1rT84"  ><FAIcon icon="fa-solid fa-play"  /></a> sube de G# a A# (solo la versión del disco).
 
 
 
 &nbsp;<a target="_blank" href="https://tabs.últimate-guitar.com/t/the_kinks/you_really_got_me_ver2_crd.htm" >You really got me</a> <a target="_blank" href="https://youtu.be/fTTsY-oz6Go"  ><FAIcon icon="fa-solid fa-play"  /></a> "secuencia" <a class="lnk"  href="/armonia/arm3#crybabycry">bVII-I</a> 
-(F-G) dos semitonos más arriba (G-A) con lo cual G pasa de ser I a <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>, tal cómo lo podemos ver explicado en las notas de <a class="lnk"  href="/armonia/arm3#aregonna">Are You Gonna Go My Way?</a> que hace algo parecido pero de a 3 semitonos, aunque en estos casos donde no hay una modulación más definida más bien podríamos hablar de "secuenciación".
+(F-G) dos semitonos más arriba (G-A) con lo cuál G pasa de ser I a <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>, tal como lo podemos ver explicado en las notas de <a class="lnk"  href="/armonia/arm3#aregonna">Are You Gonna Go My Way?</a> qué hace algo parecido pero de a 3 semitonos, aunque en estos casos donde no hay una modulación más definida más bien podríamos hablar de "secuenciación".
 
 
-Es muy notorio en el caso de <a target="_blank" href="http://www.guitaretab.com/w/whitney-houston/199301.html" >I will always love you</a><a target="_blank" href="https://youtu.be/3JWTaaS7LdU" ><FAIcon icon="fa-solid fa-play"  /></a> donde la canción prácticamente se detiene antes de que Whitney Houston reanude su recordada performance vocal 2 semitonos más arriba (de G a A). 
+Es muy notorio en el caso de <a target="_blank" href="http://www.guitaretab.com/w/whitney-houston/199301.html" >I will always love you</a><a target="_blank" href="https://youtu.be/3JWTaaS7LdU" ><FAIcon icon="fa-solid fa-play"  /></a> donde la canción prácticamente se detiene antes de qué vhitney Houston reanude su recordada performance vocal 2 semitonos más arriba (de G a A). 
 
 
 
 <a class="anchor" id="pennylane"></a>
 
 
-Ahora vamos a ver el ejemplo de una canción cuyo estribillo sube 2 semitonos sobre el final, aunque de nuevo, mediante otro ingenioso truco Beatle, que aprovecha el hecho de que previo a ello la estrofa y el estribillo se ubican en dos claves diferentes separadas por un tono completo (ósea 2 semitonos) aunque antes también hay una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> previa a la <a class="lnk"  href="/armonia/arm3#mod-par">clave paralela menor</a>:
+Ahora vamos a ver el ejemplo de una canción cuyo estribillo sube 2 semitonos sobre el final, aunque de nuevo, mediante otro ingenioso truco Beatle, qué aprovecha el hecho de qué previo a ello la estrofa y el estribillo se ubican en dos claves diferentes separadas por un tono completo (ósea 2 semitonos) aunqueantes también hay una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" >modulación</a> previa a la <a class="lnk"  href="/armonia/arm3#mod-par">clave paralela menor</a>:
 
 <code>
 
@@ -3224,16 +3224,16 @@ Ahora vamos a ver el ejemplo de una canción cuyo estribillo sube 2 semitonos so
 ## Secuenciación
 
 
-La melodía usada durante una obra raramente esta construida de largas secciones diferentes entre sí, sino que generalmente repiten los mismos motivos melodicos a diferente altura, algo conocido como secuenciación. 
+La melodía usada durante una obra raramente está construida de largas secciones diferentes entre sí, sino qué generalmente repiten los mismos motivos melodicos a diferente altura, algo conocido como secuenciación. 
 
-La secuenciación, si bien es un concepto relacionado, se diferencia de la modulación en que es más breve y no ocurre dentro de una seccion formal completamente nueva (estofa, estribillo, puente, etc) sino a menudo dentro de una misma frase.
+La secuenciación, si bien es un concepto relacionado, se diferencia de la modulación en qué es más breve y no ocurre dentro de una sección formal completamente nueva (estofa, estribillo, puente, etc) sino a menudo dentro de una misma frase.
 
 El caso tal vez más común es el patrón blusero donde un motivo y/o riff se ejecuta sobre la tónica primero y luego sobre el acorde IV. 
 
-Un hit rockero donde se toma esta tradición del Blues es <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a> con su riff y frase melódica primero ejecutados sobre el acorde E (tónica) y luego sobre el acorde A (IV).
+Un hit rockero donde se toma está tradición del Blues es <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a> con su riff y frase melódica primero ejecutados sobre el acorde E (tónica) y luego sobre el acorde A (IV).
 
 
-Por supuesto el tema se complica cuando la frase melódica a ser secuenciada incluye cambios de acorde durante su duración, dado que al ser secuenciada a otra altura lo debe hacer sobre acordes que tenga entre si la misma relacion que tenian los acordes sobre los que iba la frase melódica original. 
+Por supuesto el tema se complica cuándo la frase melódica a ser secuenciada incluye cambios de acorde durante su duración, dado qué al ser secuenciada a otra altura lo debe hacer sobre acordes qué tenga entre si la misma relación qué tenian los acordes sobre los qué iba la frase melódica original. 
 
 
 Y esto muy a menudo es dificil de conseguir con acordes puramente diatónicos, vemos un caso:
@@ -3263,11 +3263,11 @@ Y esto muy a menudo es dificil de conseguir con acordes puramente diatónicos, v
 &nbsp;<span class="magentaDom">G</span>: <a class="lnk"  href="#dom-sec" >VdeV</a>
 </code>
 
-Como vemos aquí la frase melodica original se repite 3 veces (vamp) sobre el cambio de acorde F-C (I-V). Cuando la misma frase es "subida" dos semitonos, el cambio de acorde sobre el cual va tiene ser C-<span class="magentaDom">G</span>, siendo este último acorde <a class="lnk"  href="#dom-sec" >VdeV</a> respecto a la clave de F.
+Como vemos aquí la frase melodica original se repite 3 veces (vamp) sobre el cambio de acorde F-C (I-V). cuándo la misma frase es "subida" dos semitonos, el cambio de acorde sobre el cuál va tiene ser C-<span class="magentaDom">G</span>, siendo este último acorde <a class="lnk"  href="#dom-sec" >VdeV</a> respecto a la clave de F.
 
 <a class="anchor" id="everybody"></a>
 
-En el próximo ejemplo también se da una secuenciación que resulta de "subir" dos semitonos, cuando la parte que va sobre Dm-G (<a class="lnk" href="/category/módulos-técnicos#sen-ton">ii-V</a>) es secuenciada sobre Em-<span class="magentaDom">A7</span> (iii-<a class="lnk"  href="#el-grado-ii-y-su-modulaciones" >Vdeii</a>):
+En el próximo ejemplo también se da una secuenciación qué resulta de "subir" dos semitonos, cuándo la parte qué va sobre Dm-G (<a class="lnk" href="/category/módulos-técnicos#sen-ton">ii-V</a>) es secuenciada sobre Em-<span class="magentaDom">A7</span> (iii-<a class="lnk"  href="#el-grado-ii-y-su-modulaciones" >Vdeii</a>):
 
 <code>
 &nbsp; I       ii      iii IV      V       vi      VII   I<br  />
@@ -3294,7 +3294,7 @@ En el próximo ejemplo también se da una secuenciación que resulta de "subir" 
 </code>
 <a class="anchor" id="lovestreet"></a>
 
-A diferencia de los dos casos anteriores en este ejemplo la seccuenciacón es no es 2 semitonos más arriba sino 2 semitonos más abajo, aunque luego la secuencia completa pasa a ser secuenciada a su vez dos semitonos más arrba en el breve interludio instrumental que separa las estrofas.
+A diferencia de los dos casos anteriores en este ejemplo la seccuenciacón es no es 2 semitonos más arriba sino 2 semitonos más abajo, aunqueluego la secuencia completa pasa a ser secuenciada a su vez dos semitonos más arrba en el breve interludio instrumental qué repara las estrofas.
 
 <code>
 &nbsp; I       ii      iii IV      V       vi      VII  I<br  />
@@ -3326,7 +3326,7 @@ A diferencia de los dos casos anteriores en este ejemplo la seccuenciacón es no
 
 
 
-En los casos que graficamos más arriba la frase melódica original a ser secuenciada va sobre 2 acordes diatónicos. Ahora veremos una frase a ser secuenciada que ya incluye un acorde diatónico y otro no diatonico (G-<a class="magentaDom">E7</a> como I-<a class="lnk"  href="#vdeii" >Vdeii</a>), lo cual fuerza a que los acordes que van sobre la frase que la secuencia (<a class="rojo">F</a>-D como <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-V) también incluya un acorde no-diatonico.
+En los casos qué graficamos más arriba la frase melódica original a ser secuenciada va sobre 2 acordes diatónicos. Ahora veremos una frase a ser secuenciada qué va incluye un acorde diatónico y otro no diatónico (G-<a class="magentaDom">E7</a> como I-<a class="lnk"  href="#vdeii" >Vdeii</a>), lo cuál fuerza a qué los acordes qué van sobre la frase qué la secuencia (<a class="rojo">F</a>-D como <a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-V) también incluya un acorde no-diatonico.
 
 <code>
 &nbsp;&nbsp;I      ii       iii IV      V       vi     VII  I<br  />
@@ -3376,25 +3376,25 @@ En los casos que graficamos más arriba la frase melódica original a ser secuen
 ## Ambigüedad Tonal
 
 
-En la <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >sección sobre fundamentos</a> habíamos visto que los intervalos de IV (5 semitonos) y V (7 semitonos) son <a class="lnk"  href="/category/módulos-técnicos#inter" >complementarios</a>, es decir, juntos suman 12 semitonos que equivalen a una octava.
+En la <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >sección sobre fundamentos</a> habíamos visto qué los intervalos de IV (5 semitonos) y V (7 semitonos) son <a class="lnk"  href="/category/módulos-técnicos#inter" >complementarios</a>, es decir, juntos suman 12 semitonos qué equivalen a una octava.
 
 
 
-Y a su vez en la sección <a class="lnk"  href="/category/módulos-técnicos#dir-quint">direción de quintas</a> vimos que un cambio de acorde a un intervalo de IV más alto se lo conoce como "quinta descendente" mientras que un cambio de acorde a un intervalo de V más alto se lo conoce como "quinta ascendente", por lo cual la "distancia" entre dos acordes puede ser tanto un intervalo de IV o de V según nos movamos en forma ascendente o descendente.
+Y a su vez en la sección <a class="lnk"  href="/category/módulos-técnicos#dir-quint">direción de quintas</a> vimos qué un cambio de acorde a un intervalo de IV más alto se lo conoce como "quinta descendente" mientras qué un cambio de acorde a un intervalo de V más alto se lo conoce como "quinta ascendente", por lo cuál la "distancia" entre dos acordes puede ser tanto un intervalo de IV o de V según nos movamos en forma ascendente o descendente.
 
 
 
-Esto a dado lugar a un truco propio del pop de repetir al comienzo de una canción alternativamente 2 acordes sitúados a dicho intervalo sin dejar en claro cual es la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> hasta que un tercer acorde finalmente decide cual de los 2 es la tónica.  
+Esto a dado lugar a un truco propio del pop de repetir al comienzo de una canción alternativamente 2 acordes sitúados a dicho intervalo sin dejar en claro cuál es la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> hasta qué un tercer acorde finalmente decide cuál de los 2 es la tónica.  
 
 
-Tomemos como ejemplo <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/theres-a-place" >There's a place</a> <a target="_blank" href="https://youtu.be/UlkEeWeQF6w"  ><FAIcon icon="fa-solid fa-play"  /></a> que comienz alternando entre los acordes E y A.
+Tomemos como ejemplo <a target="_blank" href="http://www.e-chords.com/chords/the-beatles/theres-a-place" >There's a place</a> <a target="_blank" href="https://youtu.be/UlkEeWeQF6w"  ><FAIcon icon="fa-solid fa-play"  /></a> qué comienz alternando entre los acordes E y A.
 
 
-Podíamos considerar que E es I y que A es IV. Pero también podíamos considerar que A es I y que E es V. Tras ese momento de ambigüedad, la aparición del acorde C#m (vi de E) y B7 (V de E) hacen que nuestra percepción se estáblezca en la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E. 
+Podíamos considerar qué e es I y qué a es IV. Pero también podíamos considerar qué a es I y qué e es V. Tras ese momento de ambigüedad, la aparición del acorde C#m (vi de E) y B7 (V de E) hacen qué nuestra percepción se establezca en la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E. 
 
 
 
-Ejemplos similares son <a target="_blank" href="http://www.guitaretab.com/B/Beatles/23333.html" >I Should Have Known Better</a> <a target="_blank" href="https://youtu.be/0YpK3kTyyxA"  ><FAIcon icon="fa-solid fa-play"  /></a> (alterna entre G y D, la clave finalmente es G) y <a target="_blank" href="http://www.guitaretab.com/B/Beatles/251874.html" >Drive my car</a> <a target="_blank" href="https://youtu.be/M7qNlocNIf8"  ><FAIcon icon="fa-solid fa-play"  /></a> (alterna entre G y D y diria que hay partes que están en cada una de las 2 claves) mientras que <a class="lnk"  href="/armonia/arm3#cannonball">Cannonball</a> le da un giro propio de los 90s a este mismo truco.
+Ejemplos similares son <a target="_blank" href="http://www.guitaretab.com/B/Beatles/23333.html" >I Should Have Known Better</a> <a target="_blank" href="https://youtu.be/0YpK3kTyyxA"  ><FAIcon icon="fa-solid fa-play"  /></a> (alterna entre G y D, la clave finalmente es G) y <a target="_blank" href="http://www.guitaretab.com/B/Beatles/251874.html" >Drive my car</a> <a target="_blank" href="https://youtu.be/M7qNlocNIf8"  ><FAIcon icon="fa-solid fa-play"  /></a> (alterna entre G y D y diria qué hay partes qué estan en cada una de las 2 claves) mientras que<a class="lnk"  href="/armonia/arm3#cannonball">Cannonball</a> le da un giro propio de los 90s a este mismo truco.
 
 
 
@@ -3402,26 +3402,26 @@ Ejemplos similares son <a target="_blank" href="http://www.guitaretab.com/B/Beat
 
 
 
-también se puede lograr ambigüedad tonal haciendo que el acorde que resulta ser la tónica de la clave sea solo el último de la progresión que se utiliza como intro. A tal fin se mucho que se utilicen como intro progresiones que en otras canciones son resoluciónes.
+también se puede lograr ambigüedad tonal haciendo qué el acorde qué resulta ser la tónica de la clave sea solo el último de la progresión qué se utiliza como intro. A tal fin se mucho qué se utilicen como intro progresiones qué en otras canciones son resoluciónes.
 
 
 
 
-Por ejemplo la progresión ii-<a class="lnk"  href="/armonia/arm3#mayoresabiii" >bVII-V-I</a> cómo resolución en <a class="lnk"  href="/armonia/arm3#allmyloving">All My Loving</a> (F#-D-B7-E en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E) y a su vez como intro en <a class="lnk"  href="/armonia/arm3#help">Help!</a> (Bm-G-E-A en clave de A).
+Por ejemplo la progresión ii-<a class="lnk"  href="/armonia/arm3#mayoresabiii" >bVII-V-I</a> como resolución en <a class="lnk"  href="/armonia/arm3#allmyloving">All My Loving</a> (F#-D-B7-E en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de E) y a su vez como intro en <a class="lnk"  href="/armonia/arm3#help">Help!</a> (Bm-G-E-A en clave de A).
 
 
 
 
 
-Y a su vez es analogo con el uso de vi-<a class="lnk"  href="#vdevivi" >VdeV-IV-I</a> cómo resolución en <a class="lnk"  href="#yestedayplagal" >Yesterday</a> (Dm-G-Bb-F en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de F sobre "..oh I believe in yesterday..") y el uso de vi-VdeV-IV-I a modo de intro en <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (Em-A-C-G).
+Y a su vez es analogo con el uso de vi-<a class="lnk"  href="#vdevivi" >VdeV-IV-I</a> como resolución en <a class="lnk"  href="#yestedayplagal" >Yesterday</a> (Dm-G-Bb-F en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de F sobre "..oh I believe in yesterday..") y el uso de vi-VdeV-IV-I a modo de intro en <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (Em-A-C-G).
 
 
 
-Más aún los intros de <a class="lnk"  href="/armonia/arm3#help">Help!</a> (ii-bVII-V-I) y <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (vi-<a class="lnk"  href="#vdevivi" >VdeV-IV-I</a>) guardan a su vez cierta analogia entre sí dado que por empezar en un acorde menor y por el hecho de que la tónica no es sino el 4to acorde en aparecer, dichos intros hacen uso de cierta ambigüedad tonal.
+Más aún los intros de <a class="lnk"  href="/armonia/arm3#help">Help!</a> (ii-bVII-V-I) y <a class="lnk"  href="/armonia/arm2#shelovesyou" >She Loves You</a> (vi-<a class="lnk"  href="#vdevivi" >VdeV-IV-I</a>) guardan a su vez cierta analogia entre sí dado qué por empezar en un acorde menor y por el hecho de qué la tónica no es sino el 4to acorde en aparecer, dichos intros hacen uso de cierta ambigüedad tonal.
 
 
 
-&nbsp;<a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a> es otro ejemplo donde podemos ver un claro intento de generar una deliverada ambigüedad tonal en el intro, mismo caso de la estrofa inicial de <a class="lnk"  href="/armonia/arm3#drrobert">Doctor Robert</a>.
+&nbsp;<a class="lnk"  href="/armonia/arm3#underthe" >Under the bridge</a> es otro ejemplo donde podemos ver un claro intento de generar una deliberada ambigüedad tonal en el intro, mismo caso de la estrofa inicial de <a class="lnk"  href="/armonia/arm3#drrobert">Doctor Robert</a>.
 
 
 
@@ -3434,29 +3434,11 @@ Más aún los intros de <a class="lnk"  href="/armonia/arm3#help">Help!</a> (ii-
 
 
 
-Pero sería un éxito posterior, <a class="lnk"  href="#eternalflame">Eternal Flame</a>, el que en su transición de la clave de G a la de C llevaria una deliverada ambigüedad tonal al extremo para convertirse en un clasico indiscutido del genero balada.
+Pero sería un éxito posterior, <a class="lnk"  href="#eternalflame">Eternal Flame</a>, el qué en su transición de la clave de G a la de C llevaria una deliberada ambigüedad tonal al extremo para convertirse en un clasico indiscutido del genero balada.
 
 
 
-Y es interésante como en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C (Em y Am) se dan los mismos "acordes contrastantes" que en G y C con un efecto similar
-
-
-
-
-<center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
-
-
-
-Un concepto intimamente relacionado con el de ambigüedad tonal es el de reinterpretación tonal de los acordes que se da cuando se establece la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y la ambigüedad termina.
-
-
-
-
- El caso más usual entre los ejemplos de este ebook es el que se da en las modulaciones atravez de la cadena <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> como <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> (al igual que <a class="lnk"  href="#eternalflame">Eternal Flame</a> entre G y C), <a class="lnk"  href="#frommetoyou" >From Me To You</a> (al igual que las anteriores una modulación al grado IV pero en este caso de C a F), <a class="lnk"  href="/armonia/arm3#ladymadonna" >Lady Madonna</a> y <a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty Woman</a> (ambas de A a C) o casos más complejos como <a class="lnk"  href="/armonia/arm3#nwood">Norwegian Wood</a> y <a class="lnk"  href="#beingfor" >Being for the Benefit of Mr. Kite!</a>.
-
-
-
- Un caso de reinterpretación que no involucra la cadena ii-V-I es el de <a class="lnk"  href="/armonia/arm3#gethome" >When I get home</a> que podemos ver <a class="lnk"  href="/armonia/arm3#gethome">explicado en este link</a>.
+Y es interésante como en <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a> entre las <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >claves relativas menores</a> de G y C (Em y Am) se dan los mismos "acordes contrastantes" qué en G y C con un efecto similar
 
 
 
@@ -3465,12 +3447,30 @@ Un concepto intimamente relacionado con el de ambigüedad tonal es el de reinter
 
 
 
-
-La progresión <a class="lnk"  href="#dom-sec">VdeVdeV-VdeV-V-I</a> (E-A-D-G en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de G) también es usada con un deliverado efecto de ambigüedad tonal en <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a>, dado que no empieza de la tónica (G) sino de VdeVdeV (E) y de una manera tan lenta que cada nuevo acorde fuerza una posible reinterpretación del centro tonal, hasta que en el estribillo la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> se establece firmemente en G, no sin antes coquetear con las <a class="lnk"  href="/category/módulos-técnicos#laclave" >claves</a> de C y Am antes.
-
+Un concepto intimamente relacionado con el de ambigüedad tonal es el de reinterpretación tonal de los acordes qué se da cuándo se establece la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> y la ambigüedad termina.
 
 
-De todas formas <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a> se puede considerar una especie de lenta modulación de E a G lo cual cae en la ampilia categoría de modulación entre <a class="lnk"  href="/armonia/arm3#rel-par">dos claves mayores separadas por 3 semitonos</a> donde también podemos encontrar un caso de inteligente uso la ambigüedad en <a class="lnk"  href="/armonia/arm3#haveyouever" >Have You Ever Loved A Woman?</a>.
+
+
+ El caso más usual entre los ejemplos de este ebook es el qué se da en las modulaciones através de la cadena <a class="lnk"  href="/category/módulos-técnicos#sen-ton" >ii-V-I</a> como <a class="lnk"  href="#iwanttoiivi" >I Want To Hold Your Hand</a> (al igual que<a class="lnk"  href="#eternalflame">Eternal Flame</a> entre G y C), <a class="lnk"  href="#frommetoyou" >From Me To You</a> (al igual qué las anteriores una modulación al grado IV pero en este caso de C a F), <a class="lnk"  href="/armonia/arm3#ladymadonna" >Lady Madonna</a> y <a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty Woman</a> (ambas de A a C) o casos más complejos como <a class="lnk"  href="/armonia/arm3#nwood">Norwegian Wood</a> y <a class="lnk"  href="#beingfor" >Being for the Benefit of Mr. Kite!</a>.
+
+
+
+ Un caso de reinterpretación qué no involucra la cadena ii-V-I es el de <a class="lnk"  href="/armonia/arm3#gethome" >When I get home</a> qué podemos ver <a class="lnk"  href="/armonia/arm3#gethome">explicado en este link</a>.
+
+
+
+
+<center>* &nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</center>
+
+
+
+
+La progresión <a class="lnk"  href="#dom-sec">VdeVdeV-VdeV-V-I</a> (E-A-D-G en <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> de G) también es usada con un deliberado efecto de ambigüedad tonal en <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a>, dado qué no empieza de la tónica (G) sino de VdeVdeV (E) y de una manera tan lenta qué cada nuevo acorde fuerza una posible reinterpretación del centro tonal, hasta qué en el estribillo la <a class="lnk"  href="/category/módulos-técnicos#laclave" >clave</a> se establece firmemente en G, no sin antes coquetear con las <a class="lnk"  href="/category/módulos-técnicos#laclave" >claves</a> de C y Am antes.
+
+
+
+De todas formas <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a> se puede considerar una especie de lenta modulación de E a G lo cuál cae en la ampilia categoría de modulación entre <a class="lnk"  href="/armonia/arm3#rel-par">dos claves mayores separadas por 3 semitonos</a> donde también podemos encontrar un caso de inteligente uso la ambigüedad en <a class="lnk"  href="/armonia/arm3#haveyouever" >Have You Ever Loved A Woman?</a>.
 
 
 

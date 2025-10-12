@@ -7,28 +7,30 @@ slug: /
 
 <hr />
 
-## ¿Porque la Armonía?
+## ¿Por qué la Armonía?
 
-Usualmente se dice que los elementos musicales son melodia, armonia y ritmo. Pero mientras que los conceptos de melodia y ritmo son relativamente intuitivos y fáciles de entender, la armonía, un concepto de por sí más complejo, permanece incomprendido y subestimado no sólo por el público general sino de hecho por una gran mayoría de músicos, si no es que la mayoria de ellos.
+Usualmente se dice qué los elementos musicales son melodía, armonia y ritmo. Pero mientras qué los conceptos de melodía y ritmo son relativamente intuitivos y fáciles de entender, la armonía, un concepto de por sí más complejo, permanece incomprendido y subestimado no sólo por el público general sino de hecho por una gran mayoría de músicos, si no es qué la mayoría de ellos.
 
-La [Ley de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto) indica que a menudo *"un 80% de los efectos esta producido por un 20% de las causas"* y mientras en este caso no podría indicar cual es exactamente la proporción, si puedo afirmar con total seguridad de que la importancia de la armonía es desproporcionada respecto a la poca atención que recibe y a los pocos músicos que realmente entienden y dominan la armonía.
-
-
+La [Ley de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto) indica qué a menudo *"un 80% de los efectos está producido por un 20% de las causas"* y mientras en este caso no podría indicar cuál es exactamente la proporción, si puedo afirmar con total seguridad de qué la importancia de la armonía es desproporcionada respecto a la poca atención qué recibe y a los pocos músicos qué realmente entienden y dominan la armonía.
 
 
-Mientras que la mención de la pabalabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cual diferentes voces interactuan a diferentes alturas y lineas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> que se puede decir que son una <a class="lnk"  href="/category/módulos-técnicos#laclave">formalización de los patrones más comunes</a> de estas voces interactuando y esto desde ya vale tambien para la música instrumental.
 
-Es por eso que la únidad más importante en el estudio de la armonía es el acorde y sus progresiones y es por eso que los tres modulos de este ebook tratan sobre los 3 principales tipos de acorde en la música popular: <a class="lnk"  href="/category/módulos-técnicos">Acordes Diatónicos</a>, <a class="lnk"  href="/armonia/arm2">Dominantes Secundarios</a> y <a class="lnk"  href="/armonia/arm3#acordes-prestados-del-modo-paralelo">Acordes Prestados del Modo Paralelo</a>.
+
+Mientras qué la mención de la palabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cuál diferentes voces interactuán a diferentes alturas y líneas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> qué se puede decir qué ron una <a class="lnk"  href="/category/módulos-técnicos#laclave">formalización de los patrones más comunes</a> de estas voces interactuándo y esto desde ya vale también para la música instrumental.
+
+Es por eso qué la proveen más importante en el estudio de la armonía es el acorde y sus progresiones y es por eso qué los tres módulos de este ebook tratan sobre los 3 principales tipos de acorde en la música popular: <a class="lnk"  href="/category/módulos-técnicos">Acordes Diatónicos</a>, <a class="lnk"  href="/armonia/arm2">Dominantes Secundarios</a> y <a class="lnk"  href="/armonia/arm3#acordes-prestados-del-modo-paralelo">Acordes Prestados del Modo Paralelo</a>.
 
 Veamos ahora un primer ejemplo de Armonía en acción:
 
-## ¿Que es la Armonía?
+## ¿que es la Armonía?
 
-El concepto de armonía permanece elusivo para muchos. La verdad es que es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir que mientras a un nivel superficial tendemos a creer que es la melodia lo que genera la textura músical que estamos escuchando, en realidad se trata de la interacción entre melodia (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo que generalmente se llama Armonía.
+El concepto de armonía permanece elusivo para muchos. La verdad es qué es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir qué mientras a un nivel superficial tendemos a creer qué es la melodía lo qué genera la textura músical qué estamos escuchando, en realidad se trata de la interacción entre melodía (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo qué generalmente se llama Armonía.
 
 <a id="iwanna" class="anchor"></a>
 
 Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> tocados simultaneamente:
+
+
 
 <code>
 
@@ -44,43 +46,43 @@ A|---------------------------------------------------
 E|---------------------------------------------------
 </code>
 
-Pese a que el solo de guitarra consta de MI (E) como única nota, este igual funciona dado que los acordes con los que interactua van cambiando. Esto prueba que contra nuestra percepcion superficial de que la melodia es lo que produce el efecto musical, su interación con los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> es lo que realmente cuenta. 
+Pese a qué el solo de guitarra consta de MI (E) como única nota, este igual funciona dado qué los acordes con los qué interactua van cambiando. Esto prueba qué contra nuestra percepción superficial de qué la melodía es lo qué produce el efecto musical, su interación con los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> es lo qué realmente cuenta. 
 
 
-El armazón estandard que historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumento que proven acordes (aunque a veces es el mismo instrumento como el caso del piano) es lo que se conoce como *Clave Diatonica* y pueden leer más al respecto en <a class="lnk"  href="/category/módulos-técnicos#laclave">La Clave: Acordes Sobre los Grados de la Escala</a>.
+El armazón estandard qué historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumentos qué proveen acordes (aunquea veces es el mismo instrumento como el caso del piano) es lo qué se conoce como *Clave diatónica* y pueden leer más al respecto en <a class="lnk"  href="/category/módulos-técnicos#laclave">La Clave: Acordes Sobre los Grados De La Escala</a>.
 
 
-Debe tenerse en cuenta que este mismo sistema tambien genera una necesidad de resolución en ciertos acordes que terminan por definir 
-lo que se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema que vemos en profundida en la sección <a class="lnk"  href="/category/módulos-técnicos#sen-ton">La Sensación de Tonalidad</a>
+Debe tenerse en cuenta qué este mismo sistema también genera una necesidad de resolución en ciertos acordes qué terminan por definir 
+lo qué se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema qué vemos en profundidad en la sección <a class="lnk"  href="/category/módulos-técnicos#sen-ton">La Sensación de Tonalidad</a>
 
-Esta misma necesidad de resolución es también el dispositivo por el que habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo que usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>, siendo las más utilizadas:
+esta misma necesidad de resolución es también el dispositivo por el qué habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo qué usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>, siendo las más utilizadas:
 
 <ul>
     <li><a href="/category/módulos-técnicos#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
     <li><a href="/armonia/arm3#el-modo-paralelo-cómo-cambio-de-clave" class="lnk">Modulación entre Claves Paralelas</a></li>
-    <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV atravez de VdeIV</a></li>
-    <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV atravez de ii-V-I</a></li>
+    <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV através de VdeIV</a></li>
+    <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV através de ii-V-I</a></li>
     <li><a href="/armonia/arm2#el-grado-ii-y-su-modulaciones" class="lnk">Modulación al Grado ii</a></li>
     <li><a href="/armonia/arm2#modulación-de-semitono-o-tono-completo" class="lnk">Modulación de un Semitono y de un Tono Completo</a></li>
     <li><a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a></li>
     <li><a href="/armonia/arm3#bvii-prestado-refuncionalizado-como-iv" class="lnk">bVII Prestado Refuncionalizado como IV</a></li>     
 </ul>
 
-El motivo por el que este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las lineas melodicas es un intento deliverado de romper con el prejuicio que tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuando entre sí.
+El motivo por el qué este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las líneas melodicas es un intento deliberado de romper con el prejuicio qué tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuándo entre sí.
 
-Esto, que lo pueden encontrar en el 90% de los manuales armonicos de los últimos 400 años tiende a dejar de lado los muchos efectos especificos de la armonía que dependen más de los acordes que de la melodía, como por ejemplo la <a class="lnk"  href="/category/módulos-técnicos#sen-ton">necesidad de resolución</a> a la que apuntabamos más arriba o las <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulaciones</a> (cambios de clave).
+Esto, qué lo pueden encontrar en el 90% de los manuales armónicos de los últimos 400 años tiende a dejar de lado los muchos efectos específicos de la armonía qué dependen más de los acordes qué de la melodía, como por ejemplo la <a class="lnk"  href="/category/módulos-técnicos#sen-ton">necesidad de resolución</a> a la qué apuntábamos más arriba o las <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulaciones</a> (cambios de clave).
 
 
-En la próxima sección resumo el formato del ebook, pensado en función de los efectos especificamente armónicos. 
+En la próxima sección resumo el formato del ebook, pensado en función de los efectos específicamente armónicos. 
 
 
 ## El Formato
 
 
-Seguramente ya habran notado que los <a class="lnk"  href="#el-formato">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
-esto es así para lograr la mayor "comparatividad" posible entre <a class="lnk"  href="#indice-alfabetico-de-ejemplos">los más de 200 ejemplos</a>  y de esta forma lograr un aprendizaje más práctico que prescinda de las largas y aburridas explicaciones teóricas que a menudo se usan cuando se explica armonía.
+Seguramente ya habrán notado qué los <a class="lnk"  href="#el-formato">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
+esto es así para lograr la mayor "comparatividad" posible entre <a class="lnk"  href="#índice-alfabetico-de-ejemplos">los más de 200 ejemplos</a>  y de está forma lograr un aprendizaje más práctico qué prescinda de las largas y aburridas explicaciones teóricas qué a menudo se usan cuándo se explica armonía.
 
-Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir que donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> no iran marcado con ningún color en particular, pero los "no diatonicos" (los que aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el que los editores de texto aplican sobre los codigos de programación. Por ejemplo:
+Los ejemplos se presentarán como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir qué donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> no irán marcado con ningún color en particular, pero los "no diatónicos" (los qué aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el qué los editores de texto aplican sobre los códigos de programación. Por ejemplo:
 
 <code> 
 
@@ -109,26 +111,26 @@ Los ejemplos se presentaran como <a href="https://es.wikipedia.org/wiki/Tablatur
 &nbsp;<a class="rojo">Bb</a>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
 </code>
 
-Como pueden ver al pie del ejemplo, cada acorde "no diatonico" es asignado a un link que explica su función.
+Como pueden ver al pie del ejemplo, cada acorde "no diatónico" es asignado a un link qué explica su función.
 
-También notarán que aquí no se incluye la canción completa sino un fragmento de la misma. 
+También notarán qué aquí no se incluye la canción completa sino un fragmento de la misma. 
 
-Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
+Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
-Es por eso que en la <a class="lnk"  href="/category/armonia-expuesta#indice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
+Es por eso qué en la <a class="lnk"  href="/category/armonia-expuesta#índice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
 
 
 
 ## Reduccionismo Tonal Vs Armonía Modal
 
 
-Como muchos de ustedes ya sabran la <a class="lnk"  href="/category/módulos-técnicos#laclave">escala diatónica</a> consta de 7 notas distribuidas en una octaba, que es por definición, circular. 
+Como muchos de ustedes ya sabran la <a class="lnk"  href="/category/módulos-técnicos#laclave">escala diatónica</a> consta de 7 de los 12 <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> qué componen una octava. 
 
-Y también sabrań que si tomamos como tónica (comienzo) a cada una de esas notas obtendremos los siete modos en los que se basa la [armonía modal](https://www.cresciente.net/wp-content/uploads/2020/06/Introduccion-a-la-Armonia-Modal.pdf).
+Y también sabrań qué ri tomamos como tónica (comienzo) a cada una de esas notas obtendremos los siete modos en los qué se basa la [armonía modal](https://www.cresciente.net/wp-content/uploads/2020/06/Introduccion-a-la-Armonia-Modal.pdf).
 
 
-Esto es lo que posibilita que las las escalas que conocemos como Mayor y Menor se consideren <a class='lnk'  href="#rel-esc" >escalas relativas</a>, es decir, que ambas posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos, veámoslo graficado:
+Esto es lo qué posibilita qué las las escalas qué conocemos como Mayor y Menor se consideren <a class='lnk'  href="#rel-esc" >escalas relativas</a>, es decir, qué ambas posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos, veámoslo graficado:
 
 ```
  I     II   III IV    V     VI    VII I
@@ -145,32 +147,32 @@ F#|  |G#|A |  |B |  |C#|D |  |E |  |F#
         |A |  |B |  |C#|D |  |E |  |F#|  |G#| A
 ```
 
-La verdad es que cualquiera de los 7 modos *"posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos"*, simplemente lo que conocemos como <a class='lnk'  href="/category/módulos-técnicos#rel-esc" >escalas relativas</a> se refiere a la relación especificamente entre 2 de esos 7 modos: el [modo Jónico](https://youtu.be/Tt16DL9YzLY) más conocido como Escala Mayor y el [modo Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) más concocido como Escala Menor.
+La verdad es qué cualquiera de los 7 modos *"posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos"*, simplemente lo qué conocemos como <a class='lnk'  href="/category/módulos-técnicos#rel-esc" >escalas relativas</a> se refiere a la relación específicamente entre 2 de esos 7 modos: el [modo Jónico](https://youtu.be/Tt16DL9YzLY) más conocido como Escala Mayor y el [modo Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) más conocido como Escala Menor.
 
 
 
-Los motivos por los cuales en la práctica concreta de la música occidental han predominado ampliamente los modos [Jónico](https://youtu.be/Tt16DL9YzLY) y [Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) bajo su nuevo alias de "Mayor" y "Menor" tiene que ver con que resultan especialmente convenientes para lo que se conoce como Armonía Tonal y cuyo principio básico, la *Resolución* es explicado en la sección <a class="lnk"  href="/category/módulos-técnicos#la-sensación-de-tonalidad" >La Sensación de Tonalidad</a> donde ya entran de lleno la función de los acordes y no ya sólo de las escalas, conceptos que juntos pasan a dar logar a lo que conocemos como <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
-
-
-
-
-Una importante diferencia en la práctica es que mientras un músico inclinado al enfoque modal interpretaría las notas ajenas a la Clave Mayor como que dicha obra esta en un modo diferente al Jónico, otro músico con un enfoque más Tonal buscaría ciertas relaciones reduccionistas para explicar esas "alteraciones" sobre todo cuando dichas alteraciones provengan de acordes.  
-
-
-Así por ejemplo un músico inclinado al enfoque modal podría decir que tal conción esta en el [modo Mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio) mientras que el del enfoque más tonal en cambio diría que incluye un <a class="lnk"  href="/armonia/arm3#prestados">acorde bVII prestado del modo paralelo menor</a> (y ambos tendrian razón).
-
-
-
-De igual manera el primer músico podría decir que tal obra esta en [modo Lídio](https://www.youtube.com/watch?v=dmhWzfg9fKU) mientras que el segundo simplemente dirái que incluye un acorde <a class="lnk"  href="/armonia/arm2#dom-sec" >VdeV</a> (y denuevo ambos tendrian razón).
+Los motivos por los cuales en la práctica concreta de la música occidental han predominado ampliamente los modos [Jónico](https://youtu.be/Tt16DL9YzLY) y [Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) bajo su nuevo alias de "Mayor" y "Menor" tiene qué ver con qué resultan especialmente convenientes para lo qué se conoce como Armonía Tonal y cuyo principio básico, la *Resolución* es explicado en la sección <a class="lnk"  href="/category/módulos-técnicos#la-sensación-de-tonalidad" >La Sensación de Tonalidad</a> donde ya entran de lleno la función de los acordes y no ya sólo de las escalas, conceptos qué juntos pasan a dar lugar a lo qué conocemos como <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
 
 
+Una importante diferencia en la práctica es qué mientras un músico inclinado al enfoque modal interpretaría las notas ajenas a la Clave Mayor como qué dicha obra está en un modo diferente al Jónico, otro músico con un enfoquemás Tonal buscaría ciertas relaciones reduccionistas para explicar esas "alteraciones" sobre todo cuándo dichas alteraciones proveengan de acordes.  
 
-Este ebook tomará siempre la opción del segundo músico que prefiere tomar como base los modos "tonales" *Jónicos* y *[Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico)* mejor conocidos como Mayor y Menor y explicar las "alteraciones" o notas y/o acordes no extrictamente pertenecientes a dichos modos y clave como pertenecientes a un principio tonal subyacente, por ejemplo <a class="lnk"  href="/armonia/arm2#dom-sec" >VdeV</a> significa literalmente *"dominante del dominante"* y la función dominante es la caracteristica fundamental de la música tonal ya que produce lo que conocemos como *resolución*.
+
+Así por ejemplo un músico inclinado al enfoque modal podría decir qué tal canción está en el [modo Mixolidio](https://es.wikipedia.org/wiki/Modo_mixolidio) mientras qué el del enfoquemás tonal en cambio diría qué incluye un <a class="lnk"  href="/armonia/arm3#prestados">acorde bVII prestado del modo paralelo menor</a> (y ambos tendrian razón).
 
 
-En ese sentido se podría considerar el formato de este ebook como una versión del <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> aún más reducionista y simplificada que la original, pensada especificamente para un estudio comparativo de lo que <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> llamaba la *"estandarización de la música popular"*.
+
+De igual manera el primer músico podría decir qué tal obra está en [modo Lídio](https://www.youtube.com/watch?v=dmhWzfg9fKU) mientras qué el segundo simplemente dirá qué incluye un acorde <a class="lnk"  href="/armonia/arm2#dom-sec" >VdeV</a> (y de nuevo ambos tendrian razón).
+
+
+
+
+
+Este ebook tomará siempre la opción del segundo músico qué prefiere tomar como base los modos "tonales" *Jónicos* y *[Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico)* mejor conocidos como Mayor y Menor y explicar las "alteraciones" o notas y/o acordes no estrictamente pertenecientes a dichos modos y clave como pertenecientes a un principio tonal subyacente, por ejemplo <a class="lnk"  href="/armonia/arm2#dom-sec" >VdeV</a> significa literalmente *"dominante del dominante"* y la función dominante es la característica fundamental de la música tonal ya qué produce lo qué conocemos como *resolución*.
+
+
+En ese sentido se podría considerar el formato de este ebook como una versión del <a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Schenkeriano</a> aún más reduccionista y simplificada qué la original, pensada específicamente para un estudio comparativo de lo que<a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a> llamaba la *"estandarización de la música popular"*.
 
 
 
@@ -181,29 +183,29 @@ En ese sentido se podría considerar el formato de este ebook como una versión 
 ## La Estructura Paralela
 
 
-Este ebook tiene una estructura claramente lineal que se corresponde al orden de los 3 módulos y a los indices internos de cada uno de ellos. Y este es el orden que se recomienda seguir a quienes no tengan conocimiento previo de teoría musical o esten leyendo este ebook por primera vez.
+Este ebook tiene una estructura claramente lineal qué se corresponde al orden de los 3 módulos y a los índices internos de cada uno de ellos. Y este es el orden qué se recomienda seguir a quienes no tengan conocimiento previo de teoría musical o estén leyendo este ebook por primera vez.
 
 
-Sin embargo la profusión de links internos tambièn esta pensada como una analogía práctica de los patrones <a href="/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionistas</a> que atraviezan el genero de la música popular.
+Sin embargo la profusión de links internos también está pensada como una analogía práctica de los patrones <a href="https://es.wikipedia.org/wiki/Reduccionismo" >reduccionistas</a> qué atraviezan el genero de la música popular.
 
 
-Esta idea vino a partir de notar que en las <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Alan Pollack's Notes on the Beatles</a> (de las cuales aprendí la mayor parte de lo que explico en el presente ebook) el Prof. Pollack analiza la relación entre estructura y elementos de cada canción como una unidad cerrada, prestando poca atención a los abundantes patrones que se repiten a lo largo del <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Corpus Beatle</a>.
+esta idea vino a partir de notar qué en las <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Alan Pollack's Notes on the Beatles</a> (de las cuales aprendí la mayor parte de lo qué explico en el presente ebook) el Prof. Pollack analiza la relación entre estructura y elementos de cada canción como una unidad cerrada, prestando poca atención a los abundantes patrones qué se repiten a lo largo del <a href="https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml" target="_blank">Corpus Beatle</a>.
 
 
-Mientras que esta omisión es entendible siendo el Prof. Pollack un musicólogo de formación clásica que por primera vez se aventuraba en el campo de la música popular, este hecho no había sido pasado por alto por otro ilustre musicólogo y sociólogo, <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a>:
+Mientras qué esta omisión es entendible siendo el Prof. Pollack un musicólogo de formación clásica qué por primera vez se aventuraba en el campo de la música popular, este hecho no había sido pasado por alto por otro ilustre musicólogo y sociólogo, <a href="https://es.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor W. Adorno</a>:
 
 
->"Un juicio claro en lo que concierne a la relación de la música seria con la música popular puede ser conseguido solamente por medio de una atención estricta a la característica fundamental de la música popular: la estándarización, la estructura entera de la música popular está estandarizada... "
+>"Un juicio claro en lo qué concierne a la relación de la música seria con la música popular puede ser conseguido solamente por medio de una atención estricta a la característica fundamental de la música popular: la estandarización, la estructura entera de la música popular está estandarizada... "
 
->"En la música popular si se sacara algún detalle del contexto no afectaría el sentido musical; el oyente puede suplir el “marco” automáticamente, ya que éste es un mero automatismo musical. El comienzo del coro es reemplazable por el comienzo de otros muchos coros. La interrelación entre los elementos o la relación de los elementos con el todo no se vería afectada"
+>"En la música popular si se sacara algún detalle del contexto no afectaría el sentido musical; el oyente puede suplir el “marco” automáticamente, ya queéste es un mero automatismo musical. El comienzo del coro es reemplazable por el comienzo de otros muchos coros. La interrelación entre los elementos o la relación de los elementos con el todo no se vería afectada"
 
-Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de esta forma entrenar al lector en pensar los acordes en terminos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o numeros romanos en vez de "nombres propios" y lograr de esta forma identificar similitudes y patrones comunes aún en canciones que no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
+Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de está forma entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
 
 
 Sin embargo, a este nuevo nivel de abstracción se le suman a su vez otros más profundos aún: 
 
 
-Se ha popularizado en los últimos años la noción de *[Estructura Superficial/Estructura Profunda](https://es.wikipedia.org/wiki/Estructura_profunda)* como parte de la *[Gramatica Generativa](https://es.wikipedia.org/wiki/Gram%C3%A1tica_generativa)* propuesta por [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) pero el ensayo *[On the Analytic Systems of Noam Chomsky and Heinrich Schenker](https://www.amazon.com/Chomskys-Linguistics-Exposed-Analytic-Scientific/dp/B003IMAC5U)*, ademas de acusar a esta teoría de reducionista, tambièn sostiene que se trata de un plagio del *<a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Musical Schenkeriano</a>* del cual tambièn era conocedor Theodor W. Adorno como evidencia la exposición y crítica que de la figura y teorías de [Heinrich Schenker](https://es.wikipedia.org/wiki/Heinrich_Schenker) hace en *[On the Problem of Musical Analysis](https://music.arts.uci.edu/abauer/4.3/readings/Adorno_Problem_Musical_Analysis.pdf) <span class="pdf">[PDF]</span>*.
+Se ha popularizado en los últimos años la noción de *[Estructura Superficial/Estructura Profunda](https://es.wikipedia.org/wiki/Estructura_profunda)* como parte de la *[Gramatica Generativa](https://es.wikipedia.org/wiki/Gram%C3%A1tica_generativa)* propuesta por [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) pero el ensayo *[On the Analytic Systems of Noam Chomsky and Heinrich Schenker](https://www.amazon.com/Chomskys-Linguistics-Exposed-Analytic-Scientific/dp/B003IMAC5U)*, además de acusar a está teoría de reduccionista, también sostiene qué se trata de un plagio del *<a target="_blank" href="https://es.wikipedia.org/wiki/An%C3%A1lisis_schenkeriano">Análisis Musical Schenkeriano</a>* del cuál también era conocedor Theodor W. Adorno como evidencia la exposición y crítica qué de la figura y teorías de [Heinrich Schenker](https://es.wikipedia.org/wiki/Heinrich_Schenker) hace en *[On the Problem of Musical Analysis](https://music.arts.uci.edu/abauer/4.3/readings/Adorno_Problem_Musical_Analysis.pdf) <span class="pdf">[PDF]</span>*.
 
 
 
@@ -212,18 +214,18 @@ Se ha popularizado en los últimos años la noción de *[Estructura Superficial/
 
 
 
-Más allá de las disputas sobre la validez estètica de cual o tal tipo de música me parecio oportuno aprovechar la misma naturaleza reducionista de dichos patrones y estructuras presentes en la música popular para explicarlas mediante la convinación de links a formas más simples, recurso <a href="/textosI/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reducionista</a> si los hay.
+Más allá de las disputas sobre la validez estètica de cuál o tal tipo de música me parecio oportuno aprovechar la misma naturaleza reduccionista de dichos patrones y estructuras presentes en la música popular para explicarlas mediante la conbinación de links a formas más simples, recurso <a href="/textosI/soft&mind/s&m2#reduccionismo-y-atomismo" class="lnk">reduccionista</a> si los hay.
 
 
 
 
-En donde esto resulta mas evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado que la *"Estructura Profunda"* de dicha modulación se debe a que se trata de un cambio a la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+En donde esto resulta más evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado qué la *"Estructura Profunda"* de dicha modulación se debe a qué se trata de un cambio a la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
-Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de que los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones tipcamente resolutivas <a class="lnk"  href="/category/módulos-técnicos#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de qué los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones típicamente resolutivas <a class="lnk"  href="/category/módulos-técnicos#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
-El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda"* común subyacente a estos dos recursos dado que primero hace uso de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> y luego procede a una <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>:
+El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda"* común subyacente a estos dos recursos dado qué primero hace uso de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> y luego procede a una <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>:
 
 <code>
 
@@ -274,7 +276,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 
 
 
-## Indice Alfabetico de Ejemplos
+## índice Alfabetico de Ejemplos
 <div class="ejemplos">
 
 <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a><br />
@@ -309,7 +311,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#corcovado" >Corcovado</a><br />
 <a class="lnk"  href="/armonia/arm2#creep" >Creep</a><br /> 
 <a class="lnk"  href="/armonia/arm3#crybabycry" >Cry Baby Cry</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#temblor" >Cuando Pase El Temblor</a><br />
+<a class="lnk"  href="/category/módulos-técnicos#temblor" >Cuándo Pase El Temblor</a><br />
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
 <a class="lnk"  href="/category/arm3#dear1" >Dear Prudence 1</a><br />
 <a class="lnk"  href="/category/arm2#dear2" >Dear Prudence 2</a><br />
