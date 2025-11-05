@@ -2783,9 +2783,9 @@ Este ejemplo nos permite ver algo qué también se ve en <a class="lnk"  href="/
  |-----+-----+-----+-----+-----+-----+-----+-----+ X
 
 
-&nbsp;Tal como al comienzo de este capítulo 2 acordes 
-&nbsp;medio-disminuidos a 3 semitonos de distancia tiene 
-&nbsp;las mismas notas pero en distinto orden:
+&nbsp;Tal como digimos al comienzo de este capítulo 2 acordes 
+&nbsp;medio-disminuidos a 3 semitonos de distancia tiene las
+&nbsp;mismas notas pero en distinto orden:
 
 &nbsp;<span class="verde">G#º</span>:
  |-----+-----+--G--+-----+-----+-----+-----+-----+

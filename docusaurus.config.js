@@ -60,6 +60,8 @@ const config = {
         blogSidebarTitle: 'Más Textos',
         blogSidebarCount: 'ALL',
       },
+
+      
     ],
 
 

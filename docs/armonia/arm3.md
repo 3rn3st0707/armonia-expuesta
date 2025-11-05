@@ -362,7 +362,7 @@ Y de hecho ese D7 es uno de los pocos acordes de la canción qué no agregan un 
 
 
 
-Esto tiene mucho qué ver con la textura general de la canción, dado qué mientras qué en un acorde mayor la séptima menor forma un intervalo de <a class="lnk"  href="/category/módulos-técnicos#tritono" >trítono</a> con la tercera mayor convirtiendolo en dominante de séptima, en un acorde menor esto no pasa dado qué ru tercera es menor, siendo este un acorde con un sonido suave.
+Esto tiene mucho qué ver con la textura general de la canción, dado qué mientras qué en un acorde mayor la séptima menor forma un intervalo de <a class="lnk"  href="/category/módulos-técnicos#tritono" >trítono</a> con la tercera mayor convirtiendolo en dominante de séptima, en un acorde menor esto no pasa dado qué su tercera es menor, siendo este un acorde con un sonido suave.
 
 <a class="anchor" id="m7"></a>
 
@@ -380,7 +380,7 @@ Y de hecho la raíz es un tema importante en el arreglo de <a class="lnk"  href=
 <a class="anchor" id="black"  ></a>
 
 
-Ahora pasemos de la complejidad extrema de Here There And Everywhere a un ejemplo muy simple, pero qué rin embargo evita el "dominante común" de las claves paralelas y aprovecha el efecto dramatico del "choque" disonante entre E y C (bVI natural de Em).
+Ahora pasemos de la complejidad extrema de Here There And Everywhere a un ejemplo muy simple, pero qué sin embargo evita el "dominante común" de las claves paralelas y aprovecha el efecto dramatico del "choque" disonante entre E y C (bVI natural de Em).
 
 
 <code>
@@ -2154,7 +2154,7 @@ Un caso más sencillo para graficarlo es el próximo ejemplo donde empezando en 
  <a class="anchor" id="gonnalose"></a>
 
 
-En el próximo ejemplo pasa lo contrario: la primera y muy evidenta aparición de bVII (D en clave de E) se da en función de una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> a G (bIII respecto a E) mientras qué ru tercera aparición es similar a las anteriores pero da pie a una <a class="lnk"  href="#doblep">doble plagal</a> qué marcara el fin de la canción. 
+En el próximo ejemplo pasa lo contrario: la primera y muy evidenta aparición de bVII (D en clave de E) se da en función de una <a target="_blank" href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_(m%C3%Basíca)" >modulación</a> a G (bIII respecto a E) mientras qué su tercera aparición es similar a las anteriores pero da pie a una <a class="lnk"  href="#doblep">doble plagal</a> qué marcara el fin de la canción. 
 
 <code>
 

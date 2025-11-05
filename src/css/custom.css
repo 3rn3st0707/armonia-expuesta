@@ -12,7 +12,7 @@ html {
   background-image: url('/img/guitar&amp.jpg');
   background-repeat: repeat;
   background-size: contain;
-  background-attachment: fixed;
+  background-attachment: fixed; 
 }
 
 
