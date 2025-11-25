@@ -16,7 +16,7 @@ La [Ley de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto) indica qu�
 
 
 
-Mientras qué la mención de la palabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cuál diferentes voces interactuán a diferentes alturas y líneas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> qué se puede decir qué ron una <a class="lnk"  href="/category/módulos-técnicos#laclave">formalización de los patrones más comunes</a> de estas voces interactuándo y esto desde ya vale también para la música instrumental.
+Mientras qué la mención de la palabra armonía en la mayoría evoca la práctica de la *Armonía Vocal* en la cuál diferentes voces interactuán a diferentes alturas y líneas melódicas, en la práctica estas diferentes voces invariablemente forman <a class="lnk"  href="/armonia/arm1#acordes">acordes</a> qué se puede decir qué ron una <a class="lnk"  href="/armonia/arm1#laclave">formalización de los patrones más comunes</a> de estas voces interactuándo y esto desde ya vale también para la música instrumental.
 
 Es por eso qué la proveen más importante en el estudio de la armonía es el acorde y sus progresiones y es por eso qué los tres módulos de este ebook tratan sobre los 3 principales tipos de acorde en la música popular: <a class="lnk"  href="/category/módulos-técnicos">Acordes Diatónicos</a>, <a class="lnk"  href="/armonia/arm2">Dominantes Secundarios</a> y <a class="lnk"  href="/armonia/arm3#acordes-prestados-del-modo-paralelo">Acordes Prestados del Modo Paralelo</a>.
 
@@ -24,11 +24,11 @@ Veamos ahora un primer ejemplo de Armonía en acción:
 
 ## ¿que es la Armonía?
 
-El concepto de armonía permanece elusivo para muchos. La verdad es qué es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir qué mientras a un nivel superficial tendemos a creer qué es la melodía lo qué genera la textura músical qué estamos escuchando, en realidad se trata de la interacción entre melodía (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo qué generalmente se llama Armonía.
+El concepto de armonía permanece elusivo para muchos. La verdad es qué es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir qué mientras a un nivel superficial tendemos a creer qué es la melodía lo qué genera la textura músical qué estamos escuchando, en realidad se trata de la interacción entre melodía (diferentes <a class="lnk"  href="/armonia/arm1#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/armonia/arm1#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo qué generalmente se llama Armonía.
 
 <a id="iwanna" class="anchor"></a>
 
-Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> tocados simultaneamente:
+Para graficarlo vamos a tomar el solo de guitarra de un conocido hit y arriba los <a class="lnk"  href="/armonia/arm1#acordes">acordes</a> tocados simultaneamente:
 
 
 
@@ -46,19 +46,19 @@ A|---------------------------------------------------
 E|---------------------------------------------------
 </code>
 
-Pese a qué el solo de guitarra consta de MI (E) como única nota, este igual funciona dado qué los acordes con los qué interactua van cambiando. Esto prueba qué contra nuestra percepción superficial de qué la melodía es lo qué produce el efecto musical, su interación con los <a class="lnk"  href="/category/módulos-técnicos#acordes">acordes</a> es lo qué realmente cuenta. 
+Pese a qué el solo de guitarra consta de MI (E) como única nota, este igual funciona dado qué los acordes con los qué interactua van cambiando. Esto prueba qué contra nuestra percepción superficial de qué la melodía es lo qué produce el efecto musical, su interación con los <a class="lnk"  href="/armonia/arm1#acordes">acordes</a> es lo qué realmente cuenta. 
 
 
-El armazón estandard qué historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumentos qué proveen acordes (aunquea veces es el mismo instrumento como el caso del piano) es lo qué se conoce como *Clave diatónica* y pueden leer más al respecto en <a class="lnk"  href="/category/módulos-técnicos#laclave">La Clave: Acordes Sobre los Grados De La Escala</a>.
+El armazón estandard qué historicamente a regulado y guiado la interacción de los instrumentos solistas con los instrumentos qué proveen acordes (aunquea veces es el mismo instrumento como el caso del piano) es lo qué se conoce como *Clave diatónica* y pueden leer más al respecto en <a class="lnk"  href="/armonia/arm1#laclave">La Clave: Acordes Sobre los Grados De La Escala</a>.
 
 
 Debe tenerse en cuenta qué este mismo sistema también genera una necesidad de resolución en ciertos acordes qué terminan por definir 
-lo qué se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema qué vemos en profundidad en la sección <a class="lnk"  href="/category/módulos-técnicos#sen-ton">La Sensación de Tonalidad</a>
+lo qué se conoce como centro tonal o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, tema qué vemos en profundidad en la sección <a class="lnk"  href="/armonia/arm1#sen-ton">La Sensación de Tonalidad</a>
 
 esta misma necesidad de resolución es también el dispositivo por el qué habitualmente su fuerza un desplazamiento en la percepción del centro tonal (o <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>), lo qué usualmente se conoce como "cambio de clave" o por el nombre más técnico de <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulación</a>, siendo las más utilizadas:
 
 <ul>
-    <li><a href="/category/módulos-técnicos#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
+    <li><a href="/armonia/arm1#claves-relativas" class="lnk">Modulación entre Claves Relativas</a></li>
     <li><a href="/armonia/arm3#el-modo-paralelo-cómo-cambio-de-clave" class="lnk">Modulación entre Claves Paralelas</a></li>
     <li><a href="/armonia/arm2#dominante-de-iv" class="lnk">Modulación al Grado IV através de VdeIV</a></li>
     <li><a href="/armonia/arm2#modulación-ii-v-i-al-grado-iv" class="lnk">Modulación al Grado IV através de ii-V-I</a></li>
@@ -70,7 +70,7 @@ esta misma necesidad de resolución es también el dispositivo por el qué habit
 
 El motivo por el qué este estudio se concentra sólo en las progresiones de acordes sin ocuparse de las líneas melodicas es un intento deliberado de romper con el prejuicio qué tiende a ocuparse de los acordes y sus progresiones como un mero derivado de las diferentes "voces melodicas" interactuándo entre sí.
 
-Esto, qué lo pueden encontrar en el 90% de los manuales armónicos de los últimos 400 años tiende a dejar de lado los muchos efectos específicos de la armonía qué dependen más de los acordes qué de la melodía, como por ejemplo la <a class="lnk"  href="/category/módulos-técnicos#sen-ton">necesidad de resolución</a> a la qué apuntábamos más arriba o las <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulaciones</a> (cambios de clave).
+Esto, qué lo pueden encontrar en el 90% de los manuales armónicos de los últimos 400 años tiende a dejar de lado los muchos efectos específicos de la armonía qué dependen más de los acordes qué de la melodía, como por ejemplo la <a class="lnk"  href="/armonia/arm1#sen-ton">necesidad de resolución</a> a la qué apuntábamos más arriba o las <a href="https://es.wikipedia.org/wiki/Modulaci%C3%B3n_%28m%C3%Basíca%29" target="_blank">modulaciones</a> (cambios de clave).
 
 
 En la próxima sección resumo el formato del ebook, pensado en función de los efectos específicamente armónicos. 
@@ -82,7 +82,7 @@ En la próxima sección resumo el formato del ebook, pensado en función de los 
 Seguramente ya habrán notado qué los <a class="lnk"  href="#el-formato">links internos</a> son de un color diferente a los <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >links externos</a>
 esto es así para lograr la mayor "comparatividad" posible entre <a class="lnk"  href="#índice-alfabetico-de-ejemplos">los más de 200 ejemplos</a>  y de está forma lograr un aprendizaje más práctico qué prescinda de las largas y aburridas explicaciones teóricas qué a menudo se usan cuándo se explica armonía.
 
-Los ejemplos se presentarán como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir qué donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a> no irán marcado con ningún color en particular, pero los "no diatónicos" (los qué aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el qué los editores de texto aplican sobre los códigos de programación. Por ejemplo:
+Los ejemplos se presentarán como <a href="https://es.wikipedia.org/wiki/Tablatura" target="_blank">tablaturas</a> (del tipo <a href="https://www.guitarrasespanola.com/cifrado-americano-esto-es-y-asi-se-lee/" target="_blank">cifrado americano</a> es decir qué donde la letra A es La, B es Si, C es DO, etc). Los acordes diatónicos o propios de la <a class="lnk"  href="/armonia/arm1#laclave">clave</a> no irán marcado con ningún color en particular, pero los "no diatónicos" (los qué aportan notas externas a la clave) estaran marcados con coloreado sintáctico como el qué los editores de texto aplican sobre los códigos de programación. Por ejemplo:
 
 <code> 
 
@@ -115,7 +115,7 @@ Como pueden ver al pie del ejemplo, cada acorde "no diatónico" es asignado a un
 
 También notarán qué aquí no se incluye la canción completa sino un fragmento de la misma. 
 
-Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
+Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/armonia/arm1#laclave">clave</a>.
 
 
 Es por eso qué en la <a class="lnk"  href="/category/armonia-expuesta#índice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
@@ -125,7 +125,7 @@ Es por eso qué en la <a class="lnk"  href="/category/armonia-expuesta#índice-a
 ## Reduccionismo Tonal Vs Armonía Modal
 
 
-Como muchos de ustedes ya sabran la <a class="lnk"  href="/category/módulos-técnicos#laclave">escala diatónica</a> consta de 7 de los 12 <a class="lnk"  href="/category/módulos-técnicos#fundamentos">intervalos</a> qué componen una octava. 
+Como muchos de ustedes ya sabran la <a class="lnk"  href="/armonia/arm1#laclave">escala diatónica</a> consta de 7 de los 12 <a class="lnk"  href="/armonia/arm1#fundamentos">intervalos</a> qué componen una octava. 
 
 Y también sabrań qué ri tomamos como tónica (comienzo) a cada una de esas notas obtendremos los siete modos en los qué se basa la [armonía modal](https://www.cresciente.net/wp-content/uploads/2020/06/Introduccion-a-la-Armonia-Modal.pdf).
 
@@ -147,11 +147,11 @@ F#|  |G#|A |  |B |  |C#|D |  |E |  |F#
         |A |  |B |  |C#|D |  |E |  |F#|  |G#| A
 ```
 
-La verdad es qué cualquiera de los 7 modos *"posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos"*, simplemente lo qué conocemos como <a class='lnk'  href="/category/módulos-técnicos#rel-esc" >escalas relativas</a> se refiere a la relación específicamente entre 2 de esos 7 modos: el [modo Jónico](https://youtu.be/Tt16DL9YzLY) más conocido como Escala Mayor y el [modo Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) más conocido como Escala Menor.
+La verdad es qué cualquiera de los 7 modos *"posen los mismos <a target="_blank" href="https://es.wikipedia.org/wiki/Intervalo_%28m%C3%Basíca%29" >intervalos</a> y en el mismo orden, pero empezando desde puntos distintos"*, simplemente lo qué conocemos como <a class='lnk'  href="/armonia/arm1#rel-esc" >escalas relativas</a> se refiere a la relación específicamente entre 2 de esos 7 modos: el [modo Jónico](https://youtu.be/Tt16DL9YzLY) más conocido como Escala Mayor y el [modo Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) más conocido como Escala Menor.
 
 
 
-Los motivos por los cuales en la práctica concreta de la música occidental han predominado ampliamente los modos [Jónico](https://youtu.be/Tt16DL9YzLY) y [Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) bajo su nuevo alias de "Mayor" y "Menor" tiene qué ver con qué resultan especialmente convenientes para lo qué se conoce como Armonía Tonal y cuyo principio básico, la *Resolución* es explicado en la sección <a class="lnk"  href="/category/módulos-técnicos#la-sensación-de-tonalidad" >La Sensación de Tonalidad</a> donde ya entran de lleno la función de los acordes y no ya sólo de las escalas, conceptos qué juntos pasan a dar lugar a lo qué conocemos como <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
+Los motivos por los cuales en la práctica concreta de la música occidental han predominado ampliamente los modos [Jónico](https://youtu.be/Tt16DL9YzLY) y [Eólico](https://es.wikipedia.org/wiki/Modo_e%C3%B3lico) bajo su nuevo alias de "Mayor" y "Menor" tiene qué ver con qué resultan especialmente convenientes para lo qué se conoce como Armonía Tonal y cuyo principio básico, la *Resolución* es explicado en la sección <a class="lnk"  href="/armonia/arm1#la-sensación-de-tonalidad" >La Sensación de Tonalidad</a> donde ya entran de lleno la función de los acordes y no ya sólo de las escalas, conceptos qué juntos pasan a dar lugar a lo qué conocemos como <a class="lnk"  href="/armonia/arm1#laclave">clave</a>.
 
 
 
@@ -199,7 +199,7 @@ Mientras qué esta omisión es entendible siendo el Prof. Pollack un musicólogo
 
 >"En la música popular si se sacara algún detalle del contexto no afectaría el sentido musical; el oyente puede suplir el “marco” automáticamente, ya queéste es un mero automatismo musical. El comienzo del coro es reemplazable por el comienzo de otros muchos coros. La interrelación entre los elementos o la relación de los elementos con el todo no se vería afectada"
 
-Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de está forma entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/category/módulos-técnicos#laclave">clave</a>.
+Aquí entra de lleno el la profusa utilización de links internos para maximizar las posibilidad de comparar ejemplos entre sí y de está forma entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/armonia/arm1#laclave">clave</a>.
 
 
 Sin embargo, a este nuevo nivel de abstracción se le suman a su vez otros más profundos aún: 
@@ -219,10 +219,10 @@ Más allá de las disputas sobre la validez estètica de cuál o tal tipo de mú
 
 
 
-En donde esto resulta más evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado qué la *"Estructura Profunda"* de dicha modulación se debe a qué se trata de un cambio a la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+En donde esto resulta más evidente es en el capítulo <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a> dado qué la *"Estructura Profunda"* de dicha modulación se debe a qué se trata de un cambio a la clave "<i><a class="lnk"  href="/armonia/arm1#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
-Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de qué los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones típicamente resolutivas <a class="lnk"  href="/category/módulos-técnicos#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
+Así mismo la usual función resolutiva de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> suele ser explicada a partir del hecho de qué los <a class="lnk"  href="/armonia/arm3#prestados">acordes prestados</a> bVI y bVII son las funciones típicamente resolutivas <a class="lnk"  href="/armonia/arm1#sen-ton">IV-V</a> de la clave "<i><a class="lnk"  href="/armonia/arm1#claves-relativas" >relativa mayor</a> de la <a class="lnk"  href="/armonia/arm3#mod-par">paralela menor</a></i>".
 
 
 El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda"* común subyacente a estos dos recursos dado qué primero hace uso de la progresión <a class="lnk" href="/armonia/arm3#la-fanfarria-bvi-bvii-i">bVI-bVII-I</a> y luego procede a una <a href="/armonia/arm3#modulación-entre-claves-mayores-a-un-intervalo-de-tercera-menor" class="lnk">Modulación entre Claves Mayores a un intervalo de Tercera Menor</a>:
@@ -267,7 +267,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 &nbsp;<span class="rojo">F</span>: <a class="lnk"  href="/armonia/arm3#bvisolo">bVI prestado del modo paralelo menor</a>
 &nbsp;<span class="rojo">G</span>: <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado del modo paralelo menor</a>
 &nbsp;C/B: x20010
-&nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/category/módulos-técnicos#sen-ton">ii-V-I</a> a bIII (C)
+&nbsp;<span class="naranja2">Dm-G-C</span>: modulación mediante <a class='lnk'  href="/armonia/arm1#sen-ton">ii-V-I</a> a bIII (C)
 </code>
 
 
@@ -287,15 +287,15 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#agua" >Agua</a><br /> 
 <a class="lnk"  href="/armonia/arm2#aintshe" >Ain't She Sweet</a><br />
 <a class="lnk"  href="/armonia/arm3#allmyloving" >All My Loving</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#andiloveher">And I Love Her</a><br />
+<a class="lnk"  href="/armonia/arm1#andiloveher">And I Love Her</a><br />
 <a class="lnk"  href="/armonia/arm2#anna" >Anna</a><br /> 
 <a class="lnk"  href="/armonia/arm2#anotherbrick" >Another Brick In The Wall</a><br />
 <a class="lnk"  href="/armonia/arm3#anothergirl" >Another Girl</a><br />
 <a class="lnk"  href="/armonia/arm3#aregonna" >Are You Gonna Go My Way?</a><br />
-<a class="lnk"  href="/armonia/arm2#iwanttohorizon" >Back In The USSR</a><br />
+<a class="lnk"  href="/armonia/arm1#iwanttohorizon" >Back In The USSR</a><br />
 <a class="lnk"  href="/armonia/arm2#backwater" >Backwater</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#bajan" >Bajan</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#because" >Because</a><br /> 
+<a class="lnk"  href="/armonia/arm1#bajan" >Bajan</a><br />
+<a class="lnk"  href="/armonia/arm1#because" >Because</a><br /> 
 <a class="lnk"  href="/armonia/arm2#beingfor" >Being For The Benefit Of Mr Kite!</a><br />
 <a class="lnk"  href="/armonia/arm3#birthday">Birthday</a><br /> 
 <a class="lnk"  href="/armonia/arm3#black" >Black</a><br /> 
@@ -308,10 +308,10 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#cigarettes" >Cigarettes and Alcohol</a><br />
 <a class="lnk"  href="/armonia/arm2#civilwar" >Civil War</a><br />
 <a class="lnk"  href="/armonia/arm3#comf" >Confortably Numb</a><br />
-<a class="lnk"  href="/armonia/arm2#corcovado" >Corcovado</a><br />
+<a class="lnk"  href="/armonia/arm1#corcovado" >Corcovado</a><br />
 <a class="lnk"  href="/armonia/arm2#creep" >Creep</a><br /> 
 <a class="lnk"  href="/armonia/arm3#crybabycry" >Cry Baby Cry</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#temblor" >Cuándo Pase El Temblor</a><br />
+<a class="lnk"  href="/armonia/arm1#temblor" >Cuándo Pase El Temblor</a><br />
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
 <a class="lnk"  href="/category/arm3#dear1" >Dear Prudence 1</a><br />
 <a class="lnk"  href="/category/arm2#dear2" >Dear Prudence 2</a><br />
@@ -320,7 +320,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#divididos" >Divididos Por La Felicidad</a><br />
 <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a><br />
 <a class="lnk"  href="/armonia/arm3#drrobert" >Doctor Robert</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#circ-quint" >Don't Cry</a><br />
+<a class="lnk"  href="/armonia/arm1#circ-quint" >Don't Cry</a><br />
 <a class="lnk"  href="/armonia/arm2#dustinthewind" >Dust In The Wind</a><br />
 <a class="lnk"  href="/armonia/arm2#eightdays" >Eight Days A Week</a><br />
 <a class="lnk"  href="/armonia/arm2#elloco" >El Loco</a><br />
@@ -342,7 +342,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#ghostbusters">Ghostbusters Theme</a><br />
 <a class="lnk"  href="/armonia/arm3#girlyoull">Girl, You'll Be A Woman Soon</a><br />
 <a class="lnk"  href="/armonia/arm3#padrino">Godfather Theme</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#setonyou">Got My Mind Set On You</a><br />
+<a class="lnk"  href="/armonia/arm1#setonyou">Got My Mind Set On You</a><br />
 <a class="lnk"  href="/armonia/arm3#gottogetyou">Got To Get You Into My Life</a><br />
 <a class="lnk"  href="/armonia/arm3#haveyouever" >Have You Ever Loved A Woman?</a><br />
 <a class="lnk"  href="/armonia/arm3#hellogoodbye" >Hello Goodbye</a><br />
@@ -357,7 +357,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#holdmyhand" >Hold My Hand</a><br /> 
 <a class="lnk"  href="/armonia/arm3#honeypie" >Honey Pie</a><br />
 <a class="lnk"  href="/armonia/arm2#honky" >Honky Tonk Woman</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#hotelcalifornia" >Hotel California</a><br />
+<a class="lnk"  href="/armonia/arm1#hotelcalifornia" >Hotel California</a><br />
 <a class="lnk"  href="/armonia/arm2#houseoftherising" >House Of The Rising Sun</a><br /> 
 <a class="lnk"  href="/armonia/arm3#resu" >I Am The Resurrection</a><br />
 <a class="lnk"  href="/armonia/arm2#vdevivi" >I Call Your Name</a><br />
@@ -373,7 +373,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#follow" >I'll Follow The Sun</a><br />
 <a class="lnk"  href="/armonia/arm3#getyou" >I'll Get You</a><br />
 <a class="lnk"  href="/armonia/arm3#imaloser" >I'm A Loser</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#happyjust" >I'm Happy Just To Dance With You</a><br />
+<a class="lnk"  href="/armonia/arm1#happyjust" >I'm Happy Just To Dance With You</a><br />
 <a class="lnk"  href="/armonia/arm3#onlysleeping" >I'm Only Sleeping</a><br />
 <a class="lnk"  href="/armonia/arm3#if2" >If 1</a><br />
 <a class="lnk"  href="/armonia/arm2#dom-sec" >If 2</a><br />
@@ -383,7 +383,7 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#imagine" >Imagine</a><br /> 
 <a class="lnk"  href="/armonia/arm2#inmylife" >In My Life</a><br />
 <a class="lnk"  href="/armonia/arm3#janesays" >Jane Says</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#jijiji" >Jijiji</a><br />
+<a class="lnk"  href="/armonia/arm1#jijiji" >Jijiji</a><br />
 <a class="lnk"  href="/armonia/arm3#juego" >Juego de Sedución</a><br />
 <a class="lnk"  href="/armonia/arm2#julia" >Julia</a><br />
 <a class="lnk"  href="/armonia/arm3#triplep" >Jumping Jack Flash</a><br />
@@ -402,19 +402,19 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#lovestreet" >Love Street</a><br />
 <a class="lnk"  href="/armonia/arm3#dinosaurios">Los Dinosaurios</a><br />
 <a class="lnk"  href="/armonia/arm3#loser">Loser</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#losing">Losing</a><br />
+<a class="lnk"  href="/armonia/arm1#losing">Losing</a><br />
 <a class="lnk"  href="/armonia/arm3#lump">Lump</a><br />
 <a class="lnk"  href="/armonia/arm3#mantenha" >Mantenha O Respeito</a><br />
 <a class="lnk"  href="/armonia/arm3#pontiac" >Mariposa Pontiac</a><br />
 <a class="lnk"  href="/armonia/arm3#mustard">Mean Mr Mustard</a><br />
 <a class="lnk"  href="/armonia/arm3#refunc">Mi novia se cayó<br /> en un pozo ciego</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#michelledim" >Michelle</a><br />
+<a class="lnk"  href="/armonia/arm1#michelledim" >Michelle</a><br />
 <a class="lnk"  href="/armonia/arm3#sarajevo" >Miss Sarajevo</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#morethanwords">More Than Words</a><br />
+<a class="lnk"  href="/armonia/arm1#morethanwords">More Than Words</a><br />
 <a class="lnk"  href="/armonia/arm3#morethanafeeling">More Than A Feeling</a><br />
 <a class="lnk"  href="/armonia/arm3#motherslittlehelper">Mother's Little Helper</a><br />
 <a class="lnk"  href="/armonia/arm3#mrsrobinson">Mrs Robinson</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#mysweetlord">My Sweet Lord</a><br />
+<a class="lnk"  href="/armonia/arm1#mysweetlord">My Sweet Lord</a><br />
 <a class="lnk"  href="/armonia/arm3#neversay">Never Say Goodbye</a><br />
 <a class="lnk"  href="/armonia/arm3#norain" >No Rain</a><br />
 <a class="lnk"  href="/armonia/arm3#nwood" >Norwegian Wood</a><br />
@@ -423,17 +423,17 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm2#one">One</a><br />
 <a class="lnk"  href="/armonia/arm3#oneinamillon">One In A Millon</a><br />
 <a class="lnk"  href="/armonia/arm2#onlyyou">Only You</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#outoftime" >Out Of Time</a><br />
+<a class="lnk"  href="/armonia/arm1#outoftime" >Out Of Time</a><br />
 <a class="lnk"  href="/armonia/arm2#paintitblack" >Paint It Black</a><br />
 <a class="lnk"  href="/armonia/arm3#paisefilhos">Pais E Filhos</a><br />
 <a class="lnk"  href="/armonia/arm3#paradisecity" >Paradise City 1</a><br />
 <a class="lnk"  href="/armonia/arm3#paradisecity2" >Paradise City 2</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#pasosalcostado" >Pasos Al Costado</a><br />
+<a class="lnk"  href="/armonia/arm1#pasosalcostado" >Pasos Al Costado</a><br />
 <a class="lnk"  href="/armonia/arm2#pennylane" >Penny Lane</a><br />
 <a class="lnk"  href="/armonia/arm3#pleasedontgo" >Please Don't Go</a><br />
 <a class="lnk"  href="/armonia/arm3#plush" >Plush</a><br />  
 <a class="lnk"  href="/armonia/arm3#prettywoman" >Pretty Woman</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#profugos" >Profugos</a><br />
+<a class="lnk"  href="/armonia/arm1#profugos" >Profugos</a><br />
 <a class="lnk"  href="/armonia/arm3#psiloveyou" >P.S. I Love You</a><br />
 <a class="lnk"  href="/armonia/arm3#rasguna" >Rasguña Las Piedras</a><br />
 <a class="lnk"  href="/armonia/arm3#delpedazo" >Rock Del Pedazo</a><br />
@@ -462,24 +462,24 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#theend" >The End</a><br />
 <a class="lnk"  href="/armonia/arm3#look">The Look</a><br />
 <a class="lnk"  href="/armonia/arm3#thenightbefore">The Night Before</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#tension" >The Shoop Shoop Song</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#artif-scala-menor" >The Way</a><br />
+<a class="lnk"  href="/armonia/arm1#tension" >The Shoop Shoop Song</a><br />
+<a class="lnk"  href="/armonia/arm1#artif-scala-menor" >The Way</a><br />
 <a class="lnk"  href="/armonia/arm3#thingswe">Things We Said Today</a><br />
 <a class="lnk"  href="/armonia/arm2#domiv" >This Boy</a><br />
 <a class="lnk"  href="/armonia/arm3#thunderstruck" >Thunderstruck</a><br /> 
 <a class="lnk"  href="/armonia/arm3#ticket" >Ticket To Ride</a><br />
 <a class="lnk"  href="/armonia/arm3#tomorrownever" >Tomorrow Never Knows</a><br />
 <a class="lnk"  href="/armonia/arm3#suavemente" >Tratame Suavemente</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo Siempre</a><br />
+<a class="lnk"  href="/armonia/arm1#tuyo">Tuyo Siempre</a><br />
 <a class="lnk"  href="/armonia/arm3#underthe" >Under The Bridge</a><br />
 <a class="lnk"  href="/armonia/arm3#unskinny" >Unskinny Bop</a><br />
 <a class="lnk"  href="/armonia/arm3#walklike">Walk Like An Egyptian</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#wecan">We Can Work It Out</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#wearethechampions" >We Are The Champions</a><br />
+<a class="lnk"  href="/armonia/arm1#wecan">We Can Work It Out</a><br />
+<a class="lnk"  href="/armonia/arm1#wearethechampions" >We Are The Champions</a><br />
 <a class="lnk"  href="/armonia/arm3#wonderfulworld" >What A Wonderful World</a><br />
 <a class="lnk"  href="/armonia/arm3#gethome" >When I Get Home</a><br />
 <a class="lnk"  href="/armonia/arm3#doblefriends" >With A Little Help From My Friends</a><br />
-<a class="lnk"  href="/category/módulos-técnicos#yesterdayiivi" >Yesterday 1</a><br />
+<a class="lnk"  href="/armonia/arm1#yesterdayiivi" >Yesterday 1</a><br />
 <a class="lnk"  href="/armonia/arm2#yestedayplagal" >Yesterday 2</a><br />
 <a class="lnk"  href="/armonia/arm3#youcanleave" >You Can Leave Your Hat On</a><br />
 <a class="lnk"  href="/armonia/arm2#youcantalways" >You Can't Always Get What You Want</a><br />

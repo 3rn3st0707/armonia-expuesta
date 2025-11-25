@@ -1180,3 +1180,31 @@ html[data-theme='light'] a .naranja2 {
   width: 100%; /* Maintain full width */
   box-sizing: border-box; /* Include padding/border in width */
 }
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > header > p {
+  display: none;
+}
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > header > h1  {
+  padding: .5em;
+  border: solid;
+  border-color: black;
+  border-width: 6px;
+}
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > article > section {
+  margin-left: 1.3em;
+}
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > article > section > article:nth-child(1) > a {
+  border-radius: 0;
+}
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > article > section > article:nth-child(2) > a {
+  border-radius: 0;
+}
+
+
+#__docusaurus_skipToContent_fallback > div > main > div > div > article > section > article:nth-child(3) > a {
+  border-radius: 0;
+}

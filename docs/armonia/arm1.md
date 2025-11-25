@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: /category/módulos-técnicos
 ---
 
 # Módulo 1
@@ -1635,7 +1634,7 @@ regreso a la clave de D es precedido por el dominante de Bm
 <a class="anchor" id="profugos"></a>
 
 
-El próximo ejemplo también incluye un F#-D justo entre estrofa y estribillo pero en este caso no como parte de un a modulación de Bm a D sino de D a D mixolidio, recuerden qué la inclusión del acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> o un v menor en una clave mayor (su <a class="lnk"  href="/category/módulos-técnicos#aco-rel" >acorde relativo</a>) la convierten al mixolidio desde el punto de vista modal, tal como se explica en <a class="lnk"  href="/armonia/arm3#otrosnombres">Otros Nombres de los Acordes Prestados</a>
+El próximo ejemplo también incluye un F#-D justo entre estrofa y estribillo pero en este caso no como parte de un a modulación de Bm a D sino de D a D mixolidio, recuerden qué la inclusión del acorde <a class="lnk"  href="/armonia/arm3#prestados">bVII prestado</a> o un v menor en una clave mayor (su <a class="lnk"  href="/armonia/arm1#aco-rel" >acorde relativo</a>) la convierten al mixolidio desde el punto de vista modal, tal como se explica en <a class="lnk"  href="/armonia/arm3#otrosnombres">Otros Nombres de los Acordes Prestados</a>
 
 
 
@@ -1705,7 +1704,7 @@ El próximo ejemplo también incluye un F#-D justo entre estrofa y estribillo pe
 
 <a class="anchor" id="temblor"></a>
 
-La misma banda en su Album anterior incluía un hit qué además de una Resolución Descepcionante inversa (es decir desde una clave menor Am hacia su <a class="lnk"  href="/category/módulos-técnicos#claves-relativas" >clave relativa mayor</a> C) 2 acordes despues pasa de C a C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> dada la inclusón de <a class="rojo">Gm</a>.
+La misma banda en su Album anterior incluía un hit qué además de una Resolución Descepcionante inversa (es decir desde una clave menor Am hacia su <a class="lnk"  href="/armonia/arm1#claves-relativas" >clave relativa mayor</a> C) 2 acordes despues pasa de C a C <a class="lnk"  href="/armonia/arm3#otrosnombres">Mixolidio</a> dada la inclusón de <a class="rojo">Gm</a>.
 
 Notese qué en este caso la Resolución Descepcionante se da sin dominan  te previo, sino qué resulta de qué la misma progresión qué se repitio 2 veces identica sorpresivamente en vez resolver en Am resuelve en C:
 
@@ -1742,7 +1741,7 @@ Notese qué en este caso la Resolución Descepcionante se da sin dominan  te pre
 &nbsp;la 2da y 3era repetición funciona como dominate-pivot a la clave
 &nbsp;de Em (puente) y F a su vez asume el papel de <a class="lnk"  href="/armonia/arm3#napolitanos">acorde napolitano</a> 
 &nbsp;respecto a esa nueva clave con una ortodoxa F-B7-Em identica a
-&nbsp;la qué se da en <a class="lnk"  href="/category/módulos-técnicos#tuyo">Tuyo siempre</a> en esa misma clave de Em.
+&nbsp;la qué se da en <a class="lnk"  href="/armonia/arm1#tuyo">Tuyo siempre</a> en esa misma clave de Em.
 </code>
 
 
@@ -1844,7 +1843,7 @@ Por otro lado I-V-IV-I y la *doble plagal* son análogas es decir estan hechas d
 
 Un ejemplo interesante para ver ambas progresiones en una misma clave es  es <a class="lnk"  href="/armonia/arm3#fortunateson" >Fortunate Son</a> qué riempre en la misma clave de G base su estrofa inicial en una doble plagal (G-<span class="rojo">F</span>-C-G) pero la estrofa es I-V-IV-I (G-D-C-G).
 
-Por su parte<a class="lnk"  href="/armonia/arm3#triplep" >Jumping Jack Flash</a> comienza repitiendo 3 veces la progresión B-E-<a class="rojo">A</a>-B (I-IV-<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-I) para revertir luego la <a class="lnk"  href="/category/módulos-técnicos#dir-quint" >dirección de las quintas</a> con la progresión B-<a class="rojo">A</a>-E-B (I-<a class="lnk"  href="#prestados">bVII</a>-IV-I) osea la <a class="lnk"  href="/armonia/arm3#doblep" >doble pagal</a>.
+Por su parte<a class="lnk"  href="/armonia/arm3#triplep" >Jumping Jack Flash</a> comienza repitiendo 3 veces la progresión B-E-<a class="rojo">A</a>-B (I-IV-<a class="lnk"  href="/armonia/arm3#prestados">bVII</a>-I) para revertir luego la <a class="lnk"  href="/armonia/arm1#dir-quint" >dirección de las quintas</a> con la progresión B-<a class="rojo">A</a>-E-B (I-<a class="lnk"  href="#prestados">bVII</a>-IV-I) osea la <a class="lnk"  href="/armonia/arm3#doblep" >doble pagal</a>.
 
 
 <a class="anchor" id="pasosalcostado"></a>
