@@ -1101,7 +1101,7 @@ Podemos ver un uso similar de la progresión <a class="lnk"  href="#sen-ton" >ii
 
 
 
-Por otro lado este truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, los Cadillacs también lo usaron en el estribillo de <a class="lnk"  href="/armonia/arm2#demasiada" >demasiada Presión</a> como podemos ver con el link. 
+Por otro lado este truco de "esconder" la <a target="_blank" href="https://es.wikipedia.org/wiki/T%C3%B3nica_(m%C3%BAsica)" >tónica</a>, los Cadillacs también lo usaron en el estribillo de <a class="lnk"  href="/armonia/arm2#demasiada" >Demasiada Presión</a> como podemos ver con el link. 
 
 <a class="anchor" id="todas-sept"></a>
 

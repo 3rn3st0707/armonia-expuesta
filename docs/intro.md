@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-#  Introducción
+#  Introducción 0
 
 <hr />
 
@@ -118,7 +118,7 @@ También notarán qué aquí no se incluye la canción completa sino un fragment
 Este formato es en general el elegido (con pocas excepciones) para maximizar las posibilidades de interlinkear y comparar los mismos recursos armónicos en diferentes canciones para entrenar al lector en pensar los acordes en términos de <a href="https://es.wikipedia.org/wiki/Grado_musical" target="_blank">grados musicales</a> o números romanos en vez de "nombres propios" y lograr de está forma identificar similitudes y patrones comunes aún en canciones qué no se encuentran en la misma <a class="lnk"  href="/armonia/arm1#laclave">clave</a>.
 
 
-Es por eso qué en la <a class="lnk"  href="/category/armonia-expuesta#índice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
+Es por eso qué en la <a class="lnk"  href="#índice-alfabetico-de-ejemplos">lista de ejemplos</a> varias canciones aparecen 2 veces : <a class="lnk"  href="/armonia/arm3#aday1" >A Day In The Life 1</a> y <a class="lnk"  href="/armonia/arm3#aday" >A Day In The Life 2</a>, <a class="lnk"  href="/armonia/arm2#ififellintro" >If I Fell 1</a> y <a class="lnk"  href="/armonia/arm2#ififellpuente" >If I Fell 2</a>, <a class="lnk"  href="/armonia/arm3#lawoman1" >LA Woman 1</a> y <a class="lnk"  href="/armonia/arm3#lawoman2" >LA Woman 2</a> etc, etc.
 
 
 
@@ -313,9 +313,9 @@ El siguiente ejemplo es una práctica forma de graficar la *"estructura profunda
 <a class="lnk"  href="/armonia/arm3#crybabycry" >Cry Baby Cry</a><br />
 <a class="lnk"  href="/armonia/arm1#temblor" >Cuándo Pase El Temblor</a><br />
 <a class="lnk"  href="/armonia/arm2#daytripper" >Day Tripper</a><br />
-<a class="lnk"  href="/category/arm3#dear1" >Dear Prudence 1</a><br />
-<a class="lnk"  href="/category/arm2#dear2" >Dear Prudence 2</a><br />
-<a class="lnk"  href="/armonia/arm2#demasiada" >demasiada Presión</a><br />
+<a class="lnk"  href="/armonia/arm2#dear1" >Dear Prudence 1</a><br />
+<a class="lnk"  href="/armonia/arm3#dear2" >Dear Prudence 2</a><br />
+<a class="lnk"  href="/armonia/arm2#demasiada" >Demasiada Presión</a><br />
 <a class="lnk"  href="/armonia/arm3#digapony" >Dig A Pony</a><br />
 <a class="lnk"  href="/armonia/arm3#divididos" >Divididos Por La Felicidad</a><br />
 <a class="lnk"  href="/armonia/arm3#knowasecret" >Do You Want To Know A Secret</a><br />
