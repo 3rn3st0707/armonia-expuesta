@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-#  Introducción 0
+#  Introducción
 
 <hr />
 
