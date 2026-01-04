@@ -1,9 +1,3 @@
-# Bien venido a la documentación de Armonía Expuesta
+# Armonía Expuesta
 
-sitio web: https://armonia-expuesta.netlify.app/
-
-### Installation
-
-```
-$ yarn
-```
+Esta es la repo del sitio educativo https://armonia-expuesta.netlify.app
