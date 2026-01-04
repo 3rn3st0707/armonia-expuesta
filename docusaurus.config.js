@@ -23,23 +23,13 @@ const config = {
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'es', // Spanish as the default
-    locales: ['es', 'en'], // Add English
-    localeConfigs: {
-      es: { label: 'Español' },
-      en: { label: 'English' },
-    },
-  },
 
- 
+
+
   plugins: [
 
     [
-  
+
       '@docusaurus/plugin-content-blog',
       {
         /**
@@ -61,11 +51,11 @@ const config = {
         blogSidebarCount: 'ALL',
       },
 
-      
+
     ],
 
 
- 
+
   ],
 
 
@@ -79,6 +69,11 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           breadcrumbs: false,
           routeBasePath: '/'
+        },
+
+        gtag: {
+          trackingID: 'G-8P3WMTND89', // Replace with your Measurement ID
+          anonymizeIP: true, // Optional: anonymize IP addresses for privacy
         },
 
 
@@ -122,51 +117,43 @@ const config = {
       navbar: {
         title: 'Armonia Expuesta',
 
-
-
-
         items: [
 
-
-                  /*
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: 'Chord',
+            to: '/donaciones', // Link to your custom page URL path
+            label: 'Donaciones', // The text displayed in the navbar
+            position: 'right', // Position on the left or right of the navbar
           },
 
-          {to: '/textos/guerra', label: 'Más Textos', position: 'right'},
+          {
+            label: 'PDF', // The name to be shown
+            href: 'https://ernestory8.gumroad.com/l/jtywjl', // The full external URL
+            position: 'right', // Position on the navbar
+          },
 
-                   */
+          {
+            to: '/APP', // Link to your custom page URL path
+            label: 'APP', // The text displayed in the navbar
+            position: 'right', // Position on the left or right of the navbar
+          },
 
+          {
+            label: 'Telegram', // The name to be shown
+            href: 'https://t.me/+z8CqgSWodZllN2I5', // The full external URL
+            position: 'right', // Position on the navbar
+          },
 
-
-          
-          
 
         ],
-
 
       },
       footer: {
         style: 'dark',
         links: [
 
- 
-          {
 
-            items: [
-
-              {
-                html: `
-
-                `,
-              },
-            ],
-          },          
         ],
-        
+
       },
       prism: {
         theme: lightCodeTheme,

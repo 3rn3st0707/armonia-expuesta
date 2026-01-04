@@ -27,7 +27,7 @@ Por tener ese parentesco tan cercano de ser IV de la original, la nueva clave de
 
 
 
-esta claro que<a class="lnk"  href="/armonia/arm1#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> como haciamos en las claves menores en (caso de la modulación entre <a class="lnk"  href="/armonia/arm1#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/armonia/arm1#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde qué resulte ser <a class="lnk"  href="/armonia/arm1#sen-ton" >el dominante</a> de la nueva clave. 
+Esta claro que <a class="lnk"  href="/armonia/arm1#artif-scala-menor" >convertir un dominante (V) de acorde menor en mayor</a> como haciamos en las claves menores en (caso de la modulación entre <a class="lnk"  href="/armonia/arm1#claves-relativas" >claves relativas</a>), aquí no se podría porque el <a class="lnk"  href="/armonia/arm1#sen-ton" >dominante</a> ya es mayor, pero si se le puede agregar una séptima menor al acorde qué resulte ser <a class="lnk"  href="/armonia/arm1#sen-ton" >el dominante</a> de la nueva clave. 
 
 
 
@@ -1682,7 +1682,7 @@ Pero ya en <a class="lnk"  href="/armonia/arm1#laclave" >clave</a> de E se da un
 </code>
 
 
-El estribillo es una <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> qué funciona como una prolongación de la resolución plagal previa (A-E) ósea IV-I, pero además como una referencia al <a class="lnk"  href="">modo paralelo</a>, dado qué el intro usa el prestado <a class="lnk"  href="/armonia/arm3#biii">bIII</a> (G) mientras qué el estribillo usa el prestado <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> (D). En las notas a <a class="lnk"  href="#lawoman2" >LA Woman</a> podremos encontrar varios ejemplos de esa "referencia".
+El estribillo es una <a class="lnk"  href="/armonia/arm3#doblep">doble plagal</a> qué funciona como una prolongación de la resolución plagal previa (A-E) ósea IV-I, pero además como una referencia al <a class="lnk"  href="">modo paralelo</a>, dado qué el intro usa el prestado <a class="lnk"  href="/armonia/arm3#biii">bIII</a> (G) mientras qué el estribillo usa el prestado <a class="lnk"  href="/armonia/arm3#prestados">bVII</a> (D). En las notas a <a class="lnk"  href="#lawoman2" >LA Woman</a> podremos encontrar varios ejemplos de esa referencia.
 
 
 <a class="anchor" id="zoom"></a>

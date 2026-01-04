@@ -9,7 +9,7 @@ slug: /
 
 ## ¿Por qué la Armonía?
 
-Usualmente se dice qué los elementos musicales son melodía, armonia y ritmo. Pero mientras qué los conceptos de melodía y ritmo son relativamente intuitivos y fáciles de entender, la armonía, un concepto de por sí más complejo, permanece incomprendido y subestimado no sólo por el público general sino de hecho por una gran mayoría de músicos, si no es qué la mayoría de ellos.
+Usualmente se dice qué los elementos musicales son melodía, armonia y ritmo. Pero mientras qué los conceptos de melodía y ritmo son relativamente intuitivos y fáciles de entender, la armonía, un concepto de por sí más complejo, permanece incomprendido y subestimado no sólo por el público general sino de hecho por muchos músicos, si no es qué la mayoría de ellos.
 
 La [Ley de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto) indica qué a menudo *"un 80% de los efectos está producido por un 20% de las causas"* y mientras en este caso no podría indicar cuál es exactamente la proporción, si puedo afirmar con total seguridad de qué la importancia de la armonía es desproporcionada respecto a la poca atención qué recibe y a los pocos músicos qué realmente entienden y dominan la armonía.
 
@@ -22,7 +22,7 @@ Es por eso qué la proveen más importante en el estudio de la armonía es el ac
 
 Veamos ahora un primer ejemplo de Armonía en acción:
 
-## ¿que es la Armonía?
+## ¿Que es la Armonía?
 
 El concepto de armonía permanece elusivo para muchos. La verdad es qué es difícil entenderlo sin ser músico, pero a grandes rasgos podemos decir qué mientras a un nivel superficial tendemos a creer qué es la melodía lo qué genera la textura músical qué estamos escuchando, en realidad se trata de la interacción entre melodía (diferentes <a class="lnk"  href="/armonia/arm1#fundamentos" >intervalos</a> tocados en sucesión) y los acordes (diferentes <a class="lnk"  href="/armonia/arm1#fundamentos">intervalos</a> tocados simultaneamente) y a esto es lo qué generalmente se llama Armonía.
 

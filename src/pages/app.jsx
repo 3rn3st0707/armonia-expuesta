@@ -184,12 +184,13 @@ const TextHighlighter = () => {
 
   return (
     <Layout title="Coloreador Sintáctico" description="Coloreador Sintáctico">
-      <div id="artHighLocal">
+      <div style={{ marginLeft: "auto", marginRight: "auto" }}>
         <article>
           <h1>Coloreador Sintáctico para Tablaturas</h1>
 
           <div className="textarea-container">
             <textarea
+             style={{ marginLeft: "3em"}}
               value={text}
               onChange={handleChange}
               placeholder="Pegue o escriba una tabaltura aquí"
@@ -205,7 +206,7 @@ const TextHighlighter = () => {
             </button>
           </div>
 
-          <h3>Seleccione una clave. Clave Actual: {varClave}</h3>
+          <h3 style={{ textAlign: "center"}} >Seleccione una clave. Clave Actual: {varClave}</h3>
           <div className="navbarButtons">
             <button onClick={() => handleClick('C')}>DO (C)</button>
             <button onClick={() => handleClick('C#')}>DO# (C#)</button>
